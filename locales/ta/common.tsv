@@ -9,7 +9,7 @@
 #
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
-# consulted or copied; add entries the same way. தமிழ் வாழ்க.
+# consulted or copied; add entries the same way.
 
 	% of all commits	அனைத்து கமிட்களிலும் %
 	(Custom)	(தனிப்பயன்)
@@ -34,7 +34,7 @@
 	Adaptive	தகவமைவு
 	Add	சேர்
 	Add a comment	கருத்தைச் சேர்
-	Add Guide	வழிகாட்டியைச் சேர்
+	Add Guide	வழிகாட்டி கோட்டைச் சேர்
 	Add to Dictionary	அகராதியில் சேர்
 	Add to favorites	பிடித்தவற்றில் சேர்
 	Add to Swatches	வண்ண மாதிரிகளில் சேர்
@@ -194,7 +194,7 @@ theme	Appearance	தோற்றப்பாணி
 	Classic	பாரம்பரிய
 	Clear	அழி
 	Clear All	அனைத்தையும் அழி
-	Clear Guides	வழிகாட்டிகளை அழி
+	Clear Guides	வழிகாட்டி கோடுகளை அழி
 	Clear History	வரலாற்றை அழி
 	Clear Recent Files	சமீபத்திய கோப்புகளை அழி
 	Clipboard	கிளிப்போர்டு
@@ -524,7 +524,7 @@ theme	Appearance	தோற்றப்பாணி
 	Group with	இத்துடன் குழுவாக்கு
 	Groups	குழுக்கள்
 	Grout Width	சாந்து அகலம்
-	Guides	அளவுகோட்டு வரிகள்
+	Guides	வழிகாட்டி கோடுகள்
 	Halftone Pattern	அரைவண்ணக் கோலம்
 	Hand	கை
 	Hand Tool	கைக் கருவி
@@ -681,7 +681,7 @@ theme	Appearance	தோற்றப்பாணி
 	Location	இடம்
 	Location:	இடம்:
 	Lock	நிலைநிறுத்து
-	Lock Guides	அளவுகோட்டு வரிகளை நிலைநிறுத்து
+	Lock Guides	வழிகாட்டி கோடுகளை நிலைநிறுத்து
 	Lock Slices	துண்டுகளை நிலைநிறுத்து
 	Locked	நிலைநிறுத்தப்பட்டது
 	Long Lines	நீண்ட கோடுகள்
@@ -756,7 +756,7 @@ theme	Appearance	தோற்றப்பாணி
 	New document	புதிய ஆவணம்
 	New from Template	வார்ப்புருவிலிருந்து புதியது
 	New Group	புதிய குழு
-	New Guide	புதிய அளவுகோட்டு வரி
+	New Guide	புதிய வழிகாட்டி கோடு
 	New Layer	புதிய அடுக்கு
 	New Layer…	புதிய அடுக்கு…
 	New Style…	புதிய பாணி…
@@ -1036,7 +1036,7 @@ theme	Appearance	தோற்றப்பாணி
 	Send Backward	பின்னே அனுப்பு
 	Send to Back	பின்னணிக்கு அனுப்பு
 	Sensitivity	உணர்திறன்
-	Sent to {printer}	{அச்சுப்பொறி}-க்கு அனுப்பப்பட்டது
+	Sent to {printer}	{printer}-க்கு அனுப்பப்பட்டது
 	Services	சேவைகள்
 	Set	அமை
 	Set as Default	இயல்புநிலையாக அமை
@@ -1061,7 +1061,7 @@ theme	Appearance	தோற்றப்பாணி
 	Show	காட்டு
 	Show All	அனைத்தையும் காட்டு
 	Show Grid	கட்டத்தைக் காட்டு
-	Show Guides	அளவுகோட்டு வரிகளை காட்டு
+	Show Guides	வழிகாட்டி கோடுகளை காட்டு
 	Show in Folder	கோப்புறையில் காட்டு
 	Show Mask	மறைப்பைக் காட்டு
 	Show Mesh	வலைப்பின்னலைக் காட்டு
@@ -1084,7 +1084,7 @@ theme	Appearance	தோற்றப்பாணி
 	Small Caps	சிறு பெரிய எழுத்துகள்
 	Smart Blur	திறன்மிகு மங்கல்
 	Smart Blur…	திறன்மிகு மங்கல்…
-	Smart Guides	திறன்மிகு வரிகள்
+	Smart Guides	திறன்மிகு வழிகாட்டி கோடுகள்
 	Smart quotes	திறன்மிகு மேற்கோள்குறிகள்
 	Smoothness	மென்மை
 	Snap to Grid	கட்டத்துடன் பொருத்து
@@ -1212,7 +1212,7 @@ theme	Appearance	தோற்றப்பாணி
 	Typing	தட்டச்சு
 	Underline	அடிக்கோடு
 	Undo	செயல்தவிர்
-	Undo {action}	செயல்தவிர்: {செயல்}
+	Undo {action}	செயல்தவிர்: {action}
 	Ungroup	குழுவைப் பிரி
 	Uniform	சீரான
 	Union	ஒன்றிணைப்பு

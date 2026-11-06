@@ -11,9 +11,7 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-	Cancel	ரத்து
-	OK	சரி
-	or [	அல்லது [
+	 or [	 அல்லது [
 	* Wildcard Match	* பதிலிக்குறி பொருத்தம்
 	*VARIES*	*மாறுபடும்*
 	+  |  Top  |  2D Wireframe	+  |  மேல்  |  2D கம்பிச்சட்டம்
@@ -24,7 +22,7 @@
 	2 Viewports	2 காட்சிப்புலங்கள்
 	2D Solid	2D திண்மம்
 	3 Points	3 புள்ளிகள்
-	3 Viewports	3 காட்சிச்சாளரங்கள்
+	3 Viewports	3 காட்சிப்புலங்கள்
 	3D Face	3D முகம்
 	3D Mouse	முப்பரிமாணச் சுட்டி
 	3D mouse busy, possibly 3DxWare or missing device permissions	முப்பரிமாணச் சுட்டி பயன்பாட்டில் உள்ளது; 3DxWare காரணமாகவோ சாதன அனுமதிகள் இல்லாததாலோ இருக்கலாம்
@@ -85,7 +83,6 @@
 	B	த
 	Backup copy	காப்புப் பிரதி
 	Base	அடிப்படை
-	Baseline	அடிப்படைக்கோடு
 	Batch Publish	தொகுதியாக வெளியிடு
 	Batch Publish...	தொகுதியாக வெளியிடு...
 	Bind	பிணை
@@ -129,7 +126,6 @@
 	Changes apply at once and are kept for next time.	மாற்றங்கள் உடனே செயல்படுத்தப்பட்டு அடுத்த முறைக்காகச் சேமிக்கப்படும்.
 	Check for Updates…	புதுப்பிப்புகளைச் சரிபார்…
 	Circumference	சுற்றளவு
-	Clear	அழி
 	Clear Command History	கட்டளை வரலாற்றை அழி
 	Clip	கத்தரி
 	Clip Viewport	காட்சிப்புலத்தைக் கத்தரி
@@ -182,7 +178,6 @@
 	Current Scale Only	தற்போதைய அளவுகோல் மட்டும்
 	Current selection	தற்போதைய தேர்வு
 	Current: {color}	தற்போதையது: {color}
-	Custom	தனிப்பயன்
 	Cut with Base Point	அடிப்புள்ளியுடன் வெட்டு
 	Cylinder	உருளை
 	Data Extraction...	தரவு பிரித்தெடுப்பு...
@@ -230,7 +225,6 @@
 	Drafting	வரைவு
 	Drafting Settings	வரைவு அமைப்புகள்
 	Drafting Settings...	வரைவு அமைப்புகள்...
-	Draw	வரை
 	Draw Order	வரைவு வரிசை
 	Drawing (DWG)	வரைபடம் (DWG)
 	Drawing (DXF)	வரைபடம் (DXF)
@@ -244,7 +238,6 @@
 	DWG	DWG
 	DWG Reference...	DWG குறிப்பீடு...
 	DXF	DXF
-	Dynamic	இயங்குநிலை
 	Dynamic Dimensions	இயங்குநிலைப் பரிமாணங்கள்
 	Dynamic Input	இயங்குநிலை உள்ளீடு
 	Dynamic Input (F12)	இயங்குநிலை உள்ளீடு (F12)
@@ -262,7 +255,6 @@
 	End Width	முடிவு அகலம்
 	End X	முடிவு X
 	End Y	முடிவு Y
-	Endpoint	முனைப்புள்ளி
 	Enter	Enter
 	Enter a fit data option	பொருத்தத் தரவு விருப்பத்தை உள்ளிடவும்
 	Enter a pattern name	மாதிரிப் பெயரை உள்ளிடவும்
@@ -486,7 +478,6 @@
 	Model Space (in viewport)	மாதிரி வெளி (காட்சிப்புலத்தில்)
 	Modeling	மாதிரியாக்கம்
 	More toolbar commands	மேலும் கருவிப்பட்டைக் கட்டளைகள்
-	Move	நகர்த்து
 	Move sideways to pan; push/pull or twist to zoom.	காட்சியை நகர்த்த பக்கவாட்டில் நகர்த்தவும்; பெரிதாக்க/சிறிதாக்க தள்ளவும்/இழுக்கவும் அல்லது முறுக்கவும்.
 	MText	பல்வரி உரை
 	Multileader	பல குறிப்புக்கோடு
@@ -518,14 +509,13 @@
 	New STB	புதிய STB
 	New style	புதிய பாணி
 	New Viewports...	புதிய காட்சிப்புலங்கள்...
-	New VP Freeze	புதிய காட்சிச்சாளரங்களில் உறைவு
+	New VP Freeze	புதிய காட்சிப்புலங்களில் உறைவு
 	No blocks defined in this drawing.	இந்த வரைபடத்தில் தொகுதிகள் எதுவும் வரையறுக்கப்படவில்லை.
 	No contributor data was built into this copy.	இந்த நகலில் பங்களிப்பாளர் தரவு உள்ளடக்கப்படவில்லை.
 	No external references are attached.	வெளிப்புறக் குறிப்பீடுகள் எதுவும் இணைக்கப்படவில்லை.
 	No model credits were built into this copy.	இந்த நகலில் மாதிரி நன்றியுரைகள் உள்ளடக்கப்படவில்லை.
 	No plot style tables.	வரைவு அச்சுப் பாணி அட்டவணைகள் இல்லை.
 	No saved layer states	சேமிக்கப்பட்ட அடுக்கு நிலைகள் இல்லை
-	No selection	தேர்வு இல்லை
 	No supported 3D mouse found	ஆதரிக்கப்படும் முப்பரிமாணச் சுட்டி கிடைக்கவில்லை
 	Node	கணு
 	Not a number or distance: {text}	எண்ணோ தொலைவோ அல்ல: {text}
@@ -668,7 +658,6 @@
 	Relative	சார்புடையவை
 	Relative to last segment	கடைசித் துண்டுடன் ஒப்பிட்டு
 	Release the 3D mouse to calibrate its resting position	ஓய்வு நிலையை அளவுத்திருத்த முப்பரிமாணச் சுட்டியை விடுவிக்கவும்
-	Reload	மீண்டும் ஏற்று
 	Reload All	அனைத்தையும் மீண்டும் ஏற்று
 	Remove Leader	குறிப்புக்கோட்டை நீக்கு
 	Remove the viewport override	காட்சிப்புல மேலெழுதலை நீக்கு
@@ -680,7 +669,6 @@
 	Rename Text Style	உரைப் பாணியின் பெயரை மாற்று
 	Rename...	பெயர் மாற்று...
 	Repeat {command}	{command} ஐ மீண்டும் செய்
-	Replace	மாற்று
 	Replace All	அனைத்தையும் மாற்று
 	Replace Block...	தொகுதியை மாற்று...
 	Replace with:	மாற்றுவது:
@@ -695,7 +683,6 @@
 	Reverse zoom direction	பெரிதாக்கும் திசையைத் தலைகீழாக்கு
 	Revision Cloud	திருத்த மேகம்
 	Revolve	சுழற்றி உருவாக்கு
-	Rotation	சுழற்சி
 	S	தெ
 	Save (⌘S)	சேமி (⌘S)
 	Save As...	இவ்வாறு சேமி...
@@ -792,7 +779,6 @@
 	Set Variable	மாறியை அமை
 	Set View	காட்சியை அமை
 	Settings...	அமைப்புகள்...
-	Shape	வடிவம்
 	Show All Constraint Bars	அனைத்துக் கட்டுப்பாட்டுப் பட்டைகளையும் காண்பி
 	Show All Dynamic Dimensions	அனைத்து இயங்குநிலைப் பரிமாணங்களையும் காண்பி
 	Show and hide the tools of this category	இந்தப் பிரிவின் கருவிகளைக் காண்பி அல்லது மறை
@@ -960,7 +946,6 @@
 	Start, End, Radius	தொடக்கம், முடிவு, ஆரம்
 	Stretch Vertex	உச்சியை இழு
 	Style: Standard	பாணி: Standard
-	Subtract	கழி
 	SVG drawings (SVG, SVGZ)	SVG வரைபடங்கள் (SVG, SVGZ)
 	Sweep	பாதைவழி உருவாக்கு
 	Switch between model space in a viewport and paper space	காட்சிப்புலத்திலுள்ள மாதிரி வெளிக்கும் தாள் வெளிக்கும் இடையே மாறு
@@ -973,7 +958,6 @@
 	Table Cell Style	அட்டவணைக் கலப் பாணி
 	Table Style...	அட்டவணைப் பாணி...
 	Table...	அட்டவணை...
-	Tables	அட்டவணைகள்
 	Tan, Tan, Radius	தொடு, தொடு, ஆரம்
 	Tan, Tan, Tan	தொடு, தொடு, தொடு
 	Tangent	தொடுகோடு
@@ -990,10 +974,7 @@
 	Thaw Layer	அடுக்கை உருக்கு
 	The aperture is how near the cursor must come to a point for an object snap to find it.	பொருள் ஈர்ப்பு ஒரு புள்ளியைக் கண்டறிய, சுட்டி அந்தப் புள்ளிக்கு எவ்வளவு அருகில் வர வேண்டும் என்பதை வீச்சு தீர்மானிக்கிறது.
 	There is nothing here yet.	இங்கு இன்னும் எதுவும் இல்லை.
-	Thickness	தடிமன்
-	Time	நேரம்
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	நேரம் சார்ந்த வலது சொடுக்கு: விரைவான சொடுக்கு Enter ஆகும்; பிடித்திருந்தால் பட்டி திறக்கும்
-	To	வரை
 	To get started, create or open a drawing.	தொடங்க, ஒரு வரைபடத்தை உருவாக்கவும் அல்லது திறக்கவும்.
 	Toggle PICKADD (off: each pick replaces the selection)	தேர்ந்தெடு சேர்க்கையை மாற்று (நிறுத்தம்: ஒவ்வொரு தேர்வும் தேர்வை மாற்றியமைக்கும்)
 	Toggle PICKADD (on: picks add to the selection)	தேர்ந்தெடு சேர்க்கையை மாற்று (இயக்கம்: தேர்வுகள் தேர்வில் சேரும்)
@@ -1015,7 +996,7 @@
 	Type a command	ஒரு கட்டளையைத் தட்டச்சு செய்யவும்
 	Type text; Enter starts a new paragraph	உரையைத் தட்டச்சு செய்யவும்; Enter புதிய பத்தியைத் தொடங்கும்
 	UCS Icon	UCS சின்னம்
-	Undo (⌘Z)	செயல்நீக்கு (⌘Z)
+	Undo (⌘Z)	செயல்தவிர் (⌘Z)
 	Unisolate Layer	அடுக்குத் தனிமைப்படுத்தலை நீக்கு
 	Units Conversion	அலகு மாற்றம்
 	Units...	அலகுகள்...
@@ -1043,7 +1024,7 @@
 	VerticalDistance	செங்குத்துத் தொலைவு
 	ViewCube	காட்சிக் கனசதுரம்
 	Viewport	காட்சிப்புலம்
-	Viewport is locked	காட்சிப்புலம் பூட்டப்பட்டுள்ளது
+	Viewport is locked	காட்சிப்புலம் நிலைநிறுத்தப்பட்டுள்ளது
 	Viewport Layer Freeze	காட்சிப்புல அடுக்கு உறைவு
 	Viewport Properties	காட்சிப்புலப் பண்புகள்
 	Viewport scale	காட்சிப்புல அளவுகோல்

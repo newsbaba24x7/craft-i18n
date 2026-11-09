@@ -212,6 +212,9 @@ msgstr "Terapkan set data"
 msgid "Apply to:"
 msgstr ""
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Busur"
 
@@ -259,6 +262,9 @@ msgstr "Tetapkan profil…"
 
 msgid "Audio"
 msgstr "Audio"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Penulis"
@@ -1024,6 +1030,9 @@ msgstr "Tambatkan panel"
 msgid "Document"
 msgstr "Dokumen"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr ""
 
@@ -1156,6 +1165,9 @@ msgstr "Tanda pisah em"
 msgid "Em Space"
 msgstr "Spasi em"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Sematkan"
 
@@ -1272,6 +1284,9 @@ msgstr "Favorit"
 
 msgid "Feather"
 msgstr "Feather"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr ""
@@ -1762,6 +1777,9 @@ msgstr "Italia"
 msgid "Italic"
 msgstr "Miring"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Jepang"
 
@@ -1779,6 +1797,12 @@ msgstr "Gabung ke Discord ArtCraft…"
 
 msgid "Join us on Discord"
 msgstr "Bergabunglah dengan kami di Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "baru saja"
@@ -2053,6 +2077,9 @@ msgstr "Alat tongkat ajaib"
 msgid "Magnification"
 msgstr "Pembesaran"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr ""
 
@@ -2070,6 +2097,9 @@ msgstr "Maksimalkan"
 
 msgid "Maximum"
 msgstr "Maksimum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Pengukur"
@@ -2338,6 +2368,9 @@ msgstr "Normal"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "Warna NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "Objek"
 
 msgid "Octagon"
 msgstr "Segi Delapan"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Bidang ganjil"
@@ -2458,6 +2494,21 @@ msgstr "Paketkan…"
 msgid "Page"
 msgstr "Halaman"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Halaman {page} dari {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr ""
 
 msgid "Perspective"
 msgstr "Perspektif"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Foto"
@@ -2836,6 +2890,9 @@ msgstr "Hapus Background"
 msgid "Remove from favorites"
 msgstr "Hapus dari favorit"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Ganti Nama"
 
@@ -3084,6 +3141,9 @@ msgstr "Sensitivitas"
 
 msgid "Sent to {printer}"
 msgstr "Dikirim ke {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Layanan"

@@ -212,6 +212,9 @@ msgstr "Bruk datasett"
 msgid "Apply to:"
 msgstr "Bruk på:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Bue"
 
@@ -259,6 +262,9 @@ msgstr "Tilordne profil…"
 
 msgid "Audio"
 msgstr "Lyd"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Forfatter"
@@ -1024,6 +1030,9 @@ msgstr "Fest panelet"
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Dokumenttittel"
 
@@ -1156,6 +1165,9 @@ msgstr "Lang tankestrek"
 msgid "Em Space"
 msgstr "Em-mellomrom"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Bygg inn"
 
@@ -1272,6 +1284,9 @@ msgstr "Favoritter"
 
 msgid "Feather"
 msgstr "Myk kant"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Felt"
@@ -1762,6 +1777,9 @@ msgstr "Italiensk"
 msgid "Italic"
 msgstr "Kursiv"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japansk"
 
@@ -1779,6 +1797,12 @@ msgstr "Bli med i ArtCrafts Discord…"
 
 msgid "Join us on Discord"
 msgstr "Bli med oss på Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "akkurat nå"
@@ -2053,6 +2077,9 @@ msgstr "Tryllestavverktøy"
 msgid "Magnification"
 msgstr "Forstørrelse"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Marger"
 
@@ -2070,6 +2097,9 @@ msgstr "Maksimer"
 
 msgid "Maximum"
 msgstr "Maksimum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Mål"
@@ -2338,6 +2368,9 @@ msgstr "Normal"
 msgid "Not available"
 msgstr "Ikke tilgjengelig"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC-farger"
 
@@ -2349,6 +2382,9 @@ msgstr "Objekt"
 
 msgid "Octagon"
 msgstr "Åttekant"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Oddetallsfelt"
@@ -2458,6 +2494,21 @@ msgstr "Pakk…"
 msgid "Page"
 msgstr "Side"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Side {page} av {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Omkrets"
 
 msgid "Perspective"
 msgstr "Perspektiv"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Foto"
@@ -2836,6 +2890,9 @@ msgstr "Fjern bakgrunnen"
 msgid "Remove from favorites"
 msgstr "Fjern fra favoritter"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Gi nytt navn"
 
@@ -3084,6 +3141,9 @@ msgstr "Følsomhet"
 
 msgid "Sent to {printer}"
 msgstr "Sendt til {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Tjenester"

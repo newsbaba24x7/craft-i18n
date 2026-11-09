@@ -212,6 +212,9 @@ msgstr "Lietot datu kopu"
 msgid "Apply to:"
 msgstr "Lietot:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Loks"
 
@@ -259,6 +262,9 @@ msgstr "Piešķirt profilu…"
 
 msgid "Audio"
 msgstr "Audio"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Autors"
@@ -1024,6 +1030,9 @@ msgstr "Piestiprināt paneli"
 msgid "Document"
 msgstr "Dokuments"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Dokumenta nosaukums"
 
@@ -1156,6 +1165,9 @@ msgstr "Garā domuzīme"
 msgid "Em Space"
 msgstr "Em atstarpe"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Iegult"
 
@@ -1272,6 +1284,9 @@ msgstr "Izlase"
 
 msgid "Feather"
 msgstr "Izpludināt malas"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Lauks"
@@ -1762,6 +1777,9 @@ msgstr "Itāliešu"
 msgid "Italic"
 msgstr "Slīpraksts"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japāņu"
 
@@ -1779,6 +1797,12 @@ msgstr "Pievienojieties ArtCraft Discord…"
 
 msgid "Join us on Discord"
 msgstr "Pievienojieties mums Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "tikko"
@@ -2053,6 +2077,9 @@ msgstr "Burvju nūjiņas rīks"
 msgid "Magnification"
 msgstr "Palielinājums"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Piemales"
 
@@ -2070,6 +2097,9 @@ msgstr "Maksimizēt"
 
 msgid "Maximum"
 msgstr "Maksimums"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Mērīt"
@@ -2338,6 +2368,9 @@ msgstr "Parasts"
 msgid "Not available"
 msgstr "Nav pieejams"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC krāsas"
 
@@ -2349,6 +2382,9 @@ msgstr "Objekts"
 
 msgid "Octagon"
 msgstr "Astoņstūris"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Nepāra lauki"
@@ -2458,6 +2494,21 @@ msgstr "Sagatavot pakotni…"
 msgid "Page"
 msgstr "Lapa"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "{page}. lapa no {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Perimetrs"
 
 msgid "Perspective"
 msgstr "Perspektīva"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Fotoattēls"
@@ -2836,6 +2890,9 @@ msgstr "Noņemt fonu"
 msgid "Remove from favorites"
 msgstr "Noņemt no izlases"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Pārdēvēt"
 
@@ -3084,6 +3141,9 @@ msgstr "Jutīgums"
 
 msgid "Sent to {printer}"
 msgstr "Nosūtīts: {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Pakalpojumi"

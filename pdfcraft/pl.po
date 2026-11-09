@@ -1123,9 +1123,6 @@ msgstr "Właściwe zagnieżdżenie"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr "Zatwierdź podpis na urządzeniu (mSzafir: kod OTT w oknie CloudSignera, zatwierdzenie w aplikacji mSzafir)…"
 
-msgid "April"
-msgstr "Kwiecień"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "kwietnia"
@@ -1249,9 +1246,6 @@ msgstr "Analiza wykorzystania miejsca"
 
 msgid "Audit space usage…"
 msgstr "Analiza wykorzystania miejsca…"
-
-msgid "August"
-msgstr "Sierpień"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Język dokumentu"
 msgid "Document Overhead"
 msgstr "Narzut dokumentu"
 
-msgid "Document Properties"
-msgstr "Właściwości dokumentu"
-
 msgid "Document properties ({key})"
 msgstr "Właściwości dokumentu ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr "Tekst edytowalny"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "Adres e-mail"
 
 msgid "Email Addresses"
 msgstr "Adresy e-mail"
@@ -4199,9 +4187,6 @@ msgstr "Szybka"
 
 msgid "Fast Web View"
 msgstr "Szybki widok w sieci Web"
-
-msgid "February"
-msgstr "Luty"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Jego skrypt odczytuje też pola, których nazwy tworzy w trakcie działa
 msgid "Its security settings don't allow copying pages"
 msgstr "Ustawienia zabezpieczeń nie zezwalają na kopiowanie stron"
 
-msgid "January"
-msgstr "Styczeń"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "stycznia"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Lipiec"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "lipca"
-
-msgid "June"
-msgstr "Czerwiec"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Mapuje na rolę standardową"
 
-msgid "March"
-msgstr "Marzec"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "marca"
@@ -6107,9 +6080,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "maksimum"
-
-msgid "May"
-msgstr "Maj"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Brak operacji do cofnięcia"
 msgid "nothing to undo"
 msgstr "brak operacji do cofnięcia"
 
-msgid "November"
-msgstr "Listopad"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "listopada"
@@ -6963,9 +6930,6 @@ msgstr "OCR zakończony — na tej stronie nie rozpoznano tekstu."
 
 msgid "OCR results rejected."
 msgstr "Odrzucono wyniki OCR."
-
-msgid "October"
-msgstr "Październik"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Informacje o stronie"
 msgid "Page labels"
 msgstr "Etykiety stron"
 
-msgid "Page layout"
-msgstr "Układ stron"
-
 msgid "Page maximum: {n}%"
 msgstr "Maksimum strony: {n}%"
-
-msgid "Page navigation"
-msgstr "Nawigacja po stronach"
-
-msgid "Page number"
-msgstr "Numer strony"
 
 msgid "Page Only"
 msgstr "Tylko strona"
@@ -7441,9 +7396,6 @@ msgstr "Kolejność stron:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Właściwości strony"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7452,9 +7404,6 @@ msgstr "Zakres stron"
 
 msgid "Page Range Options"
 msgstr "Opcje zakresu stron"
-
-msgid "Page size"
-msgstr "Rozmiar strony"
 
 msgid "Page Sizing & Handling"
 msgstr "Rozmiar i układ stron"
@@ -7797,9 +7746,6 @@ msgstr "Dozwolone działania po certyfikacji"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Numer telefonu"
 
 msgid "Phone Numbers"
 msgstr "Numery telefonów"
@@ -8587,9 +8533,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Usuń stronę"
 
 msgid "Remove printer marks"
 msgstr "Usuń znaczniki drukarskie"
@@ -9758,9 +9701,6 @@ msgstr "Sepia"
 
 msgid "Sepia night"
 msgstr "Nocna sepia"
-
-msgid "September"
-msgstr "Wrzesień"
 
 msgctxt "calendar date"
 msgid "September"

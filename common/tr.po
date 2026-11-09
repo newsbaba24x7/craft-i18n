@@ -212,6 +212,9 @@ msgstr "Veri Kümesini Uygula"
 msgid "Apply to:"
 msgstr "Uygula:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Yay"
 
@@ -259,6 +262,9 @@ msgstr "Profil Ata…"
 
 msgid "Audio"
 msgstr "Ses"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Yazar"
@@ -1024,6 +1030,9 @@ msgstr "Bağlantı İstasyonu Paneli"
 msgid "Document"
 msgstr "Belge"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Belge Başlığı"
 
@@ -1156,6 +1165,9 @@ msgstr "Uzun Tire"
 msgid "Em Space"
 msgstr "Em Boşluk"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr ""
 
@@ -1272,6 +1284,9 @@ msgstr ""
 
 msgid "Feather"
 msgstr "Tüy"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Alan"
@@ -1762,6 +1777,9 @@ msgstr "İtalyanca"
 msgid "Italic"
 msgstr "İtalik"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japonca"
 
@@ -1779,6 +1797,12 @@ msgstr "ArtCraft Discord'una katılın…"
 
 msgid "Join us on Discord"
 msgstr "Discord'da bize katılın"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "az önce"
@@ -2053,6 +2077,9 @@ msgstr "Sihirli Değnek Aracı"
 msgid "Magnification"
 msgstr "Yakınlaştırma"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Kenar Boşlukları"
 
@@ -2070,6 +2097,9 @@ msgstr "Büyüt"
 
 msgid "Maximum"
 msgstr "Maksimum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Ölçü"
@@ -2338,6 +2368,9 @@ msgstr "Normal"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC Renkleri"
 
@@ -2349,6 +2382,9 @@ msgstr "Nesne"
 
 msgid "Octagon"
 msgstr "sekizgen"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Tek Alanlar"
@@ -2458,6 +2494,21 @@ msgstr "Paketle…"
 msgid "Page"
 msgstr "Sayfa"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Sayfa {page} / {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Çevre"
 
 msgid "Perspective"
 msgstr "Perspektif"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Fotoğraf"
@@ -2836,6 +2890,9 @@ msgstr "Arka Planı Kaldır"
 msgid "Remove from favorites"
 msgstr "Favorilerden kaldır"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Yeniden adlandır"
 
@@ -3084,6 +3141,9 @@ msgstr "Hassasiyet"
 
 msgid "Sent to {printer}"
 msgstr "{printer} yazıcısına gönderildi"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Hizmetler"

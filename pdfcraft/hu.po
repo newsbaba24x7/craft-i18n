@@ -1123,9 +1123,6 @@ msgstr "Megfelelő egymásba ágyazás"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "április"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "Helyfoglalás vizsgálata"
 
 msgid "Audit space usage…"
 msgstr "Helyfoglalás vizsgálata…"
-
-msgid "August"
-msgstr "augusztus"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Dokumentum nyelve"
 msgid "Document Overhead"
 msgstr "Dokumentum többlet"
 
-msgid "Document Properties"
-msgstr "Dokumentum tulajdonságai"
-
 msgid "Document properties ({key})"
 msgstr "Dokumentum tulajdonságai ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr "Szerkeszthető szöveg"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "E-mail-cím"
 
 msgid "Email Addresses"
 msgstr "E-mail-címek"
@@ -4195,9 +4183,6 @@ msgstr "Gyors"
 
 msgid "Fast Web View"
 msgstr "Gyors webes megjelenítés"
-
-msgid "February"
-msgstr "február"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "A szkriptje olyan mezőket is olvas, amelyek nevét futás közben áll�
 msgid "Its security settings don't allow copying pages"
 msgstr "A biztonsági beállításai nem engedik az oldalak másolását"
 
-msgid "January"
-msgstr "január"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "július"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "június"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Szabványos szerephez rendeli"
 
-msgid "March"
-msgstr "március"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "maximum"
-
-msgid "May"
-msgstr "május"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Nincs mit visszavonni"
 msgid "nothing to undo"
 msgstr "nincs mit visszavonni"
 
-msgid "November"
-msgstr "november"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6959,9 +6926,6 @@ msgstr "Az OCR kész — ezen az oldalon nem ismert fel szöveget."
 
 msgid "OCR results rejected."
 msgstr "Az OCR eredményei elvetve."
-
-msgid "October"
-msgstr "október"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Oldalinformáció"
 msgid "Page labels"
 msgstr "Oldalcímkék"
 
-msgid "Page layout"
-msgstr "Oldalelrendezés"
-
 msgid "Page maximum: {n}%"
 msgstr "Oldal maximuma: {n}%"
-
-msgid "Page navigation"
-msgstr "Oldalnavigáció"
-
-msgid "Page number"
-msgstr "Oldalszám"
 
 msgid "Page Only"
 msgstr "Csak az oldal"
@@ -7437,9 +7392,6 @@ msgstr "Oldalsorrend:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Oldaltulajdonságok"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Oldaltartomány"
 
 msgid "Page Range Options"
 msgstr "Oldaltartomány beállításai"
-
-msgid "Page size"
-msgstr "Oldalméret"
 
 msgid "Page Sizing & Handling"
 msgstr "Oldalméret és kezelés"
@@ -7793,9 +7742,6 @@ msgstr "Engedélyezett műveletek hitelesítés után"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefonszám"
 
 msgid "Phone Numbers"
 msgstr "Telefonszámok"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Oldal eltávolítása"
 
 msgid "Remove printer marks"
 msgstr "Nyomdai jelek eltávolítása"
@@ -9754,9 +9697,6 @@ msgstr "Szépia"
 
 msgid "Sepia night"
 msgstr "Éjszakai szépia"
-
-msgid "September"
-msgstr "szeptember"
 
 msgctxt "calendar date"
 msgid "September"

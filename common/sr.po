@@ -212,6 +212,9 @@ msgstr ""
 msgid "Apply to:"
 msgstr "Примени на:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr ""
 
@@ -258,6 +261,9 @@ msgid "Assign Profile…"
 msgstr ""
 
 msgid "Audio"
+msgstr ""
+
+msgid "August"
 msgstr ""
 
 msgid "Author"
@@ -1024,6 +1030,9 @@ msgstr ""
 msgid "Document"
 msgstr "Документ"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Наслов документа"
 
@@ -1156,6 +1165,9 @@ msgstr "Дуга црта"
 msgid "Em Space"
 msgstr "Em размак"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr ""
 
@@ -1271,6 +1283,9 @@ msgid "Favorites"
 msgstr ""
 
 msgid "Feather"
+msgstr ""
+
+msgid "February"
 msgstr ""
 
 msgid "Field"
@@ -1762,6 +1777,9 @@ msgstr "Италијански"
 msgid "Italic"
 msgstr "Курзив"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Јапански"
 
@@ -1778,6 +1796,12 @@ msgid "Join the ArtCraft Discord…"
 msgstr ""
 
 msgid "Join us on Discord"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
 msgstr ""
 
 msgid "just now"
@@ -2053,6 +2077,9 @@ msgstr ""
 msgid "Magnification"
 msgstr ""
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Маргине"
 
@@ -2069,6 +2096,9 @@ msgid "Maximize"
 msgstr ""
 
 msgid "Maximum"
+msgstr ""
+
+msgid "May"
 msgstr ""
 
 msgid "Measure"
@@ -2338,6 +2368,9 @@ msgstr ""
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr ""
 
@@ -2348,6 +2381,9 @@ msgid "Object"
 msgstr "Објекат"
 
 msgid "Octagon"
+msgstr ""
+
+msgid "October"
 msgstr ""
 
 msgid "Odd Fields"
@@ -2458,6 +2494,21 @@ msgstr ""
 msgid "Page"
 msgstr "Страна"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Страна {page} од {pages}"
 
@@ -2546,6 +2597,9 @@ msgid "Perimeter"
 msgstr ""
 
 msgid "Perspective"
+msgstr ""
+
+msgid "Phone Number"
 msgstr ""
 
 msgid "Photo"
@@ -2836,6 +2890,9 @@ msgstr "Уклони позадину"
 msgid "Remove from favorites"
 msgstr ""
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Преименуј"
 
@@ -3083,6 +3140,9 @@ msgid "Sensitivity"
 msgstr ""
 
 msgid "Sent to {printer}"
+msgstr ""
+
+msgid "September"
 msgstr ""
 
 msgid "Services"

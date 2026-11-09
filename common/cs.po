@@ -212,6 +212,9 @@ msgstr "Použít sadu dat"
 msgid "Apply to:"
 msgstr "Použít na:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Oblouk"
 
@@ -258,6 +261,9 @@ msgid "Assign Profile…"
 msgstr "Přiřadit profil…"
 
 msgid "Audio"
+msgstr ""
+
+msgid "August"
 msgstr ""
 
 msgid "Author"
@@ -1024,6 +1030,9 @@ msgstr "Ukotvit panel"
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Název dokumentu"
 
@@ -1156,6 +1165,9 @@ msgstr "Dlouhá pomlčka"
 msgid "Em Space"
 msgstr "Čtverčíková mezera"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Vložit"
 
@@ -1272,6 +1284,9 @@ msgstr "Oblíbené"
 
 msgid "Feather"
 msgstr "Pírko"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Pole"
@@ -1762,6 +1777,9 @@ msgstr "Italština"
 msgid "Italic"
 msgstr "Kurzíva"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japonština"
 
@@ -1779,6 +1797,12 @@ msgstr "Připojit se k Discordu ArtCraft…"
 
 msgid "Join us on Discord"
 msgstr "Přidejte se k nám na Discordu"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "právě teď"
@@ -2053,6 +2077,9 @@ msgstr "Nástroj Kouzelná hůlka"
 msgid "Magnification"
 msgstr "Zvětšení"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Okraje"
 
@@ -2070,6 +2097,9 @@ msgstr "Maximalizovat"
 
 msgid "Maximum"
 msgstr "Maximální"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Měřítko"
@@ -2338,6 +2368,9 @@ msgstr "Normální"
 msgid "Not available"
 msgstr "Není k dispozici"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "Barvy NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "Objekt"
 
 msgid "Octagon"
 msgstr "Osmiúhelník"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Liché půlsnímky"
@@ -2458,6 +2494,21 @@ msgstr "Sbalit…"
 msgid "Page"
 msgstr "Stránka"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Stránka {page} z {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Obvod"
 
 msgid "Perspective"
 msgstr "Perspektiva"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Fotografie"
@@ -2836,6 +2890,9 @@ msgstr "Odstranit pozadí"
 msgid "Remove from favorites"
 msgstr "Odebrat z oblíbených"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Přejmenovat"
 
@@ -3084,6 +3141,9 @@ msgstr "Citlivost"
 
 msgid "Sent to {printer}"
 msgstr "Odesláno do {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Služby"

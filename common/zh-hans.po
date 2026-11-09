@@ -212,6 +212,9 @@ msgstr "应用数据集"
 msgid "Apply to:"
 msgstr "应用于："
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "弧形"
 
@@ -259,6 +262,9 @@ msgstr "指定配置文件…"
 
 msgid "Audio"
 msgstr "音频"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "作者"
@@ -1024,6 +1030,9 @@ msgstr "停放面板"
 msgid "Document"
 msgstr "文档"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "文档标题"
 
@@ -1156,6 +1165,9 @@ msgstr "长破折号"
 msgid "Em Space"
 msgstr "全角空格"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "嵌入"
 
@@ -1272,6 +1284,9 @@ msgstr "收藏"
 
 msgid "Feather"
 msgstr "羽化"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "字段"
@@ -1762,6 +1777,9 @@ msgstr "意大利语"
 msgid "Italic"
 msgstr "斜体"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "日语"
 
@@ -1779,6 +1797,12 @@ msgstr "加入 ArtCraft Discord…"
 
 msgid "Join us on Discord"
 msgstr "在 Discord 上加入我们"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "刚刚"
@@ -2053,6 +2077,9 @@ msgstr "魔棒工具"
 msgid "Magnification"
 msgstr "放大"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "边距"
 
@@ -2070,6 +2097,9 @@ msgstr "最大化"
 
 msgid "Maximum"
 msgstr "最高"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "度量"
@@ -2338,6 +2368,9 @@ msgstr "正常"
 msgid "Not available"
 msgstr "不可用"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC 颜色"
 
@@ -2349,6 +2382,9 @@ msgstr "对象"
 
 msgid "Octagon"
 msgstr "八边形"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "奇数场"
@@ -2458,6 +2494,21 @@ msgstr "打包…"
 msgid "Page"
 msgstr "页面"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "第 {page} 页，共 {pages} 页"
 
@@ -2547,6 +2598,9 @@ msgstr "周长"
 
 msgid "Perspective"
 msgstr "透视"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "照片"
@@ -2836,6 +2890,9 @@ msgstr "移除背景"
 msgid "Remove from favorites"
 msgstr "从收藏中移除"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "重命名"
 
@@ -3084,6 +3141,9 @@ msgstr "灵敏度"
 
 msgid "Sent to {printer}"
 msgstr "已发送到 {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "服务"

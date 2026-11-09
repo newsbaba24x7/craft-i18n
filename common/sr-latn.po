@@ -212,6 +212,9 @@ msgstr "Primeni skup podataka"
 msgid "Apply to:"
 msgstr "Primeni na:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Luk"
 
@@ -259,6 +262,9 @@ msgstr "Dodeli profil…"
 
 msgid "Audio"
 msgstr "Zvuk"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Autor"
@@ -1024,6 +1030,9 @@ msgstr "Usidri panel"
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Naslov dokumenta"
 
@@ -1156,6 +1165,9 @@ msgstr "Duga crta"
 msgid "Em Space"
 msgstr "Em razmak"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr ""
 
@@ -1272,6 +1284,9 @@ msgstr ""
 
 msgid "Feather"
 msgstr "Omekšavanje ivica"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Polje"
@@ -1762,6 +1777,9 @@ msgstr "Italijanski"
 msgid "Italic"
 msgstr "Kurziv"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japanski"
 
@@ -1779,6 +1797,12 @@ msgstr "Pridružite se ArtCraft Discord zajednici…"
 
 msgid "Join us on Discord"
 msgstr "Pridružite nam se na Discordu"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr ""
@@ -2053,6 +2077,9 @@ msgstr "Alatka čarobni štapić"
 msgid "Magnification"
 msgstr ""
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Margine"
 
@@ -2070,6 +2097,9 @@ msgstr "Uvećaj"
 
 msgid "Maximum"
 msgstr "Maksimum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Meri"
@@ -2338,6 +2368,9 @@ msgstr "Normalno"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC boje"
 
@@ -2349,6 +2382,9 @@ msgstr "Objekat"
 
 msgid "Octagon"
 msgstr "Osmougao"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Neparni poluslikovi"
@@ -2458,6 +2494,21 @@ msgstr "Spakuj…"
 msgid "Page"
 msgstr "Strana"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Strana {page} od {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Obim"
 
 msgid "Perspective"
 msgstr "Perspektiva"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Fotografija"
@@ -2836,6 +2890,9 @@ msgstr "Ukloni pozadinu"
 msgid "Remove from favorites"
 msgstr "Ukloni iz omiljenih"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Preimenuj"
 
@@ -3084,6 +3141,9 @@ msgstr "Osetljivost"
 
 msgid "Sent to {printer}"
 msgstr "Poslato na {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Usluge"

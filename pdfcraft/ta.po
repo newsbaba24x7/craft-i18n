@@ -1123,9 +1123,6 @@ msgstr "சரியான உள்ளமைவு"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "ஏப்ரல்"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "ஏப்ரல்"
@@ -1249,9 +1246,6 @@ msgstr "இட பயன்பாட்டைத் தணிக்கை செ
 
 msgid "Audit space usage…"
 msgstr "இட பயன்பாட்டைத் தணிக்கை செய்…"
-
-msgid "August"
-msgstr "ஆகஸ்ட்"
 
 msgctxt "calendar date"
 msgid "August"
@@ -2982,7 +2976,7 @@ msgid "Deactivate Read Out Loud"
 msgstr ""
 
 msgid "December"
-msgstr "டிசம்பர்"
+msgstr ""
 
 msgctxt "calendar date"
 msgid "December"
@@ -3376,9 +3370,6 @@ msgstr "ஆவண மொழி"
 msgid "Document Overhead"
 msgstr "ஆவணக் கூடுதல் சுமை"
 
-msgid "Document Properties"
-msgstr "ஆவணப் பண்புகள்"
-
 msgid "Document properties ({key})"
 msgstr "ஆவணப் பண்புகள் ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "மின்னஞ்சல் முகவரி"
 
 msgid "Email Addresses"
 msgstr "மின்னஞ்சல் முகவரிகள்"
@@ -4195,9 +4183,6 @@ msgstr "வேகமாக"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "பிப்ரவரி"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "இதன் ஸ்கிரிப்ட் இயங்கும்ப�
 msgid "Its security settings don't allow copying pages"
 msgstr "இதன் பாதுகாப்பு அமைப்புகள் பக்கங்களை நகலெடுக்க அனுமதிக்கவில்லை"
 
-msgid "January"
-msgstr "ஜனவரி"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ஜனவரி"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "ஜூலை"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "ஜூலை"
-
-msgid "June"
-msgstr "ஜூன்"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "மார்ச்"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "மார்ச்"
@@ -6103,9 +6076,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "அதிகபட்சம்"
-
-msgid "May"
-msgstr "மே"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "செயல்தவிர்க்க எதுவுமில்ல�
 msgid "nothing to undo"
 msgstr "செயல்தவிர்க்க எதுவுமில்லை"
 
-msgid "November"
-msgstr "நவம்பர்"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "நவம்பர்"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "அக்டோபர்"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "பக்க குறிப்புகள்"
 
-msgid "Page layout"
-msgstr "பக்கத் தளவமைப்பு"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "பக்க வழிசெலுத்தல்"
-
-msgid "Page number"
-msgstr "பக்க எண்"
 
 msgid "Page Only"
 msgstr "பக்கம் மட்டும்"
@@ -7437,9 +7392,6 @@ msgstr "பக்க வரிசை:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "பக்கப் பண்புகள்"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "பக்க வரம்பு"
 
 msgid "Page Range Options"
 msgstr "பக்க வரம்பு விருப்பங்கள்"
-
-msgid "Page size"
-msgstr "பக்க அளவு"
 
 msgid "Page Sizing & Handling"
 msgstr "பக்க அளவும் கையாளுதலும்"
@@ -7793,9 +7742,6 @@ msgstr "சான்றளித்த பிறகு அனுமதிக்�
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "தொலைபேசி எண்"
 
 msgid "Phone Numbers"
 msgstr "தொலைபேசி எண்கள்"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "பக்கத்தை நீக்கு"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "செப்டம்பர்"
 
 msgctxt "calendar date"
 msgid "September"

@@ -1123,9 +1123,6 @@ msgstr "Σωστή εμφώλευση"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Απρίλιος"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "Απρίλιος"
@@ -1249,9 +1246,6 @@ msgstr "Ανάλυση χρήσης χώρου"
 
 msgid "Audit space usage…"
 msgstr "Έλεγχος χρήσης χώρου…"
-
-msgid "August"
-msgstr "Αύγουστος"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Γλώσσα εγγράφου"
 msgid "Document Overhead"
 msgstr "Επιπλέον δεδομένα εγγράφου"
 
-msgid "Document Properties"
-msgstr "Ιδιότητες εγγράφου"
-
 msgid "Document properties ({key})"
 msgstr "Ιδιότητες εγγράφου ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr "Επεξεργάσιμο κείμενο"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "Διεύθυνση email"
 
 msgid "Email Addresses"
 msgstr "Διευθύνσεις email"
@@ -4195,9 +4183,6 @@ msgstr "Γρήγορη"
 
 msgid "Fast Web View"
 msgstr "Γρήγορη προβολή στο web"
-
-msgid "February"
-msgstr "Φεβρουάριος"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Η δέσμη ενεργειών του διαβάζει επίσης π
 msgid "Its security settings don't allow copying pages"
 msgstr "Οι ρυθμίσεις ασφαλείας του δεν επιτρέπουν την αντιγραφή σελίδων"
 
-msgid "January"
-msgstr "Ιανουάριος"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "Ιανουάριος"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Ιούλιος"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "Ιούλιος"
-
-msgid "June"
-msgstr "Ιούνιος"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Αντιστοιχίζει σε τυπικό ρόλο"
 
-msgid "March"
-msgstr "Μάρτιος"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "Μάρτιος"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "μέγιστο"
-
-msgid "May"
-msgstr "Μάιος"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Δεν υπάρχει ενέργεια για αναίρεση"
 msgid "nothing to undo"
 msgstr "δεν υπάρχει ενέργεια προς αναίρεση"
 
-msgid "November"
-msgstr "Νοέμβριος"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "Νοέμβριος"
@@ -6959,9 +6926,6 @@ msgstr "Το OCR ολοκληρώθηκε — δεν αναγνωρίστηκε 
 
 msgid "OCR results rejected."
 msgstr "Τα αποτελέσματα OCR απορρίφθηκαν."
-
-msgid "October"
-msgstr "Οκτώβριος"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Πληροφορίες σελίδας"
 msgid "Page labels"
 msgstr "Ετικέτες σελίδων"
 
-msgid "Page layout"
-msgstr "Διάταξη σελίδας"
-
 msgid "Page maximum: {n}%"
 msgstr "Μέγιστο σελίδας: {n}%"
-
-msgid "Page navigation"
-msgstr "Πλοήγηση σελίδων"
-
-msgid "Page number"
-msgstr "Αριθμός σελίδας"
 
 msgid "Page Only"
 msgstr "Μόνο σελίδα"
@@ -7437,9 +7392,6 @@ msgstr "Σειρά σελίδων:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Ιδιότητες σελίδας"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Εύρος σελίδων"
 
 msgid "Page Range Options"
 msgstr "Επιλογές περιοχής σελίδων"
-
-msgid "Page size"
-msgstr "Μέγεθος σελίδας"
 
 msgid "Page Sizing & Handling"
 msgstr "Μέγεθος και διαχείριση σελίδων"
@@ -7793,9 +7742,6 @@ msgstr "Επιτρεπόμενες ενέργειες μετά την πιστο
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Αριθμός τηλεφώνου"
 
 msgid "Phone Numbers"
 msgstr "Αριθμοί τηλεφώνου"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Αφαίρεση σελίδας"
 
 msgid "Remove printer marks"
 msgstr "Αφαίρεση σημαδιών εκτύπωσης"
@@ -9754,9 +9697,6 @@ msgstr "Σέπια"
 
 msgid "Sepia night"
 msgstr "Νυχτερινό σέπια"
-
-msgid "September"
-msgstr "Σεπτέμβριος"
 
 msgctxt "calendar date"
 msgid "September"

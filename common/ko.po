@@ -212,6 +212,9 @@ msgstr "데이터 세트 적용"
 msgid "Apply to:"
 msgstr "적용 대상:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "호"
 
@@ -259,6 +262,9 @@ msgstr "프로파일 지정…"
 
 msgid "Audio"
 msgstr "오디오"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "작성자"
@@ -1024,6 +1030,9 @@ msgstr "패널 도킹"
 msgid "Document"
 msgstr "문서"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "문서 제목"
 
@@ -1156,6 +1165,9 @@ msgstr "엠 대시"
 msgid "Em Space"
 msgstr "엠 공백"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "포함"
 
@@ -1272,6 +1284,9 @@ msgstr "즐겨찾기"
 
 msgid "Feather"
 msgstr "페더"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "필드"
@@ -1762,6 +1777,9 @@ msgstr "이탈리아어"
 msgid "Italic"
 msgstr "기울임꼴"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "일본어"
 
@@ -1779,6 +1797,12 @@ msgstr "ArtCraft Discord 참여…"
 
 msgid "Join us on Discord"
 msgstr "Discord 참여하기"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "방금"
@@ -2053,6 +2077,9 @@ msgstr "마술봉 도구"
 msgid "Magnification"
 msgstr "확대/축소 비율"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "여백"
 
@@ -2070,6 +2097,9 @@ msgstr "최대화"
 
 msgid "Maximum"
 msgstr "최대"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "길이 분할"
@@ -2338,6 +2368,9 @@ msgstr "표준"
 msgid "Not available"
 msgstr "사용할 수 없음"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC 색상"
 
@@ -2349,6 +2382,9 @@ msgstr "개체"
 
 msgid "Octagon"
 msgstr "팔각형"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "홀수 필드"
@@ -2458,6 +2494,21 @@ msgstr "패키지…"
 msgid "Page"
 msgstr "페이지"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "{page}/{pages} 페이지"
 
@@ -2547,6 +2598,9 @@ msgstr "둘레"
 
 msgid "Perspective"
 msgstr "원근"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "사진"
@@ -2836,6 +2890,9 @@ msgstr "배경 제거"
 msgid "Remove from favorites"
 msgstr "즐겨찾기에서 제거"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "이름 바꾸기"
 
@@ -3084,6 +3141,9 @@ msgstr "감도"
 
 msgid "Sent to {printer}"
 msgstr "{printer}(으)로 전송됨"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "서비스"

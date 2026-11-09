@@ -1123,9 +1123,6 @@ msgstr "ރަނގަޅު ނެސްޓިންގ"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "އޭޕްރިލް"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "އޭޕްރިލް"
@@ -1249,9 +1246,6 @@ msgstr "ޖާގަ ބޭނުންކުރާ ގޮތް ބަލާ"
 
 msgid "Audit space usage…"
 msgstr "ޖާގަ ބޭނުންކުރާ މިން ބަލާ…"
-
-msgid "August"
-msgstr "އޯގަސްޓް"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "ޑޮކިއުމަންޓްގެ ބަސް"
 msgid "Document Overhead"
 msgstr "ޑޮކިއުމަންޓުގެ އޯވަރހެޑް"
 
-msgid "Document Properties"
-msgstr "ޑޮކިއުމަންޓްގެ ޕްރޮޕަޓީޒް"
-
 msgid "Document properties ({key})"
 msgstr "ޑޮކިއުމަންޓްގެ ޕްރޮޕަޓީޒް ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "އީމެއިލް އެޑްރެސް"
 
 msgid "Email Addresses"
 msgstr "އީމެއިލް އެޑްރެސްތައް"
@@ -4195,9 +4183,6 @@ msgstr "އަވަސް"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "ފެބްރުއަރީ"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr ""
 msgid "Its security settings don't allow copying pages"
 msgstr "އޭގެ ސެކިއުރިޓީ ސެޓިންގްސް ޞަފްޙާ ކޮޕީކުރުމުގެ ހުއްދަ ނުދޭ"
 
-msgid "January"
-msgstr "ޖަނަވަރީ"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ޖަނަވަރީ"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "ޖުލައި"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "ޖުލައި"
-
-msgid "June"
-msgstr "ޖޫން"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "މާޗް"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "މާޗް"
@@ -6103,9 +6076,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "އެންމެ ގިނަ"
-
-msgid "May"
-msgstr "މޭ"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "އަންޑޫކުރާނެ އެއްޗެއް ނެތް"
 msgid "nothing to undo"
 msgstr "އަންޑޫކުރާނެ އެއްޗެއް ނެތް"
 
-msgid "November"
-msgstr "ނޮވެމްބަރ"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "ނޮވެމްބަރ"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "އޮކްޓޫބަރ"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "ޞަފްޙާ ލޭބަލްތައް"
 
-msgid "Page layout"
-msgstr "ޞަފްޙާގެ ލޭއައުޓް"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "ޞަފްޙާ ނެވިގޭޝަން"
-
-msgid "Page number"
-msgstr "ޞަފްޙާ ނަންބަރު"
 
 msgid "Page Only"
 msgstr "ޞަފްޙާ އެކަނި"
@@ -7437,9 +7392,6 @@ msgstr "ޞަފްޙާތަކުގެ ތަރުތީބު:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "ޞަފްޙާގެ ޕްރޮޕަޓީޒް"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "ޞަފްޙާތަކުގެ ރޭންޖް"
 
 msgid "Page Range Options"
 msgstr "ޞަފްޙާ ރޭންޖުގެ އޮޕްޝަންތައް"
-
-msgid "Page size"
-msgstr "ޞަފްޙާގެ ސައިޒު"
 
 msgid "Page Sizing & Handling"
 msgstr "ޞަފްޙާގެ ސައިޒާއި ހެންޑްލިންގް"
@@ -7793,9 +7742,6 @@ msgstr "ސެޓްފައިކުރުމަށްފަހު ހުއްދަ ކަންތައްތ
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "ފޯނު ނަންބަރު"
 
 msgid "Phone Numbers"
 msgstr "ފޯނު ނަންބަރުތައް"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "ޞަފްޙާ ނައްތާލާ"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "ސެޕްޓެމްބަރ"
 
 msgctxt "calendar date"
 msgid "September"

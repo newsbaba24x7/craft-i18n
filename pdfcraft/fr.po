@@ -1123,9 +1123,6 @@ msgstr "Imbrication appropriée"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr "Approuvez la signature sur l'appareil (pour mSzafir : dans la fenêtre de CloudSigner et l'application mSzafir)…"
 
-msgid "April"
-msgstr "avril"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "avril"
@@ -1249,9 +1246,6 @@ msgstr "Auditer l'espace utilisé"
 
 msgid "Audit space usage…"
 msgstr "Auditer l'espace utilisé…"
-
-msgid "August"
-msgstr "août"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Langue du document"
 msgid "Document Overhead"
 msgstr "Surcoût du document"
 
-msgid "Document Properties"
-msgstr "Propriétés du document"
-
 msgid "Document properties ({key})"
 msgstr "Propriétés du document ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr "Texte modifiable"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "Adresse e-mail"
 
 msgid "Email Addresses"
 msgstr "Adresses e-mail"
@@ -4195,9 +4183,6 @@ msgstr "Rapide"
 
 msgid "Fast Web View"
 msgstr "Affichage web rapide"
-
-msgid "February"
-msgstr "février"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Son script lit aussi des champs dont il construit les noms à l'exécuti
 msgid "Its security settings don't allow copying pages"
 msgstr "Ses paramètres de sécurité n'autorisent pas la copie des pages"
 
-msgid "January"
-msgstr "janvier"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "janvier"
@@ -5554,15 +5536,9 @@ msgstr "Combine les sauts de ligne et réduit la taille de la police uniquement 
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "Les images JPEG 2000 nécessitent PDF 1.5, une version plus récente que celle autorisée par {}"
 
-msgid "July"
-msgstr "juillet"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "juillet"
-
-msgid "June"
-msgstr "juin"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr "Le calage de la carte nécessite des points de contrôle."
 msgid "Maps to standard role"
 msgstr "Mappe vers le rôle standard"
 
-msgid "March"
-msgstr "mars"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "mars"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "le maximum"
-
-msgid "May"
-msgstr "mai"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Rien à annuler"
 msgid "nothing to undo"
 msgstr "rien à annuler"
 
-msgid "November"
-msgstr "novembre"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "novembre"
@@ -6959,9 +6926,6 @@ msgstr "OCR terminé — aucun texte reconnu sur cette page."
 
 msgid "OCR results rejected."
 msgstr "Résultats OCR rejetés."
-
-msgid "October"
-msgstr "octobre"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Informations sur la page"
 msgid "Page labels"
 msgstr "Étiquettes de page"
 
-msgid "Page layout"
-msgstr "Présentation de page"
-
 msgid "Page maximum: {n}%"
 msgstr "Maximum de la page : {n} %"
-
-msgid "Page navigation"
-msgstr "Navigation dans les pages"
-
-msgid "Page number"
-msgstr "Numéro de page"
 
 msgid "Page Only"
 msgstr "Page seule"
@@ -7437,9 +7392,6 @@ msgstr "Ordre des pages :"
 msgid "Page Properties"
 msgstr "Propriétés de la page"
 
-msgid "Page properties"
-msgstr "Propriétés de la page"
-
 msgid "Page properties…"
 msgstr "Propriétés de la page…"
 
@@ -7448,9 +7400,6 @@ msgstr "Intervalle de pages"
 
 msgid "Page Range Options"
 msgstr "Options d'intervalle de pages"
-
-msgid "Page size"
-msgstr "Taille de page"
 
 msgid "Page Sizing & Handling"
 msgstr "Taille et gestion des pages"
@@ -7793,9 +7742,6 @@ msgstr "Actions autorisées après certification"
 
 msgid "Perpendicular"
 msgstr "Perpendiculaire"
-
-msgid "Phone Number"
-msgstr "Numéro de téléphone"
 
 msgid "Phone Numbers"
 msgstr "Numéros de téléphone"
@@ -8583,9 +8529,6 @@ msgstr "Supprimer JavaScript et les actions"
 
 msgid "Remove measurement viewport"
 msgstr "Supprimer la fenêtre de mesure"
-
-msgid "Remove page"
-msgstr "Retirer la page"
 
 msgid "Remove printer marks"
 msgstr "Supprimer les repères d'impression"
@@ -9754,9 +9697,6 @@ msgstr "Sépia"
 
 msgid "Sepia night"
 msgstr "Sépia de nuit"
-
-msgid "September"
-msgstr "septembre"
 
 msgctxt "calendar date"
 msgid "September"

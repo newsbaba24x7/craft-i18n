@@ -1123,9 +1123,6 @@ msgstr "సరైన స్థాయి క్రమం"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "ఏప్రిల్"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "స్థల వినియోగాన్ని విశ్లేష�
 
 msgid "Audit space usage…"
 msgstr "స్థల వినియోగాన్ని పరిశీలించు…"
-
-msgid "August"
-msgstr "ఆగస్టు"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "పత్రం భాష"
 msgid "Document Overhead"
 msgstr "పత్రం ఓవర్‌హెడ్"
 
-msgid "Document Properties"
-msgstr "పత్రం లక్షణాలు"
-
 msgid "Document properties ({key})"
 msgstr "పత్ర లక్షణాలు ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr "సవరించదగిన టెక్స్ట్"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "ఇమెయిల్ చిరునామా"
 
 msgid "Email Addresses"
 msgstr "ఇమెయిల్ చిరునామాలు"
@@ -4195,9 +4183,6 @@ msgstr "వేగంగా"
 
 msgid "Fast Web View"
 msgstr "వేగవంతమైన వెబ్ వీక్షణ"
-
-msgid "February"
-msgstr "ఫిబ్రవరి"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "దీని స్క్రిప్ట్ నడుస్తున్�
 msgid "Its security settings don't allow copying pages"
 msgstr "దీని భద్రతా సెట్టింగ్‌లు పేజీలను కాపీ చేయడాన్ని అనుమతించవు"
 
-msgid "January"
-msgstr "జనవరి"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "జులై"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "జూన్"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "ప్రామాణిక పాత్రకు మ్యాప్ చేస్తుంది"
 
-msgid "March"
-msgstr "మార్చి"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "గరిష్ఠం"
-
-msgid "May"
-msgstr "మే"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "రద్దు చేయడానికి ఏమీ లేదు"
 msgid "nothing to undo"
 msgstr "రద్దు చేయడానికి ఏమీ లేదు"
 
-msgid "November"
-msgstr "నవంబర్"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6959,9 +6926,6 @@ msgstr "OCR పూర్తయింది — ఈ పేజీలో టెక�
 
 msgid "OCR results rejected."
 msgstr "OCR ఫలితాలు తిరస్కరించబడ్డాయి."
-
-msgid "October"
-msgstr "అక్టోబర్"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "పేజీ సమాచారం"
 msgid "Page labels"
 msgstr "పేజీ లేబుల్‌లు"
 
-msgid "Page layout"
-msgstr "పేజీ లేఅవుట్"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "పేజీ నావిగేషన్"
-
-msgid "Page number"
-msgstr "పేజీ సంఖ్య"
 
 msgid "Page Only"
 msgstr "పేజీ మాత్రమే"
@@ -7437,9 +7392,6 @@ msgstr "పేజీ క్రమం:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "పేజీ లక్షణాలు"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "పేజీ పరిధి"
 
 msgid "Page Range Options"
 msgstr "పేజీ పరిధి ఎంపికలు"
-
-msgid "Page size"
-msgstr "పేజీ పరిమాణం"
 
 msgid "Page Sizing & Handling"
 msgstr "పేజీ పరిమాణం & నిర్వహణ"
@@ -7793,9 +7742,6 @@ msgstr "సర్టిఫై చేసిన తర్వాత అనుమత
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "ఫోన్ నంబర్"
 
 msgid "Phone Numbers"
 msgstr "ఫోన్ నంబర్‌లు"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "పేజీని తీసివేయి"
 
 msgid "Remove printer marks"
 msgstr "ప్రింటర్ గుర్తులను తొలగించు"
@@ -9754,9 +9697,6 @@ msgstr "సెపియా"
 
 msgid "Sepia night"
 msgstr "రాత్రి సెపియా"
-
-msgid "September"
-msgstr "సెప్టెంబర్"
 
 msgctxt "calendar date"
 msgid "September"

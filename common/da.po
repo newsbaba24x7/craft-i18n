@@ -212,6 +212,9 @@ msgstr "Anvend datasæt"
 msgid "Apply to:"
 msgstr ""
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Bue"
 
@@ -258,6 +261,9 @@ msgid "Assign Profile…"
 msgstr "Tildel profil…"
 
 msgid "Audio"
+msgstr ""
+
+msgid "August"
 msgstr ""
 
 msgid "Author"
@@ -1024,6 +1030,9 @@ msgstr "Dok panel"
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr ""
 
@@ -1156,6 +1165,9 @@ msgstr "Lang tankestreg"
 msgid "Em Space"
 msgstr "Em-mellemrum"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Integrér"
 
@@ -1272,6 +1284,9 @@ msgstr "Favoritter"
 
 msgid "Feather"
 msgstr "Fjer"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr ""
@@ -1762,6 +1777,9 @@ msgstr "Italiensk"
 msgid "Italic"
 msgstr "Kursiv"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japansk"
 
@@ -1778,6 +1796,12 @@ msgid "Join the ArtCraft Discord…"
 msgstr ""
 
 msgid "Join us on Discord"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
 msgstr ""
 
 msgid "just now"
@@ -2053,6 +2077,9 @@ msgstr "Tryllestavsværktøj"
 msgid "Magnification"
 msgstr ""
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr ""
 
@@ -2070,6 +2097,9 @@ msgstr "Maksimér"
 
 msgid "Maximum"
 msgstr "Maksimum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Mål"
@@ -2338,6 +2368,9 @@ msgstr "Normal"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC-farver"
 
@@ -2348,6 +2381,9 @@ msgid "Object"
 msgstr "Objekt"
 
 msgid "Octagon"
+msgstr ""
+
+msgid "October"
 msgstr ""
 
 msgid "Odd Fields"
@@ -2458,6 +2494,21 @@ msgstr "Pakke…"
 msgid "Page"
 msgstr "Side"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr ""
 
@@ -2547,6 +2598,9 @@ msgstr ""
 
 msgid "Perspective"
 msgstr "Perspektiv"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr ""
@@ -2836,6 +2890,9 @@ msgstr ""
 msgid "Remove from favorites"
 msgstr ""
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Omdøb"
 
@@ -3083,6 +3140,9 @@ msgid "Sensitivity"
 msgstr ""
 
 msgid "Sent to {printer}"
+msgstr ""
+
+msgid "September"
 msgstr ""
 
 msgid "Services"

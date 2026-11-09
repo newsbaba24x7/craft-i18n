@@ -1123,9 +1123,6 @@ msgstr "Imbricare corectă"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Aprilie"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "aprilie"
@@ -1249,9 +1246,6 @@ msgstr "Analiză utilizare spațiu"
 
 msgid "Audit space usage…"
 msgstr "Analiză utilizare spațiu…"
-
-msgid "August"
-msgstr "August"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Limba documentului"
 msgid "Document Overhead"
 msgstr "Spațiu de bază al documentului"
 
-msgid "Document Properties"
-msgstr "Proprietăți document"
-
 msgid "Document properties ({key})"
 msgstr "Proprietăți document ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "Adresă de e-mail"
 
 msgid "Email Addresses"
 msgstr "Adrese de e-mail"
@@ -4199,9 +4187,6 @@ msgstr "Rapidă"
 
 msgid "Fast Web View"
 msgstr "Vizualizare rapidă pe web"
-
-msgid "February"
-msgstr "Februarie"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Scriptul său citește și câmpuri ale căror nume le construiește în
 msgid "Its security settings don't allow copying pages"
 msgstr "Setările sale de securitate nu permit copierea paginilor"
 
-msgid "January"
-msgstr "Ianuarie"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ianuarie"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "Imaginile JPEG 2000 necesită PDF 1.5, mai nou decât permite {}"
 
-msgid "July"
-msgstr "Iulie"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "iulie"
-
-msgid "June"
-msgstr "Iunie"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "Martie"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "martie"
@@ -6107,9 +6080,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "maxim"
-
-msgid "May"
-msgstr "Mai"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Nimic de anulat"
 msgid "nothing to undo"
 msgstr "nimic de anulat"
 
-msgid "November"
-msgstr "Noiembrie"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "noiembrie"
@@ -6963,9 +6930,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "Octombrie"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Informații despre pagină"
 msgid "Page labels"
 msgstr "Etichete pagini"
 
-msgid "Page layout"
-msgstr "Aspect pagină"
-
 msgid "Page maximum: {n}%"
 msgstr "Maximul paginii: {n}%"
-
-msgid "Page navigation"
-msgstr "Navigare pagini"
-
-msgid "Page number"
-msgstr "Număr pagină"
 
 msgid "Page Only"
 msgstr "Doar pagina"
@@ -7441,9 +7396,6 @@ msgstr "Ordinea paginilor:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Proprietăți pagină"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7452,9 +7404,6 @@ msgstr "Interval de pagini"
 
 msgid "Page Range Options"
 msgstr "Opțiuni interval de pagini"
-
-msgid "Page size"
-msgstr "Dimensiune pagină"
 
 msgid "Page Sizing & Handling"
 msgstr "Dimensionare și gestionare pagini"
@@ -7797,9 +7746,6 @@ msgstr "Acțiuni permise după certificare"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Număr de telefon"
 
 msgid "Phone Numbers"
 msgstr "Numere de telefon"
@@ -8587,9 +8533,6 @@ msgstr "Eliminare JavaScript și acțiuni"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Eliminare pagină"
 
 msgid "Remove printer marks"
 msgstr "Eliminare semne de imprimare"
@@ -9758,9 +9701,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "Sepia de noapte"
-
-msgid "September"
-msgstr "Septembrie"
 
 msgctxt "calendar date"
 msgid "September"

@@ -1123,9 +1123,6 @@ msgstr "تداخل مناسب"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "أبريل"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "أبريل"
@@ -1249,9 +1246,6 @@ msgstr "تدقيق استخدام المساحة"
 
 msgid "Audit space usage…"
 msgstr "تدقيق استخدام المساحة…"
-
-msgid "August"
-msgstr "أغسطس"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3388,9 +3382,6 @@ msgstr "لغة المستند"
 msgid "Document Overhead"
 msgstr "الحمل الإضافي للمستند"
 
-msgid "Document Properties"
-msgstr "خصائص المستند"
-
 msgid "Document properties ({key})"
 msgstr "خصائص المستند ({key})"
 
@@ -3782,9 +3773,6 @@ msgstr "نص قابل للتحرير"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "عنوان البريد الإلكتروني"
 
 msgid "Email Addresses"
 msgstr "عناوين البريد الإلكتروني"
@@ -4211,9 +4199,6 @@ msgstr "سريعة"
 
 msgid "Fast Web View"
 msgstr "العرض السريع على الويب"
-
-msgid "February"
-msgstr "فبراير"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5527,9 +5512,6 @@ msgstr "يقرأ سكربته أيضًا حقولًا يبني أسماءها أ
 msgid "Its security settings don't allow copying pages"
 msgstr "إعدادات أمانه لا تسمح بنسخ الصفحات"
 
-msgid "January"
-msgstr "يناير"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "يناير"
@@ -5570,15 +5552,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "يوليو"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "يوليو"
-
-msgid "June"
-msgstr "يونيو"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6029,9 +6005,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "يتوافق مع الدور القياسي"
 
-msgid "March"
-msgstr "مارس"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "مارس"
@@ -6119,9 +6092,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "الحد الأقصى"
-
-msgid "May"
-msgstr "مايو"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6945,9 +6915,6 @@ msgstr "لا شيء للتراجع عنه"
 msgid "nothing to undo"
 msgstr "لا شيء للتراجع عنه"
 
-msgid "November"
-msgstr "نوفمبر"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "نوفمبر"
@@ -6975,9 +6942,6 @@ msgstr "اكتمل التعرف الضوئي — لم يُتعرف على أي �
 
 msgid "OCR results rejected."
 msgstr "رُفضت نتائج التعرف الضوئي."
-
-msgid "October"
-msgstr "أكتوبر"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7426,17 +7390,8 @@ msgstr "معلومات الصفحة"
 msgid "Page labels"
 msgstr "تسميات الصفحات"
 
-msgid "Page layout"
-msgstr "تخطيط الصفحة"
-
 msgid "Page maximum: {n}%"
 msgstr "الحد الأقصى للصفحة: {n}%"
-
-msgid "Page navigation"
-msgstr "التنقل بين الصفحات"
-
-msgid "Page number"
-msgstr "رقم الصفحة"
 
 msgid "Page Only"
 msgstr "الصفحة فقط"
@@ -7453,9 +7408,6 @@ msgstr "ترتيب الصفحات:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "خصائص الصفحة"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7464,9 +7416,6 @@ msgstr "نطاق الصفحات"
 
 msgid "Page Range Options"
 msgstr "خيارات نطاق الصفحات"
-
-msgid "Page size"
-msgstr "حجم الصفحة"
 
 msgid "Page Sizing & Handling"
 msgstr "حجم الصفحات ومعالجتها"
@@ -7809,9 +7758,6 @@ msgstr "الإجراءات المسموح بها بعد التصديق"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "رقم الهاتف"
 
 msgid "Phone Numbers"
 msgstr "أرقام الهواتف"
@@ -8599,9 +8545,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "إزالة الصفحة"
 
 msgid "Remove printer marks"
 msgstr "إزالة علامات الطباعة"
@@ -9770,9 +9713,6 @@ msgstr "بني داكن"
 
 msgid "Sepia night"
 msgstr "سيبيا ليلي"
-
-msgid "September"
-msgstr "سبتمبر"
 
 msgctxt "calendar date"
 msgid "September"

@@ -5040,9 +5040,6 @@ msgstr "ページの移動"
 msgid "Page Number"
 msgstr "ページ番号"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr "ページ番号の書式"
 

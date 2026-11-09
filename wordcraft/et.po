@@ -5040,9 +5040,6 @@ msgstr "Lehtede liikumine"
 msgid "Page Number"
 msgstr "Leheküljenumber"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr "Leheküljenumbri vorming"
 

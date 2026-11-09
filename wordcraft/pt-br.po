@@ -5040,9 +5040,6 @@ msgstr "Movimentação entre páginas"
 msgid "Page Number"
 msgstr "Número da página"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr "Formato do número de página"
 

@@ -1123,9 +1123,6 @@ msgstr "Fole e përshtatshme"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Prill"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "Audito përdorimin e hapësirës"
 
 msgid "Audit space usage…"
 msgstr "Audito përdorimin e hapësirës…"
-
-msgid "August"
-msgstr "Gusht"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Gjuha e dokumentit"
 msgid "Document Overhead"
 msgstr "Ngarkesa e dokumentit"
 
-msgid "Document Properties"
-msgstr "Vetitë e dokumentit"
-
 msgid "Document properties ({key})"
 msgstr "Vetitë e dokumentit ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "Adresa e email-it"
 
 msgid "Email Addresses"
 msgstr "Adresat e email-it"
@@ -4195,9 +4183,6 @@ msgstr "Shpejt"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "Shkurt"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "Cilësimet e tij të sigurisë nuk lejojnë kopjimin e faqeve"
 
-msgid "January"
-msgstr "Janar"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Korrik"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "Qershor"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "Mars"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "maksimumi"
-
-msgid "May"
-msgstr "Maj"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Nuk ka asgjë për zhbërje"
 msgid "nothing to undo"
 msgstr "asgjë për ta zhbërë"
 
-msgid "November"
-msgstr "Nëntor"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "Tetor"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Informacioni i faqes"
 msgid "Page labels"
 msgstr "Etiketat e faqeve"
 
-msgid "Page layout"
-msgstr "Paraqitja e faqes"
-
 msgid "Page maximum: {n}%"
 msgstr "Maksimumi i faqes: {n}%"
-
-msgid "Page navigation"
-msgstr "Navigimi i faqeve"
-
-msgid "Page number"
-msgstr "Numri i faqes"
 
 msgid "Page Only"
 msgstr "Vetëm faqja"
@@ -7437,9 +7392,6 @@ msgstr "Radha e faqeve:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Page properties"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Intervali i faqeve"
 
 msgid "Page Range Options"
 msgstr "Opsionet e intervalit të faqeve"
-
-msgid "Page size"
-msgstr "Madhësia e faqes"
 
 msgid "Page Sizing & Handling"
 msgstr "Madhësia dhe trajtimi i faqes"
@@ -7793,9 +7742,6 @@ msgstr "Veprimet e lejuara pas certifikimit"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Numri i telefonit"
 
 msgid "Phone Numbers"
 msgstr "Numrat e telefonit"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Hiq faqen"
 
 msgid "Remove printer marks"
 msgstr "Hiq shenjat e shtypjes"
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "Sepia e natës"
-
-msgid "September"
-msgstr "Shtator"
 
 msgctxt "calendar date"
 msgid "September"

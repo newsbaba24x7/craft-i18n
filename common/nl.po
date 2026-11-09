@@ -212,6 +212,9 @@ msgstr "Gegevensset toepassen"
 msgid "Apply to:"
 msgstr ""
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Boog"
 
@@ -259,6 +262,9 @@ msgstr "Profiel toewijzen…"
 
 msgid "Audio"
 msgstr "Audio"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Auteur"
@@ -1024,6 +1030,9 @@ msgstr "Paneel dokken"
 msgid "Document"
 msgstr "Document"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr ""
 
@@ -1156,6 +1165,9 @@ msgstr "Gedachtestreep"
 msgid "Em Space"
 msgstr "Em-spatie"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Insluiten"
 
@@ -1272,6 +1284,9 @@ msgstr "Favorieten"
 
 msgid "Feather"
 msgstr "Veer"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr ""
@@ -1762,6 +1777,9 @@ msgstr "Italiaans"
 msgid "Italic"
 msgstr "Cursief"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japans"
 
@@ -1779,6 +1797,12 @@ msgstr "Deelnemen aan de ArtCraft-Discord…"
 
 msgid "Join us on Discord"
 msgstr "Doe mee op Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr ""
@@ -2053,6 +2077,9 @@ msgstr "Toverstaf-gereedschap"
 msgid "Magnification"
 msgstr ""
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr ""
 
@@ -2070,6 +2097,9 @@ msgstr "Maximaliseren"
 
 msgid "Maximum"
 msgstr "Maximum"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Meten"
@@ -2338,6 +2368,9 @@ msgstr "Normaal"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC-kleuren"
 
@@ -2349,6 +2382,9 @@ msgstr "Object"
 
 msgid "Octagon"
 msgstr "Achthoek"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Oneven velden"
@@ -2458,6 +2494,21 @@ msgstr "Verpakken…"
 msgid "Page"
 msgstr "Pagina"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr ""
 
@@ -2547,6 +2598,9 @@ msgstr "Omtrek"
 
 msgid "Perspective"
 msgstr "Perspectief"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Foto"
@@ -2836,6 +2890,9 @@ msgstr "Achtergrond verwijderen"
 msgid "Remove from favorites"
 msgstr "Verwijderen uit favorieten"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Hernoemen"
 
@@ -3084,6 +3141,9 @@ msgstr "Gevoeligheid"
 
 msgid "Sent to {printer}"
 msgstr "Verzonden naar {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Diensten"

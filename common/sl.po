@@ -212,6 +212,9 @@ msgstr ""
 msgid "Apply to:"
 msgstr ""
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr ""
 
@@ -258,6 +261,9 @@ msgid "Assign Profile…"
 msgstr ""
 
 msgid "Audio"
+msgstr ""
+
+msgid "August"
 msgstr ""
 
 msgid "Author"
@@ -1024,6 +1030,9 @@ msgstr ""
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Naslov dokumenta"
 
@@ -1156,6 +1165,9 @@ msgstr ""
 msgid "Em Space"
 msgstr ""
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr ""
 
@@ -1271,6 +1283,9 @@ msgid "Favorites"
 msgstr ""
 
 msgid "Feather"
+msgstr ""
+
+msgid "February"
 msgstr ""
 
 msgid "Field"
@@ -1762,6 +1777,9 @@ msgstr ""
 msgid "Italic"
 msgstr "Ležeče"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr ""
 
@@ -1778,6 +1796,12 @@ msgid "Join the ArtCraft Discord…"
 msgstr ""
 
 msgid "Join us on Discord"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
 msgstr ""
 
 msgid "just now"
@@ -2053,6 +2077,9 @@ msgstr ""
 msgid "Magnification"
 msgstr "Povečava"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Robovi"
 
@@ -2070,6 +2097,9 @@ msgstr "Povečaj"
 
 msgid "Maximum"
 msgstr "Največ"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Izmeri"
@@ -2338,6 +2368,9 @@ msgstr ""
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr ""
 
@@ -2348,6 +2381,9 @@ msgid "Object"
 msgstr ""
 
 msgid "Octagon"
+msgstr ""
+
+msgid "October"
 msgstr ""
 
 msgid "Odd Fields"
@@ -2458,6 +2494,21 @@ msgstr ""
 msgid "Page"
 msgstr "Stran"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr ""
 
@@ -2546,6 +2597,9 @@ msgid "Perimeter"
 msgstr "Obseg"
 
 msgid "Perspective"
+msgstr ""
+
+msgid "Phone Number"
 msgstr ""
 
 msgid "Photo"
@@ -2836,6 +2890,9 @@ msgstr ""
 msgid "Remove from favorites"
 msgstr ""
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Preimenuj"
 
@@ -3084,6 +3141,9 @@ msgstr "Občutljivost"
 
 msgid "Sent to {printer}"
 msgstr "Poslano na {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr ""

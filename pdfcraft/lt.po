@@ -1123,9 +1123,6 @@ msgstr "Tinkamas įdėjimas"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr "Patvirtinkite parašą įrenginyje („mSzafir“: „CloudSigner“ lange ir „mSzafir“ programėlėje)…"
 
-msgid "April"
-msgstr "balandis"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "balandžio"
@@ -1249,9 +1246,6 @@ msgstr "Patikrinti vietos naudojimą"
 
 msgid "Audit space usage…"
 msgstr "Tikrinti vietos naudojimą…"
-
-msgid "August"
-msgstr "rugpjūtis"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Dokumento kalba"
 msgid "Document Overhead"
 msgstr "Dokumento pagalbiniai duomenys"
 
-msgid "Document Properties"
-msgstr "Dokumento savybės"
-
 msgid "Document properties ({key})"
 msgstr "Dokumento savybės ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr "Redaguojamas tekstas"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "El. pašto adresas"
 
 msgid "Email Addresses"
 msgstr "El. pašto adresai"
@@ -4199,9 +4187,6 @@ msgstr "Greitas"
 
 msgid "Fast Web View"
 msgstr "Greitas peržiūrėjimas internete"
-
-msgid "February"
-msgstr "vasaris"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Jo scenarijus taip pat skaito laukus, kurių pavadinimus sudaro vykdymo 
 msgid "Its security settings don't allow copying pages"
 msgstr "Saugos nuostatos neleidžia kopijuoti puslapių"
 
-msgid "January"
-msgstr "sausis"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "sausio"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "JPEG 2000 paveikslėliams reikia PDF 1.5, naujesnės versijos nei leidžia {}"
 
-msgid "July"
-msgstr "liepa"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "liepos"
-
-msgid "June"
-msgstr "birželis"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Susieja su standartiniu vaidmeniu"
 
-msgid "March"
-msgstr "kovas"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "kovo"
@@ -6107,9 +6080,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "didžiausia reikšmė"
-
-msgid "May"
-msgstr "gegužė"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Nėra ko anuliuoti"
 msgid "nothing to undo"
 msgstr "nėra ką atšaukti"
 
-msgid "November"
-msgstr "lapkritis"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "lapkričio"
@@ -6963,9 +6930,6 @@ msgstr "OCR baigtas — šiame puslapyje tekstas neatpažintas."
 
 msgid "OCR results rejected."
 msgstr "OCR rezultatai atmesti."
-
-msgid "October"
-msgstr "spalis"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Puslapio informacija"
 msgid "Page labels"
 msgstr "Puslapių žymos"
 
-msgid "Page layout"
-msgstr "Puslapio išdėstymas"
-
 msgid "Page maximum: {n}%"
 msgstr "Puslapio didžiausia vertė: {n} %"
-
-msgid "Page navigation"
-msgstr "Naršymas puslapiuose"
-
-msgid "Page number"
-msgstr "Puslapio numeris"
 
 msgid "Page Only"
 msgstr "Tik puslapis"
@@ -7441,9 +7396,6 @@ msgstr "Puslapių tvarka:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Puslapio ypatybės"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7452,9 +7404,6 @@ msgstr "Puslapių intervalas"
 
 msgid "Page Range Options"
 msgstr "Puslapių intervalo parinktys"
-
-msgid "Page size"
-msgstr "Puslapio dydis"
 
 msgid "Page Sizing & Handling"
 msgstr "Puslapio dydis ir apdorojimas"
@@ -7797,9 +7746,6 @@ msgstr "Po patvirtinimo leidžiami veiksmai"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefono numeris"
 
 msgid "Phone Numbers"
 msgstr "Telefono numeriai"
@@ -8587,9 +8533,6 @@ msgstr "Pašalinti JavaScript ir veiksmus"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Pašalinti puslapį"
 
 msgid "Remove printer marks"
 msgstr "Pašalinti spaudos žymes"
@@ -9758,9 +9701,6 @@ msgstr "Sepija"
 
 msgid "Sepia night"
 msgstr "Naktinė sepija"
-
-msgid "September"
-msgstr "rugsėjis"
 
 msgctxt "calendar date"
 msgid "September"

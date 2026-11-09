@@ -212,6 +212,9 @@ msgstr "Zastosuj zestaw danych"
 msgid "Apply to:"
 msgstr "Zastosuj do:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Łuk"
 
@@ -259,6 +262,9 @@ msgstr "Przypisz profil…"
 
 msgid "Audio"
 msgstr "Dźwięk"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Autor"
@@ -1024,6 +1030,9 @@ msgstr "Zadokuj panel"
 msgid "Document"
 msgstr "Dokument"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Tytuł dokumentu"
 
@@ -1156,6 +1165,9 @@ msgstr "Pauza"
 msgid "Em Space"
 msgstr "Spacja firetowa"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Osadź"
 
@@ -1272,6 +1284,9 @@ msgstr "Ulubione"
 
 msgid "Feather"
 msgstr "Pióro"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Pole"
@@ -1762,6 +1777,9 @@ msgstr "Włoski"
 msgid "Italic"
 msgstr "Kursywa"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Japoński"
 
@@ -1779,6 +1797,12 @@ msgstr "Dołącz do Discorda ArtCraft…"
 
 msgid "Join us on Discord"
 msgstr "Dołącz do nas na Discordzie"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "przed chwilą"
@@ -2053,6 +2077,9 @@ msgstr "Narzędzie Różdżka"
 msgid "Magnification"
 msgstr "Powiększenie"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Marginesy"
 
@@ -2070,6 +2097,9 @@ msgstr "Maksymalizuj"
 
 msgid "Maximum"
 msgstr "Maksymalna"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Mierz"
@@ -2338,6 +2368,9 @@ msgstr "Normalny"
 msgid "Not available"
 msgstr "Niedostępna"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "Kolory NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "Obiekt"
 
 msgid "Octagon"
 msgstr "Ośmiokąt"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Pola nieparzyste"
@@ -2458,6 +2494,21 @@ msgstr "Spakuj…"
 msgid "Page"
 msgstr "Strona"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Strona {page} z {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Obwód"
 
 msgid "Perspective"
 msgstr "Perspektywa"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Zdjęcie"
@@ -2836,6 +2890,9 @@ msgstr "Usuń tło"
 msgid "Remove from favorites"
 msgstr "Usuń z ulubionych"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Zmień nazwę"
 
@@ -3084,6 +3141,9 @@ msgstr "Czułość"
 
 msgid "Sent to {printer}"
 msgstr "Wysłano do {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Usługi"

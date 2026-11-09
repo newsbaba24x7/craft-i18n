@@ -1123,9 +1123,6 @@ msgstr "Juiste nesting"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "april"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "april"
@@ -1249,9 +1246,6 @@ msgstr "Ruimtegebruik controleren"
 
 msgid "Audit space usage…"
 msgstr "Ruimtegebruik controleren…"
-
-msgid "August"
-msgstr "augustus"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Documenttaal"
 msgid "Document Overhead"
 msgstr "Documentoverhead"
 
-msgid "Document Properties"
-msgstr "Documenteigenschappen"
-
 msgid "Document properties ({key})"
 msgstr "Documenteigenschappen ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "E-mailadres"
 
 msgid "Email Addresses"
 msgstr "E-mailadressen"
@@ -4195,9 +4183,6 @@ msgstr "Snel"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "februari"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Het script leest ook velden waarvan het de namen tijdens het uitvoeren o
 msgid "Its security settings don't allow copying pages"
 msgstr "De beveiligingsinstellingen staan het kopiëren van pagina's niet toe"
 
-msgid "January"
-msgstr "januari"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "januari"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "juli"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "juli"
-
-msgid "June"
-msgstr "juni"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "maart"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "maart"
@@ -6103,9 +6076,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "het maximum"
-
-msgid "May"
-msgstr "mei"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Niets om ongedaan te maken"
 msgid "nothing to undo"
 msgstr "niets om ongedaan te maken"
 
-msgid "November"
-msgstr "november"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "november"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "oktober"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "Paginalabels"
 
-msgid "Page layout"
-msgstr "Pagina-indeling"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "Paginanavigatie"
-
-msgid "Page number"
-msgstr "Paginanummer"
 
 msgid "Page Only"
 msgstr "Alleen pagina"
@@ -7437,9 +7392,6 @@ msgstr "Paginavolgorde:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Pagina-eigenschappen"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Paginabereik"
 
 msgid "Page Range Options"
 msgstr "Opties voor paginabereik"
-
-msgid "Page size"
-msgstr "Paginagrootte"
 
 msgid "Page Sizing & Handling"
 msgstr "Paginaformaat en verwerking"
@@ -7793,9 +7742,6 @@ msgstr "Toegestane acties na het certificeren"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefoonnummer"
 
 msgid "Phone Numbers"
 msgstr "Telefoonnummers"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Pagina verwijderen"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "september"
 
 msgctxt "calendar date"
 msgid "September"

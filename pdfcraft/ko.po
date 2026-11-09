@@ -1123,9 +1123,6 @@ msgstr "적절한 중첩"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "4월"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "4월"
@@ -1249,9 +1246,6 @@ msgstr "공간 사용량 감사"
 
 msgid "Audit space usage…"
 msgstr "공간 사용량 감사…"
-
-msgid "August"
-msgstr "8월"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "문서 언어"
 msgid "Document Overhead"
 msgstr "문서 오버헤드"
 
-msgid "Document Properties"
-msgstr "문서 속성"
-
 msgid "Document properties ({key})"
 msgstr "문서 속성 ({key})"
 
@@ -3762,9 +3753,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "이메일 주소"
 
 msgid "Email Addresses"
 msgstr "이메일 주소"
@@ -4191,9 +4179,6 @@ msgstr "빠르게"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "2월"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "보안 설정에서 페이지 복사를 허용하지 않습니다"
 
-msgid "January"
-msgstr "1월"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "1월"
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "7월"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "7월"
-
-msgid "June"
-msgstr "6월"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "3월"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "3월"
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "최댓값"
-
-msgid "May"
-msgstr "5월"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "취소할 작업이 없습니다"
 msgid "nothing to undo"
 msgstr "실행 취소할 작업 없음"
 
-msgid "November"
-msgstr "11월"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "11월"
@@ -6955,9 +6922,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "10월"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr "페이지 정보"
 msgid "Page labels"
 msgstr "페이지 레이블"
 
-msgid "Page layout"
-msgstr "페이지 레이아웃"
-
 msgid "Page maximum: {n}%"
 msgstr "페이지 최대값: {n}%"
-
-msgid "Page navigation"
-msgstr "페이지 탐색"
-
-msgid "Page number"
-msgstr "페이지 번호"
 
 msgid "Page Only"
 msgstr "페이지만"
@@ -7433,9 +7388,6 @@ msgstr "페이지 순서:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "페이지 속성"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "페이지 범위"
 
 msgid "Page Range Options"
 msgstr "페이지 범위 옵션"
-
-msgid "Page size"
-msgstr "페이지 크기"
 
 msgid "Page Sizing & Handling"
 msgstr "페이지 크기 조정 및 처리"
@@ -7789,9 +7738,6 @@ msgstr "문서 인증 후 허용되는 변경 사항"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "전화번호"
 
 msgid "Phone Numbers"
 msgstr "전화번호"
@@ -8579,9 +8525,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "페이지 제거"
 
 msgid "Remove printer marks"
 msgstr "인쇄용 표시 제거"
@@ -9750,9 +9693,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "야간 세피아"
-
-msgid "September"
-msgstr "9월"
 
 msgctxt "calendar date"
 msgid "September"

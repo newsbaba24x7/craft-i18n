@@ -1123,9 +1123,6 @@ msgstr "Належна вкладеність"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Квітень"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "квітня"
@@ -1249,9 +1246,6 @@ msgstr "Аналіз використання місця"
 
 msgid "Audit space usage…"
 msgstr "Аналіз використання місця…"
-
-msgid "August"
-msgstr "Серпень"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Мова документа"
 msgid "Document Overhead"
 msgstr "Службові дані документа"
 
-msgid "Document Properties"
-msgstr "Властивості документа"
-
 msgid "Document properties ({key})"
 msgstr "Властивості документа ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr "Редагований текст"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "Адреса електронної пошти"
 
 msgid "Email Addresses"
 msgstr "Адреси електронної пошти"
@@ -4199,9 +4187,6 @@ msgstr "Швидка"
 
 msgid "Fast Web View"
 msgstr "Швидкий вебперегляд"
-
-msgid "February"
-msgstr "Лютий"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Його сценарій також читає поля, імена я�
 msgid "Its security settings don't allow copying pages"
 msgstr "Налаштування захисту не дозволяють копіювати сторінки"
 
-msgid "January"
-msgstr "Січень"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "січня"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Липень"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "липня"
-
-msgid "June"
-msgstr "Червень"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Зіставляє зі стандартною роллю"
 
-msgid "March"
-msgstr "Березень"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "березня"
@@ -6107,9 +6080,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "максимум"
-
-msgid "May"
-msgstr "Травень"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Немає дій для скасування"
 msgid "nothing to undo"
 msgstr "немає дій для скасування"
 
-msgid "November"
-msgstr "Листопад"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "листопада"
@@ -6963,9 +6930,6 @@ msgstr "OCR завершено — на цій сторінці текст не 
 
 msgid "OCR results rejected."
 msgstr "Результати OCR відхилено."
-
-msgid "October"
-msgstr "Жовтень"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Відомості про сторінку"
 msgid "Page labels"
 msgstr "Позначки сторінок"
 
-msgid "Page layout"
-msgstr "Макет сторінок"
-
 msgid "Page maximum: {n}%"
 msgstr "Максимум на сторінці: {n}%"
-
-msgid "Page navigation"
-msgstr "Навігація сторінками"
-
-msgid "Page number"
-msgstr "Номер сторінки"
 
 msgid "Page Only"
 msgstr "Лише сторінка"
@@ -7441,9 +7396,6 @@ msgstr "Порядок сторінок:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Властивості сторінки"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7452,9 +7404,6 @@ msgstr "Діапазон сторінок"
 
 msgid "Page Range Options"
 msgstr "Параметри діапазону сторінок"
-
-msgid "Page size"
-msgstr "Розмір сторінки"
 
 msgid "Page Sizing & Handling"
 msgstr "Розмір і розміщення сторінок"
@@ -7797,9 +7746,6 @@ msgstr "Дозволені дії після засвідчення"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Номер телефону"
 
 msgid "Phone Numbers"
 msgstr "Номери телефонів"
@@ -8587,9 +8533,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Видалити сторінку"
 
 msgid "Remove printer marks"
 msgstr "Вилучити друкарські позначки"
@@ -9758,9 +9701,6 @@ msgstr "Сепія"
 
 msgid "Sepia night"
 msgstr "Нічна сепія"
-
-msgid "September"
-msgstr "Вересень"
 
 msgctxt "calendar date"
 msgid "September"

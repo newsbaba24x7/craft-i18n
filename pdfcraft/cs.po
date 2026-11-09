@@ -1123,9 +1123,6 @@ msgstr "Správné vnoření"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Duben"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "dubna"
@@ -1249,9 +1246,6 @@ msgstr "Analyzovat využití místa"
 
 msgid "Audit space usage…"
 msgstr "Analyzovat využití místa…"
-
-msgid "August"
-msgstr "Srpen"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Jazyk dokumentu"
 msgid "Document Overhead"
 msgstr "Režie dokumentu"
 
-msgid "Document Properties"
-msgstr "Vlastnosti dokumentu"
-
 msgid "Document properties ({key})"
 msgstr "Vlastnosti dokumentu ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr "Upravitelný text"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "E-mailová adresa"
 
 msgid "Email Addresses"
 msgstr "E-mailové adresy"
@@ -4199,9 +4187,6 @@ msgstr "Rychlá"
 
 msgid "Fast Web View"
 msgstr "Rychlé zobrazení na webu"
-
-msgid "February"
-msgstr "Únor"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Jeho skript čte i pole, jejichž názvy sestavuje za běhu, takže tato
 msgid "Its security settings don't allow copying pages"
 msgstr "Nastavení zabezpečení nedovoluje kopírovat stránky"
 
-msgid "January"
-msgstr "Leden"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ledna"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "Obrázky JPEG 2000 potřebují PDF 1.5, novější, než {} povoluje"
 
-msgid "July"
-msgstr "Červenec"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "července"
-
-msgid "June"
-msgstr "Červen"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Mapuje na standardní roli"
 
-msgid "March"
-msgstr "Březen"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "března"
@@ -6107,9 +6080,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "největší hodnota"
-
-msgid "May"
-msgstr "Květen"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Není co vrátit zpět"
 msgid "nothing to undo"
 msgstr "není co vrátit zpět"
 
-msgid "November"
-msgstr "Listopad"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "listopadu"
@@ -6963,9 +6930,6 @@ msgstr "OCR hotovo — na této stránce nebyl rozpoznán žádný text."
 
 msgid "OCR results rejected."
 msgstr "Výsledky OCR byly zamítnuty."
-
-msgid "October"
-msgstr "Říjen"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Informace o stránce"
 msgid "Page labels"
 msgstr "Označení stránek"
 
-msgid "Page layout"
-msgstr "Rozvržení stránky"
-
 msgid "Page maximum: {n}%"
 msgstr "Maximum strany: {n} %"
-
-msgid "Page navigation"
-msgstr "Navigace stránkami"
-
-msgid "Page number"
-msgstr "Číslo stránky"
 
 msgid "Page Only"
 msgstr "Jen stránka"
@@ -7441,9 +7396,6 @@ msgstr "Pořadí stránek:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Vlastnosti stránky"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7452,9 +7404,6 @@ msgstr "Rozsah stránek"
 
 msgid "Page Range Options"
 msgstr "Možnosti rozsahu stránek"
-
-msgid "Page size"
-msgstr "Velikost stránky"
 
 msgid "Page Sizing & Handling"
 msgstr "Velikost a zpracování stránek"
@@ -7797,9 +7746,6 @@ msgstr "Povolené akce po certifikaci"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefonní číslo (USA)"
 
 msgid "Phone Numbers"
 msgstr "Telefonní čísla"
@@ -8587,9 +8533,6 @@ msgstr "Odebrat JavaScript a akce"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Odebrat stránku"
 
 msgid "Remove printer marks"
 msgstr "Odebrat tiskové značky"
@@ -9758,9 +9701,6 @@ msgstr "Sépie"
 
 msgid "Sepia night"
 msgstr "Noční sépie"
-
-msgid "September"
-msgstr "Září"
 
 msgctxt "calendar date"
 msgid "September"

@@ -1123,9 +1123,6 @@ msgstr "Lồng ghép phù hợp"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Tháng 4"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "tháng 4"
@@ -1249,9 +1246,6 @@ msgstr "Kiểm tra dung lượng sử dụng"
 
 msgid "Audit space usage…"
 msgstr "Kiểm tra dung lượng sử dụng…"
-
-msgid "August"
-msgstr "Tháng 8"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "Ngôn ngữ tài liệu"
 msgid "Document Overhead"
 msgstr "Chi phí cấu trúc tài liệu"
 
-msgid "Document Properties"
-msgstr "Thuộc tính tài liệu"
-
 msgid "Document properties ({key})"
 msgstr "Thuộc tính tài liệu ({key})"
 
@@ -3762,9 +3753,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "Địa chỉ email"
 
 msgid "Email Addresses"
 msgstr "Địa chỉ email"
@@ -4191,9 +4179,6 @@ msgstr "Nhanh"
 
 msgid "Fast Web View"
 msgstr "Xem nhanh trên web"
-
-msgid "February"
-msgstr "Tháng 2"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "Tập lệnh của nó còn đọc các trường có tên được tạ
 msgid "Its security settings don't allow copying pages"
 msgstr "Cài đặt bảo mật của nó không cho phép sao chép trang"
 
-msgid "January"
-msgstr "Tháng 1"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "tháng 1"
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "Ảnh JPEG 2000 cần PDF 1.5, mới hơn mức {} cho phép"
 
-msgid "July"
-msgstr "Tháng 7"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "tháng 7"
-
-msgid "June"
-msgstr "Tháng 6"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "Tháng 3"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "tháng 3"
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "tối đa"
-
-msgid "May"
-msgstr "Tháng 5"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "Không có gì để hoàn tác"
 msgid "nothing to undo"
 msgstr "không có gì để hoàn tác"
 
-msgid "November"
-msgstr "Tháng 11"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "tháng 11"
@@ -6955,9 +6922,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "Tháng 10"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr "Thông tin trang"
 msgid "Page labels"
 msgstr "Nhãn trang"
 
-msgid "Page layout"
-msgstr "Bố cục trang"
-
 msgid "Page maximum: {n}%"
 msgstr "Mức tối đa của trang: {n}%"
-
-msgid "Page navigation"
-msgstr "Điều hướng trang"
-
-msgid "Page number"
-msgstr "Số trang"
 
 msgid "Page Only"
 msgstr "Chỉ trang"
@@ -7433,9 +7388,6 @@ msgstr "Thứ tự trang:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Thuộc tính trang"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "Phạm vi trang"
 
 msgid "Page Range Options"
 msgstr "Tùy chọn phạm vi trang"
-
-msgid "Page size"
-msgstr "Khổ trang"
 
 msgid "Page Sizing & Handling"
 msgstr "Định cỡ & xử lý trang"
@@ -7789,9 +7738,6 @@ msgstr "Các hành động được phép sau khi chứng nhận"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Số điện thoại"
 
 msgid "Phone Numbers"
 msgstr "Số điện thoại"
@@ -8579,9 +8525,6 @@ msgstr "Gỡ JavaScript và hành động"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Gỡ trang"
 
 msgid "Remove printer marks"
 msgstr "Gỡ dấu máy in"
@@ -9750,9 +9693,6 @@ msgstr "Màu nâu đỏ"
 
 msgid "Sepia night"
 msgstr "Nâu đỏ ban đêm"
-
-msgid "September"
-msgstr "Tháng 9"
 
 msgctxt "calendar date"
 msgid "September"

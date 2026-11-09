@@ -5040,9 +5040,6 @@ msgstr "페이지 이동"
 msgid "Page Number"
 msgstr "페이지 번호"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr "페이지 번호 서식"
 

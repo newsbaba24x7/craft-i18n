@@ -212,6 +212,9 @@ msgstr "データセットを適用"
 msgid "Apply to:"
 msgstr "適用先:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "円弧"
 
@@ -259,6 +262,9 @@ msgstr "プロファイルの指定…"
 
 msgid "Audio"
 msgstr "オーディオ"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "作成者"
@@ -1024,6 +1030,9 @@ msgstr "パネルをドッキング"
 msgid "Document"
 msgstr "文書"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "文書タイトル"
 
@@ -1156,6 +1165,9 @@ msgstr "EM ダッシュ"
 msgid "Em Space"
 msgstr "EM スペース"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "埋め込み"
 
@@ -1272,6 +1284,9 @@ msgstr "お気に入り"
 
 msgid "Feather"
 msgstr "ぼかし"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "フィールド"
@@ -1762,6 +1777,9 @@ msgstr "イタリア語"
 msgid "Italic"
 msgstr "斜体"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "日本語"
 
@@ -1779,6 +1797,12 @@ msgstr "ArtCraft の Discord に参加…"
 
 msgid "Join us on Discord"
 msgstr "Discord に参加"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "たった今"
@@ -2053,6 +2077,9 @@ msgstr "自動選択ツール"
 msgid "Magnification"
 msgstr "倍率"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "余白"
 
@@ -2070,6 +2097,9 @@ msgstr "最大化"
 
 msgid "Maximum"
 msgstr "最高"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "測定"
@@ -2338,6 +2368,9 @@ msgstr "通常"
 msgid "Not available"
 msgstr "利用不可"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC カラー"
 
@@ -2349,6 +2382,9 @@ msgstr "オブジェクト"
 
 msgid "Octagon"
 msgstr "八角形"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "奇数フィールド"
@@ -2458,6 +2494,21 @@ msgstr "パッケージ…"
 msgid "Page"
 msgstr "ページ"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "{page} / {pages} ページ"
 
@@ -2547,6 +2598,9 @@ msgstr "周囲長"
 
 msgid "Perspective"
 msgstr "遠近"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "写真"
@@ -2836,6 +2890,9 @@ msgstr "背景を削除"
 msgid "Remove from favorites"
 msgstr "お気に入りから削除"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "名前を変更"
 
@@ -3084,6 +3141,9 @@ msgstr "感度"
 
 msgid "Sent to {printer}"
 msgstr "{printer} に送信しました"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "サービス"

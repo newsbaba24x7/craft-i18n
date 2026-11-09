@@ -1123,9 +1123,6 @@ msgstr "Uygun iç içe yerleştirme"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Nisan"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "Alan kullanımını denetle"
 
 msgid "Audit space usage…"
 msgstr "Alan kullanımını denetle…"
-
-msgid "August"
-msgstr "Ağustos"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Belge dili"
 msgid "Document Overhead"
 msgstr "Belge Ek Yükü"
 
-msgid "Document Properties"
-msgstr "Belge Özellikleri"
-
 msgid "Document properties ({key})"
 msgstr "Belge özellikleri ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr "Düzenlenebilir metin"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "E-posta Adresi"
 
 msgid "Email Addresses"
 msgstr "E-posta Adresleri"
@@ -4195,9 +4183,6 @@ msgstr "Hızlı"
 
 msgid "Fast Web View"
 msgstr "Hızlı Web Görünümü"
-
-msgid "February"
-msgstr "Şubat"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Komut dosyası, adlarını çalışırken oluşturduğu alanları da oku
 msgid "Its security settings don't allow copying pages"
 msgstr "Güvenlik ayarları sayfaların kopyalanmasına izin vermiyor"
 
-msgid "January"
-msgstr "Ocak"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Temmuz"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "Haziran"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Standart rolle eşler"
 
-msgid "March"
-msgstr "Mart"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "en büyük"
-
-msgid "May"
-msgstr "Mayıs"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Geri alınacak bir şey yok"
 msgid "nothing to undo"
 msgstr "geri alınacak bir şey yok"
 
-msgid "November"
-msgstr "Kasım"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6959,9 +6926,6 @@ msgstr "OCR tamamlandı — bu sayfada metin tanınmadı."
 
 msgid "OCR results rejected."
 msgstr "OCR sonuçları reddedildi."
-
-msgid "October"
-msgstr "Ekim"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Sayfa bilgisi"
 msgid "Page labels"
 msgstr "Sayfa etiketleri"
 
-msgid "Page layout"
-msgstr "Sayfa düzeni"
-
 msgid "Page maximum: {n}%"
 msgstr "Sayfa en yüksek değeri: %{n}"
-
-msgid "Page navigation"
-msgstr "Sayfa gezintisi"
-
-msgid "Page number"
-msgstr "Sayfa numarası"
 
 msgid "Page Only"
 msgstr "Yalnızca Sayfa"
@@ -7437,9 +7392,6 @@ msgstr "Sayfa sırası:"
 msgid "Page Properties"
 msgstr "Sayfa Özellikleri"
 
-msgid "Page properties"
-msgstr "Sayfa özellikleri"
-
 msgid "Page properties…"
 msgstr "Sayfa özellikleri…"
 
@@ -7448,9 +7400,6 @@ msgstr "Sayfa Aralığı"
 
 msgid "Page Range Options"
 msgstr "Sayfa Aralığı Seçenekleri"
-
-msgid "Page size"
-msgstr "Sayfa boyutu"
 
 msgid "Page Sizing & Handling"
 msgstr "Sayfa Boyutlandırma ve İşleme"
@@ -7793,9 +7742,6 @@ msgstr "Sertifikalandırma sonrası izin verilen eylemler"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefon Numarası"
 
 msgid "Phone Numbers"
 msgstr "Telefon Numaraları"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Sayfayı kaldır"
 
 msgid "Remove printer marks"
 msgstr "Yazıcı işaretlerini kaldır"
@@ -9754,9 +9697,6 @@ msgstr "Sepya"
 
 msgid "Sepia night"
 msgstr "Gece sepyası"
-
-msgid "September"
-msgstr "Eylül"
 
 msgctxt "calendar date"
 msgid "September"

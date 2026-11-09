@@ -1123,9 +1123,6 @@ msgstr "उचित नेस्टिंग"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "अप्रैल"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "अप्रैल"
@@ -1249,9 +1246,6 @@ msgstr "स्थान उपयोग का ऑडिट करें"
 
 msgid "Audit space usage…"
 msgstr "स्थान उपयोग का ऑडिट करें…"
-
-msgid "August"
-msgstr "अगस्त"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "दस्तावेज़ की भाषा"
 msgid "Document Overhead"
 msgstr "दस्तावेज़ ओवरहेड"
 
-msgid "Document Properties"
-msgstr "दस्तावेज़ प्रॉपर्टीज़"
-
 msgid "Document properties ({key})"
 msgstr "दस्तावेज़ गुण ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "ईमेल पता"
 
 msgid "Email Addresses"
 msgstr "ईमेल पते"
@@ -4195,9 +4183,6 @@ msgstr "तेज़"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "फ़रवरी"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "इसकी सुरक्षा सेटिंग्स पृष्ठ कॉपी करने की अनुमति नहीं देतीं"
 
-msgid "January"
-msgstr "जनवरी"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "जनवरी"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "जुलाई"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "जुलाई"
-
-msgid "June"
-msgstr "जून"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "मार्च"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "मार्च"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "अधिकतम"
-
-msgid "May"
-msgstr "मई"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "पूर्ववत करने के लिए कुछ नही�
 msgid "nothing to undo"
 msgstr "पूर्ववत करने के लिए कुछ नहीं है"
 
-msgid "November"
-msgstr "नवंबर"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "नवंबर"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "अक्तूबर"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "पृष्ठ की जानकारी"
 msgid "Page labels"
 msgstr "पृष्ठ लेबल"
 
-msgid "Page layout"
-msgstr "पृष्ठ लेआउट"
-
 msgid "Page maximum: {n}%"
 msgstr "पृष्ठ अधिकतम: {n}%"
-
-msgid "Page navigation"
-msgstr "पृष्ठ नेविगेशन"
-
-msgid "Page number"
-msgstr "पृष्ठ संख्या"
 
 msgid "Page Only"
 msgstr "केवल पृष्ठ"
@@ -7437,9 +7392,6 @@ msgstr "पृष्ठ क्रम:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "पृष्ठ गुण"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "पृष्ठ श्रेणी"
 
 msgid "Page Range Options"
 msgstr "पृष्ठ श्रेणी विकल्प"
-
-msgid "Page size"
-msgstr "पृष्ठ आकार"
 
 msgid "Page Sizing & Handling"
 msgstr "पृष्ठ आकार और प्रबंधन"
@@ -7793,9 +7742,6 @@ msgstr "प्रमाणित करने के बाद अनुमत �
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "फ़ोन नंबर"
 
 msgid "Phone Numbers"
 msgstr "फ़ोन नंबर"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "पृष्ठ हटाएँ"
 
 msgid "Remove printer marks"
 msgstr "प्रिंटर मार्क हटाएँ"
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "रात्रि सेपिया"
-
-msgid "September"
-msgstr "सितंबर"
 
 msgctxt "calendar date"
 msgid "September"

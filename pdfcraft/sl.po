@@ -1123,9 +1123,6 @@ msgstr "Ustrezno gnezdenje"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "april"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "Preglej porabo prostora"
 
 msgid "Audit space usage…"
 msgstr "Preglej porabo prostora…"
-
-msgid "August"
-msgstr "avgust"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3382,9 +3376,6 @@ msgstr "Jezik dokumenta"
 msgid "Document Overhead"
 msgstr "Režija dokumenta"
 
-msgid "Document Properties"
-msgstr "Lastnosti dokumenta"
-
 msgid "Document properties ({key})"
 msgstr "Lastnosti dokumenta ({key})"
 
@@ -3774,9 +3765,6 @@ msgstr "Urejevalno besedilo"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "E-poštni naslov"
 
 msgid "Email Addresses"
 msgstr "E-poštni naslovi"
@@ -4203,9 +4191,6 @@ msgstr "Hitro"
 
 msgid "Fast Web View"
 msgstr "Hiter spletni ogled"
-
-msgid "February"
-msgstr "Februar"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5519,9 +5504,6 @@ msgstr "Njegov skript bere tudi polja, katerih imena sestavi med izvajanjem, zat
 msgid "Its security settings don't allow copying pages"
 msgstr "Njene varnostne nastavitve ne dovoljujejo kopiranja strani"
 
-msgid "January"
-msgstr "Januar"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5562,15 +5544,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "Julij"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "Junij"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6021,9 +5997,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr "Preslika v standardno vlogo"
 
-msgid "March"
-msgstr "Marec"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6111,9 +6084,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "največ"
-
-msgid "May"
-msgstr "Maj"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6937,9 +6907,6 @@ msgstr "Ni dejanj za razveljavitev"
 msgid "nothing to undo"
 msgstr "ni dejanj za razveljavitev"
 
-msgid "November"
-msgstr "November"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6967,9 +6934,6 @@ msgstr "OCR končan — na tej strani ni bilo prepoznano besedilo."
 
 msgid "OCR results rejected."
 msgstr "Rezultati OCR so zavrnjeni."
-
-msgid "October"
-msgstr "Oktober"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7418,17 +7382,8 @@ msgstr "Podatki o strani"
 msgid "Page labels"
 msgstr "Oznake strani"
 
-msgid "Page layout"
-msgstr "Postavitev strani"
-
 msgid "Page maximum: {n}%"
 msgstr "Največ na strani: {n} %"
-
-msgid "Page navigation"
-msgstr "Krmarjenje po straneh"
-
-msgid "Page number"
-msgstr "Številka strani"
 
 msgid "Page Only"
 msgstr "Samo stran"
@@ -7445,9 +7400,6 @@ msgstr "Vrstni red strani:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Lastnosti strani"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7456,9 +7408,6 @@ msgstr "Obseg strani"
 
 msgid "Page Range Options"
 msgstr "Možnosti obsega strani"
-
-msgid "Page size"
-msgstr "Velikost strani"
 
 msgid "Page Sizing & Handling"
 msgstr "Velikost in obravnava strani"
@@ -7801,9 +7750,6 @@ msgstr "Dovoljena dejanja po overitvi"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefonska številka"
 
 msgid "Phone Numbers"
 msgstr "Telefonske številke"
@@ -8591,9 +8537,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Odstrani stran"
 
 msgid "Remove printer marks"
 msgstr "Odstrani tiskarske oznake"
@@ -9762,9 +9705,6 @@ msgstr "Sepija"
 
 msgid "Sepia night"
 msgstr "Nočna sepija"
-
-msgid "September"
-msgstr "September"
 
 msgctxt "calendar date"
 msgid "September"

@@ -5038,9 +5038,6 @@ msgstr ""
 msgid "Page Number"
 msgstr ""
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr ""
 

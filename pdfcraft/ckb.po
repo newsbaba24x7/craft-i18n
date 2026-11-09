@@ -1123,9 +1123,6 @@ msgstr "نێوخستنی گونجاو"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "نیسان"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "نیسان"
@@ -1249,9 +1246,6 @@ msgstr "وردبینیکردنی بەکارهێنانی بۆشایی"
 
 msgid "Audit space usage…"
 msgstr "پشکنینی بەکارهێنانی بۆشایی…"
-
-msgid "August"
-msgstr "ئاب"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "زمانی بەڵگەنامە"
 msgid "Document Overhead"
 msgstr "باری زیادەی بەڵگەنامە"
 
-msgid "Document Properties"
-msgstr "تایبەتمەندییەکانی بەڵگەنامە"
-
 msgid "Document properties ({key})"
 msgstr "تایبەتمەندییەکانی بەڵگەنامە ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "ناونیشانی ئیمەیڵ"
 
 msgid "Email Addresses"
 msgstr "ناونیشانەکانی ئیمەیڵ"
@@ -4195,9 +4183,6 @@ msgstr "خێرا"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "شوبات"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "ڕێکخستنەکانی ئاسایشەکەی ڕێگە بە کۆپیکردنی پەڕەکان نادەن"
 
-msgid "January"
-msgstr "کانوونی دووەم"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "کانوونی دووەم"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "تەممووز"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "تەممووز"
-
-msgid "June"
-msgstr "حوزەیران"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "ئازار"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "ئازار"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "زۆرترین"
-
-msgid "May"
-msgstr "ئایار"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "هیچ شتێک نییە پاشگەزی بکرێتەوە"
 msgid "nothing to undo"
 msgstr "هیچ شتێک نییە پاشگەزی بکرێتەوە"
 
-msgid "November"
-msgstr "تشرینی دووەم"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "تشرینی دووەم"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "تشرینی یەکەم"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "نیشانەکانی پەڕە"
 
-msgid "Page layout"
-msgstr "شێوازی پەڕە"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "گەشتکردن لە پەڕەکاندا"
-
-msgid "Page number"
-msgstr "ژمارەی پەڕە"
 
 msgid "Page Only"
 msgstr "تەنیا پەڕە"
@@ -7437,9 +7392,6 @@ msgstr "ڕیزبەندی پەڕەکان:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "تایبەتمەندییەکانی پەڕە"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "مەودای پەڕەکان"
 
 msgid "Page Range Options"
 msgstr "هەڵبژاردەکانی مەودای پەڕەکان"
-
-msgid "Page size"
-msgstr "قەبارەی پەڕە"
 
 msgid "Page Sizing & Handling"
 msgstr "قەبارەدان و مامەڵەکردن لەگەڵ پەڕەکان"
@@ -7793,9 +7742,6 @@ msgstr "کردارە ڕێگەپێدراوەکان دوای بڕوانامەدا�
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "ژمارەی تەلەفۆن"
 
 msgid "Phone Numbers"
 msgstr "ژمارەکانی تەلەفۆن"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "لابردنی پەڕە"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "سیپیای شەو"
-
-msgid "September"
-msgstr "ئەیلوول"
 
 msgctxt "calendar date"
 msgid "September"

@@ -1123,9 +1123,6 @@ msgstr "การซ้อนที่เหมาะสม"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "เมษายน"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "เมษายน"
@@ -1249,9 +1246,6 @@ msgstr "ตรวจสอบการใช้พื้นที่"
 
 msgid "Audit space usage…"
 msgstr "ตรวจสอบการใช้พื้นที่…"
-
-msgid "August"
-msgstr "สิงหาคม"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "ภาษาของเอกสาร"
 msgid "Document Overhead"
 msgstr "ส่วนโครงสร้างของเอกสาร"
 
-msgid "Document Properties"
-msgstr "คุณสมบัติเอกสาร"
-
 msgid "Document properties ({key})"
 msgstr "คุณสมบัติเอกสาร ({key})"
 
@@ -3762,9 +3753,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "ที่อยู่อีเมล"
 
 msgid "Email Addresses"
 msgstr "ที่อยู่อีเมล"
@@ -4191,9 +4179,6 @@ msgstr "เร็ว"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "กุมภาพันธ์"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "การตั้งค่าความปลอดภัยของไฟล์ไม่อนุญาตให้คัดลอกหน้า"
 
-msgid "January"
-msgstr "มกราคม"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "มกราคม"
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "กรกฎาคม"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "กรกฎาคม"
-
-msgid "June"
-msgstr "มิถุนายน"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "มีนาคม"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "มีนาคม"
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "ค่าสูงสุด"
-
-msgid "May"
-msgstr "พฤษภาคม"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "ไม่มีอะไรให้เลิกทำ"
 msgid "nothing to undo"
 msgstr "ไม่มีอะไรให้เลิกทำ"
 
-msgid "November"
-msgstr "พฤศจิกายน"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "พฤศจิกายน"
@@ -6955,9 +6922,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "ตุลาคม"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "ป้ายหน้า"
 
-msgid "Page layout"
-msgstr "เค้าโครงหน้า"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "การนำทางหน้า"
-
-msgid "Page number"
-msgstr "เลขหน้า"
 
 msgid "Page Only"
 msgstr "เฉพาะหน้า"
@@ -7433,9 +7388,6 @@ msgstr "ลำดับหน้า:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "คุณสมบัติหน้า"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "ช่วงหน้า"
 
 msgid "Page Range Options"
 msgstr "ตัวเลือกช่วงหน้า"
-
-msgid "Page size"
-msgstr "ขนาดหน้า"
 
 msgid "Page Sizing & Handling"
 msgstr "การปรับขนาดและจัดการหน้า"
@@ -7789,9 +7738,6 @@ msgstr "การกระทำที่อนุญาตหลังจาก
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "หมายเลขโทรศัพท์"
 
 msgid "Phone Numbers"
 msgstr "หมายเลขโทรศัพท์"
@@ -8579,9 +8525,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "เอาหน้าออก"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9750,9 +9693,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "ซีเปียกลางคืน"
-
-msgid "September"
-msgstr "กันยายน"
 
 msgctxt "calendar date"
 msgid "September"

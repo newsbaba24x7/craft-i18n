@@ -1123,9 +1123,6 @@ msgstr "Asianmukainen sisäkkäisyys"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "Huhtikuu"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "huhtikuuta"
@@ -1249,9 +1246,6 @@ msgstr "Tarkastele tilankäyttöä"
 
 msgid "Audit space usage…"
 msgstr "Tarkastele tilankäyttöä…"
-
-msgid "August"
-msgstr "Elokuu"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Asiakirjan kieli"
 msgid "Document Overhead"
 msgstr "Asiakirjan yleiskulut"
 
-msgid "Document Properties"
-msgstr "Asiakirjan ominaisuudet"
-
 msgid "Document properties ({key})"
 msgstr "Asiakirjan ominaisuudet ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "Sähköpostiosoite"
 
 msgid "Email Addresses"
 msgstr "Sähköpostiosoitteet"
@@ -4195,9 +4183,6 @@ msgstr "Nopea"
 
 msgid "Fast Web View"
 msgstr "Nopea verkkonäkymä"
-
-msgid "February"
-msgstr "Helmikuu"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Sen komentosarja lukee myös kenttiä, joiden nimet se muodostaa suoritu
 msgid "Its security settings don't allow copying pages"
 msgstr "Suojausasetukset eivät salli sivujen kopiointia"
 
-msgid "January"
-msgstr "Tammikuu"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "tammikuuta"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "JPEG 2000 -kuvat tarvitsevat PDF 1.5:n, joka on uudempi kuin {} sallii"
 
-msgid "July"
-msgstr "Heinäkuu"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "heinäkuuta"
-
-msgid "June"
-msgstr "Kesäkuu"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "Maaliskuu"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "maaliskuuta"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "maksimi"
-
-msgid "May"
-msgstr "Toukokuu"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Ei kumottavaa"
 msgid "nothing to undo"
 msgstr "ei kumottavaa"
 
-msgid "November"
-msgstr "Marraskuu"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "marraskuuta"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "Lokakuu"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Sivun tiedot"
 msgid "Page labels"
 msgstr "Sivutunnisteet"
 
-msgid "Page layout"
-msgstr "Sivun asettelu"
-
 msgid "Page maximum: {n}%"
 msgstr "Sivun enimmäisarvo: {n}%"
-
-msgid "Page navigation"
-msgstr "Sivuilla siirtyminen"
-
-msgid "Page number"
-msgstr "Sivunumero"
 
 msgid "Page Only"
 msgstr "Vain sivu"
@@ -7437,9 +7392,6 @@ msgstr "Sivujärjestys:"
 msgid "Page Properties"
 msgstr "Sivun ominaisuudet"
 
-msgid "Page properties"
-msgstr "Sivun ominaisuudet"
-
 msgid "Page properties…"
 msgstr "Sivun ominaisuudet…"
 
@@ -7448,9 +7400,6 @@ msgstr "Sivualue"
 
 msgid "Page Range Options"
 msgstr "Sivualueen asetukset"
-
-msgid "Page size"
-msgstr "Sivukoko"
 
 msgid "Page Sizing & Handling"
 msgstr "Sivun koko ja käsittely"
@@ -7793,9 +7742,6 @@ msgstr "Sallitut toiminnot varmentamisen jälkeen"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Puhelinnumero"
 
 msgid "Phone Numbers"
 msgstr "Puhelinnumerot"
@@ -8583,9 +8529,6 @@ msgstr "Poista JavaScript ja toiminnot"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Poista sivu"
 
 msgid "Remove printer marks"
 msgstr "Poista painomerkit"
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "Yön seepia"
-
-msgid "September"
-msgstr "Syyskuu"
 
 msgctxt "calendar date"
 msgid "September"

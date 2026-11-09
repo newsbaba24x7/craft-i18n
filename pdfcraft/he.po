@@ -1123,9 +1123,6 @@ msgstr "קינון מתאים"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "אפריל"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "אפריל"
@@ -1249,9 +1246,6 @@ msgstr "בדיקת השימוש במקום"
 
 msgid "Audit space usage…"
 msgstr "בדיקת שימוש במקום…"
-
-msgid "August"
-msgstr "אוגוסט"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "שפת המסמך"
 msgid "Document Overhead"
 msgstr "תקורת המסמך"
 
-msgid "Document Properties"
-msgstr "מאפייני המסמך"
-
 msgid "Document properties ({key})"
 msgstr "מאפייני המסמך ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "כתובת דוא״ל"
 
 msgid "Email Addresses"
 msgstr "כתובות דוא״ל"
@@ -4199,9 +4187,6 @@ msgstr "מהירה"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "פברואר"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "הסקריפט שלו קורא גם שדות ששמותיהם נוצרי
 msgid "Its security settings don't allow copying pages"
 msgstr "הגדרות האבטחה שלו אינן מאפשרות להעתיק עמודים"
 
-msgid "January"
-msgstr "ינואר"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ינואר"
@@ -5558,15 +5540,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "יולי"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "יולי"
-
-msgid "June"
-msgstr "יוני"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "מרץ"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "מרץ"
@@ -6107,9 +6080,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "מקסימום"
-
-msgid "May"
-msgstr "מאי"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "אין פעולה לביטול"
 msgid "nothing to undo"
 msgstr "אין פעולה לביטול"
 
-msgid "November"
-msgstr "נובמבר"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "נובמבר"
@@ -6963,9 +6930,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "אוקטובר"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "תוויות עמודים"
 
-msgid "Page layout"
-msgstr "פריסת עמוד"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "ניווט בין עמודים"
-
-msgid "Page number"
-msgstr "מספר עמוד"
 
 msgid "Page Only"
 msgstr "עמוד בלבד"
@@ -7441,9 +7396,6 @@ msgstr "סדר העמודים:"
 msgid "Page Properties"
 msgstr "מאפייני עמוד"
 
-msgid "Page properties"
-msgstr "מאפייני עמוד"
-
 msgid "Page properties…"
 msgstr "מאפייני עמוד…"
 
@@ -7452,9 +7404,6 @@ msgstr "טווח עמודים"
 
 msgid "Page Range Options"
 msgstr "אפשרויות טווח עמודים"
-
-msgid "Page size"
-msgstr "גודל העמוד"
 
 msgid "Page Sizing & Handling"
 msgstr "גודל העמוד וטיפול בו"
@@ -7797,9 +7746,6 @@ msgstr "פעולות מותרות לאחר האישור"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "מספר טלפון"
 
 msgid "Phone Numbers"
 msgstr "מספרי טלפון"
@@ -8587,9 +8533,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "הסרת עמוד"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9758,9 +9701,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "ספטמבר"
 
 msgctxt "calendar date"
 msgid "September"

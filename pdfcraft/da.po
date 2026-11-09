@@ -1123,9 +1123,6 @@ msgstr "Hensigtsmæssig indlejring"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "april"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "april"
@@ -1249,9 +1246,6 @@ msgstr "Analysér pladsforbrug"
 
 msgid "Audit space usage…"
 msgstr "Analysér pladsforbrug…"
-
-msgid "August"
-msgstr "august"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Dokumentsprog"
 msgid "Document Overhead"
 msgstr "Dokumentoverhead"
 
-msgid "Document Properties"
-msgstr "Dokumentegenskaber"
-
 msgid "Document properties ({key})"
 msgstr "Dokumentegenskaber ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "E-mailadresse"
 
 msgid "Email Addresses"
 msgstr "E-mailadresser"
@@ -4195,9 +4183,6 @@ msgstr "Hurtig"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "februar"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr ""
 msgid "Its security settings don't allow copying pages"
 msgstr "Dens sikkerhedsindstillinger tillader ikke kopiering af sider"
 
-msgid "January"
-msgstr "januar"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "januar"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "juli"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "juli"
-
-msgid "June"
-msgstr "juni"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "marts"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "marts"
@@ -6103,9 +6076,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "maksimumet"
-
-msgid "May"
-msgstr "maj"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "Intet at fortryde"
 msgid "nothing to undo"
 msgstr "intet at fortryde"
 
-msgid "November"
-msgstr "november"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "november"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "oktober"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "Sideetiketter"
 
-msgid "Page layout"
-msgstr "Sidelayout"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "Sidenavigation"
-
-msgid "Page number"
-msgstr "Sidetal"
 
 msgid "Page Only"
 msgstr "Kun side"
@@ -7437,9 +7392,6 @@ msgstr "Siderækkefølge:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Sideegenskaber"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Sideinterval"
 
 msgid "Page Range Options"
 msgstr "Indstillinger for sideinterval"
-
-msgid "Page size"
-msgstr "Sidestørrelse"
 
 msgid "Page Sizing & Handling"
 msgstr "Sidestørrelse og håndtering"
@@ -7793,9 +7742,6 @@ msgstr "Tilladte handlinger efter certificering"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Telefonnummer"
 
 msgid "Phone Numbers"
 msgstr "Telefonnumre"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Fjern side"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "september"
 
 msgctxt "calendar date"
 msgid "September"

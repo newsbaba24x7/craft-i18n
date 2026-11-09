@@ -1123,9 +1123,6 @@ msgstr "適切な入れ子"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "4月"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "容量の使用状況を確認"
 
 msgid "Audit space usage…"
 msgstr "容量の使用状況を確認…"
-
-msgid "August"
-msgstr "8月"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "文書の言語"
 msgid "Document Overhead"
 msgstr "文書の管理情報"
 
-msgid "Document Properties"
-msgstr "文書のプロパティ"
-
 msgid "Document properties ({key})"
 msgstr "文書のプロパティ（{key}）"
 
@@ -3762,9 +3753,6 @@ msgstr "編集可能なテキスト"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "メールアドレス"
 
 msgid "Email Addresses"
 msgstr "メールアドレス"
@@ -4191,9 +4179,6 @@ msgstr "速い"
 
 msgid "Fast Web View"
 msgstr "高速 Web 表示"
-
-msgid "February"
-msgstr "2月"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "スクリプトが実行中に名前を組み立てるフィールドも
 msgid "Its security settings don't allow copying pages"
 msgstr "セキュリティ設定によりページのコピーが許可されていません"
 
-msgid "January"
-msgstr "1月"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "7月"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "6月"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr "地図の位置合わせには基準点が必要です。"
 msgid "Maps to standard role"
 msgstr "標準ロールにマッピング"
 
-msgid "March"
-msgstr "3月"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "最大値"
-
-msgid "May"
-msgstr "5月"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "取り消す操作はありません"
 msgid "nothing to undo"
 msgstr "取り消す操作はありません"
 
-msgid "November"
-msgstr "11月"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6955,9 +6922,6 @@ msgstr "OCR 完了 — このページではテキストを認識しませんで
 
 msgid "OCR results rejected."
 msgstr "OCR の結果を却下しました。"
-
-msgid "October"
-msgstr "10月"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr "ページ情報"
 msgid "Page labels"
 msgstr "ページラベル"
 
-msgid "Page layout"
-msgstr "ページレイアウト"
-
 msgid "Page maximum: {n}%"
 msgstr "ページ最大値: {n}%"
-
-msgid "Page navigation"
-msgstr "ページ移動"
-
-msgid "Page number"
-msgstr "ページ番号"
 
 msgid "Page Only"
 msgstr "ページのみ"
@@ -7433,9 +7388,6 @@ msgstr "ページの順序:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "ページのプロパティ"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "ページ範囲"
 
 msgid "Page Range Options"
 msgstr "ページ範囲のオプション"
-
-msgid "Page size"
-msgstr "ページサイズ"
 
 msgid "Page Sizing & Handling"
 msgstr "ページサイズと処理"
@@ -7789,9 +7738,6 @@ msgstr "証明後に許可する操作"
 
 msgid "Perpendicular"
 msgstr "垂直距離"
-
-msgid "Phone Number"
-msgstr "電話番号"
 
 msgid "Phone Numbers"
 msgstr "電話番号"
@@ -8579,9 +8525,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr "測定ビューポートを削除"
-
-msgid "Remove page"
-msgstr "ページを削除"
 
 msgid "Remove printer marks"
 msgstr "プリンターマークを削除"
@@ -9750,9 +9693,6 @@ msgstr "セピア"
 
 msgid "Sepia night"
 msgstr "ナイトセピア"
-
-msgid "September"
-msgstr "9月"
 
 msgctxt "calendar date"
 msgid "September"

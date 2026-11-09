@@ -1123,9 +1123,6 @@ msgstr "تودرتویی مناسب"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "آوریل"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "آوریل"
@@ -1249,9 +1246,6 @@ msgstr "بررسی میزان فضای مصرفی"
 
 msgid "Audit space usage…"
 msgstr "بررسی میزان فضای مصرفی…"
-
-msgid "August"
-msgstr "اوت"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "زبان سند"
 msgid "Document Overhead"
 msgstr "سربار سند"
 
-msgid "Document Properties"
-msgstr "ویژگی‌های سند"
-
 msgid "Document properties ({key})"
 msgstr "ویژگی‌های سند ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "نشانی ایمیل"
 
 msgid "Email Addresses"
 msgstr "نشانی‌های رایانامه"
@@ -4195,9 +4183,6 @@ msgstr "تند"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "فوریه"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "اسکریپت آن فیلد‌هایی را هم می‌خواند که
 msgid "Its security settings don't allow copying pages"
 msgstr "تنظیمات امنیتی آن کپی صفحه‌ها را مجاز نمی‌کند"
 
-msgid "January"
-msgstr "ژانویه"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "ژانویه"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "ژوئیه"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "ژوئیه"
-
-msgid "June"
-msgstr "ژوئن"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "مارس"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "مارس"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "بیشینه"
-
-msgid "May"
-msgstr "مه"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "چیزی برای واگردانی نیست"
 msgid "nothing to undo"
 msgstr "چیزی برای واگردانی نیست"
 
-msgid "November"
-msgstr "نوامبر"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "نوامبر"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "اکتبر"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "برچسب‌های صفحه"
 
-msgid "Page layout"
-msgstr "چیدمان صفحه"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "پیمایش صفحه"
-
-msgid "Page number"
-msgstr "شماره صفحه"
 
 msgid "Page Only"
 msgstr "فقط صفحه"
@@ -7437,9 +7392,6 @@ msgstr "ترتیب صفحه‌ها:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "ویژگی‌های صفحه"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "بازه صفحه"
 
 msgid "Page Range Options"
 msgstr "گزینه‌های بازه صفحه"
-
-msgid "Page size"
-msgstr "اندازه صفحه"
 
 msgid "Page Sizing & Handling"
 msgstr "اندازه و مدیریت صفحه"
@@ -7793,9 +7742,6 @@ msgstr "کنش‌های مجاز پس از گواهی کردن"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "شماره تلفن"
 
 msgid "Phone Numbers"
 msgstr "شماره‌های تلفن"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "حذف صفحه"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "سپتامبر"
 
 msgctxt "calendar date"
 msgid "September"

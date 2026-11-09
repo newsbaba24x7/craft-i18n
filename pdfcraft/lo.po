@@ -1123,9 +1123,6 @@ msgstr "ການຊ້ອນກັນຢ່າງເໝາະສົມ"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "ເມສາ"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "ກວດສອບການໃຊ້ພື້ນທີ່"
 
 msgid "Audit space usage…"
 msgstr "ກວດສອບການໃຊ້ພື້ນທີ່…"
-
-msgid "August"
-msgstr "ສິງຫາ"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "ພາສາຂອງເອກະສານ"
 msgid "Document Overhead"
 msgstr "ສ່ວນຈັດການເອກະສານ"
 
-msgid "Document Properties"
-msgstr "ຄຸນສົມບັດເອກະສານ"
-
 msgid "Document properties ({key})"
 msgstr "ຄຸນສົມບັດຂອງເອກະສານ ({key})"
 
@@ -3762,9 +3753,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "ທີ່ຢູ່ອີເມວ"
 
 msgid "Email Addresses"
 msgstr "ທີ່ຢູ່ອີເມວ"
@@ -4191,9 +4179,6 @@ msgstr "ໄວ"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "ກຸມພາ"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "ການຕັ້ງຄ່າຄວາມປອດໄພບໍ່ອະນຸຍາດໃຫ້ສຳເນົາໜ້າ"
 
-msgid "January"
-msgstr "ມັງກອນ"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "ກໍລະກົດ"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "ມິຖຸນາ"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "ມີນາ"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "ຄ່າສູງສຸດ"
-
-msgid "May"
-msgstr "ພຶດສະພາ"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "ບໍ່ມີສິ່ງໃດໃຫ້ຍົກເລີກ"
 msgid "nothing to undo"
 msgstr "ບໍ່ມີສິ່ງໃດໃຫ້ຍົກເລີກ"
 
-msgid "November"
-msgstr "ພະຈິກ"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6955,9 +6922,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "ຕຸລາ"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "ປ້າຍຊື່ໜ້າ"
 
-msgid "Page layout"
-msgstr "ໂຄງຮ່າງໜ້າ"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "ການນຳທາງໜ້າ"
-
-msgid "Page number"
-msgstr "ໝາຍເລກໜ້າ"
 
 msgid "Page Only"
 msgstr "ສະເພາະໜ້າ"
@@ -7433,9 +7388,6 @@ msgstr "ລຳດັບໜ້າ:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "ຄຸນສົມບັດໜ້າ"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "ຂອບເຂດໜ້າ"
 
 msgid "Page Range Options"
 msgstr "ຕົວເລືອກໄລຍະໜ້າ"
-
-msgid "Page size"
-msgstr "ຂະໜາດໜ້າ"
 
 msgid "Page Sizing & Handling"
 msgstr "ຂະໜາດໜ້າ ແລະ ການຈັດການ"
@@ -7789,9 +7738,6 @@ msgstr "ການກະທຳທີ່ອະນຸຍາດຫຼັງຈາກ
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "ເບີໂທລະສັບ"
 
 msgid "Phone Numbers"
 msgstr "ເບີໂທລະສັບ"
@@ -8579,9 +8525,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "ລຶບໜ້າອອກ"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9750,9 +9693,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "ເຊເປຍກາງຄືນ"
-
-msgid "September"
-msgstr "ກັນຍາ"
 
 msgctxt "calendar date"
 msgid "September"

@@ -1123,9 +1123,6 @@ msgstr "Atbilstoša ligzdošana"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr "Apstipriniet parakstu ierīcē (mSzafir gadījumā: CloudSigner logā un lietotnē mSzafir)…"
 
-msgid "April"
-msgstr "Aprīlis"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "aprīlis"
@@ -1249,9 +1246,6 @@ msgstr "Pārbaudīt vietas izmantojumu"
 
 msgid "Audit space usage…"
 msgstr "Pārbaudīt vietas izmantojumu…"
-
-msgid "August"
-msgstr "Augusts"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3379,9 +3373,6 @@ msgstr "Dokumenta valoda"
 msgid "Document Overhead"
 msgstr "Dokumenta papildu dati"
 
-msgid "Document Properties"
-msgstr "Dokumenta rekvizīti"
-
 msgid "Document properties ({key})"
 msgstr "Dokumenta rekvizīti ({key})"
 
@@ -3770,9 +3761,6 @@ msgstr "Rediģējams teksts"
 
 msgid "Editorial"
 msgstr "Redakcijas stils"
-
-msgid "Email Address"
-msgstr "E-pasta adrese"
 
 msgid "Email Addresses"
 msgstr "E-pasta adreses"
@@ -4199,9 +4187,6 @@ msgstr "Ātri"
 
 msgid "Fast Web View"
 msgstr "Ātrais tīmekļa skats"
-
-msgid "February"
-msgstr "Februāris"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5515,9 +5500,6 @@ msgstr "Tā skripts nolasa arī laukus, kuru nosaukumus izveido darbības laikā
 msgid "Its security settings don't allow copying pages"
 msgstr "Tā drošības iestatījumi neļauj kopēt lapas"
 
-msgid "January"
-msgstr "Janvāris"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "janvāris"
@@ -5558,15 +5540,9 @@ msgstr "Savieno rindu pārtraukumus un samazina fonta lielumu tikai tad, ja nepi
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "JPEG 2000 attēliem vajadzīgs PDF 1.5, kas ir jaunāks nekā atļauj {}"
 
-msgid "July"
-msgstr "Jūlijs"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "jūlijs"
-
-msgid "June"
-msgstr "Jūnijs"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6017,9 +5993,6 @@ msgstr "Kartes reģistrēšanai nepieciešami vadības punkti."
 msgid "Maps to standard role"
 msgstr "Kartē uz standarta lomu"
 
-msgid "March"
-msgstr "Marts"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "marts"
@@ -6107,9 +6080,6 @@ msgstr "Atbilstības: {matches}. Faili ar atbilstībām: {files}. Līdz galam no
 
 msgid "maximum"
 msgstr "maksimums"
-
-msgid "May"
-msgstr "Maijs"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6933,9 +6903,6 @@ msgstr "Nav ko atsaukt"
 msgid "nothing to undo"
 msgstr "nav ko atsaukt"
 
-msgid "November"
-msgstr "Novembris"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "novembris"
@@ -6963,9 +6930,6 @@ msgstr "OCR pabeigta — šajā lapā teksts nav atpazīts."
 
 msgid "OCR results rejected."
 msgstr "OCR rezultāti noraidīti."
-
-msgid "October"
-msgstr "Oktobris"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7414,17 +7378,8 @@ msgstr "Lapas informācija"
 msgid "Page labels"
 msgstr "Lapu apzīmējumi"
 
-msgid "Page layout"
-msgstr "Lapas izkārtojums"
-
 msgid "Page maximum: {n}%"
 msgstr "Lapas maksimums: {n}%"
-
-msgid "Page navigation"
-msgstr "Lapu navigācija"
-
-msgid "Page number"
-msgstr "Lapas numurs"
 
 msgid "Page Only"
 msgstr "Tikai lapa"
@@ -7441,9 +7396,6 @@ msgstr "Lapu secība:"
 msgid "Page Properties"
 msgstr "Lapas rekvizīti"
 
-msgid "Page properties"
-msgstr "Lapas rekvizīti"
-
 msgid "Page properties…"
 msgstr "Lapas rekvizīti…"
 
@@ -7452,9 +7404,6 @@ msgstr "Lapu diapazons"
 
 msgid "Page Range Options"
 msgstr "Lapu diapazona opcijas"
-
-msgid "Page size"
-msgstr "Lapas izmērs"
 
 msgid "Page Sizing & Handling"
 msgstr "Lapas izmērs un apstrāde"
@@ -7797,9 +7746,6 @@ msgstr "Pēc sertificēšanas atļautās darbības"
 
 msgid "Perpendicular"
 msgstr "Perpendikulāri"
-
-msgid "Phone Number"
-msgstr "Tālruņa numurs"
 
 msgid "Phone Numbers"
 msgstr "Tālruņu numuri"
@@ -8587,9 +8533,6 @@ msgstr "Noņemt JavaScript un darbības"
 
 msgid "Remove measurement viewport"
 msgstr "Noņemt mērījuma skatlauku"
-
-msgid "Remove page"
-msgstr "Noņemt lapu"
 
 msgid "Remove printer marks"
 msgstr "Noņemt drukas atzīmes"
@@ -9758,9 +9701,6 @@ msgstr "Sēpija"
 
 msgid "Sepia night"
 msgstr "Sēpijas nakts"
-
-msgid "September"
-msgstr "Septembris"
 
 msgctxt "calendar date"
 msgid "September"

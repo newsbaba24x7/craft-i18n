@@ -1123,9 +1123,6 @@ msgstr "Imbricació adequada"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "abril"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "Abril"
@@ -1249,9 +1246,6 @@ msgstr "Audita l'ús d'espai"
 
 msgid "Audit space usage…"
 msgstr "Auditoria de l'espai utilitzat…"
-
-msgid "August"
-msgstr "agost"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "Idioma del document"
 msgid "Document Overhead"
 msgstr "Sobrecàrrega del document"
 
-msgid "Document Properties"
-msgstr "Propietats del document"
-
 msgid "Document properties ({key})"
 msgstr "Propietats del document ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "Adreça electrònica"
 
 msgid "Email Addresses"
 msgstr "Adreces de correu electrònic"
@@ -4195,9 +4183,6 @@ msgstr "Ràpida"
 
 msgid "Fast Web View"
 msgstr "Visualització ràpida a la web"
-
-msgid "February"
-msgstr "febrer"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "Its script also reads fields whose names it builds as it runs, so those 
 msgid "Its security settings don't allow copying pages"
 msgstr "La seva configuració de seguretat no permet copiar pàgines"
 
-msgid "January"
-msgstr "gener"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "Gener"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr "Les imatges JPEG 2000 necessiten PDF 1.5, més recent del que permet {}"
 
-msgid "July"
-msgstr "juliol"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "Juliol"
-
-msgid "June"
-msgstr "juny"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "març"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "Març"
@@ -6103,9 +6076,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "màxim"
-
-msgid "May"
-msgstr "maig"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "No hi ha res per desfer"
 msgid "nothing to undo"
 msgstr "no hi ha res per desfer"
 
-msgid "November"
-msgstr "novembre"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "Novembre"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "octubre"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr "Informació de la pàgina"
 msgid "Page labels"
 msgstr "Etiquetes de pàgina"
 
-msgid "Page layout"
-msgstr "Disposició de la pàgina"
-
 msgid "Page maximum: {n}%"
 msgstr "Màxim de la pàgina: {n}%"
-
-msgid "Page navigation"
-msgstr "Navegació per pàgines"
-
-msgid "Page number"
-msgstr "Número de pàgina"
 
 msgid "Page Only"
 msgstr "Només la pàgina"
@@ -7437,9 +7392,6 @@ msgstr "Ordre de les pàgines:"
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "Propietats de la pàgina"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7448,9 +7400,6 @@ msgstr "Interval de pàgines"
 
 msgid "Page Range Options"
 msgstr "Opcions de l'interval de pàgines"
-
-msgid "Page size"
-msgstr "Mida de la pàgina"
 
 msgid "Page Sizing & Handling"
 msgstr "Mida i gestió de les pàgines"
@@ -7793,9 +7742,6 @@ msgstr "Accions permeses després de certificar"
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "Número de telèfon"
 
 msgid "Phone Numbers"
 msgstr "Números de telèfon"
@@ -8583,9 +8529,6 @@ msgstr "Elimina el JavaScript i les accions"
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "Elimina la pàgina"
 
 msgid "Remove printer marks"
 msgstr "Elimina les marques d'impressora"
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr "Sèpia nocturna"
-
-msgid "September"
-msgstr "setembre"
 
 msgctxt "calendar date"
 msgid "September"

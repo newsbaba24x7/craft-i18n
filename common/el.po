@@ -212,6 +212,9 @@ msgstr "Εφαρμογή συνόλου δεδομένων"
 msgid "Apply to:"
 msgstr ""
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Τόξο"
 
@@ -259,6 +262,9 @@ msgstr "Ανάθεση προφίλ…"
 
 msgid "Audio"
 msgstr "Ήχος"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "Συντάκτης"
@@ -1024,6 +1030,9 @@ msgstr "Αγκύρωση πάνελ"
 msgid "Document"
 msgstr "Έγγραφο"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Τίτλος εγγράφου"
 
@@ -1156,6 +1165,9 @@ msgstr "Μεγάλη παύλα (em)"
 msgid "Em Space"
 msgstr "Κενό em"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Ενσωμάτωση"
 
@@ -1272,6 +1284,9 @@ msgstr "Αγαπημένα"
 
 msgid "Feather"
 msgstr "Απαλό περίγραμμα"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Πεδίο"
@@ -1762,6 +1777,9 @@ msgstr "Ιταλικά"
 msgid "Italic"
 msgstr "Πλάγια"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Ιαπωνικά"
 
@@ -1779,6 +1797,12 @@ msgstr "Συμμετοχή στο Discord του ArtCraft…"
 
 msgid "Join us on Discord"
 msgstr "Ελάτε στην κοινότητά μας στο Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "μόλις τώρα"
@@ -2053,6 +2077,9 @@ msgstr "Μαγικό ραβδί (Magic Wand Tool)"
 msgid "Magnification"
 msgstr "Μεγέθυνση"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Περιθώρια"
 
@@ -2070,6 +2097,9 @@ msgstr "Μεγιστοποίηση"
 
 msgid "Maximum"
 msgstr "Μέγιστο"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Μέτρηση"
@@ -2338,6 +2368,9 @@ msgstr "Κανονική"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "Χρώματα NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "Αντικείμενο"
 
 msgid "Octagon"
 msgstr "Οκτάγωνο"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Περιττά πεδία"
@@ -2458,6 +2494,21 @@ msgstr "Συσκευασία…"
 msgid "Page"
 msgstr "Σελίδα"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr ""
 
@@ -2547,6 +2598,9 @@ msgstr "Περίμετρος"
 
 msgid "Perspective"
 msgstr "Προοπτική"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Φωτογραφία"
@@ -2836,6 +2890,9 @@ msgstr "Αφαίρεση φόντου"
 msgid "Remove from favorites"
 msgstr "Αφαίρεση από τα αγαπημένα"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Μετονομασία"
 
@@ -3084,6 +3141,9 @@ msgstr "Ευαισθησία"
 
 msgid "Sent to {printer}"
 msgstr "Στάλθηκε στον {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Υπηρεσίες"

@@ -1123,9 +1123,6 @@ msgstr "სწორი ჩადგმა"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "აპრილი"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr "აპრილი"
@@ -1249,9 +1246,6 @@ msgstr "სივრცის გამოყენების ანალი�
 
 msgid "Audit space usage…"
 msgstr "სივრცის გამოყენების ანალიზი…"
-
-msgid "August"
-msgstr "აგვისტო"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3376,9 +3370,6 @@ msgstr "დოკუმენტის ენა"
 msgid "Document Overhead"
 msgstr "დოკუმენტის დამხმარე მონაცემები"
 
-msgid "Document Properties"
-msgstr "დოკუმენტის თვისებები"
-
 msgid "Document properties ({key})"
 msgstr "დოკუმენტის თვისებები ({key})"
 
@@ -3766,9 +3757,6 @@ msgstr ""
 
 msgid "Editorial"
 msgstr ""
-
-msgid "Email Address"
-msgstr "ელფოსტის მისამართი"
 
 msgid "Email Addresses"
 msgstr "ელფოსტის მისამართები"
@@ -4195,9 +4183,6 @@ msgstr "სწრაფი"
 
 msgid "Fast Web View"
 msgstr ""
-
-msgid "February"
-msgstr "თებერვალი"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5511,9 +5496,6 @@ msgstr "მისი სკრიპტი ასევე კითხულო
 msgid "Its security settings don't allow copying pages"
 msgstr "მისი უსაფრთხოების პარამეტრები გვერდების კოპირებას არ იძლევა"
 
-msgid "January"
-msgstr "იანვარი"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr "იანვარი"
@@ -5554,15 +5536,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "ივლისი"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr "ივლისი"
-
-msgid "June"
-msgstr "ივნისი"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6013,9 +5989,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr "მარტი"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr "მარტი"
@@ -6103,9 +6076,6 @@ msgstr ""
 
 msgid "maximum"
 msgstr "მაქსიმუმი"
-
-msgid "May"
-msgstr "მაისი"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6929,9 +6899,6 @@ msgstr "დასაბრუნებელი არაფერია"
 msgid "nothing to undo"
 msgstr "დასაბრუნებელი არაფერია"
 
-msgid "November"
-msgstr "ნოემბერი"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr "ნოემბერი"
@@ -6959,9 +6926,6 @@ msgstr ""
 
 msgid "OCR results rejected."
 msgstr ""
-
-msgid "October"
-msgstr "ოქტომბერი"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7410,17 +7374,8 @@ msgstr ""
 msgid "Page labels"
 msgstr "გვერდის ჭდეები"
 
-msgid "Page layout"
-msgstr "გვერდის განლაგება"
-
 msgid "Page maximum: {n}%"
 msgstr ""
-
-msgid "Page navigation"
-msgstr "გვერდებზე ნავიგაცია"
-
-msgid "Page number"
-msgstr "გვერდის ნომერი"
 
 msgid "Page Only"
 msgstr "მხოლოდ გვერდი"
@@ -7437,9 +7392,6 @@ msgstr "გვერდების რიგი:"
 msgid "Page Properties"
 msgstr "გვერდის თვისებები"
 
-msgid "Page properties"
-msgstr "გვერდის თვისებები"
-
 msgid "Page properties…"
 msgstr "გვერდის თვისებები…"
 
@@ -7448,9 +7400,6 @@ msgstr "გვერდების დიაპაზონი"
 
 msgid "Page Range Options"
 msgstr "გვერდების დიაპაზონის პარამეტრები"
-
-msgid "Page size"
-msgstr "გვერდის ზომა"
 
 msgid "Page Sizing & Handling"
 msgstr "გვერდის ზომა და დამუშავება"
@@ -7793,9 +7742,6 @@ msgstr "დამოწმების შემდეგ დაშვებუ�
 
 msgid "Perpendicular"
 msgstr ""
-
-msgid "Phone Number"
-msgstr "ტელეფონის ნომერი"
 
 msgid "Phone Numbers"
 msgstr "ტელეფონის ნომრები"
@@ -8583,9 +8529,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr ""
-
-msgid "Remove page"
-msgstr "გვერდის მოშორება"
 
 msgid "Remove printer marks"
 msgstr ""
@@ -9754,9 +9697,6 @@ msgstr ""
 
 msgid "Sepia night"
 msgstr ""
-
-msgid "September"
-msgstr "სექტემბერი"
 
 msgctxt "calendar date"
 msgid "September"

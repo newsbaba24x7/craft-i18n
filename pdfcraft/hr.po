@@ -1123,9 +1123,6 @@ msgstr ""
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr ""
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1248,9 +1245,6 @@ msgid "Audit space usage"
 msgstr ""
 
 msgid "Audit space usage…"
-msgstr ""
-
-msgid "August"
 msgstr ""
 
 msgctxt "calendar date"
@@ -3379,9 +3373,6 @@ msgstr ""
 msgid "Document Overhead"
 msgstr ""
 
-msgid "Document Properties"
-msgstr ""
-
 msgid "Document properties ({key})"
 msgstr ""
 
@@ -3769,9 +3760,6 @@ msgid "Editable text"
 msgstr ""
 
 msgid "Editorial"
-msgstr ""
-
-msgid "Email Address"
 msgstr ""
 
 msgid "Email Addresses"
@@ -4198,9 +4186,6 @@ msgid "Fast"
 msgstr ""
 
 msgid "Fast Web View"
-msgstr ""
-
-msgid "February"
 msgstr ""
 
 msgctxt "calendar date"
@@ -5515,9 +5500,6 @@ msgstr ""
 msgid "Its security settings don't allow copying pages"
 msgstr ""
 
-msgid "January"
-msgstr ""
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5558,14 +5540,8 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr ""
-
 msgctxt "calendar date"
 msgid "July"
-msgstr ""
-
-msgid "June"
 msgstr ""
 
 msgctxt "calendar date"
@@ -6017,9 +5993,6 @@ msgstr ""
 msgid "Maps to standard role"
 msgstr ""
 
-msgid "March"
-msgstr ""
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6106,9 +6079,6 @@ msgid "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {s
 msgstr ""
 
 msgid "maximum"
-msgstr ""
-
-msgid "May"
 msgstr ""
 
 msgctxt "calendar date"
@@ -6933,9 +6903,6 @@ msgstr ""
 msgid "nothing to undo"
 msgstr ""
 
-msgid "November"
-msgstr ""
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6962,9 +6929,6 @@ msgid "OCR complete — no text recognized on this page."
 msgstr ""
 
 msgid "OCR results rejected."
-msgstr ""
-
-msgid "October"
 msgstr ""
 
 msgctxt "calendar date"
@@ -7414,16 +7378,7 @@ msgstr ""
 msgid "Page labels"
 msgstr ""
 
-msgid "Page layout"
-msgstr ""
-
 msgid "Page maximum: {n}%"
-msgstr ""
-
-msgid "Page navigation"
-msgstr ""
-
-msgid "Page number"
 msgstr ""
 
 msgid "Page Only"
@@ -7441,9 +7396,6 @@ msgstr ""
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr ""
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7451,9 +7403,6 @@ msgid "Page Range"
 msgstr ""
 
 msgid "Page Range Options"
-msgstr ""
-
-msgid "Page size"
 msgstr ""
 
 msgid "Page Sizing & Handling"
@@ -7796,9 +7745,6 @@ msgid "Permitted actions after certifying"
 msgstr ""
 
 msgid "Perpendicular"
-msgstr ""
-
-msgid "Phone Number"
 msgstr ""
 
 msgid "Phone Numbers"
@@ -8586,9 +8532,6 @@ msgid "Remove JavaScript and actions"
 msgstr ""
 
 msgid "Remove measurement viewport"
-msgstr ""
-
-msgid "Remove page"
 msgstr ""
 
 msgid "Remove printer marks"
@@ -9757,9 +9700,6 @@ msgid "Sepia"
 msgstr ""
 
 msgid "Sepia night"
-msgstr ""
-
-msgid "September"
 msgstr ""
 
 msgctxt "calendar date"

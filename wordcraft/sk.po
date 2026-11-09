@@ -5040,9 +5040,6 @@ msgstr "Posúvanie strán"
 msgid "Page Number"
 msgstr "Číslo strany"
 
-msgid "Page number"
-msgstr "Číslo strany"
-
 msgid "Page Number Format"
 msgstr "Formát čísel strán"
 

@@ -5040,9 +5040,6 @@ msgstr "Kretanje stranicama"
 msgid "Page Number"
 msgstr "Broj stranice"
 
-msgid "Page number"
-msgstr "Broj stranice"
-
 msgid "Page Number Format"
 msgstr "Format broja stranice"
 

@@ -1123,9 +1123,6 @@ msgstr "适当的嵌套"
 msgid "Approve the signature on the device (for mSzafir: in CloudSigner's window and the mSzafir app)…"
 msgstr ""
 
-msgid "April"
-msgstr "四月"
-
 msgctxt "calendar date"
 msgid "April"
 msgstr ""
@@ -1249,9 +1246,6 @@ msgstr "审计空间使用情况"
 
 msgid "Audit space usage…"
 msgstr "审计空间使用情况…"
-
-msgid "August"
-msgstr "八月"
 
 msgctxt "calendar date"
 msgid "August"
@@ -3373,9 +3367,6 @@ msgstr "文档语言"
 msgid "Document Overhead"
 msgstr "文档开销"
 
-msgid "Document Properties"
-msgstr "文档属性"
-
 msgid "Document properties ({key})"
 msgstr "文档属性 ({key})"
 
@@ -3762,9 +3753,6 @@ msgstr "可编辑文本"
 
 msgid "Editorial"
 msgstr "Editorial"
-
-msgid "Email Address"
-msgstr "电子邮件地址"
 
 msgid "Email Addresses"
 msgstr "电子邮件地址"
@@ -4191,9 +4179,6 @@ msgstr "快"
 
 msgid "Fast Web View"
 msgstr "快速 Web 查看"
-
-msgid "February"
-msgstr "二月"
 
 msgctxt "calendar date"
 msgid "February"
@@ -5507,9 +5492,6 @@ msgstr "其脚本还会读取运行时才拼出名称的字段，因此无法检
 msgid "Its security settings don't allow copying pages"
 msgstr "其安全设置不允许复制页面"
 
-msgid "January"
-msgstr "一月"
-
 msgctxt "calendar date"
 msgid "January"
 msgstr ""
@@ -5550,15 +5532,9 @@ msgstr ""
 msgid "JPEG 2000 pictures need PDF 1.5, newer than {} allows"
 msgstr ""
 
-msgid "July"
-msgstr "七月"
-
 msgctxt "calendar date"
 msgid "July"
 msgstr ""
-
-msgid "June"
-msgstr "六月"
 
 msgctxt "calendar date"
 msgid "June"
@@ -6009,9 +5985,6 @@ msgstr "地图配准需要控制点。"
 msgid "Maps to standard role"
 msgstr "映射到标准角色"
 
-msgid "March"
-msgstr "三月"
-
 msgctxt "calendar date"
 msgid "March"
 msgstr ""
@@ -6099,9 +6072,6 @@ msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {
 
 msgid "maximum"
 msgstr "最大值"
-
-msgid "May"
-msgstr "五月"
 
 msgctxt "calendar date"
 msgid "May"
@@ -6925,9 +6895,6 @@ msgstr "没有可撤销的操作"
 msgid "nothing to undo"
 msgstr "没有可撤销的操作"
 
-msgid "November"
-msgstr "十一月"
-
 msgctxt "calendar date"
 msgid "November"
 msgstr ""
@@ -6955,9 +6922,6 @@ msgstr "OCR 完成——此页未识别出文本。"
 
 msgid "OCR results rejected."
 msgstr "已放弃 OCR 结果。"
-
-msgid "October"
-msgstr "十月"
 
 msgctxt "calendar date"
 msgid "October"
@@ -7406,17 +7370,8 @@ msgstr "页面信息"
 msgid "Page labels"
 msgstr "页面标签"
 
-msgid "Page layout"
-msgstr "页面布局"
-
 msgid "Page maximum: {n}%"
 msgstr "页面最大值：{n}%"
-
-msgid "Page navigation"
-msgstr "页面导航"
-
-msgid "Page number"
-msgstr "页码"
 
 msgid "Page Only"
 msgstr "仅页面"
@@ -7433,9 +7388,6 @@ msgstr "页面顺序："
 msgid "Page Properties"
 msgstr ""
 
-msgid "Page properties"
-msgstr "页面属性"
-
 msgid "Page properties…"
 msgstr ""
 
@@ -7444,9 +7396,6 @@ msgstr "页面范围"
 
 msgid "Page Range Options"
 msgstr "页面范围选项"
-
-msgid "Page size"
-msgstr "页面大小"
 
 msgid "Page Sizing & Handling"
 msgstr "页面大小和处理"
@@ -7789,9 +7738,6 @@ msgstr "认证后允许的操作"
 
 msgid "Perpendicular"
 msgstr "垂直距离"
-
-msgid "Phone Number"
-msgstr "电话号码"
 
 msgid "Phone Numbers"
 msgstr "电话号码"
@@ -8579,9 +8525,6 @@ msgstr ""
 
 msgid "Remove measurement viewport"
 msgstr "移除测量视口"
-
-msgid "Remove page"
-msgstr "删除页面"
 
 msgid "Remove printer marks"
 msgstr "移除打印标记"
@@ -9750,9 +9693,6 @@ msgstr "棕褐色"
 
 msgid "Sepia night"
 msgstr "夜间棕褐色"
-
-msgid "September"
-msgstr "九月"
 
 msgctxt "calendar date"
 msgid "September"

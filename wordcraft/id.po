@@ -5040,9 +5040,6 @@ msgstr "Gerakan Halaman"
 msgid "Page Number"
 msgstr "Nomor Halaman"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr ""
 

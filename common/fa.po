@@ -212,6 +212,9 @@ msgstr "اعمال مجموعهٔ داده"
 msgid "Apply to:"
 msgstr "اعمال بر:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "کمان"
 
@@ -259,6 +262,9 @@ msgstr "تخصیص نمایه…"
 
 msgid "Audio"
 msgstr "صدا"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "نویسنده"
@@ -1024,6 +1030,9 @@ msgstr "پنل داک"
 msgid "Document"
 msgstr "سند"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "عنوان سند"
 
@@ -1156,6 +1165,9 @@ msgstr "خط بلند Em"
 msgid "Em Space"
 msgstr "فاصلهٔ Em"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "جای‌گذاری"
 
@@ -1272,6 +1284,9 @@ msgstr "برگزیده‌ها"
 
 msgid "Feather"
 msgstr "پرمانند"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "فیلد"
@@ -1762,6 +1777,9 @@ msgstr "ایتالیایی"
 msgid "Italic"
 msgstr "ایتالیک"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "ژاپنی"
 
@@ -1779,6 +1797,12 @@ msgstr "به Discord ArtCraft بپیوندید…"
 
 msgid "Join us on Discord"
 msgstr "در Discord به ما بپیوندید"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "همین حالا"
@@ -2053,6 +2077,9 @@ msgstr "ابزار عصای جادویی"
 msgid "Magnification"
 msgstr "بزرگ‌نمایی"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "حاشیه‌ها"
 
@@ -2070,6 +2097,9 @@ msgstr "بیشینه‌سازی"
 
 msgid "Maximum"
 msgstr "بیشینه"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "اندازه‌گیری"
@@ -2338,6 +2368,9 @@ msgstr "عادی"
 msgid "Not available"
 msgstr "در دسترس نیست"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "رنگ‌های NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "شیء"
 
 msgid "Octagon"
 msgstr "هشت‌ضلعی"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "میدان‌های فرد"
@@ -2458,6 +2494,21 @@ msgstr "بسته‌بندی…"
 msgid "Page"
 msgstr "صفحه"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "صفحهٔ {page} از {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "محیط"
 
 msgid "Perspective"
 msgstr "پرسپکتیو"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "عکس"
@@ -2836,6 +2890,9 @@ msgstr "حذف پس‌زمینه"
 msgid "Remove from favorites"
 msgstr "حذف از برگزیده‌ها"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "تغییر نام"
 
@@ -3084,6 +3141,9 @@ msgstr "حساسیت"
 
 msgid "Sent to {printer}"
 msgstr "فرستاده شد به {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "سرویس‌ها"

@@ -5040,9 +5040,6 @@ msgstr "翻页方式"
 msgid "Page Number"
 msgstr "页码"
 
-msgid "Page number"
-msgstr ""
-
 msgid "Page Number Format"
 msgstr "页码格式"
 

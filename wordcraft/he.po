@@ -5040,9 +5040,6 @@ msgstr "מעבר בין עמודים"
 msgid "Page Number"
 msgstr "מספר עמוד"
 
-msgid "Page number"
-msgstr "מספר עמוד"
-
 msgid "Page Number Format"
 msgstr "תבנית מספרי עמודים"
 

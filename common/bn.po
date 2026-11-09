@@ -212,6 +212,9 @@ msgstr "ডেটা সেট প্রয়োগ"
 msgid "Apply to:"
 msgstr "প্রয়োগ:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "চাপ"
 
@@ -259,6 +262,9 @@ msgstr "প্রোফাইল বরাদ্দ…"
 
 msgid "Audio"
 msgstr "অডিও"
+
+msgid "August"
+msgstr ""
 
 msgid "Author"
 msgstr "লেখক"
@@ -1024,6 +1030,9 @@ msgstr "ডক প্যানেল"
 msgid "Document"
 msgstr "নথি"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "নথির নাম"
 
@@ -1156,6 +1165,9 @@ msgstr "এম ড্যাশ"
 msgid "Em Space"
 msgstr "এম স্পেস"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "এমবেড"
 
@@ -1272,6 +1284,9 @@ msgstr "প্রিয়"
 
 msgid "Feather"
 msgstr "ফেদার"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "ক্ষেত্র"
@@ -1762,6 +1777,9 @@ msgstr "ইতালীয়"
 msgid "Italic"
 msgstr "তির্যক"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "জাপানি"
 
@@ -1779,6 +1797,12 @@ msgstr "আর্টক্রাফট ডিসকর্ডে যোগ দি
 
 msgid "Join us on Discord"
 msgstr "ডিসকর্ডে আমাদের সাথে যোগ দিন"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "এইমাত্র"
@@ -2053,6 +2077,9 @@ msgstr "ম্যাজিক ওয়ান্ড টুল"
 msgid "Magnification"
 msgstr "বিবর্ধন"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "মার্জিন"
 
@@ -2070,6 +2097,9 @@ msgstr "সর্বোচ্চ"
 
 msgid "Maximum"
 msgstr "সর্বোচ্চ"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "পরিমাপ"
@@ -2338,6 +2368,9 @@ msgstr "স্বাভাবিক"
 msgid "Not available"
 msgstr "উপলব্ধ নয়"
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "NTSC রঙ"
 
@@ -2349,6 +2382,9 @@ msgstr "অবজেক্ট"
 
 msgid "Octagon"
 msgstr "অষ্টভুজ"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "বিজোড় ক্ষেত্র"
@@ -2458,6 +2494,21 @@ msgstr "প্যাকেজ…"
 msgid "Page"
 msgstr "পৃষ্ঠা"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "{page}/{pages} পৃষ্ঠা"
 
@@ -2547,6 +2598,9 @@ msgstr "পরিসীমা"
 
 msgid "Perspective"
 msgstr "দৃষ্টিকোণ"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "ছবি"
@@ -2836,6 +2890,9 @@ msgstr "পটভূমি সরান"
 msgid "Remove from favorites"
 msgstr "প্রিয় হতে সরান"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "নাম বদল"
 
@@ -3084,6 +3141,9 @@ msgstr "সংবেদনশীলতা"
 
 msgid "Sent to {printer}"
 msgstr "{printer}-এ পাঠানো হয়েছে"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "পরিষেবা"

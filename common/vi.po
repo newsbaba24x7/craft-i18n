@@ -212,6 +212,9 @@ msgstr "Áp dụng tập dữ liệu"
 msgid "Apply to:"
 msgstr "Áp dụng cho:"
 
+msgid "April"
+msgstr ""
+
 msgid "Arc"
 msgstr "Cung"
 
@@ -258,6 +261,9 @@ msgid "Assign Profile…"
 msgstr "Gán hồ sơ màu…"
 
 msgid "Audio"
+msgstr ""
+
+msgid "August"
 msgstr ""
 
 msgid "Author"
@@ -1024,6 +1030,9 @@ msgstr "Neo bảng"
 msgid "Document"
 msgstr "Tài liệu"
 
+msgid "Document Properties"
+msgstr ""
+
 msgid "Document Title"
 msgstr "Tiêu đề tài liệu"
 
@@ -1156,6 +1165,9 @@ msgstr "Gạch ngang dài"
 msgid "Em Space"
 msgstr "Khoảng trắng em"
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Embed"
 msgstr "Nhúng"
 
@@ -1272,6 +1284,9 @@ msgstr "Yêu thích"
 
 msgid "Feather"
 msgstr "Làm mềm cạnh"
+
+msgid "February"
+msgstr ""
 
 msgid "Field"
 msgstr "Trường"
@@ -1762,6 +1777,9 @@ msgstr "Tiếng Ý"
 msgid "Italic"
 msgstr "Nghiêng"
 
+msgid "January"
+msgstr ""
+
 msgid "Japanese"
 msgstr "Tiếng Nhật"
 
@@ -1779,6 +1797,12 @@ msgstr "Tham gia Discord ArtCraft…"
 
 msgid "Join us on Discord"
 msgstr "Tham gia Discord"
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
 
 msgid "just now"
 msgstr "vừa xong"
@@ -2053,6 +2077,9 @@ msgstr "Công cụ Đũa thần"
 msgid "Magnification"
 msgstr "Độ phóng đại"
 
+msgid "March"
+msgstr ""
+
 msgid "Margins"
 msgstr "Lề"
 
@@ -2070,6 +2097,9 @@ msgstr "Phóng to"
 
 msgid "Maximum"
 msgstr "Tối đa"
+
+msgid "May"
+msgstr ""
 
 msgid "Measure"
 msgstr "Đo"
@@ -2338,6 +2368,9 @@ msgstr "Thường"
 msgid "Not available"
 msgstr ""
 
+msgid "November"
+msgstr ""
+
 msgid "NTSC Colors"
 msgstr "Màu NTSC"
 
@@ -2349,6 +2382,9 @@ msgstr "Đối tượng"
 
 msgid "Octagon"
 msgstr "Bát giác"
+
+msgid "October"
+msgstr ""
 
 msgid "Odd Fields"
 msgstr "Trường lẻ"
@@ -2458,6 +2494,21 @@ msgstr "Gói…"
 msgid "Page"
 msgstr "Trang"
 
+msgid "Page layout"
+msgstr ""
+
+msgid "Page navigation"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page properties"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
 msgid "Page {page} of {pages}"
 msgstr "Trang {page} trên {pages}"
 
@@ -2547,6 +2598,9 @@ msgstr "Chu vi"
 
 msgid "Perspective"
 msgstr "Phối cảnh"
+
+msgid "Phone Number"
+msgstr ""
 
 msgid "Photo"
 msgstr "Ảnh"
@@ -2836,6 +2890,9 @@ msgstr "Gỡ bỏ nền"
 msgid "Remove from favorites"
 msgstr "Xóa khỏi mục yêu thích"
 
+msgid "Remove page"
+msgstr ""
+
 msgid "Rename"
 msgstr "Đổi tên"
 
@@ -3084,6 +3141,9 @@ msgstr "Độ nhạy"
 
 msgid "Sent to {printer}"
 msgstr "Đã gửi tới {printer}"
+
+msgid "September"
+msgstr ""
 
 msgid "Services"
 msgstr "Dịch vụ"

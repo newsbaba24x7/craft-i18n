@@ -11,20 +11,11 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-	Angle	கோணம்
-	Blur	மங்கல்
-	Corner Radius	மூலை ஆரம்
-	Distance	தூரம்
-	Opacity	ஒளிபுகாமை
-	Size	அளவு
 	Template: {name}	வார்ப்புரு: {name}
-	(none)	(எதுவுமில்லை)
 	(removed from {list})	({list} இலிருந்து அகற்றப்பட்டது)
 	(unavailable)	(கிடைக்கவில்லை)
 	({ch} output channels)	{ch} வெளியீட்டு சேனல்கள்)
 	and	மற்றும்
-	frames	சட்டகங்கள்
-	seconds	வினாடிகள்
 	· {time} left	· {time} மீதமுள்ளது
 	(Default)	(இயல்புநிலை)
 	(empty)	(காலி)
@@ -79,7 +70,6 @@
 	Action-Safe Margin	செயல் பாதுகாப்பு ஓரம்
 	Action:	செயல்:
 	Active Monitor	செயலில் உள்ள திரை
-	Adaptive	தகவமைவு
 	Adaptive ({bpp} bits per pixel)	தகவமைவு (ஒரு பிக்சலுக்கு {bpp} பிட்கள்)
 	Add a timecode row	காலக்குறியீடு வரிசையைச் சேர்
 	Add another shortcut	மற்றொரு குறுக்குவழியைச் சேர்
@@ -131,9 +121,7 @@
 	Align to Video Frame	வீடியோ சட்டகமுடன் சீரமை
 	Align to Video Frame as Group	வீடியோ சட்டகமுடன் குழுவாகச் சீரமை
 	Align Top	மேலே சீரமை
-	All	அனைத்தும்
 	All Cameras	அனைத்து கேமராக்கள்
-	All Caps	அனைத்தும் பெரிய எழுத்து
 	All Empty Tracks	அனைத்து காலி தடங்கள்
 	All Events	அனைத்து நிகழ்வுகள்
 	All lines	அனைத்து வரிகள்
@@ -258,7 +246,6 @@
 	Audio {n}:	ஆடியோ {n}:
 	Audio:	ஆடியோ:
 	Audio…	ஆடியோ…
-	Auto	தானியங்கி
 	Auto (system)	தானியங்கி (முறைமை)
 	Auto Align	தானியங்கு வரிசைப்படுத்தல்
 	Auto Bezier	தானியங்கு பெசியர்
@@ -321,7 +308,6 @@
 	Barn Doors	கொட்டகைக் கதவுகள்
 	Bars and Tone	பட்டைகள் மற்றும் தொனி
 	Bars and Tone…	பட்டைகள் மற்றும் தொனி…
-	Baseline	அடிப்படைக்கோடு
 	Basic 3D	அடிப்படை 3D
 	Basic Correction	அடிப்படைத் திருத்தம்
 	Bass	கனத்த ஒலி
@@ -497,7 +483,6 @@
 	Clear Out	வெளிப் புள்ளியை அழி
 	Clear Poster Frame	முகப்புச் சட்டகம் அழி
 	Clear Recent Directories	சமீபத்திய கோப்புறைகளை அழி
-	Clear Recent Files	சமீபத்திய கோப்புகளை அழி
 	Clear Selected Marker	தேர்ந்தெடுத்த குறிப்பானை அழி
 	Clear Transition	மாற்றத்தை அழி
 	Cleared {n} shortcut(s) of {command}	{command} இன் {n} குறுக்குவழி(கள்) அழிக்கப்பட்டன
@@ -556,7 +541,6 @@
 	Color Distortion	நிறச் சிதைவு
 	Color Emboss	நிற எம்போஸ்
 	Color Key	நிறக் கீ
-	Color Management	நிற மேலாண்மை
 	Color Management · {n} item	நிற மேலாண்மை · {n} உருப்படி
 	Color Management · {n} items	நிற மேலாண்மை · {n} உருப்படிகள்
 	Color Management…	நிற மேலாண்மை…
@@ -790,7 +774,6 @@
 	Docking Action	டாக்கிங் செயல்
 	Does Not Contain	கொண்டிருக்காது
 	Don't label speakers	பேச்சாளர்களுக்கு லேபிள் இடாதே
-	Done	முடிந்தது
 	Dot Color	புள்ளி நிறம்
 	Double-click a sequence in the Project panel to open it here.	இங்கே திறக்க, திட்டப் பலகத்தில் ஒரு வரிசைத் தொகுப்பை இரட்டைச் சொடுக்கவும்.
 	Download Speech Model	பேச்சு மாதிரியைப் பதிவிறக்கு
@@ -818,7 +801,6 @@
 	Duck Under Voice and Effects	குரல் மற்றும் விளைவுகளுக்குக் கீழே தணி
 	Ducking	தானியங்கி ஒலி குறைப்பு
 	Duration:	கால அளவு:
-	Dutch	டச்சு
 	DVCPRO HD (1.5)	DVCPRO HD (1.5)
 	Dynamic Audio Waveforms	மாறும் ஆடியோ அலைவடிவங்கள்
 	Dynamic Link	டைனமிக் லிங்க்
@@ -939,7 +921,6 @@
 	Fade	ஃபேடு
 	Fade In	ஃபேடு இன்
 	Fade Out	ஃபேடு அவுட்
-	Faded Film	மங்கிய ஃபிலிம்
 	Faded Matte	மங்கிய மறைப்பு
 	Faded Print	மங்கிய பிரிண்ட்
 	Fades	ஃபேடுகள்
@@ -970,7 +951,6 @@
 	File Name & Location	கோப்புப் பெயர் & இடம்
 	File Name:	கோப்புப் பெயர்:
 	File Path	கோப்புப் பாதை
-	File Size	கோப்பு அளவு
 	File Types Displayed	காட்டப்படும் கோப்பு வகைகள்
 	File…	கோப்பு…
 	Fill Background	பின்னணியை நிரப்பு
@@ -1039,7 +1019,6 @@
 	Four Scopes (YUV, float, no clamp)	நான்கு ஸ்கோப்கள் (YUV, ஃப்ளோட், வரம்பிடாமல்)
 	Fractal Influence	ஃப்ராக்டல் தாக்கம்
 	Fractal Type	ஃப்ராக்டல் வகை
-	Frame	சட்டகம்
 	Frame Blending	சட்டக கலப்பு
 	Frame cache for monitors and thumbnails	திரைகள் மற்றும் சிறுபடங்களுக்கான சட்டக கேச்
 	Frame Color	சட்டக நிறம்
@@ -1099,7 +1078,6 @@
 	Get Media File Properties for	இதற்கான ஊடகக் கோப்புப் பண்புகளைப் பெறு
 	Get Project Notes	திட்டக் குறிப்புகளைப் பெறு
 	Ghosts	நிழல் உருவங்கள்
-	Glass	கண்ணாடி
 	Glint	மின்னல்
 	Glitch	கிளிட்ச்
 	Glow Color	ஒளிர்வு நிறம்
@@ -1201,11 +1179,9 @@
 	Head and Tail	தலை மற்றும் வால்
 	Head Size	தலை அளவு
 	Heading	தலைப்பு
-	Height:	உயரம்:
 	Hide All Caption Tracks	அனைத்து வசன தடங்களையும் மறை
 	Hide Back Face	பின்புறத்தை மறை
 	Hide FilmCraft	FilmCraft ஐ மறை
-	Hide Others	மற்றவற்றை மறை
 	High contrast with held highlights and deep shadows	கட்டுப்படுத்தப்பட்ட ஒளிர்வுகளும் ஆழமான நிழல்களும் கொண்ட உயர் மாறுபாடு
 	High Cutoff	உச்ச அதிர்வெண் துண்டிப்பு
 	High Frequency Cut	உயர் அதிர்வெண் வெட்டு
@@ -1349,8 +1325,6 @@
 	Key Color	கீ நிறம்
 	Key Frame Distance	முக்கியச் சட்டக இடைவெளி
 	Key:	விசை:
-	Keyboard Shortcuts	விசைப்பலகை குறுக்குவழிகள்
-	Keyboard Shortcuts…	விசைப்பலகை குறுக்குவழிகள்…
 	Keyboard: US	விசைப்பலகை: US
 	Keyboard: US (macOS)	விசைப்பலகை: US (macOS)
 	Keying	கீயிங்
@@ -1601,7 +1575,6 @@
 	minute(s)	நிமிடம்(கள்)
 	Mirror	கண்ணாடி
 	Mirror Alternate	மாற்று கண்ணாடி
-	Missing	காணவில்லை
 	Missing font replacement	இல்லாத எழுத்துருக்களுக்கான மாற்றீடு
 	MIT OR Apache-2.0. Fonts: Inter, Noto Serif and JetBrains Mono (SIL OFL 1.1).	MIT OR Apache-2.0. எழுத்துருக்கள்: Inter, Noto Serif மற்றும் JetBrains ஒற்றைத் தடம் (SIL OFL 1.1).
 	Miter join	கூர்முனை இணைப்பு
@@ -1741,7 +1714,6 @@
 	no Korean font is installed on this system; the interface stays in English	இந்த சிஸ்டத்தில் கொரிய எழுத்துரு நிறுவப்படவில்லை; இடைமுகம் ஆங்கிலத்திலேயே இருக்கும்
 	No markers. Press M to add one.	குறிப்பான்கள் இல்லை. ஒன்றைச் சேர்க்க M ஐ அழுத்தவும்.
 	No matching captions.	பொருந்தும் வசனங்கள் இல்லை.
-	No matching commands	பொருந்தும் கட்டளைகள் இல்லை
 	No model credits were built into this copy.	இந்த நகலில் மாதிரி நன்றியுரைகள் உள்ளடக்கப்படவில்லை.
 	No Motion	இயக்கம் இல்லை
 	No multi-camera clip at the playhead	இயக்கக் குறிமுள்ளில் பல-கேமரா துண்டு இல்லை
@@ -1838,7 +1810,6 @@
 	Open Most Recent	மிகச் சமீபத்தியதைத் திற
 	Open new tab	புதிய தாவலைத் திற
 	Open Project…	திட்டத்தைத் திற…
-	Open Recent	சமீபத்தியவற்றைத் திற
 	Open Search	தேடலைத் திற
 	Open this address in your browser yourself:	இந்த முகவரியை நீங்களே உங்கள் உலாவியில் திறக்கவும்:
 	Opened {url}	{url} திறக்கப்பட்டது
@@ -1994,7 +1965,6 @@
 	Preroll	தொடக்க ஓட்டம்
 	Presence Lift	பிரசன்ஸ் லிஃப்ட்
 	Preserve Scale	அளவைப் பாதுகாத்திடு
-	Preset Manager	முன்னமைவு மேலாளர்
 	Preset name	முன்னமைவுப் பெயர்
 	Preview Area	முன்னோட்டப் பகுதி
 	Preview File Format:	முன்னோட்டக் கோப்பு வடிவம்:
@@ -2065,7 +2035,6 @@
 	Rays Only	கதிர்கள் மட்டும்
 	Razor Tool	ரேசர் கருவி
 	Read	படி
-	Ready	தயார்
 	Rec. 2100	Rec. 2100
 	Rec. 601	Rec. 601
 	Rec. 709	Rec. 709
@@ -2367,7 +2336,6 @@
 	Set to frame size	சட்டக அளவிற்கு அமை
 	Set Transition Duration	மாற்றக் கால அளவை அமை
 	Setting	அமைப்பு
-	Settings:	அமைப்புகள்:
 	SFX	ஒலி விளைவுகள்
 	Shadow Angle	நிழல் கோணம்
 	Shadow Blue Balance	நிழல் நீல சமநிலை
@@ -2390,7 +2358,6 @@
 	Sharpen Amount	கூர்மையாக்கல் அளவு
 	Shift Center To	மையத்தை இதற்கு நகர்த்து
 	Shift clips that overlap trim point during ripple trimming	அலைவு ஒதுக்கீட்டின்போது ஒதுக்குப் புள்ளியுடன் மேற்பொருந்தும் துண்டுகளை நகர்த்து
-	Shortcut	குறுக்குவழி
 	Shot	ஷாட்
 	Shot/Take:	ஷாட்/டேக்:
 	Show "Project:" and "Bin:" in Project panel tab	திட்டப் பலகத் தாவலில் "திட்டம்:" மற்றும் "பின்:" ஐக் காண்பி
@@ -2456,8 +2423,6 @@
 	Skew Axis	சாய்வு அச்சு
 	Slab Color	பலகை நிறம்
 	Slats	பட்டைகள்
-	Slice	துண்டு
-	Slices	துண்டுகள்
 	Slide	சறுக்கு
 	Slide (Legacy)	சறுக்கு (பழைய பதிப்பு)
 	Slide Clip Selection Left Five Frames	துண்டுத் தேர்வை ஐந்து சட்டகங்களை இடப்புறம் சறுக்கு
@@ -2689,7 +2654,6 @@
 	TIFF Sequence	TIFF வரிசைத் தொகுப்பு
 	Tile Gradient	டைல் நிறப் படித்திறன்
 	Tilt (X Axis)	சாய்வு (X அச்சு)
-	Time	நேரம்
 	Time and Pitch	நேரம் மற்றும் சுருதி
 	Time Interpolation	நேர இடைச்செருகல்
 	Time Remapping	நேர மறுவரைபடம்
@@ -2985,7 +2949,6 @@
 	Wide gamut color (composite in BT.2020)	அகல கேமட் நிறம் (BT.2020 இல் கம்போசிட் செய்)
 	Wide Outdoor	அகலமான வெளிப்புறம்
 	Widener	அகலப்படுத்தி
-	Width:	அகலம்:
 	Wiggle	அதிர்வு
 	Wipe	துடைப்பழிவு
 	Wipe Angle	துடைப்பழிவு கோணம்

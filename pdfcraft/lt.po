@@ -2976,9 +2976,6 @@ msgstr ""
 msgid "Deactivate Read Out Loud"
 msgstr "Išjungti garsinį skaitymą"
 
-msgid "December"
-msgstr "gruodis"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "gruodžio"

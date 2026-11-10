@@ -2974,9 +2974,6 @@ msgstr "測地系の精度"
 msgid "Deactivate Read Out Loud"
 msgstr "読み上げを無効にする"
 
-msgid "December"
-msgstr "12月"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr ""

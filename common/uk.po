@@ -889,6 +889,9 @@ msgstr "Дати"
 msgid "De-Interlace"
 msgstr "Усунення черезрядковості"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Зменшити розмір шрифту"
 

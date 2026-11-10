@@ -889,6 +889,9 @@ msgstr "தேதிகள்"
 msgid "De-Interlace"
 msgstr "இடைப்பின்னலை நீக்கு"
 
+msgid "December"
+msgstr "டிசம்பர்"
+
 msgid "Decrease Font Size"
 msgstr "எழுத்துரு அளவைக் குறை"
 

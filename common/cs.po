@@ -889,6 +889,9 @@ msgstr "Data"
 msgid "De-Interlace"
 msgstr "Odstranit prokládání"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Zmenšit velikost písma"
 

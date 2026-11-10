@@ -889,6 +889,9 @@ msgstr "Päivämäärät"
 msgid "De-Interlace"
 msgstr "Poista lomitus"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Pienennä fonttikokoa"
 

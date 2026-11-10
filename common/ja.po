@@ -889,6 +889,9 @@ msgstr "日付"
 msgid "De-Interlace"
 msgstr "インターレース解除"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "フォントサイズを小さく"
 

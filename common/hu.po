@@ -889,6 +889,9 @@ msgstr "Dátumok"
 msgid "De-Interlace"
 msgstr "Váltottsorosság megszüntetése"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Betűméret csökkentése"
 

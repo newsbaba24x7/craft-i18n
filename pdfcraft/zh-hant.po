@@ -2974,9 +2974,6 @@ msgstr "基準精度"
 msgid "Deactivate Read Out Loud"
 msgstr "停用朗讀"
 
-msgid "December"
-msgstr "十二月"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr ""

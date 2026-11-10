@@ -889,6 +889,9 @@ msgstr "Datoer"
 msgid "De-Interlace"
 msgstr "Fjern linjefletting"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Reduser skriftstørrelsen"
 

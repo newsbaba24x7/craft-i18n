@@ -889,6 +889,9 @@ msgstr "Tarihler"
 msgid "De-Interlace"
 msgstr "Taramasızlaştırma"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Yazı Tipi Boyutunu Küçült"
 

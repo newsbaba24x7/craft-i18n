@@ -2976,9 +2976,6 @@ msgstr "Atskaites sistēmas precizitāte"
 msgid "Deactivate Read Out Loud"
 msgstr "Deaktivizēt lasīšanu balsī"
 
-msgid "December"
-msgstr "Decembris"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "decembris"

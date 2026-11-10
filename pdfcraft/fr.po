@@ -2975,9 +2975,6 @@ msgstr "Précision du référentiel géodésique"
 msgid "Deactivate Read Out Loud"
 msgstr "Désactiver la lecture à voix haute"
 
-msgid "December"
-msgstr "décembre"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "décembre"

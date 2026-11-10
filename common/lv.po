@@ -889,6 +889,9 @@ msgstr "Datumi"
 msgid "De-Interlace"
 msgstr "Noņemt rindpārlēci"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Samazināt fonta lielumu"
 

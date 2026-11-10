@@ -889,6 +889,9 @@ msgstr "日期"
 msgid "De-Interlace"
 msgstr "逐行"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "减小字体大小"
 

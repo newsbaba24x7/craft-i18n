@@ -889,6 +889,9 @@ msgstr "Tanggal"
 msgid "De-Interlace"
 msgstr "De-Interlace"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Perkecil ukuran font"
 

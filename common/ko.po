@@ -889,6 +889,9 @@ msgstr "날짜"
 msgid "De-Interlace"
 msgstr "디인터레이스"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "글꼴 크기 줄이기"
 

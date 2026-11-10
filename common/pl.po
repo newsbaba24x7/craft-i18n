@@ -889,6 +889,9 @@ msgstr "Daty"
 msgid "De-Interlace"
 msgstr "Usuń przeplot"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Zmniejsz rozmiar czcionki"
 

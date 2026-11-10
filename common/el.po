@@ -889,6 +889,9 @@ msgstr "Ημερομηνίες"
 msgid "De-Interlace"
 msgstr "Αποδιαπλοκή"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Μείωση μεγέθους γραμματοσειράς"
 

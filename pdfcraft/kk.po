@@ -2975,9 +2975,6 @@ msgstr ""
 msgid "Deactivate Read Out Loud"
 msgstr "Дауыстап оқуды өшіру"
 
-msgid "December"
-msgstr "Желтоқсан"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "Желтоқсан"

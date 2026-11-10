@@ -889,6 +889,9 @@ msgstr "تاریخ‌ها"
 msgid "De-Interlace"
 msgstr "رفع درهم‌بافتگی"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "کاهش اندازهٔ قلم"
 

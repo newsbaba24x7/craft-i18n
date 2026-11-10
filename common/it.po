@@ -889,6 +889,9 @@ msgstr "Date"
 msgid "De-Interlace"
 msgstr "Deinterlaccia"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Riduci dimensione font"
 

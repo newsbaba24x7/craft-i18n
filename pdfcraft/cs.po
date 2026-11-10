@@ -2976,9 +2976,6 @@ msgstr ""
 msgid "Deactivate Read Out Loud"
 msgstr "Deaktivovat hlasité čtení"
 
-msgid "December"
-msgstr "Prosinec"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "prosince"

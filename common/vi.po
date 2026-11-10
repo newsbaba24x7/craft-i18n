@@ -889,6 +889,9 @@ msgstr "Ngày tháng"
 msgid "De-Interlace"
 msgstr "Khử xen kẽ"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Giảm cỡ chữ"
 

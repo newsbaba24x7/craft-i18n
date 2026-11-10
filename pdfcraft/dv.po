@@ -2975,9 +2975,6 @@ msgstr ""
 msgid "Deactivate Read Out Loud"
 msgstr ""
 
-msgid "December"
-msgstr "ޑިސެމްބަރ"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "ޑިސެމްބަރ"

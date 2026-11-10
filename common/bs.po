@@ -889,6 +889,9 @@ msgstr "Datumi"
 msgid "De-Interlace"
 msgstr "Ukloni preplitanje"
 
+msgid "December"
+msgstr ""
+
 msgid "Decrease Font Size"
 msgstr "Smanji veličinu fonta"
 

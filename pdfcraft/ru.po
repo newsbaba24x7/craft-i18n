@@ -2976,9 +2976,6 @@ msgstr "Точность геодезической системы"
 msgid "Deactivate Read Out Loud"
 msgstr "Деактивировать чтение вслух"
 
-msgid "December"
-msgstr "Декабрь"
-
 msgctxt "calendar date"
 msgid "December"
 msgstr "Декабрь"

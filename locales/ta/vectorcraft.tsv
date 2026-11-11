@@ -434,7 +434,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 @msg	bad page tree	தவறான பக்க மரம்
 @msg	bad shortcut	தவறான குறுக்குவழி
 @msg	bad stream length	தவறான ஓட்ட நீளம்
-@msg	bad trailer	தவறான trailer
+@msg	bad trailer	தவறான முன்னோட்டம்
 @msg	balance must be between 0 and 100	சமநிலை 0 மற்றும் 100 இடையே இருக்க வேண்டும்
 	Bar Graph Tool	பட்டை வரைபடக் கருவி
 	Barbed	முட்கள் போன்ற
@@ -450,12 +450,12 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 @msg	below and above must name a panel floating in another group	below மற்றும் above மற்றொரு குழுவில் மிதக்கும் ஒரு பலகத்தின் பெயர்களாக இருக்க வேண்டும்
 	Best	சிறந்தது
 	Between Line and Object	கோட்டிற்கும் பொருளுக்கும் இடையில்
-	Bevel	பெவல்
-3d	Bevel	பெவல்
-	Bevel both sides	இருபுறமும் பெவல்
-	Bevel Inside	உள்ளே பெவல்
-	Bevel Join	பெவல் இணைப்பு
-	Bevel Shape	பெவல் வடிவம்
+	Bevel	சரிவு
+3d	Bevel	சரிவு
+	Bevel both sides	இருபுறமும் சரிவு
+	Bevel Inside	உள்சரிவு
+	Bevel Join	சரிவை இணை
+	Bevel Shape	சரிவு வடிவம்
 	Bind Variable	மாறியை இணை
 	Black and White	கருப்பு மற்றும் வெள்ளை
 	Black and White Logo	கருப்பு-வெள்ளை லோகோ
@@ -485,7 +485,6 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Bottom Right:	கீழ் வலது:
 	Bottom to Top	கீழிருந்து மேல்
 	Bottom-to-Bottom Leading	கீழிருந்து கீழ் வரை இடைவெளி
-	Bottom:	கீழ்:
 	Bounding Box	எல்லைப்பெட்டி
 	Bounds	எல்லைகள்
 	Bounds (Fill Proportionally)	எல்லைகள் (விகிதப்படி நிரப்பு)
@@ -521,7 +520,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Built-in presets don't change: New makes a copy you can edit.	உள்ளமைந்த முன்னமைவுகள் மாறாது: புதியது ஒரு திருத்தக்கூடிய நகலை உருவாக்கும்.
 	Built-in presets don't change: New… starts an editable copy.	உள்ளமைந்த முன்னமைவுகள் மாறாது: புதியது… திருத்தக்கூடிய நகலைத் தொடங்கும்.
 	Bulge…	புடைப்பு…
-	Burasagari	Burasagari
+	Burasagari	புரசகரி
 	Business Card 3.5 × 2 in	வணிக அட்டை 3.5 × 2 அங்குலம்
 	Business Card 85 × 55 mm	வணிக அட்டை 85 × 55 mm
 	Butt Cap	மழுங்கிய முனை
@@ -629,12 +628,12 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Click, then press the key this code stands for (Esc cancels)	சொடுக்கி, இந்தக் குறியீடு குறிக்கும் விசையை அழுத்தவும் (Esc ரத்துசெய்யும்)
 	Click, then press the new shortcut (Esc cancels)	சொடுக்கி, புதிய குறுக்குவழியை அழுத்தவும் (Esc ரத்துசெய்யும்)
 	Client-side (.html)	கிளையன்ட் பக்கம் (.html)
-	Clip	கிளிப்
-	Clip Complex Regions	சிக்கலான பகுதிகளைக் கிளிப் செய்
-	Clip Group	குழு கிளிப்
-	Clip to Art	ஓவியத்திற்கு கிளிப் செய்
-	Clip to Artboard	ஆர்ட்போர்டுக்கு கிளிப் செய்
-	Clip to Bounding Box	எல்லைப்பெட்டிக்கு கிளிப் செய்
+	Clip	வெட்டு
+	Clip Complex Regions	சிக்கலான பகுதிகளைக் வெட்டு
+	Clip Group	வெட்டுக் குழு
+	Clip to Art	ஓவியத்திற்கு வெட்டு
+	Clip to Artboard	ஆர்ட்போர்டுக்கு வெட்டு
+	Clip to Bounding Box	எல்லைப்பெட்டிக்கு வெட்டு
 	Clipboard as PDF	கிளிப்போர்டு PDF ஆக
 	Clipboard as PNG	கிளிப்போர்டு PNG ஆக
 	Clipboard as SVG	கிளிப்போர்டு SVG ஆக
@@ -642,7 +641,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Clipboard Formats	கிளிப்போர்டு வடிவங்கள்
 	Clipboard Handling	கிளிப்போர்டு கையாளுதல்
 @msg	clipboard is empty	கிளிப்போர்டு காலியாக உள்ளது
-	Clipping Masks	கிளிப்பிங் முகமூடிகள்
+	Clipping Masks	வெட்டி எடுத்தல் முகமூடிகள்
 	Close Gaps With Paths	பாதைகளுடன் இடைவெளிகளை மூடு
 	Close Library	நூலகத்தை மூடு
 	Close Path	பாதையை மூடு
@@ -852,9 +851,9 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Created	உருவாக்கப்பட்டது
 	Created:	உருவாக்கப்பட்டது:
 	CRLF (Windows)	CRLF (Windows)
-	Crop Image	படத்தை வெட்டு
-	Crop Marks	வெட்டுக் குறிகள்
-	Crop To	இதற்கு வெட்டு
+	Crop Image	படத்தை வெட்டிச் சுருக்கு
+	Crop Marks	வெட்டிச் சுருக்குக் குறிகள்
+	Crop To	இதற்கு வெட்டிச் சுருக்கு
 	Crosshatch…	குறுக்குக் கோடுகள்…
 	Crystallize Tool	படிகமாக்கு கருவி
 	CSS Properties	CSS பண்புகள்
@@ -875,7 +874,6 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Dark Strokes…	இருண்ட கோடுகள்…
 	dash	கோடு
 	Dash Pattern	கோட்டு வடிவம்
-	Dashed	கோடுகளாலான
 	Dashed Line	கோடிட்ட வரி
 	Data Recovery	தரவு மீட்பு
 @msg	Data Recovery has nowhere to keep copies: set Preferences → File Handling → Data Recovery → Folder (recoveryFolder)	தரவு மீட்புக்கு நகல்களை வைக்க இடம் இல்லை: விருப்பத்தேர்வுகள் → கோப்பு கையாளுதல் → தரவு மீட்பு → கோப்புறை (recoveryFolder) ஐ அமைக்கவும்
@@ -1014,7 +1012,6 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Do Not Move	நகர்த்த வேண்டாம்
 	Do Not Scale	அளவிட வேண்டாம்
 	Do you want to save the changes you made to “{name}”?	“{name}” இல் நீங்கள் செய்த மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?
-	Dock Panel	பலகத்தை நிலைநிறுத்து
 @msg	docking action contains an unknown panel or an excessive split path	பொருத்தும் செயலில் அறியப்படாத பலகம் அல்லது அதிக அளவிலான பிரிப்புப் பாதை உள்ளது
 	Document Color Mode	ஆவண நிறப் பயன்முறை
 	Document Info	ஆவணத் தகவல்
@@ -1114,9 +1111,8 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	East Asian Type	கிழக்கு ஆசிய உரை
 	Edge Fidelity	விளிம்பு துல்லியம்
 	Edge Thickness	விளிம்பு தடிமன்
-	Edge Width	விளிம்பு அகலம்
 	Edit Artboards	ஆர்ட்போர்டுகளைத் திருத்து
-	Edit Clipping Path	கிளிப்பிங் பாதையைத் திருத்து
+	Edit Clipping Path	வெட்டி எடுத்தல் பாதையைத் திருத்து
 	Edit Color Group	வண்ணக் குழுவைத் திருத்து
 	Edit Colors	நிறங்களைத் திருத்து
 	Edit Custom Dictionary…	தனிப்பயன் அகராதியைத் திருத்து…
@@ -1173,7 +1169,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 @msg	empty brush stroke	வெற்றுத் தூரிகைக் கோடு
 @msg	empty cutter	வெற்று வெட்டி
 @msg	empty path	வெற்றுப் பாதை
-	Emulsion:	எமல்ஷன்:
+	Emulsion:	பால்மம்:
 	Enable Background Export	பின்னணி ஏற்றுமதியை இயக்கு
 	Enable Background Save	பின்னணி சேமிப்பை இயக்கு
 	Enable Contextual Task Bar	சூழல் பணிப் பட்டியை இயக்கு
@@ -1294,7 +1290,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Exported {what} with {} note(s): {first}	{} குறிப்பு(கள்) உடன் {what} ஏற்றுமதி செய்யப்பட்டது: {first}
 @msg	Exporting {_1}	{_1} ஏற்றுமதி செய்யப்படுகிறது
 	Exporting {}	{} ஏற்றுமதி செய்யப்படுகிறது
-	Extrude & Bevel…	வெளித்தள்ளல் மற்றும் பெவல்…
+	Extrude & Bevel…	வெளித்தள்ளல் மற்றும் சரிவு…
 	Eyedropper Applies:	கண் துளிப்பான் பயன்படுத்துவது:
 	Eyedropper Options	கண் துளிப்பான் விருப்பங்கள்
 	Eyedropper Picks Up:	கண் துளிப்பான் எடுப்பது:
@@ -1332,7 +1328,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Filling in form fields and signing	படிவப் புலங்களை நிரப்புதல் மற்றும் கையொப்பமிடுதல்
 	Fills	நிரப்புகள்
 	Film & Video	திரைப்படம் & வீடியோ
-	Film Grain…	ஃபிலிம் தானியம்…
+	Film Grain…	திரைப்பட  தானியம்…
 	Filter Layers Panel Rows	அடுக்குகள் பலக வரிசைகளை வடிகட்டு
 	Find and Replace…	கண்டுபிடித்து மாற்று…
 	Find Font	எழுத்துருவைக் கண்டுபிடி
@@ -1527,7 +1523,6 @@ file-filter	Flattener presets	தட்டையாக்கி முன்ன�
 	Hand-Drawn	கையால் வரையப்பட்டது
 @msg	handle must be in or out	handle in அல்லது out ஆக இருக்க வேண்டும்
 	Handles	கைப்பிடிகள்
-	Hard	கடினம்
 	Harmony Rules	இணக்க விதிகள்
 	Harmony Rules:	இணக்க விதிகள்:
 	Harmony Sets	இணக்கத் தொகுப்புகள்
@@ -1538,7 +1533,6 @@ file-filter	Flattener presets	தட்டையாக்கி முன்ன�
 	Hex by Column	நெடுவரிசை வாரியாக அறுகோணம்
 	Hex by Row	வரிசை வாரியாக அறுகோணம்
 	Hexagon (open)	அறுகோணம் (திறந்த)
-	Hidden	மறைக்கப்பட்டது
 	Hidden Layer	மறைக்கப்பட்ட அடுக்கு
 	Hidden Objects:	மறைக்கப்பட்ட பொருட்கள்:
 	Hide Artboards	ஆர்ட்போர்டுகளை மறை
@@ -1936,7 +1930,7 @@ lighting	Light	ஒளி
 	Make all bleed settings the same	அனைத்து வெட்டு விளிம்பு அமைப்புகளையும் ஒரே மதிப்பாக்கு
 	Make and Expand	உருவாக்கி விரிவாக்கு
 	Make Blend	கலப்பை உருவாக்கு
-	Make Clipping Mask	கிளிப்பிங் முகமூடியை உருவாக்கு
+	Make Clipping Mask	வெட்டி எடுத்தல் முகமூடியை உருவாக்கு
 	Make Compound Path	கூட்டுப் பாதையை உருவாக்கு
 	Make Compound Shape	கூட்டு வடிவத்தை உருவாக்கு
 	Make Dynamic	இயக்கவியல் ஆக்கு
@@ -2042,7 +2036,7 @@ lighting	Light	ஒளி
 	More Align options	மேலும் சீரமைப்பு விருப்பங்கள்
 	More Options	மேலும் விருப்பங்கள்
 	More Paragraph options	மேலும் பத்தி விருப்பங்கள்
-	More Pathfinder options	மேலும் Pathfinder விருப்பங்கள்
+	More Pathfinder options	மேலும் வழிகாட்டி விருப்பங்கள்
 	More Settings	மேலும் அமைப்புகள்
 	Mosaic Tiles…	மொசைக் ஓடுகள்…
 	Move All Objects	அனைத்துப் பொருட்களையும் நகர்த்து
@@ -2130,7 +2124,7 @@ lighting	Light	ஒளி
 	New Layer Options…	புதிய அடுக்கு விருப்பங்கள்…
 	New Library Group	புதிய நூலகக் குழு
 	New Name	புதிய பெயர்
-	New Opacity Masks Are Clipping	புதிய ஒளிபுகாநிலை முகமூடிகள் கிளிப் செய்யும்
+	New Opacity Masks Are Clipping	புதிய ஒளிபுகாநிலை முகமூடிகள் வெட்டி எடுக்கும்
 	New Opacity Masks Are Inverted	புதிய ஒளிபுகாநிலை முகமூடிகள் தலைகீழாக்கப்படும்
 	New Paragraph Style	புதிய பத்தி பாணி
 	New Pattern Brush from Selection	தேர்விலிருந்து புதிய வடிவத் தூரிகை
@@ -2543,10 +2537,10 @@ imageTrace	Outline	வெளிரேகை
 	Path Eraser Tool	பாதை அழிப்பான் கருவி
 @msg	path is already closed	பாதை ஏற்கனவே மூடப்பட்டுள்ளது
 	Path Length	பாதை நீளம்
-	Pathfinder	Pathfinder
-	Pathfinder Options…	Pathfinder விருப்பங்கள்…
-@id	pathfinder.add	சேர்
-	Pathfinders:	Pathfinder கள்:
+	Pathfinder	வழிகாட்டி
+	Pathfinder Options…	வழிகாட்டி விருப்பங்கள்…
+@id	pathfinder.add	.சேர்
+	Pathfinders:	வழிகாட்டிகள்:
 @msg	paths contain invalid coordinates	பாதைகளில் தவறான ஆயத்தொலைவுகள் உள்ளன
 @msg	paths: give at least one file	paths: குறைந்தது ஒரு கோப்பைக் கொடுக்கவும்
 	Paths: {paths}    Anchors: {anchors}    Colors: {colors}	பாதைகள்: {paths}    நங்கூரங்கள்: {anchors}    நிறங்கள்: {colors}
@@ -2832,7 +2826,7 @@ gradient-kind	Radial	ஆரச்சார்ந்த
 	Regular expression not closed	வழக்கமான வெளிப்பாடு மூடப்படவில்லை
 	Release	விடுவி
 	Release Blend	கலப்பை விடுவி
-	Release Clipping Mask	கிளிப்பிங் மறைப்பை விடுவி
+	Release Clipping Mask	வெட்டி எடுத்தல் மறைப்பை விடுவி
 	Release Compound Path	கூட்டுப் பாதையை விடுவி
 	Release Compound Shape	கூட்டு வடிவத்தை விடுவி
 	Release Envelope	உறையை விடுவி
@@ -2903,7 +2897,7 @@ diagnostics	render	காட்சியாக்கு
 	Reorder Appearance Item	தோற்ற உருப்படியை மறுவரிசைப்படுத்து
 	Reorder Artboards	ஆர்ட்போர்டுகளை மறுவரிசைப்படுத்து
 	Repeat Options	மீள்செய்கை விருப்பங்கள்
-	Repeat Pathfinder	Pathfinder ஐ மீண்டும் செய்
+	Repeat Pathfinder	வழிகாட்டியை மீண்டும் செய்
 	Repeat Tab	தாவலை மீண்டும் செய்
 	Repeat {name}	{name} ஐ மீண்டும் செய்
 	Repeating	மீள்செய்கை
@@ -3137,7 +3131,6 @@ diagnostics	render	காட்சியாக்கு
 	Saving recovery data for {}	{} க்கான மீட்புத் தரவு சேமிக்கப்படுகிறது
 @msg	Saving {_1}	{_1} சேமிக்கப்படுகிறது
 	Saving {}	{} சேமிக்கப்படுகிறது
-	Scale	அளவு விகிதம்
 	Scale Artwork with Artboard	ஆர்ட்போர்டுடன் ஓவியத்தை அளவிடு
 	Scale Corners	மூலைகளை அளவிடு
 	Scale Cursor Proportional to UI	இடைமுகத்திற்கு ஏற்ப சுட்டியை அளவிடு
@@ -3183,7 +3176,7 @@ diagnostics	render	காட்சியாக்கு
 @msg	select (or target) objects whose appearance isn't basic	அடிப்படை அல்லாத தோற்றம் கொண்ட பொருட்களைத் தேர்ந்தெடுக்கவும் (அல்லது இலக்கிடவும்)
 @msg	select a blend	ஒரு கலப்பைத் தேர்ந்தெடுக்கவும்
 @msg	select a blend or give `id`	ஒரு கலப்பைத் தேர்ந்தெடுக்கவும் அல்லது `id` ஐக் கொடுக்கவும்
-@msg	select a clip group	ஒரு கிளிப் குழுவைத் தேர்ந்தெடுக்கவும்
+@msg	select a clip group	ஒரு வெட்டுக் குழுவைத் தேர்ந்தெடுக்கவும்
 @msg	select a gradient mesh	ஒரு சாய்வு வலையைத் தேர்ந்தெடுக்கவும்
 @msg	select a linked image: an embedded one has no file	இணைக்கப்பட்ட ஒரு படத்தைத் தேர்ந்தெடுக்கவும்: உட்பொதிக்கப்பட்டதற்குக் கோப்பு இல்லை
 @msg	select a Live Paint group	ஒரு நேரடி வண்ணக் குழுவைத் தேர்ந்தெடுக்கவும்
@@ -3689,7 +3682,7 @@ file-filter	Swatch libraries	வண்ண மாதிரி நூலகங்�
 @msg	the image's pixels don't match its size	படத்தின் பிக்சல்கள் அதன் அளவுடன் பொருந்தவில்லை
 @msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	சாளரம் தோன்றுவதற்கு முன் VectorCraft இன் கடைசித் தொடக்கம் {name} இல் முடிந்தது, எனவே அது {summary} இல் தொடங்கியது. அந்த வரைகலைச் செயலியை மீண்டும் முயல, விருப்பத்தேர்வுகள் › செயல்திறன் › வரைகலைச் செயலியை மாற்றவும் அல்லது WGPU_BACKEND அமைக்கப்பட்ட நிலையில் தொடங்கவும்
 @msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	வரைகலைச் செயலிகளைப் பட்டியலிடும்போது VectorCraft இன் கடைசித் தொடக்கம் முடிந்தது, எனவே அது OpenGL மட்டும் கொண்டு {summary} இல் தொடங்கியது. பிற வரைகலைப் பின்தளங்களை மீண்டும் முயல, விருப்பத்தேர்வுகள் › செயல்திறன் › வரைகலைச் செயலியை மாற்றவும் அல்லது WGPU_BACKEND அமைக்கப்பட்ட நிலையில் தொடங்கவும்
-@msg	the layer has no objects to clip by	அடுக்கில் கிளிப் செய்ய பொருட்கள் இல்லை
+@msg	the layer has no objects to clip by	அடுக்கில் வெட்ட பொருட்கள் இல்லை
 @msg	the layer or group is locked	அடுக்கு அல்லது குழு பூட்டப்பட்டுள்ளது
 @msg	the layer to flatten into is hidden	தட்டையாக்க வேண்டிய அடுக்கு மறைக்கப்பட்டுள்ளது
 	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	சேமி பலகத்தில் பெயர் “{typed}” ஆக இருந்தது; VectorCraft கோப்பு வகையின் நீட்சியைச் சேர்த்தது. கோப்பை மாற்றினால் அதன் உள்ளடக்கம் மேலெழுதப்படும்.
@@ -3735,7 +3728,7 @@ file-filter	Swatch libraries	வண்ண மாதிரி நூலகங்�
 	The system's settings of this printer	இந்த அச்சுப்பொறியின் கணினி அமைப்புகள்
 @msg	the target layer is locked or hidden	இலக்கு அடுக்கு பூட்டப்பட்டுள்ளது அல்லது மறைக்கப்பட்டுள்ளது
 @msg	the thumbnail image is malformed	சிறுபடப் படம் தவறான வடிவில் உள்ளது
-@msg	the top object must be a path, compound path or text object to use as a clipping mask	கிளிப்பிங் முகமூடியாகப் பயன்படுத்த மேல் பொருள் ஒரு பாதை, கூட்டுப் பாதை அல்லது உரைப் பொருளாக இருக்க வேண்டும்
+@msg	the top object must be a path, compound path or text object to use as a clipping mask	வெட்டி எடுத்தலை முகமூடியாகப் பயன்படுத்த மேல் பொருள் ஒரு பாதை, கூட்டுப் பாதை அல்லது உரைப் பொருளாக இருக்க வேண்டும்
 @msg	the WMF header is damaged	WMF தலைப்பு சேதமடைந்துள்ளது
 @msg	the {tool} tool has no options	{tool} கருவிக்கு விருப்பங்கள் இல்லை
 @msg	there are no objects to release	விடுவிக்க பொருட்கள் இல்லை
@@ -3864,7 +3857,6 @@ file-filter	Swatch libraries	வண்ண மாதிரி நூலகங்�
 @msg	truncated	துண்டிக்கப்பட்டது
 	Turn off Data Recovery for complex documents	சிக்கலான ஆவணங்களுக்கான தரவு மீட்பை முடக்கு
 	Tweak…	சரிசெய்…
-	Twirl	சுழல்
 	Twirl Rate:	சுழற்சி வேகம்:
 	Twirl Tool	சுழற்றும் கருவி
 	Twist…	முறுக்கு…
@@ -3968,7 +3960,7 @@ diagnostics	ui	இடைமுகம்
 	Use document bleed settings	ஆவணத்தின் வெட்டு விளிம்பு அமைப்புகளைப் பயன்படுத்து
 	Use Document Raster Effects Resolution	ஆவணத்தின் ராஸ்டர் விளைவுகளின் தெளிவுத்திறனைப் பயன்படுத்து
 	Use Even-Odd Fill Rule	இரட்டை-ஒற்றை நிரப்பு விதியைப் பயன்படுத்து
-	Use Japanese Crop Marks	ஜப்பானிய வெட்டுக் குறிகளைப் பயன்படுத்து
+	Use Japanese Crop Marks	ஜப்பானிய வெட்டிச் சுருக்குக் குறிகளைப் பயன்படுத்து
 	Use Library Item	நூலக உருப்படியைப் பயன்படுத்து
 	Use Low Resolution Proxy for Linked EPS	இணைக்கப்பட்ட EPS க்கு குறைந்த தெளிவுத்திறன் ப்ராக்ஸியைப் பயன்படுத்து
 	Use Non-Zero Winding Fill Rule	பூஜ்ஜியம் அல்லாத சுற்றல் நிரப்பு விதியைப் பயன்படுத்து
@@ -4065,7 +4057,6 @@ file-filter	VectorCraft Template	VectorCraft வார்ப்புரு
 	Vertically Scaled	செங்குத்தாக அளவிடப்பட்டது
 	Video Banner 2560×1440	வீடியோ பேனர் 2560×1440
 	Video Thumbnail 1280×720	வீடியோ சிறுபடம் 1280×720
-	View	பார்வை
 	View Artboard Only	ஆர்ட்போர்டை மட்டும் காட்டு
 	View Opacity Mask	ஒளிபுகாநிலை முகமூடியைக் காட்டு
 	View PDF after saving	சேமித்த பிறகு PDF ஐக் காட்டு

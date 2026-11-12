@@ -2533,3 +2533,356 @@ calendar weekday	We	பு
 	“{name}” is protected. Enter a password to open it.	“{name}” பாதுகாக்கப்பட்டுள்ளது. திறக்க கடவுச்சொல்லை உள்ளிடவும்.
 	… and {n} more	… மேலும் {n}
 	−LOC	−LOC
+	Accept	ஏற்றுக்கொள்
+	Bleed	வெட்டு விளிம்பு
+	CMYK	CMYK
+	Complete	முழுமை
+	Custom…	தனிப்பயன்…
+	Denoise	இரைச்சலைக் குறை
+	Despeckle	புள்ளிகளை நீக்கு
+	Filters	வடிகட்டிகள்
+	Float	ஃப்ளோட்
+	Hebrew	ஹீப்ரு
+	Ink	மை
+	Level {n}	மட்டம் {n}
+	Look	தோற்றம்
+	Marks	குறிகள்
+	Network	பிணையம்
+	Page Setup…	பக்க அமைப்பு…
+	Page information	பக்கத் தகவல்
+	Quit	வெளியேறு
+	Registration marks	பதிவுக் குறிகள்
+	Reject	நிராகரி
+	Replace…	மாற்று…
+	Search settings…	அமைப்புகளைத் தேடு…
+	Suggestions	பரிந்துரைகள்
+	System default	கணினி இயல்புநிலை
+	Trim marks	வெட்டுக் குறிகள்
+	{n} lines	{n} வரிகள்
+	(page {p})	(பக்கம் {p})
+	(searching… {s} of {p} pages)	(தேடுகிறது… {p} பக்கங்களில் {s})
+	({n} at {dpi} dpi, the largest size they can be drawn at)	({n} படங்கள் {dpi} dpi இல்: அவற்றை வரையக்கூடிய மிகப்பெரிய அளவு அதுவே)
+	({s} not exported: {first})	({s} ஏற்றுமதி செய்யப்படவில்லை: {first})
+	, Expires:	, காலாவதி:
+	Close window	சாளரத்தை மூடு
+	First page	முதல் பக்கம்
+	Go	செல்
+	Inks	மைகள்
+	Issued by:	வழங்கியவர்:
+	Keep	வைத்திரு
+	Larger text	பெரிய உரை
+	Limits	வரம்புகள்
+	Logo	லோகோ
+	on page {p}	பக்கம் {p} இல்
+	Recipients	பெறுநர்கள்
+	Reverse landscape	தலைகீழ் படுக்கைப்பரப்பு
+	Send	அனுப்பு
+	Sheets	தாள்கள்
+	thick	தடித்த
+document scrollbar width	Wide	அகலமான
+	Windows store  ·	Windows சேமிப்பகம்  ·
+	XMP metadata	XMP மேனிலைத் தரவு
+	· not fixable here	· இங்கே சரிசெய்ய இயலாது
+	· password-protected	· கடவுச்சொல் பாதுகாக்கப்பட்டது
+	Flags	கொடிகள்
+	Vertices	உச்சிகள்
+	bold	தடித்த
+	italic	சாய்வு
+	3D model	3D மாதிரி
+	skipped	தவிர்க்கப்பட்டது
+	With the control channel on, ui.state lists every guide (in the set format, and where it lies on screen) and the sets with their files and errors. ui.set document-guides <set as JSON or TOML> replaces the document's guides, guide-set <name>:on|off|toggle shows a set, guide-set-file <set> saves one, and guides, grid and snap-to-grid take on or off.	கட்டுப்பாட்டுச் சேனல் இயக்கத்தில் இருக்கும்போது, ui.state ஒவ்வொரு வழிகாட்டி கோட்டையும் (தொகுப்பு வடிவத்திலும், திரையில் அது இருக்கும் இடத்துடனும்) பட்டியலிடும்; தொகுப்புகளையும் அவற்றின் கோப்புகள் மற்றும் பிழைகளுடன் பட்டியலிடும். ui.set document-guides <JSON அல்லது TOML ஆகத் தொகுப்பு> ஆவணத்தின் வழிகாட்டி கோடுகளை மாற்றீடு செய்யும், guide-set <பெயர்>:on|off|toggle ஒரு தொகுப்பைக் காட்டும், guide-set-file <தொகுப்பு> ஒரு தொகுப்பைச் சேமிக்கும்; guides, grid, snap-to-grid ஆகியவை on அல்லது off ஐ ஏற்கும்.
+	removed	நீக்கப்பட்டது
+	Convert colours	நிறங்களை மாற்று
+	Copy comments	கருத்துகளை நகலெடு
+	New bookmarks from text styles	உரைப் பாணிகளிலிருந்து புதிய புத்தகக்குறிகள்
+	Paste comments	கருத்துகளை ஒட்டு
+review-suggestion	Replace text	உரையை மாற்று
+document scrollbar width	Standard	நிலையான
+	Page {p}	பக்கம் {p}
+	Domain	களம்
+	Add printer marks…	அச்சுக் குறிகளைச் சேர்…
+	Convert colours…	நிறங்களை மாற்று…
+	Correct recognized text…	அடையாளம் காணப்பட்ட உரையைத் திருத்து…
+	Enhance scanned file…	ஸ்கேன் கோப்பை மேம்படுத்து…
+	Fix hairlines…	மெல்லிய கோடுகளைச் சரிசெய்…
+	Freehand-Highlight	கையால் தனிப்படுத்து
+	New bookmarks from text styles…	உரைப் பாணிகளிலிருந்து புதிய புத்தகக்குறிகள்…
+	Page properties…	பக்கப் பண்புகள்…
+	Remove printer marks	அச்சுக் குறிகளை நீக்கு
+	Reset side panels	பக்கப் பலகங்களை மீட்டமை
+	Show or hide the side panel	பக்கப் பலகத்தைக் காட்டு அல்லது மறை
+	Show or hide the Tools panel	கருவிகள் பலகத்தைக் காட்டு அல்லது மறை
+	Show or hide toolbars and panels	கருவிப்பட்டைகளையும் பலகங்களையும் காட்டு அல்லது மறை
+	Close comment pop-up	கருத்து மேல்தோன்றலை மூடு
+	Move comment pop-up	கருத்து மேல்தோன்றலை நகர்த்து
+	Open comment pop-up	கருத்து மேல்தோன்றலைத் திற
+	Ungroup artwork	வரைகலையின் குழுவைப் பிரி
+	not editable text	திருத்த முடியாத உரை
+	Replace all	அனைத்தையும் மாற்று
+	scanned text	ஸ்கேன் செய்யப்பட்ட உரை
+	spans two paragraphs	இரண்டு பத்திகளில் பரவியுள்ளது
+	the font can't draw it	எழுத்துருவால் அதை வரைய முடியாது
+	the paragraph can't be rewritten	பத்தியை மீண்டும் எழுத முடியாது
+	Primary only	முதன்மை மட்டும்
+	Re-OCR this region	இந்தப் பகுதியை மீண்டும் OCR செய்
+	still checking whether the tesseract program can run; try again in a moment	tesseract நிரல் இயங்க முடியுமா என்று இன்னும் சரிபார்க்கப்படுகிறது; சிறிது நேரத்தில் மீண்டும் முயலவும்
+	the tesseract engine is not available in the web build	tesseract இயந்திரம் இணையப் பதிப்பில் கிடைக்காது
+	the tesseract program was not found (install it, or add it to the PATH)	tesseract நிரல் கண்டறியப்படவில்லை (அதை நிறுவவும், அல்லது PATH இல் சேர்க்கவும்)
+	Word	சொல்
+	HIGH (>= 90%)	உயர்வு (>= 90%)
+	LOW (< 70%)	குறைவு (< 70%)
+	MEDIUM (70-89%)	நடுத்தரம் (70-89%)
+	Duplex	இருபக்க அச்சு
+	Intent	நோக்கம்
+	Unspecified	குறிப்பிடப்படாதது
+	Certificate	சான்றிதழ்
+	Rating	மதிப்பீடு
+	by	×
+	This form has too many fields, or a field name too long, for PdfCraft to read them all. Any signature among the rest is not listed, so the document is treated as signed.	இந்தப் படிவத்தில் PdfCraft அனைத்தையும் படிக்க முடியாத அளவுக்கு அதிகமான புலங்கள் அல்லது மிக நீளமான புலப் பெயர் உள்ளது. மீதமுள்ளவற்றில் உள்ள எந்தக் கையொப்பமும் பட்டியலிடப்படவில்லை, எனவே ஆவணம் கையொப்பமிடப்பட்டதாகக் கருதப்படுகிறது.
+	Signature invalid	கையொப்பம் செல்லாதது
+	Signature valid	கையொப்பம் செல்லுபடியாகும்
+	Validity unknown	செல்லுபடி அறியப்படவில்லை
+	Click where the copied comments go; Escape lets them go	நகலெடுத்த கருத்துகள் செல்ல வேண்டிய இடத்தில் சொடுக்கவும்; Escape அழுத்தினால் அவை கைவிடப்படும்
+	Copy comments first	முதலில் கருத்துகளை நகலெடுக்கவும்
+	The clipboard holds no comments	கிளிப்போர்டில் கருத்துகள் எதுவும் இல்லை
+	Office documents	Office ஆவணங்கள்
+	Same as text	உரையின் நிறமே
+	Lock now	இப்போது பூட்டு
+	Page {page} holds more content than PdfCraft can read: part of it isn't drawn, and only part of its text can be found or copied.	பக்கம் {page} இல் PdfCraft படிக்கக்கூடியதை விட அதிகமான உள்ளடக்கம் உள்ளது: அதன் ஒரு பகுதி வரையப்படவில்லை, அதன் உரையில் ஒரு பகுதியை மட்டுமே கண்டறியவோ நகலெடுக்கவோ முடியும்.
+	Signature added. Others can move it until it's locked.	கையொப்பம் சேர்க்கப்பட்டது. அது பூட்டப்படும் வரை மற்றவர்கள் அதை நகர்த்தலாம்.
+	{n} pages hold more content than PdfCraft can read, page {page} first: parts of them aren't drawn, and only part of their text can be found or copied.	{n} பக்கங்களில் (பக்கம் {page} முதல்) PdfCraft படிக்கக்கூடியதை விட அதிகமான உள்ளடக்கம் உள்ளது: அவற்றின் சில பகுதிகள் வரையப்படவில்லை, அவற்றின் உரையில் ஒரு பகுதியை மட்டுமே கண்டறியவோ நகலெடுக்கவோ முடியும்.
+	Replace ({key})	மாற்று ({key})
+	Replace with	இதைக் கொண்டு மாற்று
+	Print area…	பகுதியை அச்சிடு…
+	Save as image	படமாகச் சேமி
+	Save as image…	படமாகச் சேமி…
+	Dock navigation rail on Left	வழிசெலுத்தல் பட்டையை இடதுபுறம் நிலைநிறுத்து
+	Dock navigation rail on Right	வழிசெலுத்தல் பட்டையை வலதுபுறம் நிலைநிறுத்து
+	Split down	கீழ்ப்புறமாகப் பிரி
+	Split right	வலப்புறமாகப் பிரி
+	printer marks	அச்சுக் குறிகள்
+	A placed signature is a comment until it is locked: anyone with a PDF editor can move or remove it. Locking makes your Fill & Sign text, marks and signatures part of the page.	வைக்கப்பட்ட கையொப்பம் பூட்டப்படும் வரை ஒரு கருத்தாகவே இருக்கும்: PDF திருத்தி உள்ள எவரும் அதை நகர்த்தவோ நீக்கவோ முடியும். பூட்டுவதால் உங்கள் Fill & Sign உரை, குறிகள் மற்றும் கையொப்பங்கள் பக்கத்தின் ஒரு பகுதியாகிவிடும்.
+	Don't ask again	மீண்டும் கேட்க வேண்டாம்
+	Keep editable	திருத்தக்கூடியதாக வை
+	Lock and save	பூட்டிச் சேமி
+	Lock your signature into the page?	உங்கள் கையொப்பத்தைப் பக்கத்தில் பூட்டவா?
+	1 line	1 வரி
+	Every line set in the style chosen for a level becomes a bookmark of that level, under a new first bookmark.	ஒரு மட்டத்துக்குத் தேர்ந்தெடுக்கப்பட்ட பாணியில் அமைந்த ஒவ்வொரு வரியும், புதிய முதல் புத்தகக்குறியின் கீழ், அந்த மட்டத்தின் புத்தகக்குறியாக மாறும்.
+	This document has no text to make bookmarks from.	இந்த ஆவணத்தில் புத்தகக்குறிகளை உருவாக்க உரை எதுவும் இல்லை.
+	Border colour	எல்லை நிறம்
+	Border opacity	எல்லை ஒளிபுகாமை
+	Border shape	எல்லை வடிவம்
+	Changes here apply to all {n} selected comments	இங்கு செய்யும் மாற்றங்கள் தேர்ந்தெடுக்கப்பட்ட {n} கருத்துகள் அனைத்துக்கும் பொருந்தும்
+	Fill opacity	நிரப்பு ஒளிபுகாமை
+	Line opacity	கோட்டு ஒளிபுகாமை
+	Text opacity	உரை ஒளிபுகாமை
+	By the standard device formulas; profiles are not applied.	நிலையான சாதனச் சூத்திரங்களின்படி; சுயவிவரங்கள் பயன்படுத்தப்படாது.
+	Comments and form fields	கருத்துகள் மற்றும் படிவப் புலங்கள்
+	Convert to	இதற்கு மாற்று
+	Converted {c} colours and {i} pictures on {p} pages	{p} பக்கங்களில் {c} நிறங்களும் {i} படங்களும் மாற்றப்பட்டன
+	Nothing on those pages needed converting	அந்தப் பக்கங்களில் மாற்ற வேண்டியது எதுவும் இல்லை
+	Pictures too	படங்களையும்
+	Preserve black	கருப்பைத் தக்கவை
+	pure black stays 100% K or gray 0 instead of a mix	தூய கருப்பு, நிறக் கலவையாக இல்லாமல் 100% K அல்லது சாம்பல் 0 ஆகவே இருக்கும்
+	re-encoded in the target space; JPEGs stay JPEG	இலக்கு வண்ண வெளியில் மீண்டும் குறியாக்கப்படும்; JPEGகள் JPEG ஆகவே இருக்கும்
+	their appearances as well as the page	பக்கத்துடன் அவற்றின் தோற்றங்களும்
+	Also	மேலும்
+	Fixed {n} hairlines on {p} pages	{p} பக்கங்களில் {n} மெல்லிய கோடுகள் சரிசெய்யப்பட்டன
+	Lines drawn inside Type 3 glyphs and tiling patterns; off by default.	Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவங்களுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்.
+	Narrower than	இதைவிட மெல்லியவை
+	New width	புதிய அகலம்
+	No hairlines found on those pages	அந்தப் பக்கங்களில் மெல்லிய கோடுகள் எதுவும் கண்டறியப்படவில்லை
+	Pattern strokes	வடிவத் தீற்றல்கள்
+	Type 3 font glyphs	Type 3 எழுத்துரு வரியுருக்கள்
+	Zero-width lines always count as narrower.	பூஜ்ஜிய அகலக் கோடுகள் எப்போதும் மெல்லியவையாகவே கணக்கிடப்படும்.
+	Check for updates when PdfCraft starts	PdfCraft தொடங்கும்போது புதுப்பிப்புகளைச் சரிபார்
+	General & Interface	பொது & இடைமுகம்
+	Invert middle-button drag	நடுப் பொத்தான் இழுத்தலைத் தலைகீழாக்கு
+	Navigation rail side	வழிசெலுத்தல் பட்டையின் பக்கம்
+	Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links.	இணைய (http, https) மற்றும் மின்னஞ்சல் முகவரிகள் மட்டுமே திறக்கும்; பிற இணைப்புகளைப் போலவே PdfCraft முதலில் கேட்கும்.
+	Open web and email addresses written in the page text	பக்க உரையில் எழுதப்பட்டுள்ள இணைய மற்றும் மின்னஞ்சல் முகவரிகளைத் திற
+	Otherwise, ask on the first save after a signature is placed	இல்லையெனில், கையொப்பம் வைக்கப்பட்ட பிறகு முதல் முறை சேமிக்கும்போது கேள்
+	Panning or auto-scrolling with the middle (wheel) button moves the page the other way.	நடு (உருளை) பொத்தானால் இழுத்து நகர்த்துவதும் தானாக ஸ்க்ரோல் செய்வதும் பக்கத்தை எதிர்த் திசையில் நகர்த்தும்.
+	All marks	அனைத்துக் குறிகளும்
+	Bleed marks	வெட்டு விளிம்புக் குறிகள்
+	Colour bars	நிறப் பட்டைகள்
+	Line weight	கோட்டுத் தடிமன்
+	Printer marks added	அச்சுக் குறிகள் சேர்க்கப்பட்டன
+	Room on each side	ஒவ்வொரு புறத்திலும் இடம்
+	The trim box is kept where it is, so the printed page cuts the same.	வெட்டுப் பெட்டி இருக்கும் இடத்திலேயே வைக்கப்படும், எனவே அச்சிடப்பட்ட பக்கம் முன்பு போலவே வெட்டப்படும்.
+	Widen the page to make room	இடம் அளிக்கப் பக்கத்தை அகலமாக்கு
+	PdfCraft's checks found no problems for {level}. This is not a validator result.	PdfCraft இன் சோதனைகள் {level} க்கான சிக்கல்கள் எதையும் கண்டறியவில்லை. இது ஒரு சரிபார்ப்பானின் முடிவு அல்ல.
+	PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes.	PdfCraft இன் சோதனைகள் இப்போது {level} க்கான சிக்கல்கள் எதையும் கண்டறியவில்லை. இது ஒரு சரிபார்ப்பானின் முடிவு அல்ல. மாற்றங்களைத் தக்கவைக்கச் சேமிக்கவும்.
+	Signature locked into the page.	கையொப்பம் பக்கத்தில் பூட்டப்பட்டது.
+	Collapse {folder}	{folder} ஐச் சுருக்கு
+	Expand {folder}	{folder} ஐ விரிவாக்கு
+	Add Tools to Hotbar	விரைவுப் பட்டையில் கருவிகளைச் சேர்
+	Border:	எல்லை:
+	Close menu	பட்டியை மூடு
+	Drag hotbar	விரைவுப் பட்டையை இழு
+	Extend the docked toolbar along the entire side. Choose a side above to enable.	நிலைநிறுத்தப்பட்ட கருவிப்பட்டையை அந்தப் புறம் முழுவதும் நீட்டு. இயக்க, மேலே ஒரு புறத்தைத் தேர்ந்தெடுக்கவும்.
+	Full-side strip	முழுப் புறப் பட்டை
+	Hotbar settings	விரைவுப் பட்டை அமைப்புகள்
+	Hotbar settings / add tools	விரைவுப் பட்டை அமைப்புகள் / கருவிகளைச் சேர்
+	Hotbar tools	விரைவுப் பட்டைக் கருவிகள்
+	Layout & Sizing	தளவமைப்பும் அளவும்
+	Remove from hotbar	விரைவுப் பட்டையிலிருந்து அகற்று
+	Search all tools…	அனைத்துக் கருவிகளையும் தேடு…
+	Stick to a side:	ஒரு பக்கத்தில் நிலைநிறுத்து:
+	Toolbar size	கருவிப்பட்டி அளவு
+	Vertical layout	செங்குத்துத் தளவமைப்பு
+	Copy comment	கருத்தை நகலெடு
+	Page Properties	பக்கப் பண்புகள்
+	Page templates	பக்க வார்ப்புருக்கள்
+	Print pages	பக்கங்களை அச்சிடு
+	Tab Order	தாவல் வரிசை
+	Use Column Order	நெடுவரிசைகள் வாரியான வரிசையைப் பயன்படுத்து
+	Use Document Structure	ஆவண அமைப்பைப் பயன்படுத்து
+	Use Row Order	வரிசைகள் வாரியான வரிசையைப் பயன்படுத்து
+	Edit description	விளக்கத்தைத் திருத்து
+	Paste bookmarks	புத்தகக்குறிகளை ஒட்டு
+	Lock into the page when saving	சேமிக்கும்போது பக்கத்துடன் பூட்டு
+	Show tab numbers	தாவல் எண்களைக் காட்டு
+	The document changed. Reopen Document Properties to edit the current version.	ஆவணம் மாறிவிட்டது. தற்போதைய பதிப்பைத் திருத்த, ஆவணப் பண்புகளை மீண்டும் திறக்கவும்.
+	Document: {name}	ஆவணம்: {name}
+	This document's script is asking	இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது
+	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	இந்தக் கோரிக்கை PdfCraft-இடமிருந்து அல்ல, ஆவணத்திடமிருந்து வருகிறது. இந்த ஆவணத்தை நீங்கள் நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்.
+review-suggestion	Replacement text	மாற்றீட்டு உரை
+	Delete comments	கருத்துகளை நீக்கு
+	Move comments	கருத்துகளை நகர்த்து
+	The copied comments are larger than this page; they were placed as they are	நகலெடுத்த கருத்துகள் இந்தப் பக்கத்தைவிடப் பெரியவை; அவை உள்ளபடியே வைக்கப்பட்டன
+	Cancel drawing	வரைதலை ரத்துசெய்
+	Undo last point	கடைசிப் புள்ளியைச் செயல்தவிர்
+	Comments: {n}	கருத்துகள்: {n}
+	Inherit Zoom	தற்போதைய பெரிதாக்கத்தைத் தக்கவை
+	Reading the drawing for snapping…	ஒட்டுதலுக்காக வரைபடத்தைப் படிக்கிறது…
+	A script edited here can be at most 256 KiB long; that change wasn't made.	இங்கே திருத்தப்படும் ஸ்கிரிப்ட் அதிகபட்சம் 256 KiB நீளம் மட்டுமே இருக்கலாம்; அந்த மாற்றம் செய்யப்படவில்லை.
+	Custom calculation script:	தனிப்பயன் கணக்கீட்டு ஸ்கிரிப்ட்:
+	This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is.	இந்த ஸ்கிரிப்ட் இங்கே திருத்த முடியாத அளவுக்கு நீளமானது ({kib} KiB); அதன் தொடக்கப் பகுதி காட்டப்படுகிறது. அது உள்ளபடியே வைக்கப்படும்.
+	No matches to replace	மாற்றுவதற்குப் பொருத்தங்கள் இல்லை
+	Not replaced: {why}	மாற்றப்படவில்லை: {why}
+	Nothing replaced	எதுவும் மாற்றப்படவில்லை
+	Replaced {n} on {pages}	மாற்றப்பட்டவை: {n} ({pages})
+	{k} skipped: {why}	தவிர்க்கப்பட்டவை {k}: {why}
+	Add a line filled in when the stamp is placed	முத்திரை வைக்கப்படும்போது நிரப்பப்படும் ஒரு வரியைச் சேர்
+	{name}, {date} and {time} become your name, the date and the time.	{name}, {date}, {time} ஆகியவை முறையே உங்கள் பெயராகவும், தேதியாகவும், நேரமாகவும் மாறும்.
+	This document hides the toolbars and panels. Press {key} to show them.	இந்த ஆவணம் கருவிப்பட்டிகளையும் பலகங்களையும் மறைக்கிறது. அவற்றைக் காட்ட {key}-ஐ அழுத்தவும்.
+	; cancelled — {n} files were not run	; ரத்துசெய்யப்பட்டது — {n} கோப்புகள் இயக்கப்படவில்லை
+	; {n} files already had text	; {n} கோப்புகளில் ஏற்கனவே உரை இருந்தது
+	A folder is asked for when a multiple-file run starts	பல கோப்புகளுக்கான இயக்கம் தொடங்கும்போது ஒரு கோப்புறை கேட்கப்படும்
+	Black and white (binarize)	கருப்பு வெள்ளை (இருமமாக்கல்)
+	Built-in	உள்ளமைந்தது
+	Combine engines	இயந்திரங்களை இணைக்கும் முறை
+	Confidence weighted	நம்பக அளவின்படி எடையிடல்
+	Couldn't download the text recognition models: {e}	உரை அடையாளம் காணும் மாதிரிகளைப் பதிவிறக்க இயலவில்லை: {e}
+	Downloading the text recognition models…	உரை அடையாளம் காணும் மாதிரிகளைப் பதிவிறக்குகிறது…
+	Editable text	திருத்தக்கூடிய உரை
+	Engine	இயந்திரம்
+	Force OCR (override skip options)	OCR-ஐக் கட்டாயமாக இயக்கு (தவிர்ப்பு விருப்பங்களை மீறு)
+	In multiple files: a file with any text is its own skipped bucket, and nothing is written for it	பல கோப்புகளில்: ஏதேனும் உரை உள்ள கோப்பு தனியாகத் தவிர்க்கப்பட்டதாகக் கணக்கிடப்படும், அதற்கு எதுவும் எழுதப்படாது
+	Output folder	வெளியீட்டுக் கோப்புறை
+	Pages with renderable text are left alone and reported as skipped	காட்டக்கூடிய உரை உள்ள பக்கங்கள் தொடப்படாமல் விடப்பட்டு, தவிர்க்கப்பட்டவையாகத் தெரிவிக்கப்படும்
+	Reads pages and files even where the skip options would leave them alone	தவிர்ப்பு விருப்பங்கள் விட்டுவிடும் இடங்களிலும் பக்கங்களையும் கோப்புகளையும் படிக்கும்
+	Remove scan speckle	ஸ்கேன் புள்ளிச்சிதறலை நீக்கு
+	ROVER vote	ROVER வாக்களிப்பு
+	Several files have the same name, so their results would overwrite each other; nothing was written: {list}	பல கோப்புகளுக்கு ஒரே பெயர் உள்ளதால், அவற்றின் முடிவுகள் ஒன்றையொன்று மேலெழுதிவிடும்; எதுவும் எழுதப்படவில்லை: {list}
+	Skip files that already have text	ஏற்கனவே உரை உள்ள கோப்புகளைத் தவிர்
+	Skip pages that already have text	ஏற்கனவே உரை உள்ள பக்கங்களைத் தவிர்
+	Straighten pages scanned sideways or upside down	பக்கவாட்டில் அல்லது தலைகீழாக ஸ்கேன் செய்யப்பட்ட பக்கங்களை நேராக்கு
+	Straighten skewed text lines	சாய்ந்த உரை வரிகளை நேராக்கு
+	The output folder already holds files of these names; nothing was written: {list}	வெளியீட்டுக் கோப்புறையில் இந்தப் பெயர்களில் ஏற்கனவே கோப்புகள் உள்ளன; எதுவும் எழுதப்படவில்லை: {list}
+	The searchable copies are written here under the source names	தேடக்கூடிய நகல்கள் மூலக் கோப்புகளின் அதே பெயர்களில் இங்கே எழுதப்படும்
+	Writes a new document of visible text; the scan is not changed	தெரியும் உரையாலான ஒரு புதிய ஆவணத்தை எழுதும்; ஸ்கேன் மாற்றப்படாது
+	{name}: {n} low-confidence word(s) on pages {pages}	{name}: குறைந்த நம்பக அளவுள்ள {n} சொல்(கள்), பக்கங்கள் {pages}
+	+ Dictionary	+ அகராதி
+	A 3×3 median filter against scan speckle	ஸ்கேன் புள்ளிச்சிதறலை நீக்கும் 3×3 இடைநிலை வடிகட்டி
+	Accept entire page	முழுப் பக்கத்தையும் ஏற்றுக்கொள்
+	Accept or reject the OCR review of the other document before running OCR here	இங்கே OCR-ஐ இயக்கும் முன், மற்ற ஆவணத்தின் OCR மதிப்பாய்வை ஏற்றுக்கொள்ளவும் அல்லது நிராகரிக்கவும்
+	Add a second engine's reading when the first is unsure	முதல் இயந்திரம் உறுதியாக இல்லாதபோது இரண்டாம் இயந்திரத்தின் வாசிப்பைச் சேர்க்கும்
+	Always read with both engines and merge the words	எப்போதும் இரு இயந்திரங்களாலும் படித்து, சொற்களை ஒன்றிணைக்கும்
+	Auto-rotate	தானாகச் சுழற்று
+	AVG CONFIDENCE	சராசரி நம்பக அளவு
+	Binarize	இருமமாக்கு
+	Both engines, combined as the Strategy says	இரு இயந்திரங்களும், உத்தி கூறும்படி இணைக்கப்படும்
+	Cancel re-read	மீண்டும் படிப்பதை ரத்துசெய்
+	Cancelled — {n} words were read on {m} of {t} pages; the rest were not read	ரத்துசெய்யப்பட்டது — {t} இல் {m} பக்கங்களில் {n} சொற்கள் படிக்கப்பட்டன; மீதமுள்ளவை படிக்கப்படவில்லை
+	Click a word to inspect it; drag a rectangle to re-read part of the page	ஒரு சொல்லை ஆய்வு செய்ய அதைச் சொடுக்கவும்; பக்கத்தின் ஒரு பகுதியை மீண்டும் படிக்க, இழுத்து ஒரு செவ்வகம் வரையவும்
+	CONFIDENCE	நம்பக அளவு
+	corrected	திருத்தப்பட்டது
+	Corrected text (Enter commits)	திருத்திய உரை (Enter உறுதிசெய்யும்)
+	Deskew	சாய்வை நீக்கு
+	ENGINE · STRATEGY	இயந்திரம் · உத்தி
+	F8: next word to review; Shift+F8 goes back	F8: மதிப்பாய்வு செய்ய வேண்டிய அடுத்த சொல்; Shift+F8 முந்தையதற்குச் செல்லும்
+	LOW-CONFIDENCE WORDS	குறைந்த நம்பக அளவுள்ள சொற்கள்
+	Mark this page as reviewed (Ctrl+T)	இந்தப் பக்கத்தை மதிப்பாய்வு செய்யப்பட்டதாகக் குறி (Ctrl+T)
+	Next uncertain	அடுத்த உறுதியற்ற சொல்
+	OCR complete — no text recognized on this page.	OCR முடிந்தது — இந்தப் பக்கத்தில் உரை எதுவும் அடையாளம் காணப்படவில்லை.
+	OCR results rejected.	OCR முடிவுகள் நிராகரிக்கப்பட்டன.
+	PAGE	பக்கம்
+	Page verified	பக்கம் சரிபார்க்கப்பட்டது
+	Previous uncertain	முந்தைய உறுதியற்ற சொல்
+	Re-OCR entire page	முழுப் பக்கத்தையும் மீண்டும் OCR செய்
+	Re-reading the page…	பக்கத்தை மீண்டும் படிக்கிறது…
+	Re-reading the region…	பகுதியை மீண்டும் படிக்கிறது…
+	Read {n} words on {m} of {t} pages	{t} இல் {m} பக்கங்களில் {n} சொற்கள் படிக்கப்பட்டன
+	Recognized text	அடையாளம் காணப்பட்ட உரை
+	Recognized text applied ({n} words, one undoable step)	அடையாளம் காணப்பட்ட உரை பயன்படுத்தப்பட்டது ({n} சொற்கள், செயல்தவிர்க்கக்கூடிய ஒரே படி)
+	Reject entire page	முழுப் பக்கத்தையும் நிராகரி
+	Run OCR	OCR-ஐ இயக்கு
+	Sauvola binarization: ink to black, paper to white	Sauvola இருமமாக்கல்: மை கருப்பாகவும், காகிதம் வெள்ளையாகவும் மாறும்
+	Select a word on the page to inspect it	ஆய்வு செய்ய, பக்கத்தில் ஒரு சொல்லைத் தேர்ந்தெடுக்கவும்
+	Shift+F8: the previous word to review	Shift+F8: மதிப்பாய்வு செய்ய வேண்டிய முந்தைய சொல்
+	Source page	மூலப் பக்கம்
+	Straightens skewed text lines before reading	படிக்கும் முன் சாய்ந்த உரை வரிகளை நேராக்கும்
+	That is the source file; choose another destination	அது மூலக் கோப்பு; வேறு சேருமிடத்தைத் தேர்ந்தெடுக்கவும்
+	The built-in engine (pure Rust)	உள்ளமைந்த இயந்திரம் (முழுமையாக Rust-இல் எழுதப்பட்டது)
+	The page was read again; its words were replaced (undo in the panel)	பக்கம் மீண்டும் படிக்கப்பட்டது; அதன் சொற்கள் மாற்றப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)
+	The page's words were applied as one undoable step ({n} words)	பக்கத்தின் சொற்கள் செயல்தவிர்க்கக்கூடிய ஒரே படியாகப் பயன்படுத்தப்பட்டன ({n} சொற்கள்)
+	The page's words were cleared (undo in the panel)	பக்கத்தின் சொற்கள் அழிக்கப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)
+	The re-read was cancelled; the words are unchanged	மீண்டும் படித்தல் ரத்துசெய்யப்பட்டது; சொற்கள் மாறவில்லை
+	The region was read again; its words were replaced (undo in the panel)	பகுதி மீண்டும் படிக்கப்பட்டது; அதன் சொற்கள் மாற்றப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)
+	The selected word is gone; choose another	தேர்ந்தெடுத்த சொல் இப்போது இல்லை; வேறொன்றைத் தேர்ந்தெடுக்கவும்
+	The tesseract program, run as an external process	வெளிப்புறச் செயல்முறையாக இயக்கப்படும் tesseract நிரல்
+	Turns pages scanned sideways or upside down upright before reading	படிக்கும் முன், பக்கவாட்டில் அல்லது தலைகீழாக ஸ்கேன் செய்யப்பட்ட பக்கங்களை நேராகத் திருப்பும்
+	Undo the last review change (Ctrl+Z)	கடைசி மதிப்பாய்வு மாற்றத்தைச் செயல்தவிர் (Ctrl+Z)
+	unreviewed	மதிப்பாய்வு செய்யப்படாதது
+	Use the chosen engine's reading alone	தேர்ந்தெடுத்த இயந்திரத்தின் வாசிப்பை மட்டும் பயன்படுத்தும்
+	Verified	சரிபார்க்கப்பட்டது
+	verified	சரிபார்க்கப்பட்டது
+	VERIFIED %	சரிபார்க்கப்பட்டவை %
+	Wrote {name}	{name} எழுதப்பட்டது
+	{n} word(s) to review	மதிப்பாய்வு செய்ய வேண்டிய {n} சொல்(கள்)
+	Discard all form submission, import and reset actions	அனைத்துப் படிவச் சமர்ப்பிப்பு, இறக்குமதி, மீட்டமைப்புச் செயல்களையும் நீக்கு
+	Discard embedded search index	உட்பொதிந்த தேடல் அட்டவணையை நீக்கு
+	Discard external cross-references	வெளிப்புறக் குறுக்குக் குறிப்புகளை நீக்கு
+	Optimizing… reading page {d} of {t}	உகந்ததாக்குகிறது… {t} பக்கங்களில் {d}-ஆவது பக்கத்தைப் படிக்கிறது
+	Optimizing… reading the pages	உகந்ததாக்குகிறது… பக்கங்களைப் படிக்கிறது
+	Scanned pages are already being enhanced	ஸ்கேன் பக்கங்கள் ஏற்கனவே மேம்படுத்தப்பட்டு வருகின்றன
+	Add a paper size of your own to the list	உங்கள் சொந்தக் காகித அளவைப் பட்டியலில் சேர்
+	Creep:	உள்நகர்வு:
+	Custom scale	தனிப்பயன் அளவு
+	Detecting paper…	காகிதத்தைக் கண்டறிகிறது…
+	Detecting…	கண்டறிகிறது…
+	Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed.	ஒவ்வொரு தாளின் பக்கங்களையும், அதற்கு வெளியே உள்ள தாளைவிட இந்த அளவு கூடுதலாக மடிப்பை நோக்கி நகர்த்துகிறது; இதனால் சிறுபுத்தகம் மடிக்கப்பட்டு ஓரம் வெட்டப்பட்ட பிறகு ஓரங்கள் ஒத்துப்போகும்.
+	Page setup dialog is not available on this system.	இந்தக் கணினியில் பக்க அமைப்பு உரையாடல் பெட்டி கிடைக்கவில்லை.
+	Selected area (page {page}, {size})	தேர்ந்தெடுத்த பகுதி (பக்கம் {page}, {size})
+	Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…	அச்சுப்பொறி இயக்கியிலிருந்து காகித அளவையும் திசையமைவையும் தேர்ந்தெடுக்கும். காகிதத் தட்டு, அச்சுத் தரம் அல்லது பிற இயக்கி இயல்புநிலைகளுக்கு இதைப் பயன்படுத்தவும்: பண்புகள்…
+	Take this paper size off the list	இந்தக் காகித அளவைப் பட்டியலிலிருந்து அகற்று
+	The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep.	இத்தனை பக்கங்களுக்கு, உள்நகர்வு மிக உள்ளே உள்ள தாளின் பக்கங்களை அளவுக்கு மீறி நகர்த்துகிறது. உள்நகர்வைக் குறைக்கவும்.
+	Columns and rows must each be 1 to 99.	நெடுவரிசைகளும் வரிசைகளும் ஒவ்வொன்றும் 1 முதல் 99 வரை இருக்க வேண்டும்.
+	The selected area is no longer on a page of this document.	தேர்ந்தெடுத்த பகுதி இப்போது இந்த ஆவணத்தின் எந்தப் பக்கத்திலும் இல்லை.
+	Background removal	பின்னணி நீக்கம்
+@plural	Cleaned up the scan on {n} page.|Cleaned up the scans on {n} pages.	{n} பக்கத்தில் ஸ்கேன் சுத்தம் செய்யப்பட்டது.|{n} பக்கங்களில் ஸ்கேன்கள் சுத்தம் செய்யப்பட்டன.
+	Cleans up the scanned pictures in place: recognized text, comments and links on the pages stay as they are.	ஸ்கேன் படங்களை அதே இடத்தில் சுத்தம் செய்கிறது: பக்கங்களில் உள்ள அடையாளம் காணப்பட்ட உரை, கருத்துகள், இணைப்புகள் ஆகியவை உள்ளபடியே இருக்கும்.
+	Couldn't enhance the scanned pages	ஸ்கேன் பக்கங்களை மேம்படுத்த இயலவில்லை
+	Edge shadow removal	விளிம்பு நிழல் நீக்கம்
+	Enhance	மேம்படுத்து
+	Enhance Scanned File	ஸ்கேன் கோப்பை மேம்படுத்து
+	Enhancing scans… image {d} of {t}	ஸ்கேன்களை மேம்படுத்துகிறது… {t} படங்களில் {d}-ஆவது படம்
+	Enhancing the scanned pages was cancelled	ஸ்கேன் பக்கங்களை மேம்படுத்துவது ரத்துசெய்யப்பட்டது
+	Evens out the paper so a grey or yellowed background turns white, and darkens faint strokes. 0 is off.	காகிதத்தைச் சீராக்கி, சாம்பல் நிற அல்லது மஞ்சளான பின்னணியை வெள்ளையாக்கும்; மங்கலான கோடுகளை அடர்த்தியாக்கும். 0 என அமைத்தால் இது முடக்கப்படும்.
+	Lightens shadows along the edges of the scan, such as a book's gutter or a copier's dark border	புத்தகத்தின் நடுமடிப்பு அல்லது நகலெடுக்கும் இயந்திரத்தின் இருண்ட எல்லை போன்ற, ஸ்கேனின் விளிம்புகளில் உள்ள நிழல்களை வெளிர்வாக்கும்
+	No scanned pages were cleaned up.	எந்த ஸ்கேன் பக்கமும் சுத்தம் செய்யப்படவில்லை.
+	Removes isolated dark specks such as dust and scanner noise. The only filter black and white scans take.	தூசி, ஸ்கேனர் இரைச்சல் போன்ற தனித்த இருண்ட புள்ளிகளை நீக்கும். கருப்பு வெள்ளை ஸ்கேன்களுக்குப் பொருந்தும் ஒரே வடிகட்டி இதுதான்.
+@plural	{n} image was left as it was (page {p}: {why}).|{n} images were left as they were (page {p}: {why}, …).	{n} படம் உள்ளபடியே விடப்பட்டது (பக்கம் {p}: {why}).|{n} படங்கள் உள்ளபடியே விடப்பட்டன (பக்கம் {p}: {why}, …).
+@plural	{n} page is not a scan.|{n} pages are not scans.	{n} பக்கம் ஸ்கேன் அல்ல.|{n} பக்கங்கள் ஸ்கேன்கள் அல்ல.

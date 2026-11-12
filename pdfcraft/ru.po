@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Сценарий"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "Принять"
 
 msgid "Accept entire page"
 msgstr "Принять всю страницу"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Принято"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Чёрно-белый документ"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Чёрный на белом"
 
@@ -1501,6 +1510,9 @@ msgstr "Использовать свою модель (по умолчанию 
 msgid "Browser's print dialog"
 msgstr "Диалог печати браузера"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Маркированный список"
 
@@ -1521,6 +1533,9 @@ msgstr "Стиль кнопки:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Кнопки с одинаковыми именем и значением отмечаются синхронно"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "По стандартным формулам устройств; профили не применяются."
@@ -1560,6 +1575,9 @@ msgstr "Отменить размещение подписи"
 
 msgid "Cancel drawing"
 msgstr "Отменить рисование"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Отменить оборотные стороны"
@@ -1776,6 +1794,9 @@ msgstr "Проверить доступности"
 
 msgid "Check for accessibility…"
 msgstr "Проверить доступность…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Проверить обновления…"
@@ -2207,11 +2228,17 @@ msgstr "Ширина столбцов"
 msgid "Column {n}"
 msgstr "Столбец {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Шахматка из"
 
 msgid "Comb of characters"
 msgstr "Гребёнка символов"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Объединить файлы"
@@ -2828,6 +2855,9 @@ msgstr "Создатель"
 msgid "Credit Cards"
 msgstr "Кредитные карты"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "Подписание списков отзыва"
 
@@ -2873,6 +2903,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Координаты курсора"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3190,6 +3223,12 @@ msgstr "Обнаружено 1 поле формы"
 msgid "Detected {n} form fields"
 msgstr "Обнаружено {n} полей формы"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Используется цвет устройства, но нет выходного намерения PDF/A"
 
@@ -3267,6 +3306,12 @@ msgstr "Удалить встроенные миниатюры страниц"
 
 msgid "Discard embedded print settings"
 msgstr "Удалить встроенные настройки печати"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Удалить скрытое содержимое слоёв"
@@ -3714,6 +3759,9 @@ msgstr "Редактировать содержимое"
 msgid "Edit content"
 msgstr "Редактировать содержимое"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Редактировать JavaScript документа"
 
@@ -3822,6 +3870,9 @@ msgstr "Конечный субъект"
 
 msgid "Endpoints"
 msgstr "Конечные точки"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ДВИЖОК · СТРАТЕГИЯ"
@@ -5244,6 +5295,9 @@ msgstr "Отступ"
 msgid "Information"
 msgstr "Сведения"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Начальный вид"
 
@@ -6323,6 +6377,9 @@ msgstr "Переместить вверх"
 msgid "Moved page"
 msgstr "Перемещённая страница"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Перемещает только то, что нужно"
 
@@ -7063,6 +7120,9 @@ msgstr "Меняется только содержимое страницы: с�
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Открыть документ могут только получатели — каждый с закрытым ключом своего сертификата."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Сначала откройте документ"
 
@@ -7165,6 +7225,9 @@ msgstr "откройте, чтобы увидеть содержимое"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Открыт из конверта подписи CAdES — только для чтения."
 
@@ -7230,6 +7293,12 @@ msgstr "Оптимизация… объединение одинаковых о
 
 msgid "Optimizing… merging image fragments"
 msgstr "Оптимизация… объединение фрагментов изображений"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Оптимизация… удаление пользовательских данных"
@@ -7401,6 +7470,12 @@ msgstr "Диапазон страниц"
 
 msgid "Page Range Options"
 msgstr "Параметры диапазона страниц"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Размер и обработка страниц"
@@ -7615,6 +7690,9 @@ msgstr "Вставить после"
 msgid "Paste an OpenRouter key"
 msgstr "Вставьте ключ OpenRouter"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Вставить комментарии"
 
@@ -7728,6 +7806,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "Доступна PdfCraft {v}."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft"
@@ -8180,6 +8264,12 @@ msgstr "Повторить OCR для всей страницы"
 msgid "Re-OCR this region"
 msgstr "Повторить OCR для этой области"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Повторите пароль"
 
@@ -8236,6 +8326,9 @@ msgstr "Настройки чтения"
 
 msgid "Reading preferences…"
 msgstr "Настройки чтения…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Чтение настроек принтера…"
@@ -8539,6 +8632,9 @@ msgstr "Удалить метки сокрытия"
 
 msgid "Remove saved {what}"
 msgstr "Удалить сохранённое: {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Удалить защиту"
@@ -9626,6 +9722,9 @@ msgstr "Выбранная единица"
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Выбор результата применяет этот запрос к поиску в целевом документе."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Самоподписанный"
 
@@ -9946,6 +10045,9 @@ msgstr "Показать пароль"
 
 msgid "Show Report"
 msgstr "Показать отчёт"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Показать шаблон {name}"
@@ -10455,11 +10557,17 @@ msgstr "Сохранять изображения JPEG как JPEG XL (мень�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Выровнять отсканированную страницу"
 
 msgid "Straighten skewed scans"
 msgstr "Выравнивать наклонённые сканы"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Выпрямить страницу"
@@ -10882,6 +10990,9 @@ msgstr "Скопированные комментарии больше этой 
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Не удалось записать копию для вложения: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10914,6 +11025,9 @@ msgstr "Документ изменился, пока вы выбирали фа
 
 msgid "The document changed while you were editing field properties."
 msgstr "Документ изменился, пока вы редактировали свойства полей."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Не удалось подготовить документ"
@@ -11421,6 +11535,9 @@ msgstr "Исходный текст был обрезан."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Повторное распознавание не нашло текста; существующие слова не изменены"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Область удаления не помещается на странице {page}; страницы не отмечены."
@@ -12007,6 +12124,9 @@ msgstr "Этот документ ещё не находится в папке: 
 msgid "This document isn't password-protected"
 msgstr "Этот документ не защищён паролем"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Этот чертеж превышает предел привязки; используются только первые контуры."
 
@@ -12147,6 +12267,12 @@ msgstr "Этот принтер печатает только на одной с
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Драйвер этого принтера не принимает настройки двусторонней печати от других программ, поэтому действует его собственная настройка. Измените её в окне Свойства…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "эту подпись нельзя удалить отдельно"

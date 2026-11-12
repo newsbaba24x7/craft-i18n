@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Сценарий"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "Қабылдау"
 
 msgid "Accept entire page"
 msgstr "Бүкіл бетті қабылдау"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Қабылданды"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Ақ фонда қара"
 
@@ -1501,6 +1510,9 @@ msgstr "Өз моделіңізді пайдаланыңыз (әдепкіде �
 msgid "Browser's print dialog"
 msgstr "Браузердің басып шығару терезесі"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Таңбалауыш тізім"
 
@@ -1521,6 +1533,9 @@ msgstr "Түйме стилі:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Атауы мен мәні бірдей түймелер бірге таңдалады"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Құрылғылардың стандартты формулаларымен; профильдер қолданылмайды."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Сызуды тоқтату"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Артқы жақтарды болдырмау"
@@ -1776,6 +1794,9 @@ msgstr "Қолжетімділікті тексеру"
 
 msgid "Check for accessibility…"
 msgstr "Қолжетімділікті тексеру…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Жаңартуларды тексеру…"
@@ -2206,11 +2227,17 @@ msgstr "Баған ендері"
 msgid "Column {n}"
 msgstr "{n}-баған"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Ұяшықтар саны:"
 
 msgid "Comb of characters"
 msgstr "Таңбалар торы"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Файлдарды біріктіру"
@@ -2827,6 +2854,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "Несиелік карталар"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2872,6 +2902,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Курсор координаттары"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3187,6 +3220,12 @@ msgstr "1 форма өрісі анықталды"
 msgid "Detected {n} form fields"
 msgstr "{n} форма өрісі анықталды"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Құрылғы түсі қолданылады, бірақ PDF/A шығыс профилі жоқ"
 
@@ -3264,6 +3303,12 @@ msgstr "Ендірілген бет миниатюраларын алып тас
 
 msgid "Discard embedded print settings"
 msgstr "Ендірілген басып шығару параметрлерін алып тастау"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Жасырын қабат мазмұнын алып тастау"
@@ -3710,6 +3755,9 @@ msgstr "Мазмұнды өңдеу"
 msgid "Edit content"
 msgstr "Мазмұнды түзету"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Құжаттың JavaScript-ін түзету"
 
@@ -3818,6 +3866,9 @@ msgstr "Соңғы субъект"
 
 msgid "Endpoints"
 msgstr "Шеткі нүктелер"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ҚОЗҒАЛТҚЫШ · СТРАТЕГИЯ"
@@ -5240,6 +5291,9 @@ msgstr "Шегіністі арттыру"
 msgid "Information"
 msgstr "Ақпарат"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Бастапқы көрініс"
 
@@ -6319,6 +6373,9 @@ msgstr "Жоғары жылжыту"
 msgid "Moved page"
 msgstr "Жылжытылған бет"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Тек жылжуы тиістіні ғана жылжытады"
 
@@ -7059,6 +7116,9 @@ msgstr "Тек бет мазмұны өзгереді: түпнұсқа бетт
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Құжатты тек алушылар ғана аша алады, әрқайсысы өз сертификатының жеке кілтімен."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Алдымен құжатты ашыңыз"
 
@@ -7161,6 +7221,9 @@ msgstr "ашып, нені қамтитынын көріңіз"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "CAdES қолтаңба конвертінен ашылды — тек оқуға арналған."
 
@@ -7226,6 +7289,12 @@ msgstr "Оңтайландыру… бірдей нысандарды бірік
 
 msgid "Optimizing… merging image fragments"
 msgstr "Оңтайландыру… сурет фрагменттерін біріктіру"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Оңтайландыру… пайдаланушы деректерін жою"
@@ -7397,6 +7466,12 @@ msgstr "Беттер ауқымы"
 
 msgid "Page Range Options"
 msgstr "Беттер ауқымының параметрлері"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Бет өлшемі мен өңдеуі"
@@ -7611,6 +7686,9 @@ msgstr "Артына қою"
 msgid "Paste an OpenRouter key"
 msgstr "OpenRouter кілтін қойыңыз"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Пікірлерді қою"
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} қолжетімді."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft-тың өзінікі"
@@ -8176,6 +8260,12 @@ msgstr "Бүкіл бетке OCR-ды қайталау"
 msgid "Re-OCR this region"
 msgstr "Осы аймаққа OCR-ды қайталау"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Құпиясөзді қайта енгізіңіз"
 
@@ -8232,6 +8322,9 @@ msgstr "Оқу баптаулары"
 
 msgid "Reading preferences…"
 msgstr "Оқу баптаулары…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Принтер параметрлері оқылуда…"
@@ -8535,6 +8628,9 @@ msgstr "Жасыру белгілерін алып тастау"
 
 msgid "Remove saved {what}"
 msgstr "Алып тастау: сақталған {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Қорғанысты алып тастау"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Нәтижені таңдау осы сұрауды мақсатты құжаттың іздеуіне қолданады."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Өзіне-өзі қол қойылған"
 
@@ -9942,6 +10041,9 @@ msgstr "Құпиясөзді көрсету"
 
 msgid "Show Report"
 msgstr "Есепті көрсету"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "{name} үлгісін көрсету"
@@ -10451,11 +10553,17 @@ msgstr "JPEG кескіндерін JPEG XL ретінде сақтау (кіш�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Сканерленген бетті түзету"
 
 msgid "Straighten skewed scans"
 msgstr "Қиғаш скандарды түзету"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Бетті түзету"
@@ -10877,6 +10985,9 @@ msgstr "Көшірілген пікірлер бұл беттен үлкен; о
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Тіркелетін көшірмені жазу мүмкін болмады: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "Сіз файл таңдап жатқанда құжат өзгерге�
 
 msgid "The document changed while you were editing field properties."
 msgstr "Өріс сипаттарын түзетіп жүргенде құжат өзгерді."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Құжатты дайындау мүмкін болмады"
@@ -11416,6 +11530,9 @@ msgstr "Бастапқы мәтін қысқартылды."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Қайта оқу мәтін таппады; бар сөздер өзгертілмеді"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Өшіру {page} бетіне сыймайды; ешбір бет белгіленбеді."
@@ -12002,6 +12119,9 @@ msgstr "Бұл құжат әлі ешбір қалтада жоқ: алдыме�
 msgid "This document isn't password-protected"
 msgstr "Бұл құжат құпиясөзбен қорғалмаған"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Бұл сызба түйістіру шегінен асады; тек алғашқы контурлар қолданылады."
 
@@ -12142,6 +12262,12 @@ msgstr "Бұл принтер тек бір жағына басады."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Бұл принтердің драйвері басқа бағдарламалардан екі жақты басып шығару баптауларын қабылдамайды, сондықтан өз баптауы қолданылады. Оны мына жерден өзгертіңіз: Сипаттар…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "бұл қолтаңбаны жеке алып тастау мүмкін емес"

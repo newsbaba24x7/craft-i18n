@@ -343,6 +343,9 @@ msgstr "PrinterMark anotācija pārklājas ar TrimBox vai ArtBox"
 msgid "A script"
 msgstr "Skripts"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr "otrs {} tās tabulā"
 
@@ -435,6 +438,9 @@ msgstr "Pieņemt"
 
 msgid "Accept entire page"
 msgstr "Pieņemt visu lapu"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Pieņemts"
@@ -1408,6 +1414,9 @@ msgstr "Bitkartes attēli"
 msgid "Black & White Document"
 msgstr "Melnbalts dokuments"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Melns uz balta"
 
@@ -1501,6 +1510,9 @@ msgstr "Izmantot savu modeli (pēc noklusējuma izslēgts)"
 msgid "Browser's print dialog"
 msgstr "Pārlūka drukas dialoglodziņš"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Saraksts ar aizzīmēm"
 
@@ -1521,6 +1533,9 @@ msgstr "Pogas stils:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Pogas ar vienādu nosaukumu un vērtību tiek atlasītas vienlaikus"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Pēc standarta ierīču formulām; profili netiek lietoti."
@@ -1560,6 +1575,9 @@ msgstr "Atcelt paraksta novietošanu"
 
 msgid "Cancel drawing"
 msgstr "Atcelt zīmēšanu"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Atcelt otrās puses"
@@ -1776,6 +1794,9 @@ msgstr "Pārbaudīt pieejamību"
 
 msgid "Check for accessibility…"
 msgstr "Pārbaudīt pieejamību…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Pārbaudīt atjauninājumus…"
@@ -2207,11 +2228,17 @@ msgstr "Kolonnu platumi"
 msgid "Column {n}"
 msgstr "{n}. kolonna"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Ķemme no"
 
 msgid "Comb of characters"
 msgstr "Rakstzīmju ķemme"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Apvienot failus"
@@ -2828,6 +2855,9 @@ msgstr "Izveidotājs"
 msgid "Credit Cards"
 msgstr "Kredītkartes"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL parakstīšana"
 
@@ -2873,6 +2903,9 @@ msgstr "Kursora koordinātas"
 
 msgid "Cursor coordinates"
 msgstr "Kursora koordinātas"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr "Pielāgota krāsa"
@@ -3190,6 +3223,12 @@ msgstr "Noteikts 1 veidlapas lauks"
 msgid "Detected {n} form fields"
 msgstr "Noteikti {n} veidlapas lauki"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Izmantota ierīces krāsa, bet nav PDF/A izvades nolūka"
 
@@ -3267,6 +3306,12 @@ msgstr "Atmest iegultos lapu sīktēlus"
 
 msgid "Discard embedded print settings"
 msgstr "Atmest iegultos drukas iestatījumus"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Atmest paslēpto slāņu saturu"
@@ -3714,6 +3759,9 @@ msgstr "Rediģēt saturu"
 msgid "Edit content"
 msgstr "Rediģēt saturu"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Rediģēt dokumenta JavaScript"
 
@@ -3822,6 +3870,9 @@ msgstr "Galīgais subjekts"
 
 msgid "Endpoints"
 msgstr "Galapunkti"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "DZINĒJS · STRATĒĢIJA"
@@ -5244,6 +5295,9 @@ msgstr "Atkāpe"
 msgid "Information"
 msgstr "Informācija"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Sākotnējais skats"
 
@@ -6323,6 +6377,9 @@ msgstr "Pārvietot uz augšu"
 msgid "Moved page"
 msgstr "Pārvietota lapa"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Pārvieto tikai nepieciešamo"
 
@@ -7063,6 +7120,9 @@ msgstr "Mainās tikai lapas saturs: saites, komentāri, veidlapu lauki un grāma
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Dokumentu var atvērt tikai adresāti, katrs ar sava sertifikāta privāto atslēgu."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Vispirms atveriet dokumentu"
 
@@ -7165,6 +7225,9 @@ msgstr "atveriet, lai redzētu, ko tas ietvers"
 msgid "Open Units and guides"
 msgstr "Atvērt Vienības un palīglīnijas"
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Atvērts no CAdES paraksta aploksnes — tikai lasīšanai."
 
@@ -7230,6 +7293,12 @@ msgstr "Optimizē… apvieno identiskus objektus"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimizē… apvieno attēlu fragmentus"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Optimizē… noņem lietotāja datus"
@@ -7401,6 +7470,12 @@ msgstr "Lapu diapazons"
 
 msgid "Page Range Options"
 msgstr "Lapu diapazona opcijas"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Lapas izmērs un apstrāde"
@@ -7615,6 +7690,9 @@ msgstr "Ielīmēt aiz"
 msgid "Paste an OpenRouter key"
 msgstr "Ielīmējiet OpenRouter atslēgu"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Ielīmēt komentārus"
 
@@ -7728,6 +7806,12 @@ msgstr "PdfCraft {c} ir jaunākā versija."
 
 msgid "PdfCraft {v} is available."
 msgstr "Ir pieejams PdfCraft {v}."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft logotips"
@@ -8180,6 +8264,12 @@ msgstr "Atkārtot OCR visai lapai"
 msgid "Re-OCR this region"
 msgstr "Atkārtot OCR šim apgabalam"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Ievadiet paroli vēlreiz"
 
@@ -8236,6 +8326,9 @@ msgstr "Lasīšanas iestatījumi"
 
 msgid "Reading preferences…"
 msgstr "Lasīšanas iestatījumi…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Lasa printera iestatījumus…"
@@ -8539,6 +8632,9 @@ msgstr "Noņemt aizklāšanas atzīmes"
 
 msgid "Remove saved {what}"
 msgstr "Noņemt saglabāto: {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Noņemt aizsardzību"
@@ -9626,6 +9722,9 @@ msgstr "Atlasītā vienība"
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Atlasot rezultātu, šis vaicājums tiek lietots galamērķa meklēšanā."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Pašparakstīts"
 
@@ -9946,6 +10045,9 @@ msgstr "Rādīt paroli"
 
 msgid "Show Report"
 msgstr "Rādīt pārskatu"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Rādīt veidni {name}"
@@ -10455,11 +10557,17 @@ msgstr "Glabāt JPEG attēlus kā JPEG XL (mazāki, var atsaukt; nepieciešams J
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Iztaisnot lapu, kas ir izliekta, salocīta vai nofotografēta leņķī, lai teksta rindas būtu taisnas"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Iztaisnot skenēto lapu"
 
 msgid "Straighten skewed scans"
 msgstr "Iztaisnot šķībus skenējumus"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Iztaisnot lapu"
@@ -10882,6 +10990,9 @@ msgstr "Nokopētie komentāri ir lielāki par šo lapu; tie novietoti, kā ir"
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Neizdevās ierakstīt pievienojamo kopiju: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr "Noklusējuma izvēles satura konfigurācijai (D) nav Name"
 
@@ -10914,6 +11025,9 @@ msgstr "Dokuments faila izvēles laikā mainījās, tāpēc nekas netika mainīt
 
 msgid "The document changed while you were editing field properties."
 msgstr "Dokuments lauka rekvizītu rediģēšanas laikā mainījās."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Dokumentu neizdevās sagatavot"
@@ -11421,6 +11535,9 @@ msgstr "RAW teksts tika saīsināts līdz tam, kas ietilpst."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Atkārtotā nolasīšana tekstu neatrada; esošie vārdi nav mainīti"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Aizklāšana neietilpst {page}. lapā; neviena lapa netika atzīmēta."
@@ -12007,6 +12124,9 @@ msgstr "Šis dokuments vēl nav mapē: vispirms saglabājiet to"
 msgid "This document isn't password-protected"
 msgstr "Šis dokuments nav aizsargāts ar paroli"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Šis zīmējums pārsniedz piesaistes ierobežojumu; tiek izmantoti tikai pirmie ceļi."
 
@@ -12147,6 +12267,12 @@ msgstr "Šis printeris drukā tikai vienpusēji."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Šī printera draiveris nepieņem abpusējās drukas iestatījumus no citām programmām, tāpēc tiek lietots tā paša iestatījums. Mainiet to sadaļā Rekvizīti…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "šo parakstu nevar noņemt atsevišķi"

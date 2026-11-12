@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr ""
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "接受"
 
 msgid "Accept entire page"
 msgstr "接受整頁"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "已接受"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "黑白文件"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "白底黑字"
 
@@ -1501,6 +1510,9 @@ msgstr "使用自己的模型（預設關閉）"
 msgid "Browser's print dialog"
 msgstr "瀏覽器的列印對話方塊"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "項目符號清單"
 
@@ -1521,6 +1533,9 @@ msgstr "按鈕樣式："
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "同名同值的按鈕一起選取"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "依標準裝置公式轉換;不套用描述檔。"
@@ -1560,6 +1575,9 @@ msgstr "取消標題放置"
 
 msgid "Cancel drawing"
 msgstr "取消繪製"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "偵測無障礙支援"
 
 msgid "Check for accessibility…"
 msgstr "偵測無障礙支援…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "尋找更新…"
@@ -2205,11 +2226,17 @@ msgstr "欄寬"
 msgid "Column {n}"
 msgstr "第 {n} 欄"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "梳狀（每格一字元），共"
 
 msgid "Comb of characters"
 msgstr "字元梳"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "合併檔案"
@@ -2826,6 +2853,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "信用卡"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2871,6 +2901,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "游標座標"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3184,6 +3217,12 @@ msgstr "偵測到 1 個表單欄位"
 msgid "Detected {n} form fields"
 msgstr "偵測到 {n} 個表單欄位"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "使用了裝置色彩，但沒有 PDF/A 輸出目的"
 
@@ -3261,6 +3300,12 @@ msgstr "捨棄嵌入的頁面縮圖"
 
 msgid "Discard embedded print settings"
 msgstr "捨棄嵌入的列印設定"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "捨棄隱藏圖層內容"
@@ -3706,6 +3751,9 @@ msgstr "編輯內容"
 msgid "Edit content"
 msgstr "編輯內容"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "編輯文件 JavaScript"
 
@@ -3814,6 +3862,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "端點"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "引擎 · 策略"
@@ -5236,6 +5287,9 @@ msgstr "縮排"
 msgid "Information"
 msgstr "資訊"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "初始檢視"
 
@@ -6315,6 +6369,9 @@ msgstr "上移"
 msgid "Moved page"
 msgstr "移動的頁"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "只移動必須移動的"
 
@@ -7055,6 +7112,9 @@ msgstr "僅更改頁面內容：原頁面的連結、註解、表單欄位和書
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "只有收件者可以開啟此文件，每人使用自己憑證的私密金鑰。"
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "請先開啟文件"
 
@@ -7157,6 +7217,9 @@ msgstr "開啟以檢視預計功能"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "從 CAdES 簽名信封開啟 — 唯讀。"
 
@@ -7222,6 +7285,12 @@ msgstr "正在最佳化…合併相同物件"
 
 msgid "Optimizing… merging image fragments"
 msgstr "正在最佳化… 正在合併影像片段"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "正在最佳化…移除使用者資料"
@@ -7393,6 +7462,12 @@ msgstr "頁面範圍"
 
 msgid "Page Range Options"
 msgstr "頁面範圍選項"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "頁面大小和處理"
@@ -7607,6 +7682,9 @@ msgstr "在後面貼上"
 msgid "Paste an OpenRouter key"
 msgstr "貼上 OpenRouter 金鑰"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "貼上註解"
 
@@ -7720,6 +7798,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} 可用。"
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft 自己的"
@@ -8172,6 +8256,12 @@ msgstr "重新辨識整頁"
 msgid "Re-OCR this region"
 msgstr "重新辨識此區域"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "重新輸入密碼"
 
@@ -8228,6 +8318,9 @@ msgstr "朗讀偏好設定"
 
 msgid "Reading preferences…"
 msgstr "朗讀偏好設定…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "正在讀取印表機設定…"
@@ -8530,6 +8623,9 @@ msgid "Remove redaction marks"
 msgstr "移除遮蔽標記"
 
 msgid "Remove saved {what}"
+msgstr ""
+
+msgid "Remove scan speckle"
 msgstr ""
 
 msgid "Remove security"
@@ -9618,6 +9714,9 @@ msgstr "所選單位"
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "選取結果會將此查詢套用至目標文件的尋找。"
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "自我簽署"
 
@@ -9938,6 +10037,9 @@ msgstr "顯示密碼"
 
 msgid "Show Report"
 msgstr "顯示報告"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "顯示範本 {name}"
@@ -10447,11 +10549,17 @@ msgstr "將 JPEG 影像儲存為 JPEG XL（更小，可復原；需要支援 JPE
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "校正掃描頁面的傾斜"
 
 msgid "Straighten skewed scans"
 msgstr "校正掃描件傾斜"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10872,6 +10980,9 @@ msgstr "複製的註解比此頁面大，已按原樣放置"
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "無法寫入要附加的副本：{e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10904,6 +11015,9 @@ msgstr ""
 
 msgid "The document changed while you were editing field properties."
 msgstr "編輯欄位屬性時文件已變更。"
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "無法準備文件"
@@ -11411,6 +11525,9 @@ msgstr "原始文字已被截斷。"
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "重新讀取未發現文字；現有單詞保持不變"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "密文標記不適合第 {page} 頁；未標記任何頁面。"
@@ -11997,6 +12114,9 @@ msgstr "此文件尚未儲存在資料夾中：請先儲存"
 msgid "This document isn't password-protected"
 msgstr "本文件未受密碼保護"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "此圖面超過吸附上限；僅使用最前面的路徑。"
 
@@ -12137,6 +12257,12 @@ msgstr "此印表機僅支援單面列印。"
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "此印表機的驅動程式不接受其他程式的雙面列印設定，因此使用其自身設定。變更位置：屬性…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "此簽章無法單獨移除"

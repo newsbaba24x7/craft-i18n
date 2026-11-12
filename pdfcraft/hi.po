@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "एक स्क्रिप्ट"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "सफ़ेद पर काला"
 
@@ -1501,6 +1510,9 @@ msgstr "अपना स्वयं का मॉडल लाएँ (डिफ
 msgid "Browser's print dialog"
 msgstr "ब्राउज़र का प्रिंट संवाद"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Bulleted list"
 
@@ -1521,6 +1533,9 @@ msgstr "बटन शैली:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "एक ही नाम और मान वाले बटन एक साथ चुने जाते हैं"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "मानक डिवाइस सूत्रों के अनुसार; प्रोफ़ाइल लागू नहीं की जातीं।"
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "रेखांकन रद्द करें"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "ऐक्सेसिबिलिटी की जाँच करें
 
 msgid "Check for accessibility…"
 msgstr "ऐक्सेसिबिलिटी की जाँच करें…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "अपडेट की जाँच करें…"
@@ -2206,11 +2227,17 @@ msgstr "कॉलमों की चौड़ाई"
 msgid "Column {n}"
 msgstr "कॉलम {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "कॉम्ब में"
 
 msgid "Comb of characters"
 msgstr "अक्षर कॉम्ब"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "फ़ाइलें संयोजित करें"
@@ -2827,6 +2854,9 @@ msgstr "निर्माता"
 msgid "Credit Cards"
 msgstr "क्रेडिट कार्ड"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "सीआरएल हस्ताक्षर"
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "1 फ़ॉर्म फ़ील्ड मिला"
 msgid "Detected {n} form fields"
 msgstr "{n} फ़ॉर्म फ़ील्ड मिले"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "डिवाइस रंग का उपयोग हुआ है, लेकिन कोई PDF/A आउटपुट इंटेंट नहीं है"
 
@@ -3264,6 +3303,12 @@ msgstr "एम्बेडेड पृष्ठ थंबनेल हटाए
 
 msgid "Discard embedded print settings"
 msgstr "एम्बेडेड प्रिंट सेटिंग्स हटाएँ"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "छिपी हुई परतों की सामग्री हटाएँ"
@@ -3710,6 +3755,9 @@ msgstr "सामग्री संपादित करें"
 msgid "Edit content"
 msgstr "सामग्री संपादित करें"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "दस्तावेज़ JavaScript संपादित करें"
 
@@ -3818,6 +3866,9 @@ msgstr "अंतिम इकाई"
 
 msgid "Endpoints"
 msgstr "अंत बिंदु"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "इंडेंट बढ़ाएँ"
 msgid "Information"
 msgstr "जानकारी"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "प्रारंभिक दृश्य"
 
@@ -6319,6 +6373,9 @@ msgstr "ऊपर ले जाएँ"
 msgid "Moved page"
 msgstr "स्थानांतरित पृष्ठ"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Moves only what must move"
 
@@ -7059,6 +7116,9 @@ msgstr "केवल पृष्ठ की सामग्री बदलत�
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "केवल प्राप्तकर्ता ही दस्तावेज़ खोल सकते हैं, हर कोई अपने प्रमाणपत्र की निजी कुंजी से।"
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "पहले एक दस्तावेज़ खोलें"
 
@@ -7161,6 +7221,9 @@ msgstr "खोलकर देखें कि इसमें क्या श�
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "ऑप्टिमाइज़ हो रहा है… समान �
 
 msgid "Optimizing… merging image fragments"
 msgstr "ऑप्टिमाइज़ किया जा रहा है… छवि खंड मर्ज किए जा रहे हैं"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "ऑप्टिमाइज़ हो रहा है… उपयोगकर्ता डेटा हटाया जा रहा है"
@@ -7397,6 +7466,12 @@ msgstr "पृष्ठ श्रेणी"
 
 msgid "Page Range Options"
 msgstr "पृष्ठ श्रेणी विकल्प"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "पृष्ठ आकार और प्रबंधन"
@@ -7611,6 +7686,9 @@ msgstr "बाद में पेस्ट करें"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "टिप्पणियाँ चिपकाएँ"
 
@@ -7724,6 +7802,12 @@ msgstr "PdfCraft {c} अद्यतन है।"
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} उपलब्ध है।"
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft का अपना"
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "पासवर्ड दोबारा दर्ज करें"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "रीडैक्शन चिह्न हटाएँ"
 
 msgid "Remove saved {what}"
 msgstr "सहेजा हुआ {what} हटाएँ"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "सुरक्षा हटाएँ"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "स्व-हस्ताक्षरित"
 
@@ -9942,6 +10041,9 @@ msgstr "पासवर्ड दिखाएँ"
 
 msgid "Show Report"
 msgstr "रिपोर्ट दिखाएँ"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "टेम्पलेट {name} दिखाएँ"
@@ -10451,11 +10553,17 @@ msgstr "JPEG छवियों को JPEG XL के रूप में सह
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "तिरछे स्कैन सीधे करें"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr "कॉपी की गई टिप्पणियाँ इस पृ�
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "संलग्न करने वाली प्रति नहीं लिखी जा सकी: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "आप फ़ाइल चुन रहे थे, तभी दस्�
 
 msgid "The document changed while you were editing field properties."
 msgstr "आप फ़ील्ड गुण संपादित कर रहे थे, तभी दस्तावेज़ बदल गया।"
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "दस्तावेज़ तैयार नहीं किया जा सका"
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr "यह दस्तावेज़ अभी किसी फ़ोल�
 msgid "This document isn't password-protected"
 msgstr "यह दस्तावेज़ पासवर्ड-सुरक्षित नहीं है"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "यह रेखाचित्र स्नैपिंग सीमा से बड़ा है; केवल पहले पथ ही उपयोग में आते हैं।"
 
@@ -12142,6 +12262,12 @@ msgstr "यह प्रिंटर केवल एक तरफ़ प्र�
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "इस प्रिंटर का ड्राइवर दूसरे प्रोग्रामों से दोतरफ़ा सेटिंग नहीं लेता, इसलिए उसकी अपनी सेटिंग लागू रहती है। इसे “गुण…” में बदलें।…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "इस हस्ताक्षर को अकेले नहीं हटाया जा सकता"

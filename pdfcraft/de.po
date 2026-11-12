@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Ein Skript"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "Übernehmen"
 
 msgid "Accept entire page"
 msgstr "Ganze Seite übernehmen"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Angenommen"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Schwarzweißdokument"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Schwarz auf Weiß"
 
@@ -1501,6 +1510,9 @@ msgstr "Eigenes Modell nutzen (standardmäßig aus)"
 msgid "Browser's print dialog"
 msgstr "Druckdialog des Browsers"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Aufzählung"
 
@@ -1521,6 +1533,9 @@ msgstr "Stil des Optionsfelds:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Optionsfelder mit gleichem Namen und Wert werden gemeinsam ausgewählt"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Nach den Standard-Geräteformeln; Profile werden nicht angewendet."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Zeichnen abbrechen"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Rückseiten abbrechen"
@@ -1776,6 +1794,9 @@ msgstr "Barrierefreiheit prüfen"
 
 msgid "Check for accessibility…"
 msgstr "Barrierefreiheit prüfen…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Nach Updates suchen…"
@@ -2206,11 +2227,17 @@ msgstr "Spaltenbreiten"
 msgid "Column {n}"
 msgstr "Spalte {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Kammfeld mit"
 
 msgid "Comb of characters"
 msgstr "Kammfeld"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Dateien zusammenführen"
@@ -2827,6 +2854,9 @@ msgstr "Erstellende Anwendung"
 msgid "Credit Cards"
 msgstr "Kreditkarten"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL-Signatur"
 
@@ -2872,6 +2902,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Cursorkoordinaten"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr "Benutzerdefinierte Farbe"
@@ -3187,6 +3220,12 @@ msgstr "1 Formularfeld erkannt"
 msgid "Detected {n} form fields"
 msgstr "{n} Formularfelder erkannt"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Gerätefarben werden verwendet, aber es gibt keinen PDF/A-Output-Intent"
 
@@ -3264,6 +3303,12 @@ msgstr "Eingebettete Seitenminiaturen verwerfen"
 
 msgid "Discard embedded print settings"
 msgstr "Eingebettete Druckeinstellungen verwerfen"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Inhalt ausgeblendeter Ebenen verwerfen"
@@ -3710,6 +3755,9 @@ msgstr "Inhalt bearbeiten"
 msgid "Edit content"
 msgstr "Inhalt bearbeiten"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Dokument-JavaScript bearbeiten"
 
@@ -3818,6 +3866,9 @@ msgstr "Endentität"
 
 msgid "Endpoints"
 msgstr "Endpunkte"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ENGINE · STRATEGIE"
@@ -5240,6 +5291,9 @@ msgstr "Einrücken"
 msgid "Information"
 msgstr "Informationen"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Anfangsansicht"
 
@@ -6319,6 +6373,9 @@ msgstr "Nach oben"
 msgid "Moved page"
 msgstr "Verschobene Seite"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Verschiebt nur, was verschoben werden muss"
 
@@ -7059,6 +7116,9 @@ msgstr "Nur der Seiteninhalt ändert sich: Links, Kommentare, Formularfelder und
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Nur die Empfänger können das Dokument öffnen, jeder mit dem privaten Schlüssel seines eigenen Zertifikats."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Öffne zuerst ein Dokument"
 
@@ -7161,6 +7221,9 @@ msgstr "öffne es, um zu sehen, was enthalten sein wird"
 msgid "Open Units and guides"
 msgstr "Einheiten und Hilfslinien öffnen"
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Aus einem CAdES-Signaturumschlag geöffnet — schreibgeschützt."
 
@@ -7226,6 +7289,12 @@ msgstr "Optimieren… Identische Objekte werden zusammengeführt"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimieren… Bildfragmente werden zusammengeführt"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Optimieren… Benutzerdaten werden entfernt"
@@ -7397,6 +7466,12 @@ msgstr "Seitenbereich"
 
 msgid "Page Range Options"
 msgstr "Optionen für Seitenbereich"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Seitengröße und -handhabung"
@@ -7611,6 +7686,9 @@ msgstr "Danach einfügen"
 msgid "Paste an OpenRouter key"
 msgstr "OpenRouter-Schlüssel einfügen"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Kommentare einfügen"
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} ist verfügbar."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "Das von PdfCraft"
@@ -8176,6 +8260,12 @@ msgstr "Ganze Seite neu erkennen"
 msgid "Re-OCR this region"
 msgstr "Diesen Bereich neu erkennen"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Passwort wiederholen"
 
@@ -8232,6 +8322,9 @@ msgstr "Leseeinstellungen"
 
 msgid "Reading preferences…"
 msgstr "Leseeinstellungen…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Druckereinstellungen werden gelesen…"
@@ -8535,6 +8628,9 @@ msgstr "Schwärzungsmarkierungen entfernen"
 
 msgid "Remove saved {what}"
 msgstr "Gespeicherte {what} entfernen"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Sicherheit entfernen"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Die Auswahl eines Ergebnisses übernimmt diese Abfrage in die Suche des Zieldokuments."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Selbstsigniert"
 
@@ -9942,6 +10041,9 @@ msgstr "Passwort anzeigen"
 
 msgid "Show Report"
 msgstr "Bericht anzeigen"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Vorlage {name} einblenden"
@@ -10451,11 +10553,17 @@ msgstr "JPEG-Bilder als JPEG XL speichern (kleiner, rückgängig zu machen; erfo
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Begradigt eine gewölbte, gefaltete oder schräg fotografierte Seite, sodass ihre Textzeilen gerade verlaufen"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Gescannte Seite geraderichten"
 
 msgid "Straighten skewed scans"
 msgstr "Schief eingescannte Seiten geraderichten"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Seite begradigen"
@@ -10877,6 +10985,9 @@ msgstr "Die kopierten Kommentare sind größer als diese Seite; sie wurden unver
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Die anzuhängende Kopie konnte nicht geschrieben werden: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "Das Dokument hat sich geändert, während du eine Datei ausgewählt hast
 
 msgid "The document changed while you were editing field properties."
 msgstr "Das Dokument hat sich geändert, während du die Feldeigenschaften bearbeitet hast."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Das Dokument konnte nicht vorbereitet werden"
@@ -11416,6 +11530,9 @@ msgstr "Der Rohtext wurde auf die passende Länge gekürzt."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Beim erneuten Lesen wurde kein Text gefunden; die vorhandenen Wörter bleiben unverändert"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Die Schwärzung passt nicht auf Seite {page}; es wurden keine Seiten markiert."
@@ -12002,6 +12119,9 @@ msgstr "Dieses Dokument liegt noch in keinem Ordner: Speichern Sie es zuerst"
 msgid "This document isn't password-protected"
 msgstr "Dieses Dokument ist nicht passwortgeschützt"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Diese Zeichnung überschreitet das Einrastlimit; nur die ersten Pfade werden verwendet."
 
@@ -12142,6 +12262,12 @@ msgstr "Dieser Drucker druckt nur einseitig."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Der Treiber dieses Druckers übernimmt keine Einstellungen für beidseitigen Druck von anderen Programmen, daher gilt seine eigene Einstellung. Ändere sie unter Eigenschaften…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "diese Signatur kann nicht einzeln entfernt werden"

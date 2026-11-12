@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "ສະຄຣິບ"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "ຕົວໜັງສືດຳພື້ນຂາວ"
 
@@ -1501,6 +1510,9 @@ msgstr "ໃຊ້ໂມເດວຂອງທ່ານເອງ (ປິດໄວ�
 msgid "Browser's print dialog"
 msgstr "ກ່ອງຂໍ້ຄວາມການພິມຂອງບຣາວເຊີ"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr ""
 
@@ -1521,6 +1533,9 @@ msgstr "ຮູບແບບປຸ່ມ:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "ປຸ່ມທີ່ມີຊື່ ແລະ ຄ່າຄືກັນຈະຖືກເລືອກພ້ອມກັນ"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr ""
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "ຍົກເລີກການແຕ້ມ"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "ກວດສອບຄວາມສະດວກໃນການເຂົ້
 
 msgid "Check for accessibility…"
 msgstr "ກວດສອບຄວາມສະດວກໃນການເຂົ້າເຖິງ…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "ກວດສອບການອັບເດດ…"
@@ -2205,11 +2226,17 @@ msgstr ""
 msgid "Column {n}"
 msgstr ""
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "ແບ່ງເປັນຊ່ອງຈຳນວນ"
 
 msgid "Comb of characters"
 msgstr "ຊ່ອງຕາລາງຕົວອັກສອນ"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ຮວມໄຟລ໌"
@@ -2826,6 +2853,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "ບັດເຄຣດິດ"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2870,6 +2900,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3184,6 +3217,12 @@ msgstr "ກວດພົບຊ່ອງຟອມ 1 ຊ່ອງ"
 msgid "Detected {n} form fields"
 msgstr "ກວດພົບຊ່ອງຟອມ {n} ຊ່ອງ"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "ມີການໃຊ້ສີອຸປະກອນ ແຕ່ບໍ່ມີ PDF/A output intent"
 
@@ -3261,6 +3300,12 @@ msgstr "ຕັດຮູບຫຍໍ້ຂອງໜ້າທີ່ຝັງໄວ
 
 msgid "Discard embedded print settings"
 msgstr "ຕັດການຕັ້ງຄ່າການພິມທີ່ຝັງໄວ້ອອກ"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "ຕັດເນື້ອຫາເລເຍີທີ່ເຊື່ອງໄວ້ອອກ"
@@ -3706,6 +3751,9 @@ msgstr "ແກ້ໄຂເນື້ອຫາ"
 msgid "Edit content"
 msgstr "ແກ້ໄຂເນື້ອໃນ"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "ແກ້ໄຂ JavaScript ຂອງເອກະສານ"
 
@@ -3814,6 +3862,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "ຈຸດປາຍ"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5236,6 +5287,9 @@ msgstr "ຫຍໍ້ໜ້າເຂົ້າ"
 msgid "Information"
 msgstr ""
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "ມຸມມອງເລີ່ມຕົ້ນ"
 
@@ -6315,6 +6369,9 @@ msgstr "ຍ້າຍຂຶ້ນ"
 msgid "Moved page"
 msgstr "ໜ້າທີ່ຍ້າຍ"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr ""
 
@@ -7055,6 +7112,9 @@ msgstr "ປ່ຽນແປງສະເພາະເນື້ອໃນໜ້າ: �
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "ເປີດເອກະສານກ່ອນ"
 
@@ -7157,6 +7217,9 @@ msgstr "ເປີດເພື່ອເບິ່ງສິ່ງທີ່ຈະຮ
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7222,6 +7285,12 @@ msgstr "ກຳລັງປັບແຕ່ງ… ກຳລັງຮວມວັ�
 
 msgid "Optimizing… merging image fragments"
 msgstr "ກຳລັງປັບແຕ່ງ… ກຳລັງຮວມຊິ້ນສ່ວນຮູບພາບ"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "ກຳລັງປັບແຕ່ງ… ກຳລັງລຶບຂໍ້ມູນຜູ້ໃຊ້ອອກ"
@@ -7393,6 +7462,12 @@ msgstr "ຂອບເຂດໜ້າ"
 
 msgid "Page Range Options"
 msgstr "ຕົວເລືອກໄລຍະໜ້າ"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "ຂະໜາດໜ້າ ແລະ ການຈັດການ"
@@ -7607,6 +7682,9 @@ msgstr "ວາງຕໍ່ທ້າຍ"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "ວາງບັນດາຄຳເຫັນ"
 
@@ -7720,6 +7798,12 @@ msgstr "PdfCraft {c} ເປັນເວີຊັນລ່າສຸດແລ້�
 
 msgid "PdfCraft {v} is available."
 msgstr "ມີ PdfCraft {v} ພ້ອມໃຫ້ໃຊ້ງານແລ້ວ."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "ຂອງ PdfCraft ເອງ"
@@ -8172,6 +8256,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "ປ້ອນລະຫັດຜ່ານຄືນໃໝ່"
 
@@ -8227,6 +8317,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8531,6 +8624,9 @@ msgstr "ລຶບເຄື່ອງໝາຍປິດບັງອອກ"
 
 msgid "Remove saved {what}"
 msgstr "ລຶບ {what} ທີ່ບັນທຶກໄວ້ອອກ"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "ປົດການປ້ອງກັນຄວາມປອດໄພ"
@@ -9618,6 +9714,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "ເຊັນດ້ວຍຕົນເອງ"
 
@@ -9938,6 +10037,9 @@ msgstr "ສະແດງລະຫັດຜ່ານ"
 
 msgid "Show Report"
 msgstr "ສະແດງລາຍງານ"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "ສະແດງແມ່ແບບ {name}"
@@ -10447,10 +10549,16 @@ msgstr "ບັນທຶກຮູບ JPEG ເປັນ JPEG XL (ນ້ອຍກ�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10872,6 +10980,9 @@ msgstr "ຄຳເຫັນທີ່ສຳເນົາໄວ້ໃຫຍ່ກວ
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10904,6 +11015,9 @@ msgstr "ເອກະສານມີການປ່ຽນແປງໃນຂະນ
 
 msgid "The document changed while you were editing field properties."
 msgstr "ເອກະສານມີການປ່ຽນແປງໃນຂະນະທີ່ທ່ານກຳລັງແກ້ໄຂຄຸນສົມບັດຊ່ອງຂໍ້ມູນ."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11410,6 +11524,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -11997,6 +12114,9 @@ msgstr "ເອກະສານນີ້ຍັງບໍ່ຢູ່ໃນໂຟນ
 msgid "This document isn't password-protected"
 msgstr "ເອກະສານນີ້ບໍ່ໄດ້ຖືກປົກປ້ອງດ້ວຍລະຫັດຜ່ານ"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ຮູບແຕ້ມນີ້ເກີນຂີດຈຳກັດການດູດຈັບ; ຈະໃຊ້ສະເພາະເສັ້ນທາງເດີນຊຸດທຳອິດເທົ່ານັ້ນ."
 
@@ -12137,6 +12257,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "ໄດຣເວີຂອງເຄື່ອງພິມນີ້ບໍ່ຮັບການຕັ້ງຄ່າການພິມສອງໜ້າຈາກໂປຣແກຣມອື່ນ, ດັ່ງນັ້ນຈຶ່ງໃຊ້ການຕັ້ງຄ່າຂອງມັນເອງ. ປ່ຽນແປງໄດ້ທີ່ ຄຸນສົມບັດ…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr ""

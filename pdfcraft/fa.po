@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "یک اسکریپت"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "سیاه روی سفید"
 
@@ -1501,6 +1510,9 @@ msgstr "مدل خودتان را بی‌آورید (به‌طور پیش‌فر�
 msgid "Browser's print dialog"
 msgstr "پنجره چاپ مرورگر"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "فهرست نشانهدار"
 
@@ -1521,6 +1533,9 @@ msgstr "سبک دکمه:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "دکمه‌هایی با نام و مقدار یکسان هم‌زمان انتخاب می‌شوند"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr ""
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "لغو ترسیم"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr ""
@@ -1776,6 +1794,9 @@ msgstr "بررسی دسترس‌پذیری"
 
 msgid "Check for accessibility…"
 msgstr "بررسی دسترس‌پذیری…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "بررسی به‌روز‌رسانی‌ها…"
@@ -2206,11 +2227,17 @@ msgstr "پهنای ستون‌ها"
 msgid "Column {n}"
 msgstr "ستون {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "شان‌های"
 
 msgid "Comb of characters"
 msgstr "شانهٔ نویسه‌ها"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ترکیب فایل‌ها"
@@ -2827,6 +2854,9 @@ msgstr "سازنده"
 msgid "Credit Cards"
 msgstr "کارت‌های اعتباری"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "امضای CRL"
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "۱ فیلد فرم شناسایی شد"
 msgid "Detected {n} form fields"
 msgstr "{n} فیلد فرم شناسایی شد"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "از رنگ دستگاه استفاده می‌شود، اما هیچ هدف خروجی PDF/A وجود ندارد"
 
@@ -3264,6 +3303,12 @@ msgstr "دور انداختن تصاویر بندانگشتی جا‌سازی‌
 
 msgid "Discard embedded print settings"
 msgstr "دور انداختن تنظیمات چاپ جا‌سازی‌شده"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "دور انداختن محتوای لایه پنهان"
@@ -3710,6 +3755,9 @@ msgstr ""
 msgid "Edit content"
 msgstr "ویرایش محتوا"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "ویرایش JavaScript سند"
 
@@ -3818,6 +3866,9 @@ msgstr "موجودیت نهایی"
 
 msgid "Endpoints"
 msgstr "نقاط انت‌هایی"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "افزایش تورفتگی"
 msgid "Information"
 msgstr "اطلاعات"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "نمای اولیه"
 
@@ -6319,6 +6373,9 @@ msgstr "بالا بردن"
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "فقط آنچه باید جابه جا شود را جابه جا می‌کند"
 
@@ -7059,6 +7116,9 @@ msgstr "فقط محتوای صفحه تغییر می‌کند: پیوند‌ها
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "ابتدا یک سند باز کنید"
 
@@ -7161,6 +7221,9 @@ msgstr "باز کنید تا ببینید چه چیزی را در بر می‌گ
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "در حال بهینه‌سازی… ادغام اشیای یکسان"
 
 msgid "Optimizing… merging image fragments"
 msgstr "بهینه‌سازی… ادغام قطعه‌های تصویر"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "در حال بهینه‌سازی… حذف داده‌های کاربر"
@@ -7397,6 +7466,12 @@ msgstr "بازه صفحه"
 
 msgid "Page Range Options"
 msgstr "گزینه‌های بازه صفحه"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "اندازه و مدیریت صفحه"
@@ -7611,6 +7686,9 @@ msgstr "چسباندن پس از"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "جای‌گذاری یادداشت‌ها"
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} در دسترس است."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr ""
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "گذرواژه را دوباره تایپ کنید"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "برداشتن علامت‌های سیاه‌کردن"
 
 msgid "Remove saved {what}"
 msgstr "حذف {what} ذخیره‌شده"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "حذف امنیت"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "خودامضا"
 
@@ -9942,6 +10041,9 @@ msgstr "نمایش گذرواژه"
 
 msgid "Show Report"
 msgstr "نمایش گزارش"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "نمایش الگوی {name}"
@@ -10451,10 +10553,16 @@ msgstr "ذخیره تصاویر JPEG به‌صورت JPEG XL (کوچک‌تر، 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr "یادداشت‌های رونوشت‌شده از این صفحه بز�
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "سند در حین انتخاب فایل تغییر کرد، بنابر�
 
 msgid "The document changed while you were editing field properties."
 msgstr "سند در حین ویرایش ویژگی‌های فیلد تغییر کرد."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "این سند با گذرواژه محافظت نشده است"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "این ترسیم از حد چسبیدن فرا‌تر می‌رود؛ فقط مسیر‌های اول استفاده می‌شوند."
 
@@ -12142,6 +12262,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "درایور این چاپگر تنظیمات دوطرفه را از برنامه‌های دیگر نمی‌پذیرد، بنابراین تنظیم خودش اعمال می‌شود. آن را در «ویژگی‌ها…» تغییر دهید…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr ""

@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Ett skript"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Svart på vitt"
 
@@ -1501,6 +1510,9 @@ msgstr "Ta med egen modell (av som standard)"
 msgid "Browser's print dialog"
 msgstr "Webbläsarens utskriftsdialog"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr ""
 
@@ -1521,6 +1533,9 @@ msgstr "Knappstil:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Knappar med samma namn och värde markeras samtidigt"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr ""
@@ -1559,6 +1574,9 @@ msgid "Cancel caption placement"
 msgstr ""
 
 msgid "Cancel drawing"
+msgstr ""
+
+msgid "Cancel re-read"
 msgstr ""
 
 msgid "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "Kontrollera tillgänglighet"
 
 msgid "Check for accessibility…"
 msgstr "Kontrollera tillgänglighet…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Sök efter uppdateringar…"
@@ -2206,11 +2227,17 @@ msgstr ""
 msgid "Column {n}"
 msgstr ""
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Kam med"
 
 msgid "Comb of characters"
 msgstr "Teckenkam"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Kombinera filer"
@@ -2827,6 +2854,9 @@ msgstr "Skapare"
 msgid "Credit Cards"
 msgstr "Kreditkort"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL-signering"
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "Upptäckte 1 formulärfält"
 msgid "Detected {n} form fields"
 msgstr "Upptäckte {n} formulärfält"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Enhetsfärg används, men det finns inget PDF/A-utmatningsmål"
 
@@ -3264,6 +3303,12 @@ msgstr "Kassera inbäddade sidminiatyrer"
 
 msgid "Discard embedded print settings"
 msgstr "Kassera inbäddade utskriftsinställningar"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Kassera innehåll i dolda lager"
@@ -3710,6 +3755,9 @@ msgstr ""
 msgid "Edit content"
 msgstr "Redigera innehåll"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Redigera dokumentets JavaScript"
 
@@ -3818,6 +3866,9 @@ msgstr "Slutentitet"
 
 msgid "Endpoints"
 msgstr "Ändpunkter"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "Öka indrag"
 msgid "Information"
 msgstr "Information"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Startvy"
 
@@ -6319,6 +6373,9 @@ msgstr "Flytta upp"
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr ""
 
@@ -7059,6 +7116,9 @@ msgstr "Endast sidinnehållet ändras: länkar, kommentarer, formulärfält och 
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Öppna ett dokument först"
 
@@ -7161,6 +7221,9 @@ msgstr "öppna för att se vad den kommer att innehålla"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "Optimerar… slår samman identiska objekt"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimerar… sammanfogar bildfragment"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Optimerar… tar bort användardata"
@@ -7397,6 +7466,12 @@ msgstr "Sidintervall"
 
 msgid "Page Range Options"
 msgstr "Alternativ för sidintervall"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Sidstorlek och hantering"
@@ -7611,6 +7686,9 @@ msgstr "Klistra in efter"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr ""
 
@@ -7724,6 +7802,12 @@ msgstr "PdfCraft {c} är aktuell."
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} är tillgänglig."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr ""
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Ange lösenordet igen"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "Ta bort maskningsmarkeringar"
 
 msgid "Remove saved {what}"
 msgstr "Ta bort sparad {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Ta bort säkerheten"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Självsignerat"
 
@@ -9942,6 +10041,9 @@ msgstr "Visa lösenord"
 
 msgid "Show Report"
 msgstr "Visa rapport"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr ""
@@ -10451,10 +10553,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr ""
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "Dokumentet ändrades medan du valde en fil, så ingenting ändrades."
 
 msgid "The document changed while you were editing field properties."
 msgstr "Dokumentet ändrades medan du redigerade fältegenskaper."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "Det här dokumentet är inte lösenordsskyddat"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ritningen överskrider fästningsgränsen; endast de första banorna används."
 
@@ -12142,6 +12262,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Den här skrivarens drivrutin tar inte emot inställningar för dubbelsidig utskrift från andra program, så dess egen inställning gäller. Ändra den i Egenskaper…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr ""

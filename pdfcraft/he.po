@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "סקריפט"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "שחור על לבן"
 
@@ -1501,6 +1510,9 @@ msgstr "שימוש במודל משלך (כבוי כברירת מחדל)"
 msgid "Browser's print dialog"
 msgstr "חלון ההדפסה של הדפדפן"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "רשימת תבליטים"
 
@@ -1521,6 +1533,9 @@ msgstr "סגנון הכפתור:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "כפתורים בעלי אותו שם וערך נבחרים יחד"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr ""
@@ -1559,6 +1574,9 @@ msgid "Cancel caption placement"
 msgstr ""
 
 msgid "Cancel drawing"
+msgstr ""
+
+msgid "Cancel re-read"
 msgstr ""
 
 msgid "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "בדיקת נגישות"
 
 msgid "Check for accessibility…"
 msgstr "בדיקת נגישות…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "בדיקת עדכונים…"
@@ -2207,11 +2228,17 @@ msgstr "רוחב העמודות"
 msgid "Column {n}"
 msgstr "עמודה {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "תאי תווים"
 
 msgid "Comb of characters"
 msgstr "רשת תווים"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "שילוב קבצים"
@@ -2828,6 +2855,9 @@ msgstr "יוצר"
 msgid "Credit Cards"
 msgstr "כרטיסי אשראי"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "חתימת CRL"
 
@@ -2872,6 +2902,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3190,6 +3223,12 @@ msgstr "זוהה שדה טופס אחד"
 msgid "Detected {n} form fields"
 msgstr "זוהו {n} שדות טופס"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "נעשה שימוש בצבע התקן, אך לא הוגדר פרופיל פלט עבור PDF/A"
 
@@ -3267,6 +3306,12 @@ msgstr "הסרת תמונות ממוזערות מוטמעות של עמודים"
 
 msgid "Discard embedded print settings"
 msgstr "הסרת הגדרות הדפסה מוטמעות"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "הסרת תוכן של שכבות מוסתרות"
@@ -3714,6 +3759,9 @@ msgstr ""
 msgid "Edit content"
 msgstr "עריכת תוכן"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "עריכת JavaScript במסמך"
 
@@ -3822,6 +3870,9 @@ msgstr "ישות קצה"
 
 msgid "Endpoints"
 msgstr "נקודות קצה"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5244,6 +5295,9 @@ msgstr "הגדלת כניסה"
 msgid "Information"
 msgstr "מידע"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "תצוגה ראשונית"
 
@@ -6323,6 +6377,9 @@ msgstr "העברה למעלה"
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "מזיז רק את מה שחייבים"
 
@@ -7063,6 +7120,9 @@ msgstr "רק תוכן העמודים משתנה: הקישורים, ההערות,
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "תחילה יש לפתוח מסמך"
 
@@ -7165,6 +7225,9 @@ msgstr "פתח כדי לראות מה ייכלל"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7230,6 +7293,12 @@ msgstr "מבצע מיטוב… ממזג אובייקטים זהים"
 
 msgid "Optimizing… merging image fragments"
 msgstr "מיטוב… מיזוג חלקי תמונה"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "מבצע מיטוב… מסיר נתוני משתמש"
@@ -7401,6 +7470,12 @@ msgstr "טווח עמודים"
 
 msgid "Page Range Options"
 msgstr "אפשרויות טווח עמודים"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "גודל העמוד וטיפול בו"
@@ -7615,6 +7690,9 @@ msgstr "הדבקה לאחר"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr ""
 
@@ -7728,6 +7806,12 @@ msgstr "PdfCraft {c} מעודכן."
 
 msgid "PdfCraft {v} is available."
 msgstr "גרסת PdfCraft {v} זמינה."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr ""
@@ -8180,6 +8264,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "הקלדת הסיסמה שוב"
 
@@ -8235,6 +8325,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8539,6 +8632,9 @@ msgstr "הסרת סימוני השחרה"
 
 msgid "Remove saved {what}"
 msgstr "הסרת {what} שנשמר"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "הסרת ההגנה"
@@ -9626,6 +9722,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "חתימה עצמית"
 
@@ -9946,6 +10045,9 @@ msgstr "הצגת סיסמה"
 
 msgid "Show Report"
 msgstr "הצגת הדוח"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr ""
@@ -10455,10 +10557,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10882,6 +10990,9 @@ msgstr ""
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10914,6 +11025,9 @@ msgstr "המסמך השתנה במהלך בחירת הקובץ ולכן לא ב�
 
 msgid "The document changed while you were editing field properties."
 msgstr "המסמך השתנה בזמן עריכת מאפייני השדה."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11420,6 +11534,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12007,6 +12124,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "מסמך זה אינו מוגן בסיסמה"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "השרטוט חורג ממגבלת ההצמדה; נעשה שימוש בנתיבים הראשונים בלבד."
 
@@ -12147,6 +12267,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "מנהל ההתקן של מדפסת זו אינו מקבל הגדרות דו־צדדיות מתוכנות אחרות, ולכן חלה ההגדרה שלו. ניתן לשנות אותה במאפיינים…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr ""

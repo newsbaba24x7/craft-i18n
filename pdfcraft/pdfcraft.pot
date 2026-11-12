@@ -341,6 +341,9 @@ msgstr ""
 msgid "A script"
 msgstr ""
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -432,6 +435,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1406,6 +1412,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr ""
 
@@ -1499,6 +1508,9 @@ msgstr ""
 msgid "Browser's print dialog"
 msgstr ""
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr ""
 
@@ -1518,6 +1530,9 @@ msgid "Button Style:"
 msgstr ""
 
 msgid "Buttons with the same name and value are selected in unison"
+msgstr ""
+
+msgid "by"
 msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
@@ -1557,6 +1572,9 @@ msgid "Cancel caption placement"
 msgstr ""
 
 msgid "Cancel drawing"
+msgstr ""
+
+msgid "Cancel re-read"
 msgstr ""
 
 msgid "Cancel reverse sides"
@@ -1773,6 +1791,9 @@ msgid "Check for accessibility"
 msgstr ""
 
 msgid "Check for accessibility…"
+msgstr ""
+
+msgid "Check for updates when PdfCraft starts"
 msgstr ""
 
 msgid "Check for updates…"
@@ -2204,10 +2225,16 @@ msgstr ""
 msgid "Column {n}"
 msgstr ""
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr ""
 
 msgid "Comb of characters"
+msgstr ""
+
+msgid "Combine engines"
 msgstr ""
 
 msgid "Combine files"
@@ -2825,6 +2852,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr ""
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2869,6 +2899,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3185,6 +3218,12 @@ msgstr ""
 msgid "Detected {n} form fields"
 msgstr ""
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr ""
 
@@ -3261,6 +3300,12 @@ msgid "Discard embedded page thumbnails"
 msgstr ""
 
 msgid "Discard embedded print settings"
+msgstr ""
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
 msgstr ""
 
 msgid "Discard hidden layer content"
@@ -3708,6 +3753,9 @@ msgstr ""
 msgid "Edit content"
 msgstr ""
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr ""
 
@@ -3815,6 +3863,9 @@ msgid "End entity"
 msgstr ""
 
 msgid "Endpoints"
+msgstr ""
+
+msgid "Engine"
 msgstr ""
 
 msgid "ENGINE · STRATEGY"
@@ -5238,6 +5289,9 @@ msgstr ""
 msgid "Information"
 msgstr ""
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr ""
 
@@ -6317,6 +6371,9 @@ msgstr ""
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr ""
 
@@ -7057,6 +7114,9 @@ msgstr ""
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr ""
 
@@ -7159,6 +7219,9 @@ msgstr ""
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7223,6 +7286,12 @@ msgid "Optimizing… merging identical objects"
 msgstr ""
 
 msgid "Optimizing… merging image fragments"
+msgstr ""
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
 msgstr ""
 
 msgid "Optimizing… removing user data"
@@ -7394,6 +7463,12 @@ msgid "Page Range"
 msgstr ""
 
 msgid "Page Range Options"
+msgstr ""
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
 msgstr ""
 
 msgid "Page Sizing & Handling"
@@ -7609,6 +7684,9 @@ msgstr ""
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr ""
 
@@ -7721,6 +7799,12 @@ msgid "PdfCraft {c} is up to date."
 msgstr ""
 
 msgid "PdfCraft {v} is available."
+msgstr ""
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
 msgstr ""
 
 msgid "PdfCraft's own"
@@ -8174,6 +8258,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr ""
 
@@ -8229,6 +8319,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8532,6 +8625,9 @@ msgid "Remove redaction marks"
 msgstr ""
 
 msgid "Remove saved {what}"
+msgstr ""
+
+msgid "Remove scan speckle"
 msgstr ""
 
 msgid "Remove security"
@@ -9620,6 +9716,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr ""
 
@@ -9939,6 +10038,9 @@ msgid "Show password"
 msgstr ""
 
 msgid "Show Report"
+msgstr ""
+
+msgid "Show tab numbers"
 msgstr ""
 
 msgid "Show template {name}"
@@ -10449,10 +10551,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10875,6 +10983,9 @@ msgstr ""
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10906,6 +11017,9 @@ msgid "The document changed while you were choosing a file, so nothing was chang
 msgstr ""
 
 msgid "The document changed while you were editing field properties."
+msgstr ""
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
 msgstr ""
 
 msgid "The document couldn't be prepared"
@@ -11413,6 +11527,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12000,6 +12117,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr ""
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr ""
 
@@ -12139,6 +12259,12 @@ msgid "This printer only prints one-sided."
 msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
+msgstr ""
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""
 
 msgid "this signature can't be removed on its own"

@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "سكربت"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "قبول"
 
 msgid "Accept entire page"
 msgstr "قبول الصفحة بأكملها"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "مقبول"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "أسود على أبيض"
 
@@ -1501,6 +1510,9 @@ msgstr "استخدم نموذجك الخاص (متوقف افتراضيًا)"
 msgid "Browser's print dialog"
 msgstr "مربع حوار الطباعة في المتصفح"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "قائمة نقطية"
 
@@ -1521,6 +1533,9 @@ msgstr "نمط الزر:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "الأزرار ذات الاسم والقيمة نفسيهما تُحدَّد معًا"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "بالمعادلات القياسية للأجهزة؛ لا تُطبَّق ملفات التعريف."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "إلغاء الرسم"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "إلغاء الوجه الخلفي"
@@ -1776,6 +1794,9 @@ msgstr "فحص إمكانية الوصول"
 
 msgid "Check for accessibility…"
 msgstr "فحص إمكانية الوصول…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "التحقق من التحديثات…"
@@ -2210,11 +2231,17 @@ msgstr "عروض الأعمدة"
 msgid "Column {n}"
 msgstr "العمود {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "خانات عددها"
 
 msgid "Comb of characters"
 msgstr "خانات محارف"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "دمج الملفات"
@@ -2831,6 +2858,9 @@ msgstr "المنشئ"
 msgid "Credit Cards"
 msgstr "بطاقات الائتمان"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "توقيع CRL"
 
@@ -2876,6 +2906,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "إحداثيات المؤشر"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3199,6 +3232,12 @@ msgstr "اكتُشف حقل نموذج واحد"
 msgid "Detected {n} form fields"
 msgstr "اكتُشف {n} حقول نموذج"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "يُستخدم لون الجهاز، لكن لا يوجد هدف إخراج PDF/A"
 
@@ -3276,6 +3315,12 @@ msgstr "تجاهل مصغرات الصفحات المضمَّنة"
 
 msgid "Discard embedded print settings"
 msgstr "تجاهل إعدادات الطباعة المضمَّنة"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "تجاهل محتوى الطبقات المخفية"
@@ -3726,6 +3771,9 @@ msgstr "تحرير المحتوى"
 msgid "Edit content"
 msgstr "تحرير المحتوى"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "تحرير JavaScript المستند"
 
@@ -3834,6 +3882,9 @@ msgstr "كيان نهائي"
 
 msgid "Endpoints"
 msgstr "نقاط النهاية"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "المحرك · الاستراتيجية"
@@ -5256,6 +5307,9 @@ msgstr "إزاحة للداخل"
 msgid "Information"
 msgstr "معلومات"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "العرض الأولي"
 
@@ -6335,6 +6389,9 @@ msgstr "نقل لأعلى"
 msgid "Moved page"
 msgstr "صفحة منقولة"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "ينقل فقط ما يجب نقله"
 
@@ -7075,6 +7132,9 @@ msgstr "يتغير محتوى الصفحة فقط: الروابط والتعلي
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "لا يمكن فتح المستند إلا للمستلمين، كلٌّ بالمفتاح الخاص لشهادته."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "افتح مستندًا أولًا"
 
@@ -7177,6 +7237,9 @@ msgstr "افتح لترى ما سيتضمنه"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "فُتح من مغلف توقيع CAdES — للقراءة فقط."
 
@@ -7242,6 +7305,12 @@ msgstr "جارٍ التحسين… دمج الكائنات المتطابقة"
 
 msgid "Optimizing… merging image fragments"
 msgstr "جارٍ التحسين… دمج أجزاء الصور"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "جارٍ التحسين… إزالة بيانات المستخدم"
@@ -7413,6 +7482,12 @@ msgstr "نطاق الصفحات"
 
 msgid "Page Range Options"
 msgstr "خيارات نطاق الصفحات"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "حجم الصفحات ومعالجتها"
@@ -7627,6 +7702,9 @@ msgstr "لصق بعد"
 msgid "Paste an OpenRouter key"
 msgstr "الصق مفتاح OpenRouter"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "لصق التعليقات"
 
@@ -7740,6 +7818,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} متاح."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "شعار PdfCraft"
@@ -8192,6 +8276,12 @@ msgstr "إعادة التعرف الضوئي على الصفحة بأكملها"
 msgid "Re-OCR this region"
 msgstr "إعادة التعرف الضوئي على هذه المنطقة"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "أعد كتابة كلمة المرور"
 
@@ -8248,6 +8338,9 @@ msgstr "تفضيلات القراءة"
 
 msgid "Reading preferences…"
 msgstr "تفضيلات القراءة…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "جارٍ قراءة إعدادات الطابعة…"
@@ -8551,6 +8644,9 @@ msgstr "إزالة علامات الحجب"
 
 msgid "Remove saved {what}"
 msgstr "إزالة {what} المحفوظ"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "إزالة الحماية"
@@ -9638,6 +9734,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "يطبّق اختيار نتيجة هذا الاستعلام على البحث في المستند الهدف."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "موقَّع ذاتيًا"
 
@@ -9958,6 +10057,9 @@ msgstr "إظهار كلمة المرور"
 
 msgid "Show Report"
 msgstr "إظهار التقرير"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "إظهار القالب {name}"
@@ -10467,11 +10569,17 @@ msgstr "تخزين صور JPEG بصيغة JPEG XL (أصغر حجمًا ويمك�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "تسوية الصفحة الممسوحة ضوئيًا"
 
 msgid "Straighten skewed scans"
 msgstr "تقويم الصفحات الممسوحة المائلة"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "تسوية الصفحة"
@@ -10897,6 +11005,9 @@ msgstr "التعليقات المنسوخة أكبر من هذه الصفحة؛ 
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "تعذّرت كتابة النسخة المراد إرفاقها: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10929,6 +11040,9 @@ msgstr "تغيّر المستند أثناء اختيارك ملفًا، فلم 
 
 msgid "The document changed while you were editing field properties."
 msgstr "تغيّر المستند أثناء تحريرك خصائص الحقل."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "تعذر تجهيز المستند"
@@ -11436,6 +11550,9 @@ msgstr "تم اقتطاع النص الخام."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "لم تجد إعادة القراءة أي نص؛ والكلمات الموجودة لم تتغير"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "لا يلائم التنقيح الصفحة {page}؛ لم تُعلَّم أي صفحات."
@@ -12022,6 +12139,9 @@ msgstr "هذا المستند ليس في مجلد بعد: احفظه أولاً
 msgid "This document isn't password-protected"
 msgstr "هذا المستند غير محمي بكلمة مرور"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "هذا الرسم يتجاوز حد الانجذاب؛ تُستخدم المسارات الأولى فقط."
 
@@ -12162,6 +12282,12 @@ msgstr "هذه الطابعة تطبع على وجه واحد فقط."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "لا يقبل برنامج تشغيل هذه الطابعة إعدادات الطباعة على الوجهين من البرامج الأخرى، لذا يُطبَّق إعداده الخاص. غيّره من خصائص…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "لا يمكن إزالة هذا التوقيع وحده"

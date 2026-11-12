@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr ""
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "అంగీకరించు"
 
 msgid "Accept entire page"
 msgstr "మొత్తం పేజీని అంగీకరించు"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "ఆమోదించబడింది"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "నలుపు తెలుపు పత్రం"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "తెలుపుపై నలుపు"
 
@@ -1501,6 +1510,9 @@ msgstr "మీ సొంత మోడల్ (డిఫాల్ట్‌గా �
 msgid "Browser's print dialog"
 msgstr "బ్రౌజర్ ముద్రణ డైలాగ్"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "బుల్లెట్ జాబితా"
 
@@ -1521,6 +1533,9 @@ msgstr "బటన్ శైలి:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "ఒకే పేరు, విలువ ఉన్న బటన్‌లు ఒకేసారి ఎంచుకోబడతాయి"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "ప్రామాణిక పరికర సూత్రాలతో; ప్రొఫైల్‌లు వర్తించవు."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "గీయడం రద్దు చేయి"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "యాక్సెసిబిలిటీని తనిఖీ చే�
 
 msgid "Check for accessibility…"
 msgstr "యాక్సెసిబిలిటీని తనిఖీ చేయి…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "అప్‌డేట్‌ల కోసం తనిఖీ చేయి…"
@@ -2206,11 +2227,17 @@ msgstr "నిలువు వరుసల వెడల్పులు"
 msgid "Column {n}"
 msgstr "నిలువు వరుస {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "ప్రతి అక్షరానికి ఒక గడి, మొత్తం"
 
 msgid "Comb of characters"
 msgstr "అక్షరాల దువ్వెన"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ఫైల్‌లను కలుపు"
@@ -2827,6 +2854,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "క్రెడిట్ కార్డ్‌లు"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2872,6 +2902,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "కర్సర్ కోఆర్డినేట్‌లు"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3187,6 +3220,12 @@ msgstr "1 ఫారం ఫీల్డ్ గుర్తించబడిం�
 msgid "Detected {n} form fields"
 msgstr "{n} ఫారం ఫీల్డ్‌లు గుర్తించబడ్డాయి"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "పరికరంపై ఆధారపడే రంగు ఉపయోగించబడింది, కానీ PDF/A అవుట్‌పుట్ ఇంటెంట్ లేదు"
 
@@ -3264,6 +3303,12 @@ msgstr "పొందుపరిచిన పేజీ థంబ్‌నెయ�
 
 msgid "Discard embedded print settings"
 msgstr "పొందుపరిచిన ముద్రణ సెట్టింగ్‌లను విస్మరించు"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "దాచిన లేయర్ కంటెంట్‌ను విస్మరించు"
@@ -3710,6 +3755,9 @@ msgstr "కంటెంట్‌ను సవరించండి"
 msgid "Edit content"
 msgstr "కంటెంట్‌ను సవరించు"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "పత్రం స్థాయి JavaScriptను సవరించు"
 
@@ -3818,6 +3866,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "అంత్య బిందువులు"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ఇంజిన్ · వ్యూహం"
@@ -5240,6 +5291,9 @@ msgstr "లోపలికి జరుపు"
 msgid "Information"
 msgstr "సమాచారం"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "ప్రారంభ వీక్షణ"
 
@@ -6319,6 +6373,9 @@ msgstr "పైకి తరలించు"
 msgid "Moved page"
 msgstr "తరలించిన పేజీ"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "తప్పనిసరిగా జరపాల్సినవాటినే జరుపుతుంది"
 
@@ -7059,6 +7116,9 @@ msgstr "పేజీ కంటెంట్ మాత్రమే మారుత
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "గ్రహీతలు మాత్రమే ఈ పత్రాన్ని తెరవగలరు, ప్రతి ఒక్కరూ తమ సొంత సర్టిఫికెట్ ప్రైవేట్ కీతో."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "ముందుగా ఒక పత్రాన్ని తెరవండి"
 
@@ -7161,6 +7221,9 @@ msgstr "ఇందులో ఏమేమి ఉంటాయో చూడటాన
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "CAdES సంతక లకోట నుండి తెరవబడింది — చదవడానికి మాత్రమే."
 
@@ -7226,6 +7289,12 @@ msgstr "ఆప్టిమైజ్ చేస్తోంది… ఒకేల�
 
 msgid "Optimizing… merging image fragments"
 msgstr "ఆప్టిమైజ్ చేస్తోంది… చిత్ర శకలాలను విలీనం చేస్తోంది"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "ఆప్టిమైజ్ చేస్తోంది… వినియోగదారు డేటాను తీసివేస్తోంది"
@@ -7397,6 +7466,12 @@ msgstr "పేజీ పరిధి"
 
 msgid "Page Range Options"
 msgstr "పేజీ పరిధి ఎంపికలు"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "పేజీ పరిమాణం & నిర్వహణ"
@@ -7611,6 +7686,9 @@ msgstr "ఎంపిక తర్వాత అతికించు"
 msgid "Paste an OpenRouter key"
 msgstr "OpenRouter కీని అతికించండి"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "వ్యాఖ్యలను అతికించు"
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} అందుబాటులో ఉంది."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft యొక్కది"
@@ -8176,6 +8260,12 @@ msgstr "మొత్తం పేజీకి మళ్లీ OCR"
 msgid "Re-OCR this region"
 msgstr "ఈ ప్రాంతానికి మళ్లీ OCR"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి"
 
@@ -8232,6 +8322,9 @@ msgstr "పఠన ప్రాధాన్యతలు"
 
 msgid "Reading preferences…"
 msgstr "పఠన ప్రాధాన్యతలు…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "ప్రింటర్ సెట్టింగ్‌లను చదువుతోంది…"
@@ -8534,6 +8627,9 @@ msgid "Remove redaction marks"
 msgstr "రెడాక్షన్ గుర్తులను తీసివేయి"
 
 msgid "Remove saved {what}"
+msgstr ""
+
+msgid "Remove scan speckle"
 msgstr ""
 
 msgid "Remove security"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "ఫలితాన్ని ఎంచుకోవడం ఈ ప్రశ్నను లక్ష్య పత్రంలోని వెతుకు సదుపాయానికి వర్తింపజేస్తుంది."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "స్వీయ-సంతకం చేసినది"
 
@@ -9942,6 +10041,9 @@ msgstr "పాస్‌వర్డ్‌ను చూపించు"
 
 msgid "Show Report"
 msgstr "నివేదికను చూపించు"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "టెంప్లేట్ {name}ను చూపించు"
@@ -10451,11 +10553,17 @@ msgstr "JPEG చిత్రాలను JPEG XLగా నిల్వ చేయ
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "స్కాన్ చేసిన పేజీని సరిచేయి"
 
 msgid "Straighten skewed scans"
 msgstr "వంగిన స్కాన్‌లను నిటారుగా చేయి"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr "కాపీ చేసిన వ్యాఖ్యలు ఈ పేజ�
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "జోడించాల్సిన కాపీని రాయలేకపోయింది: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr ""
 
 msgid "The document changed while you were editing field properties."
 msgstr "మీరు ఫీల్డ్ లక్షణాలను సవరిస్తున్నప్పుడు పత్రం మారింది."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "పత్రాన్ని సిద్ధం చేయలేకపోయింది"
@@ -11416,6 +11530,9 @@ msgstr "ముడి పాఠం కత్తిరించబడింది.
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "మళ్లీ చదవడంలో టెక్స్ట్ కనబడలేదు; ఉన్న పదాలు మారలేదు"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "రెడాక్షన్ {page} పేజీలో సరిపోదు; ఏ పేజీని గుర్తించలేదు."
@@ -12002,6 +12119,9 @@ msgstr "ఈ పత్రం ఇంకా ఏ ఫోల్డర్‌లోన�
 msgid "This document isn't password-protected"
 msgstr "ఈ పత్రం పాస్‌వర్డ్‌తో రక్షించబడలేదు"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ఈ డ్రాయింగ్ స్నాపింగ్ పరిమితిని మించిపోయింది; మొదటి పాత్‌లు మాత్రమే ఉపయోగించబడతాయి."
 
@@ -12141,6 +12261,12 @@ msgid "This printer only prints one-sided."
 msgstr "ఈ ప్రింటర్ ఒకవైపు మాత్రమే ప్రింట్ చేస్తుంది."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
+msgstr ""
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""
 
 msgid "this signature can't be removed on its own"

@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Сценарій"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "Прийняти"
 
 msgid "Accept entire page"
 msgstr "Прийняти всю сторінку"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Прийнято"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Чорно-білий документ"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Чорний на білому"
 
@@ -1501,6 +1510,9 @@ msgstr "Додайте власну модель (типово вимкнено)
 msgid "Browser's print dialog"
 msgstr "Діалог друку браузера"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Маркований список"
 
@@ -1521,6 +1533,9 @@ msgstr "Стиль кнопки:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Кнопки з однаковими назвою й значенням вибираються разом"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "За стандартними формулами пристроїв; профілі не застосовуються."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Скасувати малювання"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Скасувати зворотні боки"
@@ -1776,6 +1794,9 @@ msgstr "Перевірити доступність"
 
 msgid "Check for accessibility…"
 msgstr "Перевірити доступність…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Перевірити оновлення…"
@@ -2207,11 +2228,17 @@ msgstr "Ширина стовпців"
 msgid "Column {n}"
 msgstr "Стовпець {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Комірки для"
 
 msgid "Comb of characters"
 msgstr "Гребінка символів"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Об’єднати файли"
@@ -2828,6 +2855,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "Кредитні картки"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2873,6 +2903,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Координати курсора"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3190,6 +3223,12 @@ msgstr "Виявлено 1 поле форми"
 msgid "Detected {n} form fields"
 msgstr "Виявлено полів форми: {n}"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Використано колір пристрою, але немає профілю виводу PDF/A"
 
@@ -3267,6 +3306,12 @@ msgstr "Видалити вбудовані мініатюри сторінок"
 
 msgid "Discard embedded print settings"
 msgstr "Видалити вбудовані налаштування друку"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Видалити вміст прихованих шарів"
@@ -3714,6 +3759,9 @@ msgstr "Редагувати вміст"
 msgid "Edit content"
 msgstr "Редагувати вміст"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Редагувати JavaScript документа"
 
@@ -3822,6 +3870,9 @@ msgstr "Кінцевий суб’єкт"
 
 msgid "Endpoints"
 msgstr "Кінцеві точки"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "РУШІЙ · СТРАТЕГІЯ"
@@ -5244,6 +5295,9 @@ msgstr "Збільшити відступ"
 msgid "Information"
 msgstr "Відомості"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Початковий вигляд"
 
@@ -6323,6 +6377,9 @@ msgstr "Перемістити вгору"
 msgid "Moved page"
 msgstr "Переміщена сторінка"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Переміщує лише те, що треба"
 
@@ -7063,6 +7120,9 @@ msgstr "Змінюється лише вміст сторінок: посила�
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Відкрити документ можуть лише одержувачі — кожен за допомогою закритого ключа власного сертифіката."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Спочатку відкрийте документ"
 
@@ -7165,6 +7225,9 @@ msgstr "відкрийте, щоб побачити, що він містити�
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Відкрито з конверта підпису CAdES — лише для читання."
 
@@ -7230,6 +7293,12 @@ msgstr "Оптимізація… об’єднання однакових об�
 
 msgid "Optimizing… merging image fragments"
 msgstr "Оптимізація… об’єднання фрагментів зображень"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Оптимізація… видалення даних користувача"
@@ -7401,6 +7470,12 @@ msgstr "Діапазон сторінок"
 
 msgid "Page Range Options"
 msgstr "Параметри діапазону сторінок"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Розмір і розміщення сторінок"
@@ -7615,6 +7690,9 @@ msgstr "Вставити після"
 msgid "Paste an OpenRouter key"
 msgstr "Вставте ключ OpenRouter"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Вставити коментарі"
 
@@ -7728,6 +7806,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "Доступна версія PdfCraft {v}."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft"
@@ -8180,6 +8264,12 @@ msgstr "Повторити OCR для всієї сторінки"
 msgid "Re-OCR this region"
 msgstr "Повторити OCR для цієї області"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Повторіть пароль"
 
@@ -8236,6 +8326,9 @@ msgstr "Параметри читання"
 
 msgid "Reading preferences…"
 msgstr "Параметри читання…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Читання налаштувань принтера…"
@@ -8539,6 +8632,9 @@ msgstr "Видалити позначки вилучення"
 
 msgid "Remove saved {what}"
 msgstr "Видалити збережене: {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Зняти захист"
@@ -9626,6 +9722,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Вибір результату застосовує цей запит до пошуку в цільовому документі."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Самопідписаний"
 
@@ -9946,6 +10045,9 @@ msgstr "Показати пароль"
 
 msgid "Show Report"
 msgstr "Показати звіт"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Показати шаблон {name}"
@@ -10455,11 +10557,17 @@ msgstr "Зберігати зображення JPEG як JPEG XL (менші, �
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Вирівняти відскановану сторінку"
 
 msgid "Straighten skewed scans"
 msgstr "Вирівнювати нахилені скани"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Вирівняти сторінку"
@@ -10882,6 +10990,9 @@ msgstr "Скопійовані коментарі більші за цю сто�
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Не вдалося записати копію для вкладення: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10914,6 +11025,9 @@ msgstr "Документ змінився, поки ви вибирали фай
 
 msgid "The document changed while you were editing field properties."
 msgstr "Документ змінився, поки ви редагували властивості полів."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Не вдалося підготувати документ"
@@ -11421,6 +11535,9 @@ msgstr "Вхідний текст було скорочено."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Повторне розпізнавання не знайшло тексту; наявні слова не змінено"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Область видалення не вміщується на сторінці {page}; сторінки не позначено."
@@ -12007,6 +12124,9 @@ msgstr "Цей документ ще не в теці: спершу збереж
 msgid "This document isn't password-protected"
 msgstr "Цей документ не захищено паролем"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Це креслення перевищує межу прив’язування; використовуються лише перші контури."
 
@@ -12147,6 +12267,12 @@ msgstr "Цей принтер друкує лише з одного боку."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Драйвер цього принтера не приймає налаштування двобічного друку від інших програм, тому діє його власне налаштування. Змініть його у вікні Властивості…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "цей підпис не можна вилучити окремо"

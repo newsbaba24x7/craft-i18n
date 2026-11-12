@@ -343,6 +343,9 @@ msgstr "PrinterMark anotacija persidengia su TrimBox arba ArtBox"
 msgid "A script"
 msgstr "Scenarijus"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr "antras {} jo lentelėje"
 
@@ -435,6 +438,9 @@ msgstr "Priimti"
 
 msgid "Accept entire page"
 msgstr "Priimti visą puslapį"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Priimta"
@@ -1408,6 +1414,9 @@ msgstr "Vieno bito vaizdai"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Juoda baltame fone"
 
@@ -1501,6 +1510,9 @@ msgstr "Naudoti savo modelį (išjungta pagal numatytuosius parametrus)"
 msgid "Browser's print dialog"
 msgstr "Naršyklės spausdinimo dialogas"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Sąrašas su ženkleliais"
 
@@ -1521,6 +1533,9 @@ msgstr "Mygtuko stilius:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Mygtukai su tuo pačiu pavadinimu ir reikšme pasirenkami kartu"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Pagal standartines įrenginių formules; profiliai netaikomi."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Atšaukti piešimą"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Atšaukti kitas puses"
@@ -1776,6 +1794,9 @@ msgstr "Tikrinti prieinamumą"
 
 msgid "Check for accessibility…"
 msgstr "Tikrinti prieinamumą…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Tikrinti, ar yra naujinimų…"
@@ -2207,11 +2228,17 @@ msgstr "Stulpelių pločiai"
 msgid "Column {n}"
 msgstr "Stulpelis {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Simbolių tinklelis:"
 
 msgid "Comb of characters"
 msgstr "Simboliai atskiruose langeliuose"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Sujungti failus"
@@ -2828,6 +2855,9 @@ msgstr "Kūrimo programa"
 msgid "Credit Cards"
 msgstr "Mokėjimo kortelių numeriai"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "Sertifikatų atšaukimo sąrašo pasirašymas"
 
@@ -2873,6 +2903,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Žymeklio koordinatės"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3190,6 +3223,12 @@ msgstr "Aptiktas 1 formos laukas"
 msgid "Detected {n} form fields"
 msgstr "Aptikta formos laukų: {n}"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Naudojamos įrenginio spalvos, tačiau nėra PDF/A išvesties profilio"
 
@@ -3267,6 +3306,12 @@ msgstr "Pašalinti įdėtąsias puslapių miniatiūras"
 
 msgid "Discard embedded print settings"
 msgstr "Pašalinti įdėtąsias spausdinimo nuostatas"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Pašalinti paslėptų sluoksnių turinį"
@@ -3714,6 +3759,9 @@ msgstr "Taisyti turinį"
 msgid "Edit content"
 msgstr "Redaguoti turinį"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Redaguoti dokumento „JavaScript“ scenarijų"
 
@@ -3822,6 +3870,9 @@ msgstr "Galutinis subjektas"
 
 msgid "Endpoints"
 msgstr "Galiniai taškai"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "VARIKLIS · STRATEGIJA"
@@ -5244,6 +5295,9 @@ msgstr "Įtrauka"
 msgid "Information"
 msgstr "Informacija"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Pradinis rodinys"
 
@@ -6323,6 +6377,9 @@ msgstr "Perkelti aukštyn"
 msgid "Moved page"
 msgstr "Perkeltas puslapis"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Perkelia tik tai, ką būtina"
 
@@ -7063,6 +7120,9 @@ msgstr "Keičiamas tik puslapio turinys: saitai, komentarai, formos laukai ir ž
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Dokumentą gali atverti tik gavėjai, kiekvienas savo sertifikato privačiuoju raktu."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Pirmiausia atverkite dokumentą"
 
@@ -7165,6 +7225,9 @@ msgstr "atverkite ir peržiūrėkite turinį"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Atverta iš CAdES parašo voko — tik skaityti."
 
@@ -7230,6 +7293,12 @@ msgstr "Optimizuojama… jungiami vienodi objektai"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimizuojama… jungiami vaizdo fragmentai"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Optimizuojama… šalinami naudotojo duomenys"
@@ -7401,6 +7470,12 @@ msgstr "Puslapių intervalas"
 
 msgid "Page Range Options"
 msgstr "Puslapių intervalo parinktys"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Puslapio dydis ir apdorojimas"
@@ -7615,6 +7690,9 @@ msgstr "Įdėti po"
 msgid "Paste an OpenRouter key"
 msgstr "Įklijuokite OpenRouter raktą"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Įklijuoti komentarus"
 
@@ -7728,6 +7806,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "Išleista „PdfCraft“ versija {v}."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft"
@@ -8180,6 +8264,12 @@ msgstr "Iš naujo atpažinti visą puslapį"
 msgid "Re-OCR this region"
 msgstr "Iš naujo atpažinti šią sritį"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Pakartokite slaptažodį"
 
@@ -8236,6 +8326,9 @@ msgstr "Skaitymo nuostatos"
 
 msgid "Reading preferences…"
 msgstr "Skaitymo nuostatos…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Skaitomi spausdintuvo nustatymai…"
@@ -8539,6 +8632,9 @@ msgstr "Pašalinti konfidencialios informacijos šalinimo žymas"
 
 msgid "Remove saved {what}"
 msgstr "Pašalinti įrašytą {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Pašalinti apsaugą"
@@ -9626,6 +9722,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Pasirinkus rezultatą ši užklausa pritaikoma tikslinio dokumento paieškai."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Savarankiškai pasirašytas"
 
@@ -9946,6 +10045,9 @@ msgstr "Rodyti slaptažodį"
 
 msgid "Show Report"
 msgstr "Rodyti ataskaitą"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Rodyti šabloną {name}"
@@ -10455,11 +10557,17 @@ msgstr "Saugoti JPEG paveikslus kaip JPEG XL (mažesni, galima atšaukti; reikia
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Ištiesinti nuskaitytą puslapį"
 
 msgid "Straighten skewed scans"
 msgstr "Ištiesinti pakrypusius nuskaitytus vaizdus"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Ištiesinti puslapį"
@@ -10882,6 +10990,9 @@ msgstr "Nukopijuoti komentarai didesni už šį puslapį; jie įdėti tokie, kok
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Nepavyko įrašyti pridedamos kopijos: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr "Numatytoji pasirenkamojo turinio konfigūracija (D) neturi Name"
 
@@ -10914,6 +11025,9 @@ msgstr "Renkantis failą dokumentas pasikeitė, todėl pakeitimai nepritaikyti."
 
 msgid "The document changed while you were editing field properties."
 msgstr "Redaguojant lauko savybes dokumentas pasikeitė."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Nepavyko paruošti dokumento"
@@ -11421,6 +11535,9 @@ msgstr "Pirminis tekstas sutrumpintas."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Pakartotinis skaitymas teksto nerado; esami žodžiai nepakeisti"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Užtušavimas netelpa {page} puslapyje; puslapiai nepažymėti."
@@ -12007,6 +12124,9 @@ msgstr "Šis dokumentas dar nėra jokiame aplanke: pirmiausia jį įrašykite"
 msgid "This document isn't password-protected"
 msgstr "Šis dokumentas neapsaugotas slaptažodžiu"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Brėžinys viršija pritraukimo ribą; naudojami tik pirmieji keliai."
 
@@ -12147,6 +12267,12 @@ msgstr "Šis spausdintuvas spausdina tik vienoje pusėje."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Šio spausdintuvo tvarkyklė neperima dvipusio spausdinimo nuostatų iš kitų programų, todėl taikoma jos nuostata. Pakeiskite ją skiltyje „Savybės“…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "šio parašo negalima pašalinti atskirai"

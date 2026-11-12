@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Një skript"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "E zezë mbi të bardhë"
 
@@ -1501,6 +1510,9 @@ msgstr "Sill modelin tënd (joaktiv si parazgjedhje)"
 msgid "Browser's print dialog"
 msgstr "Dialogu i printimit të shfletuesit"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Bulleted list"
 
@@ -1521,6 +1533,9 @@ msgstr "Stili i butonit:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Butonat me të njëjtin emër dhe vlerë zgjidhen së bashku"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Sipas formulave standarde të pajisjes; profilet nuk zbatohen."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Anulo vizatimin"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "Kontrollo qasshmërinë"
 
 msgid "Check for accessibility…"
 msgstr "Kontrollo qasshmërinë…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Kontrollo për përditësime…"
@@ -2206,11 +2227,17 @@ msgstr "Gjerësitë e kolonave"
 msgid "Column {n}"
 msgstr "Kolona {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Krehër me"
 
 msgid "Comb of characters"
 msgstr "Krehër karakteresh"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Bashko skedarët"
@@ -2827,6 +2854,9 @@ msgstr ""
 msgid "Credit Cards"
 msgstr "Kartat e kreditit"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr ""
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "U zbulua 1 fushë formulari"
 msgid "Detected {n} form fields"
 msgstr "U zbuluan {n} fusha formulari"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Përdoret ngjyra e pajisjes, por nuk ka synim dalje (output intent) PDF/A"
 
@@ -3264,6 +3303,12 @@ msgstr "Hidh tej miniaturat e faqeve të ngulitura"
 
 msgid "Discard embedded print settings"
 msgstr "Hidh tej cilësimet e printimit të ngulitura"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Hidh tej përmbajtjen e shtresave të fshehura"
@@ -3710,6 +3755,9 @@ msgstr "Ndrysho përmbajtjen"
 msgid "Edit content"
 msgstr "Ndrysho përmbajtjen"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Ndrysho JavaScript-in e dokumentit"
 
@@ -3818,6 +3866,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "Pikat fundore"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "Zhvendos djathtas"
 msgid "Information"
 msgstr "Informacion"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Pamja fillestare"
 
@@ -6319,6 +6373,9 @@ msgstr "Zhvendos lart"
 msgid "Moved page"
 msgstr "Faqe e zhvendosur"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Moves only what must move"
 
@@ -7059,6 +7116,9 @@ msgstr "Ndryshon vetëm përmbajtja e faqes: lidhjet, komentet, fushat e formula
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Dokumentin mund ta hapin vetëm marrësit, secili me çelësin privat të certifikatës së vet."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Hap fillimisht një dokument"
 
@@ -7161,6 +7221,9 @@ msgstr "hapeni për të parë çfarë do të përfshijë"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "Duke optimizuar… duke bashkuar objektet identike"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimizing… merging image fragments"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Duke optimizuar… duke hequr të dhënat e përdoruesit"
@@ -7397,6 +7466,12 @@ msgstr "Intervali i faqeve"
 
 msgid "Page Range Options"
 msgstr "Opsionet e intervalit të faqeve"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Madhësia dhe trajtimi i faqes"
@@ -7611,6 +7686,9 @@ msgstr "Ngjit pas"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Ngjit komentet"
 
@@ -7724,6 +7802,12 @@ msgstr "PdfCraft {c} është i përditësuar."
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} është i disponueshëm."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "Ai i PdfCraft"
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Shkruaje sërish fjalëkalimin"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "Hiq shenjat e redaktimit"
 
 msgid "Remove saved {what}"
 msgstr "Hiq {what} të ruajtur"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Hiq sigurinë"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "I vetënënshkruar"
 
@@ -9942,6 +10041,9 @@ msgstr "Shfaq fjalëkalimin"
 
 msgid "Show Report"
 msgstr "Shfaq raportin"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Shfaq shabllonin {name}"
@@ -10451,11 +10553,17 @@ msgstr "Ruaji imazhet JPEG si JPEG XL (më të vogla, mund të zhbëhet; kërkon
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Drejto skanimet e pjerrëta"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr "Komentet e kopjuara janë më të mëdha se kjo faqe; u vendosën siç j
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Kopja për t'u bashkëngjitur nuk u shkrua dot: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "Dokumenti ndryshoi ndërsa zgjidhnit një skedar, ndaj nuk u ndryshua as
 
 msgid "The document changed while you were editing field properties."
 msgstr "Dokumenti ndryshoi ndërsa po redaktonit vetitë e fushës."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Dokumenti nuk u përgatit dot"
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr "Ky dokument nuk është ende në një dosje: ruajeni më parë"
 msgid "This document isn't password-protected"
 msgstr "Ky dokument nuk është i mbrojtur me fjalëkalim"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ky vizatim e tejkalon kufirin e ngjitjes; përdoren vetëm shtigjet e para."
 
@@ -12142,6 +12262,12 @@ msgstr "Ky printer printon vetëm njëanshëm."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Drajveri i këtij printeri nuk i merr cilësimet dyanshe nga programet e tjera, ndaj zbatohet cilësimi i tij. Ndryshojeni te Vetitë…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "ky nënshkrim nuk mund të hiqet më vete"

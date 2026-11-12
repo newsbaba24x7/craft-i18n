@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "Bir komut dosyası"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgstr "Kabul et"
 
 msgid "Accept entire page"
 msgstr "Tüm sayfayı kabul et"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr ""
 
 msgid "Accepted"
 msgstr "Kabul edildi"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Beyaz üzerinde siyah"
 
@@ -1501,6 +1510,9 @@ msgstr "Kendi modelini getir (varsayılan olarak kapalı)"
 msgid "Browser's print dialog"
 msgstr "Tarayıcının yazdırma penceresi"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Madde işaretli liste"
 
@@ -1521,6 +1533,9 @@ msgstr "Düğme Stili:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Aynı ada ve değere sahip düğmeler birlikte seçilir"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Standart cihaz formülleriyle; profiller uygulanmaz."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Çizimi iptal et"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Arka yüzleri iptal et"
@@ -1776,6 +1794,9 @@ msgstr "Erişilebilirliği denetle"
 
 msgid "Check for accessibility…"
 msgstr "Erişilebilirliği denetle…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Güncellemeleri denetle…"
@@ -2206,11 +2227,17 @@ msgstr "Sütun genişlikleri"
 msgid "Column {n}"
 msgstr "Sütun {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Tarak alanı:"
 
 msgid "Comb of characters"
 msgstr "Karakter tarağı"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Dosyaları birleştir"
@@ -2827,6 +2854,9 @@ msgstr "Oluşturan"
 msgid "Credit Cards"
 msgstr "Kredi Kartları"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL İmzalama"
 
@@ -2872,6 +2902,9 @@ msgstr "İmleç Koordinatları"
 
 msgid "Cursor coordinates"
 msgstr "İmleç koordinatları"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3187,6 +3220,12 @@ msgstr "1 form alanı algılandı"
 msgid "Detected {n} form fields"
 msgstr "{n} form alanı algılandı"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Cihaz rengi kullanılıyor ancak PDF/A çıktı amacı yok"
 
@@ -3264,6 +3303,12 @@ msgstr "Gömülü sayfa küçük resimlerini at"
 
 msgid "Discard embedded print settings"
 msgstr "Gömülü baskı ayarlarını at"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Gizli katman içeriğini at"
@@ -3710,6 +3755,9 @@ msgstr "İçeriği Düzenle"
 msgid "Edit content"
 msgstr "İçeriği düzenle"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Belge JavaScript'ini düzenle"
 
@@ -3818,6 +3866,9 @@ msgstr "Son varlık"
 
 msgid "Endpoints"
 msgstr "Uç noktalar"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "MOTOR · STRATEJİ"
@@ -5240,6 +5291,9 @@ msgstr "Girintiyi artır"
 msgid "Information"
 msgstr "Bilgi"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "İlk Görünüm"
 
@@ -6319,6 +6373,9 @@ msgstr "Yukarı taşı"
 msgid "Moved page"
 msgstr "Taşınan sayfa"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Yalnızca taşınması gerekeni taşır"
 
@@ -7059,6 +7116,9 @@ msgstr "Yalnızca sayfa içeriği değişir: Orijinal sayfalardaki bağlantılar
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Belgeyi yalnızca alıcılar, her biri kendi sertifikasının özel anahtarıyla açabilir."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Önce bir belge açın"
 
@@ -7161,6 +7221,9 @@ msgstr "neler içereceğini görmek için açın"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "CAdES imza zarfından açıldı — salt okunur."
 
@@ -7226,6 +7289,12 @@ msgstr "En iyileştiriliyor… özdeş nesneler birleştiriliyor"
 
 msgid "Optimizing… merging image fragments"
 msgstr "İyileştiriliyor… görüntü parçaları birleştiriliyor"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "En iyileştiriliyor… kullanıcı verileri kaldırılıyor"
@@ -7397,6 +7466,12 @@ msgstr "Sayfa Aralığı"
 
 msgid "Page Range Options"
 msgstr "Sayfa Aralığı Seçenekleri"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Sayfa Boyutlandırma ve İşleme"
@@ -7611,6 +7686,9 @@ msgstr "Sonrasına yapıştır"
 msgid "Paste an OpenRouter key"
 msgstr "OpenRouter anahtarı yapıştır"
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Yorumları yapıştır"
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} kullanılabilir."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraft'ınki"
@@ -8176,6 +8260,12 @@ msgstr "Tüm sayfaya yeniden OCR uygula"
 msgid "Re-OCR this region"
 msgstr "Bu bölgeye yeniden OCR uygula"
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Parolayı Yeniden Yazın"
 
@@ -8232,6 +8322,9 @@ msgstr "Okuma Tercihleri"
 
 msgid "Reading preferences…"
 msgstr "Okuma tercihleri…"
+
+msgid "Reading the drawing for snapping…"
+msgstr ""
 
 msgid "Reading the printer's settings…"
 msgstr "Yazıcı ayarları okunuyor…"
@@ -8535,6 +8628,9 @@ msgstr "Karartma işaretlerini kaldır"
 
 msgid "Remove saved {what}"
 msgstr "Kayıtlı {what} kaldır"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Güvenliği kaldır"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Bir sonuç seçmek bu sorguyu hedef belgenin Bul özelliğine uygular."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Kendinden imzalı"
 
@@ -9942,6 +10041,9 @@ msgstr "Parolayı göster"
 
 msgid "Show Report"
 msgstr "Raporu Göster"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "{name} şablonunu göster"
@@ -10451,11 +10553,17 @@ msgstr "JPEG görüntülerini JPEG XL olarak sakla (daha küçük, geri alınabi
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Taranmış sayfayı düzelt"
 
 msgid "Straighten skewed scans"
 msgstr "Eğik taramaları düzelt"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Sayfayı düzelt"
@@ -10877,6 +10985,9 @@ msgstr "Kopyalanan yorumlar bu sayfadan büyük; oldukları gibi yerleştirildi"
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Eklenecek kopya yazılamadı: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "Bir dosya seçerken belge değişti, bu yüzden hiçbir şey değiştiri
 
 msgid "The document changed while you were editing field properties."
 msgstr "Alan özelliklerini düzenlerken belge değişti."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Belge hazırlanamadı"
@@ -11416,6 +11530,9 @@ msgstr "Ham metin kısaltıldı."
 
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr "Yeniden okuma metin bulamadı; mevcut sözcükler değişmedi"
+
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr "Karartma {page}. sayfaya sığmıyor; hiçbir sayfa işaretlenmedi."
@@ -12002,6 +12119,9 @@ msgstr "Bu belge henüz bir klasörde değil: önce kaydedin"
 msgid "This document isn't password-protected"
 msgstr "Bu belge parola korumalı değil"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Bu çizim yakalama sınırını aşıyor; yalnızca ilk yollar kullanılır."
 
@@ -12142,6 +12262,12 @@ msgstr "Bu yazıcı yalnızca tek yüze yazdırır."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Bu yazıcının sürücüsü diğer programlardan gelen çift taraflı yazdırma ayarlarını kabul etmez, bu yüzden kendi ayarı geçerlidir. Değiştirmek için: Özellikler…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "bu imza tek başına kaldırılamaz"

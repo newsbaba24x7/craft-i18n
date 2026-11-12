@@ -343,6 +343,9 @@ msgstr "Chú thích PrinterMark chồng lên TrimBox hoặc ArtBox"
 msgid "A script"
 msgstr "Một script"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr "{} thứ hai trong bảng của nó"
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr "Ảnh một bit"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Đen trên nền trắng"
 
@@ -1501,6 +1510,9 @@ msgstr "Dùng mô hình của riêng bạn (mặc định tắt)"
 msgid "Browser's print dialog"
 msgstr "Hộp thoại in của trình duyệt"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Danh sách dấu đầu dòng"
 
@@ -1521,6 +1533,9 @@ msgstr "Kiểu nút:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Các nút có cùng tên và giá trị được chọn đồng thời"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Theo các công thức thiết bị tiêu chuẩn; không áp dụng cấu hình màu."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Hủy vẽ"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Hủy quét mặt sau"
@@ -1776,6 +1794,9 @@ msgstr "Kiểm tra trợ năng"
 
 msgid "Check for accessibility…"
 msgstr "Kiểm tra trợ năng…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Kiểm tra bản cập nhật…"
@@ -2205,11 +2226,17 @@ msgstr "Độ rộng cột"
 msgid "Column {n}"
 msgstr "Cột {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Dạng lược gồm"
 
 msgid "Comb of characters"
 msgstr "Dạng lược gồm các ký tự"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Kết hợp tệp"
@@ -2826,6 +2853,9 @@ msgstr "Ứng dụng tạo"
 msgid "Credit Cards"
 msgstr "Thẻ tín dụng"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "Ký CRL"
 
@@ -2871,6 +2901,9 @@ msgstr ""
 
 msgid "Cursor coordinates"
 msgstr "Tọa độ con trỏ"
+
+msgid "Custom calculation script:"
+msgstr ""
 
 msgid "Custom Color"
 msgstr ""
@@ -3184,6 +3217,12 @@ msgstr "Đã phát hiện 1 trường biểu mẫu"
 msgid "Detected {n} form fields"
 msgstr "Đã phát hiện {n} trường biểu mẫu"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Màu thiết bị được dùng, nhưng không có mục đích đầu ra PDF/A"
 
@@ -3261,6 +3300,12 @@ msgstr "Loại bỏ hình thu nhỏ trang nhúng"
 
 msgid "Discard embedded print settings"
 msgstr "Loại bỏ cài đặt in nhúng"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Loại bỏ nội dung lớp ẩn"
@@ -3706,6 +3751,9 @@ msgstr "Chỉnh sửa nội dung"
 msgid "Edit content"
 msgstr "Chỉnh sửa nội dung"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Chỉnh sửa JavaScript của tài liệu"
 
@@ -3814,6 +3862,9 @@ msgstr "Thực thể cuối"
 
 msgid "Endpoints"
 msgstr "Điểm cuối"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5236,6 +5287,9 @@ msgstr "Thụt lề"
 msgid "Information"
 msgstr "Thông tin"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Chế độ xem ban đầu"
 
@@ -6315,6 +6369,9 @@ msgstr "Chuyển lên"
 msgid "Moved page"
 msgstr "Trang đã chuyển"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Chỉ di chuyển những gì cần thiết"
 
@@ -7055,6 +7112,9 @@ msgstr "Chỉ nội dung trang thay đổi: liên kết, bình luận, trường
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Chỉ những người nhận mới mở được tài liệu, mỗi người bằng khóa riêng tư của chứng chỉ của mình."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Hãy mở một tài liệu trước"
 
@@ -7157,6 +7217,9 @@ msgstr "mở để xem nó sẽ bao gồm những gì"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr "Đã mở từ một phong bì ký CAdES — chỉ đọc."
 
@@ -7222,6 +7285,12 @@ msgstr "Đang tối ưu hóa… gộp các đối tượng giống nhau"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Đang tối ưu hóa… gộp các mảnh hình ảnh"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Đang tối ưu hóa… xóa dữ liệu người dùng"
@@ -7393,6 +7462,12 @@ msgstr "Phạm vi trang"
 
 msgid "Page Range Options"
 msgstr "Tùy chọn phạm vi trang"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Định cỡ & xử lý trang"
@@ -7607,6 +7682,9 @@ msgstr "Dán sau"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Dán các nhận xét"
 
@@ -7720,6 +7798,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} đã có sẵn."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "Của PdfCraft"
@@ -8172,6 +8256,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Nhập lại mật khẩu"
 
@@ -8227,6 +8317,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8531,6 +8624,9 @@ msgstr "Gỡ các dấu đánh dấu"
 
 msgid "Remove saved {what}"
 msgstr "Xóa {what} đã lưu"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Gỡ bảo mật"
@@ -9618,6 +9714,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr "Khi chọn một kết quả, truy vấn này sẽ được áp dụng cho chức năng Tìm trong tài liệu đích."
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Tự ký"
 
@@ -9938,6 +10037,9 @@ msgstr "Hiện mật khẩu"
 
 msgid "Show Report"
 msgstr "Hiện báo cáo"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Hiện mẫu {name}"
@@ -10447,11 +10549,17 @@ msgstr "Lưu ảnh JPEG dưới dạng JPEG XL (nhỏ hơn, có thể hoàn tác
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Căn thẳng trang đã quét"
 
 msgid "Straighten skewed scans"
 msgstr "Căn thẳng các bản quét bị nghiêng"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Làm thẳng trang"
@@ -10872,6 +10980,9 @@ msgstr "Các nhận xét đã sao chép lớn hơn trang này; đã đặt nguy�
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Không thể ghi bản sao để đính kèm: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr "Cấu hình nội dung tùy chọn mặc định (D) không có Name"
 
@@ -10904,6 +11015,9 @@ msgstr "Tài liệu đã thay đổi trong lúc bạn chọn tệp, nên không 
 
 msgid "The document changed while you were editing field properties."
 msgstr "Tài liệu đã thay đổi trong lúc bạn chỉnh sửa thuộc tính trường."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Không thể chuẩn bị tài liệu"
@@ -11410,6 +11524,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -11997,6 +12114,9 @@ msgstr "Tài liệu này chưa nằm trong thư mục nào: hãy lưu trước"
 msgid "This document isn't password-protected"
 msgstr "Tài liệu này không được bảo vệ bằng mật khẩu"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Bản vẽ này vượt quá giới hạn bắt dính; chỉ các đường đầu tiên được sử dụng."
 
@@ -12137,6 +12257,12 @@ msgstr "Máy in này chỉ in một mặt."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Trình điều khiển của máy in này không nhận cài đặt in hai mặt từ các chương trình khác, nên cài đặt riêng của nó được áp dụng. Hãy thay đổi trong Thuộc tính…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "không thể gỡ riêng chữ ký này"

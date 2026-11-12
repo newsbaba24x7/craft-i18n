@@ -38,19 +38,19 @@ msgid " · password-protected"
 msgstr " · கடவுச்சொல் பாதுகாக்கப்பட்டது"
 
 msgid "(page {p})"
-msgstr ""
+msgstr "(பக்கம் {p})"
 
 msgid "(searching… {s} of {p} pages)"
-msgstr ""
+msgstr "(தேடுகிறது… {p} பக்கங்களில் {s})"
 
 msgid "({n} at {dpi} dpi, the largest size they can be drawn at)"
-msgstr ""
+msgstr "({n} படங்கள் {dpi} dpi இல்: அவற்றை வரையக்கூடிய மிகப்பெரிய அளவு அதுவே)"
 
 msgid "({s} not exported: {first})"
-msgstr ""
+msgstr "({s} ஏற்றுமதி செய்யப்படவில்லை: {first})"
 
 msgid "+ Dictionary"
-msgstr ""
+msgstr "+ அகராதி"
 
 msgid "+ Page {p}"
 msgstr ""
@@ -62,7 +62,7 @@ msgid "+LOC"
 msgstr "+LOC"
 
 msgid ", Expires:"
-msgstr ""
+msgstr ", காலாவதி:"
 
 msgid ", Expires: "
 msgstr ", காலாவதி: "
@@ -83,7 +83,7 @@ msgid "1 issue"
 msgstr "1 சிக்கல்"
 
 msgid "1 line"
-msgstr ""
+msgstr "1 வரி"
 
 msgid "1 mark"
 msgstr "1 குறி"
@@ -107,7 +107,7 @@ msgid "180 degrees"
 msgstr "180 டிகிரி"
 
 msgid "3D model"
-msgstr ""
+msgstr "3D மாதிரி"
 
 msgid "3D model canvas"
 msgstr ""
@@ -134,7 +134,7 @@ msgid "; 1 signed file kept its images"
 msgstr ""
 
 msgid "; cancelled — {n} files were not run"
-msgstr ""
+msgstr "; ரத்துசெய்யப்பட்டது — {n} கோப்புகள் இயக்கப்படவில்லை"
 
 msgid "; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A"
 msgstr ""
@@ -161,7 +161,7 @@ msgid "; the document is signed, so its images were left as they are"
 msgstr ""
 
 msgid "; {n} files already had text"
-msgstr ""
+msgstr "; {n} கோப்புகளில் ஏற்கனவே உரை இருந்தது"
 
 msgid "; {n} images downsampled"
 msgstr ""
@@ -191,7 +191,7 @@ msgid "`{command}` {when}"
 msgstr "`{command}` {when}"
 
 msgid "A 3×3 median filter against scan speckle"
-msgstr ""
+msgstr "ஸ்கேன் புள்ளிச்சிதறலை நீக்கும் 3×3 இடைநிலை வடிகட்டி"
 
 msgid "A bitmap image is drawn at {} ppi"
 msgstr ""
@@ -251,7 +251,7 @@ msgid "a field named {name} already exists"
 msgstr "{name} என்ற பெயரில் ஒரு புலம் ஏற்கனவே உள்ளது"
 
 msgid "A folder is asked for when a multiple-file run starts"
-msgstr ""
+msgstr "பல கோப்புகளுக்கான இயக்கம் தொடங்கும்போது ஒரு கோப்புறை கேட்கப்படும்"
 
 msgid "A font isn't embedded"
 msgstr "ஓர் எழுத்துரு உட்பொதிக்கப்படவில்லை"
@@ -332,7 +332,7 @@ msgid "A picture's data can't be read, so it can't be converted to CMYK"
 msgstr ""
 
 msgid "A placed signature is a comment until it is locked: anyone with a PDF editor can move or remove it. Locking makes your Fill & Sign text, marks and signatures part of the page."
-msgstr ""
+msgstr "வைக்கப்பட்ட கையொப்பம் பூட்டப்படும் வரை ஒரு கருத்தாகவே இருக்கும்: PDF திருத்தி உள்ள எவரும் அதை நகர்த்தவோ நீக்கவோ முடியும். பூட்டுவதால் உங்கள் Fill & Sign உரை, குறிகள் மற்றும் கையொப்பங்கள் பக்கத்தின் ஒரு பகுதியாகிவிடும்."
 
 msgid "A PNG or SVG file. It is read from this place each time PdfCraft starts."
 msgstr ""
@@ -342,6 +342,9 @@ msgstr ""
 
 msgid "A script"
 msgstr "ஒரு ஸ்கிரிப்ட்"
+
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr "இங்கே திருத்தப்படும் ஸ்கிரிப்ட் அதிகபட்சம் 256 KiB நீளம் மட்டுமே இருக்கலாம்; அந்த மாற்றம் செய்யப்படவில்லை."
 
 msgid "a second {} in its table"
 msgstr ""
@@ -431,10 +434,13 @@ msgid "Accent-sensitive"
 msgstr ""
 
 msgid "Accept"
-msgstr ""
+msgstr "ஏற்றுக்கொள்"
 
 msgid "Accept entire page"
-msgstr ""
+msgstr "முழுப் பக்கத்தையும் ஏற்றுக்கொள்"
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
+msgstr "இங்கே OCR-ஐ இயக்கும் முன், மற்ற ஆவணத்தின் OCR மதிப்பாய்வை ஏற்றுக்கொள்ளவும் அல்லது நிராகரிக்கவும்"
 
 msgid "Accepted"
 msgstr "ஏற்கப்பட்டது"
@@ -521,7 +527,7 @@ msgid "Add a drop-down list"
 msgstr "கீழிறங்கு பட்டியலைச் சேர்"
 
 msgid "Add a line filled in when the stamp is placed"
-msgstr ""
+msgstr "முத்திரை வைக்கப்படும்போது நிரப்பப்படும் ஒரு வரியைச் சேர்"
 
 msgid "Add a list box"
 msgstr "பட்டியல் பெட்டியைச் சேர்"
@@ -530,7 +536,7 @@ msgid "Add a page from template {name}"
 msgstr ""
 
 msgid "Add a paper size of your own to the list"
-msgstr ""
+msgstr "உங்கள் சொந்தக் காகித அளவைப் பட்டியலில் சேர்"
 
 msgid "Add a radio button"
 msgstr "ரேடியோ பொத்தானைச் சேர்"
@@ -539,7 +545,7 @@ msgid "Add a reply"
 msgstr "பதிலைச் சேர்"
 
 msgid "Add a second engine's reading when the first is unsure"
-msgstr ""
+msgstr "முதல் இயந்திரம் உறுதியாக இல்லாதபோது இரண்டாம் இயந்திரத்தின் வாசிப்பைச் சேர்க்கும்"
 
 msgid "Add a stamp"
 msgstr "முத்திரையைச் சேர்"
@@ -713,7 +719,7 @@ msgid "Add printer marks"
 msgstr "அச்சுக் குறிகளைச் சேர்"
 
 msgid "Add printer marks…"
-msgstr ""
+msgstr "அச்சுக் குறிகளைச் சேர்…"
 
 msgid "Add rectangle"
 msgstr "செவ்வகத்தைச் சேர்"
@@ -779,7 +785,7 @@ msgid "Add to trusted certificates"
 msgstr "நம்பகச் சான்றிதழ்களில் சேர்"
 
 msgid "Add Tools to Hotbar"
-msgstr ""
+msgstr "விரைவுப் பட்டையில் கருவிகளைச் சேர்"
 
 msgid "Add tools to hotbar"
 msgstr ""
@@ -899,7 +905,7 @@ msgid "All form fields have description"
 msgstr "அனைத்துப் படிவப் புலங்களுக்கும் விளக்கம் உள்ளது"
 
 msgid "All marks"
-msgstr ""
+msgstr "அனைத்துக் குறிகளும்"
 
 msgid "All multimedia objects are tagged"
 msgstr "அனைத்துப் பல்லூடகப் பொருட்களும் குறியிடப்பட்டுள்ளன"
@@ -944,7 +950,7 @@ msgid "Already trusted"
 msgstr ""
 
 msgid "Also"
-msgstr ""
+msgstr "மேலும்"
 
 msgid "Also recognize pages that already have text"
 msgstr "ஏற்கனவே உரை உள்ள பக்கங்களையும் அடையாளம் காண்"
@@ -983,7 +989,7 @@ msgid "Alternate text that will never be read"
 msgstr "ஒருபோதும் வாசிக்கப்படாத மாற்று உரை"
 
 msgid "Always read with both engines and merge the words"
-msgstr ""
+msgstr "எப்போதும் இரு இயந்திரங்களாலும் படித்து, சொற்களை ஒன்றிணைக்கும்"
 
 msgid "Always use my default zoom and page layout"
 msgstr "எப்போதும் என் இயல்புநிலைப் பெரிதாக்கத்தையும் பக்கத் தளவமைப்பையும் பயன்படுத்து"
@@ -1270,7 +1276,7 @@ msgid "Auto-detect"
 msgstr ""
 
 msgid "Auto-rotate"
-msgstr ""
+msgstr "தானாகச் சுழற்று"
 
 msgid "Auto-rotate pages"
 msgstr "பக்கங்களைத் தானாகச் சுழற்று"
@@ -1300,7 +1306,7 @@ msgid "average"
 msgstr "சராசரி"
 
 msgid "AVG CONFIDENCE"
-msgstr ""
+msgstr "சராசரி நம்பக அளவு"
 
 msgid "Azimuth"
 msgstr ""
@@ -1339,7 +1345,7 @@ msgid "Background opacity:"
 msgstr ""
 
 msgid "Background removal"
-msgstr ""
+msgstr "பின்னணி நீக்கம்"
 
 msgid "Balanced"
 msgstr ""
@@ -1394,7 +1400,7 @@ msgid "Bicubic downsampling to"
 msgstr "இதற்கு பைகியூபிக் குறைத்தல்"
 
 msgid "Binarize"
-msgstr ""
+msgstr "இருமமாக்கு"
 
 msgid "Binding"
 msgstr "பிணைப்பு"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr "கருப்பு வெள்ளை (இருமமாக்கல்)"
+
 msgid "Black on white"
 msgstr "வெள்ளையில் கருப்பு"
 
@@ -1415,16 +1424,16 @@ msgid "Blank page"
 msgstr "வெற்றுப் பக்கம்"
 
 msgid "Bleed"
-msgstr ""
+msgstr "வெட்டு விளிம்பு"
 
 msgid "Bleed marks"
-msgstr ""
+msgstr "வெட்டு விளிம்புக் குறிகள்"
 
 msgid "Blend with page content"
 msgstr ""
 
 msgid "bold"
-msgstr ""
+msgstr "தடித்த"
 
 msgid "Booklet"
 msgstr "சிறுபுத்தகம்"
@@ -1451,22 +1460,22 @@ msgid "Border Color:"
 msgstr "எல்லை நிறம்:"
 
 msgid "Border colour"
-msgstr ""
+msgstr "எல்லை நிறம்"
 
 msgid "Border opacity"
-msgstr ""
+msgstr "எல்லை ஒளிபுகாமை"
 
 msgid "Border shape"
-msgstr ""
+msgstr "எல்லை வடிவம்"
 
 msgid "Border:"
-msgstr ""
+msgstr "எல்லை:"
 
 msgid "Borders and Colors"
 msgstr "எல்லைகளும் நிறங்களும்"
 
 msgid "Both engines, combined as the Strategy says"
-msgstr ""
+msgstr "இரு இயந்திரங்களும், உத்தி கூறும்படி இணைக்கப்படும்"
 
 msgid "Bottom left"
 msgstr ""
@@ -1501,6 +1510,9 @@ msgstr "உங்கள் சொந்த மாதிரியைக் கொ
 msgid "Browser's print dialog"
 msgstr "உலாவியின் அச்சு உரையாடல்"
 
+msgid "Built-in"
+msgstr "உள்ளமைந்தது"
+
 msgid "Bulleted list"
 msgstr "புள்ளிப் பட்டியல்"
 
@@ -1522,8 +1534,11 @@ msgstr "பொத்தான் பாணி:"
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "ஒரே பெயரும் மதிப்பும் கொண்ட பொத்தான்கள் ஒன்றாகத் தேர்ந்தெடுக்கப்படும்"
 
+msgid "by"
+msgstr "×"
+
 msgid "By the standard device formulas; profiles are not applied."
-msgstr ""
+msgstr "நிலையான சாதனச் சூத்திரங்களின்படி; சுயவிவரங்கள் பயன்படுத்தப்படாது."
 
 msgid "Bytes"
 msgstr "பைட்டுகள்"
@@ -1559,7 +1574,10 @@ msgid "Cancel caption placement"
 msgstr ""
 
 msgid "Cancel drawing"
-msgstr ""
+msgstr "வரைதலை ரத்துசெய்"
+
+msgid "Cancel re-read"
+msgstr "மீண்டும் படிப்பதை ரத்துசெய்"
 
 msgid "Cancel reverse sides"
 msgstr ""
@@ -1571,7 +1589,7 @@ msgid "Cancelled"
 msgstr "ரத்துசெய்யப்பட்டது"
 
 msgid "Cancelled — {n} words were read on {m} of {t} pages; the rest were not read"
-msgstr ""
+msgstr "ரத்துசெய்யப்பட்டது — {t} இல் {m} பக்கங்களில் {n} சொற்கள் படிக்கப்பட்டன; மீதமுள்ளவை படிக்கப்படவில்லை"
 
 msgid "Cancelling…"
 msgstr "ரத்துசெய்கிறது…"
@@ -1616,7 +1634,7 @@ msgid "Centre points"
 msgstr ""
 
 msgid "Certificate"
-msgstr ""
+msgstr "சான்றிதழ்"
 
 msgid "Certificate authority"
 msgstr "சான்றிதழ் அதிகாரம்"
@@ -1730,7 +1748,7 @@ msgid "Changes allowed"
 msgstr "மாற்றங்கள் அனுமதிக்கப்படுகின்றன"
 
 msgid "Changes here apply to all {n} selected comments"
-msgstr ""
+msgstr "இங்கு செய்யும் மாற்றங்கள் தேர்ந்தெடுக்கப்பட்ட {n} கருத்துகள் அனைத்துக்கும் பொருந்தும்"
 
 msgid "Changing the document"
 msgstr "ஆவணத்தை மாற்றுதல்"
@@ -1776,6 +1794,9 @@ msgstr "அணுகல்தன்மையைச் சரிபார்"
 
 msgid "Check for accessibility…"
 msgstr "அணுகல்தன்மையைச் சரிபார்…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr "PdfCraft தொடங்கும்போது புதுப்பிப்புகளைச் சரிபார்"
 
 msgid "Check for updates…"
 msgstr "புதுப்பிப்புகளைச் சரிபார்…"
@@ -1999,11 +2020,11 @@ msgstr "சுத்தம் செய்தல்"
 msgctxt "@plural"
 msgid "Cleaned up the scan on {n} page."
 msgid_plural "Cleaned up the scans on {n} pages."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} பக்கத்தில் ஸ்கேன் சுத்தம் செய்யப்பட்டது."
+msgstr[1] "{n} பக்கங்களில் ஸ்கேன்கள் சுத்தம் செய்யப்பட்டன."
 
 msgid "Cleans up the scanned pictures in place: recognized text, comments and links on the pages stay as they are."
-msgstr ""
+msgstr "ஸ்கேன் படங்களை அதே இடத்தில் சுத்தம் செய்கிறது: பக்கங்களில் உள்ள அடையாளம் காணப்பட்ட உரை, கருத்துகள், இணைப்புகள் ஆகியவை உள்ளபடியே இருக்கும்."
 
 msgid "Clear all"
 msgstr "அனைத்தையும் அழி"
@@ -2039,7 +2060,7 @@ msgid "Clear the jam and load the sheets squarely, then choose Try again."
 msgstr ""
 
 msgid "Click a word to inspect it; drag a rectangle to re-read part of the page"
-msgstr ""
+msgstr "ஒரு சொல்லை ஆய்வு செய்ய அதைச் சொடுக்கவும்; பக்கத்தின் ஒரு பகுதியை மீண்டும் படிக்க, இழுத்து ஒரு செவ்வகம் வரையவும்"
 
 msgid "Click Continue to enter token PIN and sign."
 msgstr ""
@@ -2081,7 +2102,7 @@ msgid "Click vertices. Enter or double-click finishes a perimeter or area. Click
 msgstr "முனைகளைச் சொடுக்கவும். சுற்றளவு அல்லது பரப்பளவை முடிக்க Enter அல்லது இருமுறை சொடுக்கவும். பரப்பளவை மூட முதல் புள்ளியைச் சொடுக்கவும்."
 
 msgid "Click where the copied comments go; Escape lets them go"
-msgstr ""
+msgstr "நகலெடுத்த கருத்துகள் செல்ல வேண்டிய இடத்தில் சொடுக்கவும்; Escape அழுத்தினால் அவை கைவிடப்படும்"
 
 msgid "Clockwise 90 degrees"
 msgstr "வலஞ்சுழியாக 90 டிகிரி"
@@ -2090,13 +2111,13 @@ msgid "Close all"
 msgstr "அனைத்தையும் மூடு"
 
 msgid "Close comment pop-up"
-msgstr ""
+msgstr "கருத்து மேல்தோன்றலை மூடு"
 
 msgid "Close file"
 msgstr "கோப்பை மூடு"
 
 msgid "Close menu"
-msgstr ""
+msgstr "பட்டியை மூடு"
 
 msgid "Close Other Tabs"
 msgstr ""
@@ -2126,7 +2147,7 @@ msgid "Close Window"
 msgstr ""
 
 msgid "Close window"
-msgstr ""
+msgstr "சாளரத்தை மூடு"
 
 msgid "Closed arrow"
 msgstr "மூடிய அம்பு"
@@ -2138,7 +2159,7 @@ msgid "CloudSigner (mSzafir) is found by itself when it is installed: start it a
 msgstr ""
 
 msgid "CMYK"
-msgstr ""
+msgstr "CMYK"
 
 msgid "CMYK colour needs a CMYK printing condition"
 msgstr ""
@@ -2162,7 +2183,7 @@ msgid "Collapse tag"
 msgstr "குறிச்சொல்லைச் சுருக்கு"
 
 msgid "Collapse {folder}"
-msgstr ""
+msgstr "{folder} ஐச் சுருக்கு"
 
 msgid "Color contrast"
 msgstr "நிற முரண்பாடு"
@@ -2183,7 +2204,7 @@ msgid "Color Spaces"
 msgstr "வண்ண வெளிகள்"
 
 msgid "Colour bars"
-msgstr ""
+msgstr "நிறப் பட்டைகள்"
 
 msgid "Colour images"
 msgstr ""
@@ -2206,11 +2227,17 @@ msgstr "நெடுவரிசை அகலங்கள்"
 msgid "Column {n}"
 msgstr "நெடுவரிசை {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr "நெடுவரிசைகளும் வரிசைகளும் ஒவ்வொன்றும் 1 முதல் 99 வரை இருக்க வேண்டும்."
+
 msgid "Comb of"
 msgstr "சீப்பு அமைப்பு:"
 
 msgid "Comb of characters"
 msgstr "எழுத்துச் சீப்பு"
+
+msgid "Combine engines"
+msgstr "இயந்திரங்களை இணைக்கும் முறை"
 
 msgid "Combine files"
 msgstr "கோப்புகளை இணை"
@@ -2264,7 +2291,7 @@ msgid "Comments & Markup"
 msgstr ""
 
 msgid "Comments and form fields"
-msgstr ""
+msgstr "கருத்துகள் மற்றும் படிவப் புலங்கள்"
 
 msgid "Comments and markups"
 msgstr "கருத்துகள் மற்றும் குறிப்பீடுகள்"
@@ -2282,7 +2309,7 @@ msgid "Comments, links and fields must be in the tag tree to be announced. Tag t
 msgstr "கருத்துகள், இணைப்புகள், புலங்கள் ஆகியவை அறிவிக்கப்பட குறிச்சொல் மரத்தில் இருக்க வேண்டும். குறிப்புகளைக் குறியிடவும்."
 
 msgid "Comments: {n}"
-msgstr ""
+msgstr "கருத்துகள்: {n}"
 
 msgid "Commercial print (CMYK)"
 msgstr ""
@@ -2318,7 +2345,7 @@ msgid "Compare this file with an older version: Compare files… in All tools."
 msgstr "இந்தக் கோப்பைப் பழைய பதிப்புடன் ஒப்பிட: அனைத்துக் கருவிகளில் \"கோப்புகளை ஒப்பிடு…\"."
 
 msgid "Complete"
-msgstr ""
+msgstr "முழுமை"
 
 msgid "Completed"
 msgstr "முடிந்தது"
@@ -2336,10 +2363,10 @@ msgid "Compressing combined PDF…"
 msgstr ""
 
 msgid "CONFIDENCE"
-msgstr ""
+msgstr "நம்பக அளவு"
 
 msgid "Confidence weighted"
-msgstr ""
+msgstr "நம்பக அளவின்படி எடையிடல்"
 
 msgid "Configure a Digital ID for Signing"
 msgstr "கையொப்பமிடுவதற்கான எண்ணிம ஐடியை உள்ளமை"
@@ -2411,16 +2438,16 @@ msgid "Convert colors"
 msgstr "நிறங்களை மாற்று"
 
 msgid "Convert colours"
-msgstr ""
+msgstr "நிறங்களை மாற்று"
 
 msgid "Convert colours…"
-msgstr ""
+msgstr "நிறங்களை மாற்று…"
 
 msgid "Convert mode"
 msgstr ""
 
 msgid "Convert to"
-msgstr ""
+msgstr "இதற்கு மாற்று"
 
 msgid "Convert to PDF and email…"
 msgstr ""
@@ -2438,7 +2465,7 @@ msgid "Converted to {level} ({n} changes)"
 msgstr ""
 
 msgid "Converted {c} colours and {i} pictures on {p} pages"
-msgstr ""
+msgstr "{p} பக்கங்களில் {c} நிறங்களும் {i} படங்களும் மாற்றப்பட்டன"
 
 msgid "Converted {name}. Approximated: {notes}"
 msgstr ""
@@ -2474,13 +2501,13 @@ msgid "Copy a text box or an image first"
 msgstr ""
 
 msgid "Copy comment"
-msgstr ""
+msgstr "கருத்தை நகலெடு"
 
 msgid "Copy comments"
-msgstr ""
+msgstr "கருத்துகளை நகலெடு"
 
 msgid "Copy comments first"
-msgstr ""
+msgstr "முதலில் கருத்துகளை நகலெடுக்கவும்"
 
 msgid "Copy example"
 msgstr ""
@@ -2528,19 +2555,19 @@ msgid "Correct recognized text"
 msgstr "அடையாளம் காணப்பட்ட உரையைத் திருத்து"
 
 msgid "Correct recognized text…"
-msgstr ""
+msgstr "அடையாளம் காணப்பட்ட உரையைத் திருத்து…"
 
 msgid "Correct scans"
 msgstr ""
 
 msgid "corrected"
-msgstr ""
+msgstr "திருத்தப்பட்டது"
 
 msgid "Corrected scan"
 msgstr ""
 
 msgid "Corrected text (Enter commits)"
-msgstr ""
+msgstr "திருத்திய உரை (Enter உறுதிசெய்யும்)"
 
 msgid "Could not copy the selection because text could not be read on every page"
 msgstr ""
@@ -2573,7 +2600,7 @@ msgid "Couldn't create a PDF: {e}"
 msgstr "PDF-ஐ உருவாக்க இயலவில்லை: {e}"
 
 msgid "Couldn't download the text recognition models: {e}"
-msgstr ""
+msgstr "உரை அடையாளம் காணும் மாதிரிகளைப் பதிவிறக்க இயலவில்லை: {e}"
 
 msgid "Couldn't download {name}: {e}"
 msgstr "{name} ஐப் பதிவிறக்க இயலவில்லை: {e}"
@@ -2582,7 +2609,7 @@ msgid "Couldn't encrypt: {e}"
 msgstr ""
 
 msgid "Couldn't enhance the scanned pages"
-msgstr ""
+msgstr "ஸ்கேன் பக்கங்களை மேம்படுத்த இயலவில்லை"
 
 msgid "Couldn't extract pages: {e}"
 msgstr "பக்கங்களைப் பிரித்தெடுக்க இயலவில்லை: {e}"
@@ -2827,6 +2854,9 @@ msgstr "உருவாக்கியவர்"
 msgid "Credit Cards"
 msgstr "கடன் அட்டைகள்"
 
+msgid "Creep:"
+msgstr "உள்நகர்வு:"
+
 msgid "CRL Signing"
 msgstr "CRL கையொப்பமிடல்"
 
@@ -2873,6 +2903,9 @@ msgstr ""
 msgid "Cursor coordinates"
 msgstr ""
 
+msgid "Custom calculation script:"
+msgstr "தனிப்பயன் கணக்கீட்டு ஸ்கிரிப்ட்:"
+
 msgid "Custom Color"
 msgstr ""
 
@@ -2886,7 +2919,7 @@ msgid "Custom role"
 msgstr ""
 
 msgid "Custom scale"
-msgstr ""
+msgstr "தனிப்பயன் அளவு"
 
 msgid "Custom scale:"
 msgstr "தனிப்பயன் அளவு:"
@@ -2913,7 +2946,7 @@ msgid "Customize & Automate"
 msgstr "தனிப்பயனாக்கு & தானியக்கு"
 
 msgid "Custom…"
-msgstr ""
+msgstr "தனிப்பயன்…"
 
 msgid "Cut and stack"
 msgstr "வெட்டி அடுக்கு"
@@ -3050,7 +3083,7 @@ msgid "Delete comment"
 msgstr "கருத்தை நீக்கு"
 
 msgid "Delete comments"
-msgstr ""
+msgstr "கருத்துகளை நீக்கு"
 
 msgid "Delete content"
 msgstr "உள்ளடக்கத்தை நீக்கு"
@@ -3149,7 +3182,7 @@ msgid "Deleted page"
 msgstr ""
 
 msgid "Denoise"
-msgstr ""
+msgstr "இரைச்சலைக் குறை"
 
 msgid "Denominator"
 msgstr ""
@@ -3161,13 +3194,13 @@ msgid "Description writer"
 msgstr ""
 
 msgid "Deskew"
-msgstr ""
+msgstr "சாய்வை நீக்கு"
 
 msgid "Deskew pages"
 msgstr ""
 
 msgid "Despeckle"
-msgstr ""
+msgstr "புள்ளிகளை நீக்கு"
 
 msgid "Detached signature file"
 msgstr ""
@@ -3186,6 +3219,12 @@ msgstr "1 படிவப் புலம் கண்டறியப்பட�
 
 msgid "Detected {n} form fields"
 msgstr "{n} படிவப் புலங்கள் கண்டறியப்பட்டன"
+
+msgid "Detecting paper…"
+msgstr "காகிதத்தைக் கண்டறிகிறது…"
+
+msgid "Detecting…"
+msgstr "கண்டறிகிறது…"
 
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "சாதன நிறம் பயன்படுத்தப்படுகிறது, ஆனால் PDF/A வெளியீட்டு நோக்கம் இல்லை"
@@ -3239,7 +3278,7 @@ msgid "Discard all comments, forms and multimedia"
 msgstr "அனைத்துக் கருத்துகள், படிவங்கள், பல்லூடகத்தை நீக்கு"
 
 msgid "Discard all form submission, import and reset actions"
-msgstr ""
+msgstr "அனைத்துப் படிவச் சமர்ப்பிப்பு, இறக்குமதி, மீட்டமைப்புச் செயல்களையும் நீக்கு"
 
 msgid "Discard all links, actions and JavaScript"
 msgstr "அனைத்து இணைப்புகள், செயல்கள், JavaScript ஆகியவற்றை நீக்கு"
@@ -3264,6 +3303,12 @@ msgstr "உட்பொதிந்த பக்கச் சிறுபடங�
 
 msgid "Discard embedded print settings"
 msgstr "உட்பொதிந்த அச்சு அமைப்புகளை நீக்கு"
+
+msgid "Discard embedded search index"
+msgstr "உட்பொதிந்த தேடல் அட்டவணையை நீக்கு"
+
+msgid "Discard external cross-references"
+msgstr "வெளிப்புறக் குறுக்குக் குறிப்புகளை நீக்கு"
 
 msgid "Discard hidden layer content"
 msgstr "மறைந்த அடுக்கு உள்ளடக்கத்தை நீக்கு"
@@ -3323,10 +3368,10 @@ msgid "Do not ask again"
 msgstr ""
 
 msgid "Dock navigation rail on Left"
-msgstr ""
+msgstr "வழிசெலுத்தல் பட்டையை இடதுபுறம் நிலைநிறுத்து"
 
 msgid "Dock navigation rail on Right"
-msgstr ""
+msgstr "வழிசெலுத்தல் பட்டையை வலதுபுறம் நிலைநிறுத்து"
 
 msgid "Document actions"
 msgstr "ஆவணச் செயல்கள்"
@@ -3398,7 +3443,7 @@ msgid "Document title is showing in title bar"
 msgstr "ஆவணத் தலைப்பு தலைப்புப் பட்டையில் காட்டப்படுகிறது"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "ஆவணம்: {name}"
 
 msgid "Documents and view"
 msgstr "ஆவணங்களும் காட்சியும்"
@@ -3410,10 +3455,10 @@ msgid "Does not match what was signed"
 msgstr ""
 
 msgid "Domain"
-msgstr ""
+msgstr "களம்"
 
 msgid "Don't ask again"
-msgstr ""
+msgstr "மீண்டும் கேட்க வேண்டாம்"
 
 msgid "Don't save"
 msgstr "சேமிக்க வேண்டாம்"
@@ -3461,7 +3506,7 @@ msgid "Downloading form detection…"
 msgstr ""
 
 msgid "Downloading the text recognition models…"
-msgstr ""
+msgstr "உரை அடையாளம் காணும் மாதிரிகளைப் பதிவிறக்குகிறது…"
 
 msgid "Downloading… {pct}% — {note}"
 msgstr ""
@@ -3506,7 +3551,7 @@ msgid "Drag from a ruler onto a page to place a guide: from the top ruler for a 
 msgstr ""
 
 msgid "Drag hotbar"
-msgstr ""
+msgstr "விரைவுப் பட்டையை இழு"
 
 msgid "Drag on the preview to choose a region. An empty selection scans the whole area."
 msgstr ""
@@ -3593,7 +3638,7 @@ msgid "Dropdown Properties"
 msgstr "கீழிறங்கு பட்டியல் பண்புகள்"
 
 msgid "Duplex"
-msgstr ""
+msgstr "இருபக்க அச்சு"
 
 msgid "Duplex is not offered."
 msgstr ""
@@ -3686,7 +3731,7 @@ msgid "Easting"
 msgstr ""
 
 msgid "Edge shadow removal"
-msgstr ""
+msgstr "விளிம்பு நிழல் நீக்கம்"
 
 msgid "Edge snapping"
 msgstr ""
@@ -3709,6 +3754,9 @@ msgstr ""
 
 msgid "Edit content"
 msgstr "உள்ளடக்கத்தைத் திருத்து"
+
+msgid "Edit description"
+msgstr "விளக்கத்தைத் திருத்து"
 
 msgid "Edit document JavaScript"
 msgstr "ஆவண JavaScript-ஐத் திருத்து"
@@ -3750,7 +3798,7 @@ msgid "Edit {field}'s formula"
 msgstr "{field} புலத்தின் சூத்திரத்தைத் திருத்து"
 
 msgid "Editable text"
-msgstr ""
+msgstr "திருத்தக்கூடிய உரை"
 
 msgid "Editorial"
 msgstr ""
@@ -3819,14 +3867,17 @@ msgstr "இறுதிப் பொருள்"
 msgid "Endpoints"
 msgstr "முனைப்புள்ளிகள்"
 
+msgid "Engine"
+msgstr "இயந்திரம்"
+
 msgid "ENGINE · STRATEGY"
-msgstr ""
+msgstr "இயந்திரம் · உத்தி"
 
 msgid "English"
 msgstr "ஆங்கிலம்"
 
 msgid "Enhance"
-msgstr ""
+msgstr "மேம்படுத்து"
 
 msgid "Enhance camera image"
 msgstr "கேமரா படத்தை மேம்படுத்து"
@@ -3835,19 +3886,19 @@ msgid "Enhance page"
 msgstr "பக்கத்தை மேம்படுத்து"
 
 msgid "Enhance Scanned File"
-msgstr ""
+msgstr "ஸ்கேன் கோப்பை மேம்படுத்து"
 
 msgid "Enhance scanned file"
 msgstr "ஸ்கேன் கோப்பை மேம்படுத்து"
 
 msgid "Enhance scanned file…"
-msgstr ""
+msgstr "ஸ்கேன் கோப்பை மேம்படுத்து…"
 
 msgid "Enhancing scans… image {d} of {t}"
-msgstr ""
+msgstr "ஸ்கேன்களை மேம்படுத்துகிறது… {t} படங்களில் {d}-ஆவது படம்"
 
 msgid "Enhancing the scanned pages was cancelled"
-msgstr ""
+msgstr "ஸ்கேன் பக்கங்களை மேம்படுத்துவது ரத்துசெய்யப்பட்டது"
 
 msgid "Enter a name."
 msgstr "ஒரு பெயரை உள்ளிடவும்."
@@ -3926,7 +3977,7 @@ msgid "Even Pages Only"
 msgstr "இரட்டைப்படைப் பக்கங்கள் மட்டும்"
 
 msgid "Evens out the paper so a grey or yellowed background turns white, and darkens faint strokes. 0 is off."
-msgstr ""
+msgstr "காகிதத்தைச் சீராக்கி, சாம்பல் நிற அல்லது மஞ்சளான பின்னணியை வெள்ளையாக்கும்; மங்கலான கோடுகளை அடர்த்தியாக்கும். 0 என அமைத்தால் இது முடக்கப்படும்."
 
 msgid "Every field calculates after the fields it reads."
 msgstr "ஒவ்வொரு புலமும் தான் படிக்கும் புலங்களுக்குப் பிறகே கணக்கிடும்."
@@ -3935,7 +3986,7 @@ msgid "Every field outside a loop calculates after the fields it reads."
 msgstr "சுழற்சிக்கு வெளியே உள்ள ஒவ்வொரு புலமும் தான் படிக்கும் புலங்களுக்குப் பிறகே கணக்கிடும்."
 
 msgid "Every line set in the style chosen for a level becomes a bookmark of that level, under a new first bookmark."
-msgstr ""
+msgstr "ஒரு மட்டத்துக்குத் தேர்ந்தெடுக்கப்பட்ட பாணியில் அமைந்த ஒவ்வொரு வரியும், புதிய முதல் புத்தகக்குறியின் கீழ், அந்த மட்டத்தின் புத்தகக்குறியாக மாறும்."
 
 msgid "Every PDF in the folder"
 msgstr "கோப்புறையிலுள்ள ஒவ்வொரு PDF"
@@ -3995,7 +4046,7 @@ msgid "Expand top-level bookmarks"
 msgstr "மேல்நிலைப் புத்தகக்குறிகளை விரிவாக்கு"
 
 msgid "Expand {folder}"
-msgstr ""
+msgstr "{folder} ஐ விரிவாக்கு"
 
 msgid "Expires {date}"
 msgstr ""
@@ -4130,7 +4181,7 @@ msgid "Exporting… {d} of {t}"
 msgstr "ஏற்றுமதி செய்கிறது… {t} இல் {d}"
 
 msgid "Extend the docked toolbar along the entire side. Choose a side above to enable."
-msgstr ""
+msgstr "நிலைநிறுத்தப்பட்ட கருவிப்பட்டையை அந்தப் புறம் முழுவதும் நீட்டு. இயக்க, மேலே ஒரு புறத்தைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Extend to page margin"
 msgstr ""
@@ -4169,7 +4220,7 @@ msgid "Eye strain background: {mode} (click to cycle, right-click for tint setti
 msgstr ""
 
 msgid "F8: next word to review; Shift+F8 goes back"
-msgstr ""
+msgstr "F8: மதிப்பாய்வு செய்ய வேண்டிய அடுத்த சொல்; Shift+F8 முந்தையதற்குச் செல்லும்"
 
 msgid "Failed"
 msgstr "தோல்வி"
@@ -4363,7 +4414,7 @@ msgid "Fill in {name}"
 msgstr "{name} ஐ நிரப்பு"
 
 msgid "Fill opacity"
-msgstr ""
+msgstr "நிரப்பு ஒளிபுகாமை"
 
 msgid "Filling in form fields and signing existing signature fields"
 msgstr "படிவப் புலங்களை நிரப்புதல் மற்றும் ஏற்கனவே உள்ள கையொப்பப் புலங்களில் கையொப்பமிடுதல்"
@@ -4375,7 +4426,7 @@ msgid "Filter comments"
 msgstr "கருத்துகளை வடிகட்டு"
 
 msgid "Filters"
-msgstr ""
+msgstr "வடிகட்டிகள்"
 
 msgid "Find a command"
 msgstr ""
@@ -4438,7 +4489,7 @@ msgid "First / last page"
 msgstr "முதல் / கடைசிப் பக்கம்"
 
 msgid "First page"
-msgstr ""
+msgstr "முதல் பக்கம்"
 
 msgid "First row number"
 msgstr "முதல் வரிசை எண்"
@@ -4489,7 +4540,7 @@ msgid "Fix hairlines"
 msgstr "மெல்லிய கோடுகளைச் சரிசெய்"
 
 msgid "Fix hairlines…"
-msgstr ""
+msgstr "மெல்லிய கோடுகளைச் சரிசெய்…"
 
 msgid "Fix order"
 msgstr "வரிசையைச் சரிசெய்"
@@ -4507,13 +4558,13 @@ msgid "Fixed what could be fixed; {n} problems remain"
 msgstr "சரிசெய்யக்கூடியவை சரிசெய்யப்பட்டன; {n} சிக்கல்கள் மீதமுள்ளன"
 
 msgid "Fixed {n} hairlines on {p} pages"
-msgstr ""
+msgstr "{p} பக்கங்களில் {n} மெல்லிய கோடுகள் சரிசெய்யப்பட்டன"
 
 msgid "Fixup: {fixup}"
 msgstr ""
 
 msgid "Flags"
-msgstr ""
+msgstr "கொடிகள்"
 
 msgid "Flatbed"
 msgstr ""
@@ -4558,7 +4609,7 @@ msgid "Flip vertical"
 msgstr "செங்குத்தாகப் புரட்டு"
 
 msgid "Float"
-msgstr ""
+msgstr "ஃப்ளோட்"
 
 msgid "Float (drag anywhere)"
 msgstr ""
@@ -4711,7 +4762,7 @@ msgid "For the rulers, the grid, page sizes and margins. Clicking the corner bet
 msgstr ""
 
 msgid "Force OCR (override skip options)"
-msgstr ""
+msgstr "OCR-ஐக் கட்டாயமாக இயக்கு (தவிர்ப்பு விருப்பங்களை மீறு)"
 
 msgid "Form data and PDF forms"
 msgstr "படிவத் தரவும் PDF படிவங்களும்"
@@ -4796,7 +4847,7 @@ msgid "Fraktur and Kurrent use an optional 13 MB add-on. After download, recogni
 msgstr ""
 
 msgid "Freehand-Highlight"
-msgstr ""
+msgstr "கையால் தனிப்படுத்து"
 
 msgid "From a PDF page or an image"
 msgstr "PDF பக்கம் அல்லது படத்திலிருந்து"
@@ -4841,13 +4892,13 @@ msgid "Full screen mode ({key}); Esc leaves it"
 msgstr ""
 
 msgid "Full-side strip"
-msgstr ""
+msgstr "முழுப் புறப் பட்டை"
 
 msgid "Future placements use this size. Existing signatures are unchanged."
 msgstr ""
 
 msgid "General & Interface"
-msgstr ""
+msgstr "பொது & இடைமுகம்"
 
 msgid "Generate styled PDF"
 msgstr ""
@@ -4865,7 +4916,7 @@ msgid "Get help, share feedback and follow development on Discord."
 msgstr "Discord-இல் உதவி பெறுங்கள், கருத்துகளைப் பகிருங்கள், மேம்பாட்டைப் பின்தொடருங்கள்."
 
 msgid "Go"
-msgstr ""
+msgstr "செல்"
 
 msgid "Go to a page view"
 msgstr "ஒரு பக்கக் காட்சிக்குச் செல்"
@@ -4976,7 +5027,7 @@ msgid "Heading levels shouldn't skip (an H1 followed by an H3). Retag the headin
 msgstr "தலைப்பு நிலைகள் தாவக் கூடாது (H1-ஐத் தொடர்ந்து H3). தலைப்புகளை மீண்டும் குறியிடவும்."
 
 msgid "Hebrew"
-msgstr ""
+msgstr "ஹீப்ரு"
 
 msgid "Hebrew (ISO 8859-8)"
 msgstr ""
@@ -5057,7 +5108,7 @@ msgid "Hides annotation"
 msgstr "குறிப்பை மறைக்கிறது"
 
 msgid "HIGH (>= 90%)"
-msgstr ""
+msgstr "உயர்வு (>= 90%)"
 
 msgid "Higher image quality trades off against smaller file size. A copy is saved only if it is smaller."
 msgstr ""
@@ -5115,13 +5166,13 @@ msgid "Horizontal reversed"
 msgstr "கிடைமட்டம் தலைகீழ்"
 
 msgid "Hotbar settings"
-msgstr ""
+msgstr "விரைவுப் பட்டை அமைப்புகள்"
 
 msgid "Hotbar settings / add tools"
-msgstr ""
+msgstr "விரைவுப் பட்டை அமைப்புகள் / கருவிகளைச் சேர்"
 
 msgid "Hotbar tools"
-msgstr ""
+msgstr "விரைவுப் பட்டைக் கருவிகள்"
 
 msgid "How Edit text reads old fonts that don't say which letters they draw. Auto-detect recognises Hebrew fonts laid out for ISO 8859-8 or Windows-1255."
 msgstr ""
@@ -5202,7 +5253,7 @@ msgid "In multiple files"
 msgstr "பல கோப்புகளில்"
 
 msgid "In multiple files: a file with any text is its own skipped bucket, and nothing is written for it"
-msgstr ""
+msgstr "பல கோப்புகளில்: ஏதேனும் உரை உள்ள கோப்பு தனியாகத் தவிர்க்கப்பட்டதாகக் கணக்கிடப்படும், அதற்கு எதுவும் எழுதப்படாது"
 
 msgid "In new window"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "உள்தள்ளு"
 msgid "Information"
 msgstr "தகவல்"
 
+msgid "Inherit Zoom"
+msgstr "தற்போதைய பெரிதாக்கத்தைத் தக்கவை"
+
 msgid "Initial View"
 msgstr "தொடக்கக் காட்சி"
 
@@ -5253,13 +5307,13 @@ msgid "Initials {n}"
 msgstr ""
 
 msgid "Ink"
-msgstr ""
+msgstr "மை"
 
 msgid "Ink sensitivity"
 msgstr "மை உணர்திறன்"
 
 msgid "Inks"
-msgstr ""
+msgstr "மைகள்"
 
 msgid "Insert a blank page after the selection"
 msgstr "தேர்வுக்குப் பிறகு ஒரு வெற்றுப் பக்கத்தைச் செருகு"
@@ -5371,7 +5425,7 @@ msgid "Intended usage"
 msgstr "நோக்கப் பயன்பாடு"
 
 msgid "Intent"
-msgstr ""
+msgstr "நோக்கம்"
 
 msgid "Interactive JavaScript menus require the desktop application"
 msgstr ""
@@ -5398,7 +5452,7 @@ msgid "Invert everything"
 msgstr ""
 
 msgid "Invert middle-button drag"
-msgstr ""
+msgstr "நடுப் பொத்தான் இழுத்தலைத் தலைகீழாக்கு"
 
 msgid "Invert tones"
 msgstr ""
@@ -5432,7 +5486,7 @@ msgid "Issued by {issuer}"
 msgstr ""
 
 msgid "Issued by:"
-msgstr ""
+msgstr "வழங்கியவர்:"
 
 msgid "Issued by: "
 msgstr "வழங்கியவர்: "
@@ -5464,7 +5518,7 @@ msgid "it was still in the document afterwards, so the change was undone"
 msgstr ""
 
 msgid "italic"
-msgstr ""
+msgstr "சாய்வு"
 
 msgid "Item List"
 msgstr "உருப்படிப் பட்டியல்"
@@ -5542,7 +5596,7 @@ msgid "June"
 msgstr "ஜூன்"
 
 msgid "Keep"
-msgstr ""
+msgstr "வைத்திரு"
 
 msgid "Keep all images"
 msgstr ""
@@ -5551,7 +5605,7 @@ msgid "Keep an empty signature field to sign again"
 msgstr ""
 
 msgid "Keep editable"
-msgstr ""
+msgstr "திருத்தக்கூடியதாக வை"
 
 msgid "Keep only how the signatures look, as page content (a name or date they show stays visible)"
 msgstr ""
@@ -5636,7 +5690,7 @@ msgid "Larger pages"
 msgstr "பெரிய பக்கங்கள்"
 
 msgid "Larger text"
-msgstr ""
+msgstr "பெரிய உரை"
 
 msgid "Larger than 512 MiB"
 msgstr ""
@@ -5672,7 +5726,7 @@ msgid "Layers Panel and Page"
 msgstr "அடுக்குப் பலகமும் பக்கமும்"
 
 msgid "Layout & Sizing"
-msgstr ""
+msgstr "தளவமைப்பும் அளவும்"
 
 msgid "Layout and Magnification"
 msgstr "தளவமைப்பும் பெரிதாக்கமும்"
@@ -5720,7 +5774,7 @@ msgid "less than a minute left"
 msgstr ""
 
 msgid "Level {n}"
-msgstr ""
+msgstr "மட்டம் {n}"
 
 msgid "LI must be a child of L"
 msgstr "LI என்பது L-இன் உட்கூறாக இருக்க வேண்டும்"
@@ -5735,7 +5789,7 @@ msgid "Light theme"
 msgstr "ஒளி தீம்"
 
 msgid "Lightens shadows along the edges of the scan, such as a book's gutter or a copier's dark border"
-msgstr ""
+msgstr "புத்தகத்தின் நடுமடிப்பு அல்லது நகலெடுக்கும் இயந்திரத்தின் இருண்ட எல்லை போன்ற, ஸ்கேனின் விளிம்புகளில் உள்ள நிழல்களை வெளிர்வாக்கும்"
 
 msgid "Like macOS (fuller strokes, sub-pixel placement)"
 msgstr ""
@@ -5744,7 +5798,7 @@ msgid "Limit of"
 msgstr "வரம்பு"
 
 msgid "Limits"
-msgstr ""
+msgstr "வரம்புகள்"
 
 msgid "Line colour"
 msgstr ""
@@ -5753,7 +5807,7 @@ msgid "Line ending"
 msgstr "கோட்டு முனை"
 
 msgid "Line opacity"
-msgstr ""
+msgstr "கோட்டு ஒளிபுகாமை"
 
 msgid "Line Style:"
 msgstr "கோட்டுப் பாணி:"
@@ -5765,7 +5819,7 @@ msgid "Line Thickness:"
 msgstr "கோட்டுத் தடிமன்:"
 
 msgid "Line weight"
-msgstr ""
+msgstr "கோட்டுத் தடிமன்"
 
 msgid "Line weights"
 msgstr ""
@@ -5774,7 +5828,7 @@ msgid "Line width"
 msgstr ""
 
 msgid "Lines drawn inside Type 3 glyphs and tiling patterns; off by default."
-msgstr ""
+msgstr "Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவங்களுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்."
 
 msgid "Link Action"
 msgstr "இணைப்புச் செயல்"
@@ -5861,25 +5915,25 @@ msgid "Location: "
 msgstr "இடம்: "
 
 msgid "Lock and save"
-msgstr ""
+msgstr "பூட்டிச் சேமி"
 
 msgid "Lock comment"
 msgstr "கருத்தைப் பூட்டு"
 
 msgid "Lock into the page when saving"
-msgstr ""
+msgstr "சேமிக்கும்போது பக்கத்துடன் பூட்டு"
 
 msgid "Lock now"
-msgstr ""
+msgstr "இப்போது பூட்டு"
 
 msgid "Lock your signature into the page?"
-msgstr ""
+msgstr "உங்கள் கையொப்பத்தைப் பக்கத்தில் பூட்டவா?"
 
 msgid "Logical Reading Order"
 msgstr "தருக்க வாசிப்பு வரிசை"
 
 msgid "Logo"
-msgstr ""
+msgstr "லோகோ"
 
 msgid "Logo and name"
 msgstr ""
@@ -5888,7 +5942,7 @@ msgid "Longitude"
 msgstr ""
 
 msgid "Look"
-msgstr ""
+msgstr "தோற்றம்"
 
 msgid "Look at the scanner for a message or an open door or cover, fix what it shows, then choose Continue."
 msgstr ""
@@ -5918,7 +5972,7 @@ msgid "Loupe tool"
 msgstr ""
 
 msgid "LOW (< 70%)"
-msgstr ""
+msgstr "குறைவு (< 70%)"
 
 msgid "Low resolution"
 msgstr "குறைந்த தெளிவுத்திறன்"
@@ -5927,7 +5981,7 @@ msgid "Low Resolution (150 dpi)"
 msgstr "குறைந்த தெளிவுத்திறன் (150 dpi)"
 
 msgid "LOW-CONFIDENCE WORDS"
-msgstr ""
+msgstr "குறைந்த நம்பக அளவுள்ள சொற்கள்"
 
 msgid "Lowering this forgets the oldest files. At 0 there is no list."
 msgstr "இதைக் குறைத்தால் பழைய கோப்புகள் மறக்கப்படும். 0 எனில் பட்டியல் இருக்காது."
@@ -6027,7 +6081,7 @@ msgid "Mark pages for redaction"
 msgstr "பக்கங்களை மறைப்புக்காகக் குறி"
 
 msgid "Mark this page as reviewed (Ctrl+T)"
-msgstr ""
+msgstr "இந்தப் பக்கத்தை மதிப்பாய்வு செய்யப்பட்டதாகக் குறி (Ctrl+T)"
 
 msgid "Mark with checkmark"
 msgstr "சரிக்குறியால் குறி"
@@ -6039,7 +6093,7 @@ msgid "MarkInfo Suspects is true: the tags are marked as unreliable"
 msgstr ""
 
 msgid "Marks"
-msgstr ""
+msgstr "குறிகள்"
 
 msgid "Marks do not remove content. Select Redact all, then save."
 msgstr ""
@@ -6118,7 +6172,7 @@ msgid "Measuring tool"
 msgstr "அளவிடும் கருவி"
 
 msgid "MEDIUM (70-89%)"
-msgstr ""
+msgstr "நடுத்தரம் (70-89%)"
 
 msgid "Menu"
 msgstr "பட்டி"
@@ -6233,10 +6287,10 @@ msgid "Move comment"
 msgstr "கருத்தை நகர்த்து"
 
 msgid "Move comment pop-up"
-msgstr ""
+msgstr "கருத்து மேல்தோன்றலை நகர்த்து"
 
 msgid "Move comments"
-msgstr ""
+msgstr "கருத்துகளை நகர்த்து"
 
 msgid "Move down"
 msgstr "கீழே நகர்த்து"
@@ -6319,6 +6373,9 @@ msgstr "மேலே நகர்த்து"
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr "ஒவ்வொரு தாளின் பக்கங்களையும், அதற்கு வெளியே உள்ள தாளைவிட இந்த அளவு கூடுதலாக மடிப்பை நோக்கி நகர்த்துகிறது; இதனால் சிறுபுத்தகம் மடிக்கப்பட்டு ஓரம் வெட்டப்பட்ட பிறகு ஓரங்கள் ஒத்துப்போகும்."
+
 msgid "Moves only what must move"
 msgstr "நகர்த்த வேண்டியதை மட்டும் நகர்த்தும்"
 
@@ -6353,7 +6410,7 @@ msgid "Named Destinations"
 msgstr "பெயரிட்ட இலக்குகள்"
 
 msgid "Narrower than"
-msgstr ""
+msgstr "இதைவிட மெல்லியவை"
 
 msgid "Native tabs (as in Finder on macOS and File Explorer on Windows)"
 msgstr ""
@@ -6368,7 +6425,7 @@ msgid "Navigation links are not repetitive"
 msgstr "வழிசெலுத்தல் இணைப்புகள் திரும்பத் திரும்ப வரவில்லை"
 
 msgid "Navigation rail side"
-msgstr ""
+msgstr "வழிசெலுத்தல் பட்டையின் பக்கம்"
 
 msgid "Navigation tab"
 msgstr "வழிசெலுத்தல் தாவல்"
@@ -6395,7 +6452,7 @@ msgid "Nested alternate text"
 msgstr "உள்ளமைந்த மாற்று உரை"
 
 msgid "Network"
-msgstr ""
+msgstr "பிணையம்"
 
 msgid "Network address"
 msgstr ""
@@ -6425,10 +6482,10 @@ msgid "New bookmarks from structure"
 msgstr "அமைப்பிலிருந்து புதிய புத்தகக்குறிகள்"
 
 msgid "New bookmarks from text styles"
-msgstr ""
+msgstr "உரைப் பாணிகளிலிருந்து புதிய புத்தகக்குறிகள்"
 
 msgid "New bookmarks from text styles…"
-msgstr ""
+msgstr "உரைப் பாணிகளிலிருந்து புதிய புத்தகக்குறிகள்…"
 
 msgid "New fields of this type will look like this one"
 msgstr ""
@@ -6449,7 +6506,7 @@ msgid "New viewport"
 msgstr ""
 
 msgid "New width"
-msgstr ""
+msgstr "புதிய அகலம்"
 
 msgid "New window"
 msgstr ""
@@ -6482,7 +6539,7 @@ msgid "Next tab and Previous tab"
 msgstr ""
 
 msgid "Next uncertain"
-msgstr ""
+msgstr "அடுத்த உறுதியற்ற சொல்"
 
 msgid "Next view"
 msgstr "அடுத்த காட்சி"
@@ -6578,7 +6635,7 @@ msgid "No guide set has the shortcut {n}"
 msgstr ""
 
 msgid "No hairlines found on those pages"
-msgstr ""
+msgstr "அந்தப் பக்கங்களில் மெல்லிய கோடுகள் எதுவும் கண்டறியப்படவில்லை"
 
 msgid "no header cells (TH)"
 msgstr "தலைப்புக் கலங்கள் (TH) இல்லை"
@@ -6608,7 +6665,7 @@ msgid "No matches"
 msgstr "பொருத்தங்கள் இல்லை"
 
 msgid "No matches to replace"
-msgstr ""
+msgstr "மாற்றுவதற்குப் பொருத்தங்கள் இல்லை"
 
 msgid "No matching tools"
 msgstr "பொருந்தும் கருவிகள் இல்லை"
@@ -6698,7 +6755,7 @@ msgid "No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or pu
 msgstr ""
 
 msgid "No scanned pages were cleaned up."
-msgstr ""
+msgstr "எந்த ஸ்கேன் பக்கமும் சுத்தம் செய்யப்படவில்லை."
 
 msgid "No scanner found"
 msgstr ""
@@ -6816,7 +6873,7 @@ msgid "Not confirmed by the printer"
 msgstr ""
 
 msgid "not editable text"
-msgstr ""
+msgstr "திருத்த முடியாத உரை"
 
 msgid "Not evaluated: {list}"
 msgstr ""
@@ -6858,7 +6915,7 @@ msgid "Not rated"
 msgstr ""
 
 msgid "Not replaced: {why}"
-msgstr ""
+msgstr "மாற்றப்படவில்லை: {why}"
 
 msgid "Not searched: {n}"
 msgstr ""
@@ -6879,10 +6936,10 @@ msgid "nothing in the file matches this document"
 msgstr "கோப்பில் உள்ள எதுவும் இந்த ஆவணத்துடன் பொருந்தவில்லை"
 
 msgid "Nothing on those pages needed converting"
-msgstr ""
+msgstr "அந்தப் பக்கங்களில் மாற்ற வேண்டியது எதுவும் இல்லை"
 
 msgid "Nothing replaced"
-msgstr ""
+msgstr "எதுவும் மாற்றப்படவில்லை"
 
 msgid "Nothing to redo"
 msgstr "மீண்டும் செய்ய எதுவுமில்லை"
@@ -6919,10 +6976,10 @@ msgid "Numbered list"
 msgstr "எண்ணிட்ட பட்டியல்"
 
 msgid "OCR complete — no text recognized on this page."
-msgstr ""
+msgstr "OCR முடிந்தது — இந்தப் பக்கத்தில் உரை எதுவும் அடையாளம் காணப்படவில்லை."
 
 msgid "OCR results rejected."
-msgstr ""
+msgstr "OCR முடிவுகள் நிராகரிக்கப்பட்டன."
 
 msgctxt "calendar date"
 msgid "October"
@@ -6963,7 +7020,7 @@ msgid "Off, a document's request to open in Full Screen mode is ignored. You can
 msgstr ""
 
 msgid "Office documents"
-msgstr ""
+msgstr "Office ஆவணங்கள்"
 
 msgid "Offset from centre"
 msgstr "மையத்திலிருந்து விலகல்"
@@ -6991,7 +7048,7 @@ msgid "on page {label}"
 msgstr "பக்கம் {label} இல்"
 
 msgid "on page {p}"
-msgstr ""
+msgstr "பக்கம் {p} இல்"
 
 msgid "On the web, open or drop an image to convert it"
 msgstr "இணையத்தில், ஒரு படத்தை மாற்ற அதைத் திறக்கவும் அல்லது இழுத்துவிடவும்"
@@ -7059,6 +7116,9 @@ msgstr "பக்க உள்ளடக்கம் மட்டுமே மா
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr "இணைய (http, https) மற்றும் மின்னஞ்சல் முகவரிகள் மட்டுமே திறக்கும்; பிற இணைப்புகளைப் போலவே PdfCraft முதலில் கேட்கும்."
+
 msgid "Open a document first"
 msgstr "முதலில் ஒரு ஆவணத்தைத் திறக்கவும்"
 
@@ -7087,7 +7147,7 @@ msgid "Open arrow"
 msgstr "திறந்த அம்பு"
 
 msgid "Open comment pop-up"
-msgstr ""
+msgstr "கருத்து மேல்தோன்றலைத் திற"
 
 msgid "Open default app settings"
 msgstr ""
@@ -7161,6 +7221,9 @@ msgstr "இதில் என்ன இருக்கும் என்பத
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr "பக்க உரையில் எழுதப்பட்டுள்ள இணைய மற்றும் மின்னஞ்சல் முகவரிகளைத் திற"
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "உகந்ததாக்குகிறது… ஒரே மாத�
 
 msgid "Optimizing… merging image fragments"
 msgstr "உகந்ததாக்குகிறது… படத் துண்டுகளை ஒன்றிணைக்கிறது"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr "உகந்ததாக்குகிறது… {t} பக்கங்களில் {d}-ஆவது பக்கத்தைப் படிக்கிறது"
+
+msgid "Optimizing… reading the pages"
+msgstr "உகந்ததாக்குகிறது… பக்கங்களைப் படிக்கிறது"
 
 msgid "Optimizing… removing user data"
 msgstr "உகந்ததாக்குகிறது… பயனர் தரவை நீக்குகிறது"
@@ -7297,7 +7366,7 @@ msgid "Other signatures remain, so the removed one is still in the file's earlie
 msgstr ""
 
 msgid "Otherwise, ask on the first save after a signature is placed"
-msgstr ""
+msgstr "இல்லையெனில், கையொப்பம் வைக்கப்பட்ட பிறகு முதல் முறை சேமிக்கும்போது கேள்"
 
 msgid "Outdent"
 msgstr "வெளித்தள்ளு"
@@ -7315,7 +7384,7 @@ msgid "Output appears here."
 msgstr "வெளியீடு இங்கே தோன்றும்."
 
 msgid "Output folder"
-msgstr ""
+msgstr "வெளியீட்டுக் கோப்புறை"
 
 msgid "Output intent profile:"
 msgstr ""
@@ -7336,7 +7405,7 @@ msgid "Package: {name}"
 msgstr ""
 
 msgid "PAGE"
-msgstr ""
+msgstr "பக்கம்"
 
 msgid "Page background"
 msgstr "பக்கப் பின்னணி"
@@ -7366,7 +7435,7 @@ msgid "Page grid"
 msgstr "பக்க கட்டம்"
 
 msgid "Page information"
-msgstr ""
+msgstr "பக்கத் தகவல்"
 
 msgid "Page labels"
 msgstr "பக்க குறிப்புகள்"
@@ -7387,10 +7456,10 @@ msgid "Page order:"
 msgstr "பக்க வரிசை:"
 
 msgid "Page Properties"
-msgstr ""
+msgstr "பக்கப் பண்புகள்"
 
 msgid "Page properties…"
-msgstr ""
+msgstr "பக்கப் பண்புகள்…"
 
 msgid "Page Range"
 msgstr "பக்க வரம்பு"
@@ -7398,11 +7467,17 @@ msgstr "பக்க வரம்பு"
 msgid "Page Range Options"
 msgstr "பக்க வரம்பு விருப்பங்கள்"
 
+msgid "Page setup dialog is not available on this system."
+msgstr "இந்தக் கணினியில் பக்க அமைப்பு உரையாடல் பெட்டி கிடைக்கவில்லை."
+
+msgid "Page Setup…"
+msgstr "பக்க அமைப்பு…"
+
 msgid "Page Sizing & Handling"
 msgstr "பக்க அளவும் கையாளுதலும்"
 
 msgid "Page templates"
-msgstr ""
+msgstr "பக்க வார்ப்புருக்கள்"
 
 msgid "Page thumbnails"
 msgstr "பக்கச் சிறுபடங்கள்"
@@ -7417,7 +7492,7 @@ msgid "Page transitions"
 msgstr "பக்க மாற்ற விளைவுகள்"
 
 msgid "Page verified"
-msgstr ""
+msgstr "பக்கம் சரிபார்க்கப்பட்டது"
 
 msgid "Page will not cause screen flicker"
 msgstr "பக்கம் திரை மினுமினுப்பை ஏற்படுத்தாது"
@@ -7450,10 +7525,10 @@ msgid "Page {pages} paints its own white backdrop, which would hide the backgrou
 msgstr "பக்கம் {pages} தனக்கென வெள்ளைப் பின்புலத்தை வரைகிறது; அது பின்னணியை மறைக்கும். அதை மாற்று"
 
 msgid "Page {page} holds more content than PdfCraft can read: part of it isn't drawn, and only part of its text can be found or copied."
-msgstr ""
+msgstr "பக்கம் {page} இல் PdfCraft படிக்கக்கூடியதை விட அதிகமான உள்ளடக்கம் உள்ளது: அதன் ஒரு பகுதி வரையப்படவில்லை, அதன் உரையில் ஒரு பகுதியை மட்டுமே கண்டறியவோ நகலெடுக்கவோ முடியும்."
 
 msgid "Page {p}"
-msgstr ""
+msgstr "பக்கம் {p}"
 
 msgid "Page {p} doesn't tab in structure order"
 msgstr "பக்கம் {p} அமைப்பு வரிசையில் தாவுவதில்லை"
@@ -7540,7 +7615,7 @@ msgid "Pages with links, comments or fields should tab in structure order. The f
 msgstr "இணைப்புகள், கருத்துகள் அல்லது புலங்கள் உள்ள பக்கங்கள் அமைப்பு வரிசையில் தாவ வேண்டும். சரிசெய்தல் ஒவ்வொரு பக்கத்தின் தாவல் வரிசையையும் \"ஆவண அமைப்பைப் பயன்படுத்து\" என அமைக்கும்."
 
 msgid "Pages with renderable text are left alone and reported as skipped"
-msgstr ""
+msgstr "காட்டக்கூடிய உரை உள்ள பக்கங்கள் தொடப்படாமல் விடப்பட்டு, தவிர்க்கப்பட்டவையாகத் தெரிவிக்கப்படும்"
 
 msgid "Pages without a TrimBox"
 msgstr ""
@@ -7567,7 +7642,7 @@ msgid "Panel move was not applied: {error}"
 msgstr "பலக நகர்வு பயன்படுத்தப்படவில்லை: {error}"
 
 msgid "Panning or auto-scrolling with the middle (wheel) button moves the page the other way."
-msgstr ""
+msgstr "நடு (உருளை) பொத்தானால் இழுத்து நகர்த்துவதும் தானாக ஸ்க்ரோல் செய்வதும் பக்கத்தை எதிர்த் திசையில் நகர்த்தும்."
 
 msgid "Paper & Ink"
 msgstr ""
@@ -7611,8 +7686,11 @@ msgstr "பின்னால் ஒட்டு"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr "புத்தகக்குறிகளை ஒட்டு"
+
 msgid "Paste comments"
-msgstr ""
+msgstr "கருத்துகளை ஒட்டு"
 
 msgid "Paste field"
 msgstr ""
@@ -7627,7 +7705,7 @@ msgid "Paste pages"
 msgstr "பக்கங்களை ஒட்டு"
 
 msgid "Pattern strokes"
-msgstr ""
+msgstr "வடிவத் தீற்றல்கள்"
 
 msgid "Patterns"
 msgstr "வடிவங்கள்"
@@ -7725,6 +7803,12 @@ msgstr ""
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} கிடைக்கிறது."
 
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr "PdfCraft இன் சோதனைகள் {level} க்கான சிக்கல்கள் எதையும் கண்டறியவில்லை. இது ஒரு சரிபார்ப்பானின் முடிவு அல்ல."
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr "PdfCraft இன் சோதனைகள் இப்போது {level} க்கான சிக்கல்கள் எதையும் கண்டறியவில்லை. இது ஒரு சரிபார்ப்பானின் முடிவு அல்ல. மாற்றங்களைத் தக்கவைக்கச் சேமிக்கவும்."
+
 msgid "PdfCraft's own"
 msgstr ""
 
@@ -7762,7 +7846,7 @@ msgid "Pictures on those pages are recognized too; words already in the page's t
 msgstr "அந்தப் பக்கங்களில் உள்ள படங்களும் அடையாளம் காணப்படும்; பக்க உரையில் ஏற்கனவே உள்ள சொற்கள் மீண்டும் சேர்க்கப்படாது"
 
 msgid "Pictures too"
-msgstr ""
+msgstr "படங்களையும்"
 
 msgid "PIN"
 msgstr ""
@@ -7927,7 +8011,7 @@ msgid "Presentation (.pptx)"
 msgstr "விளக்கக்காட்சி (.pptx)"
 
 msgid "Preserve black"
-msgstr ""
+msgstr "கருப்பைத் தக்கவை"
 
 msgid "Preset Swatches"
 msgstr ""
@@ -7972,7 +8056,7 @@ msgid "Previous tab"
 msgstr "முந்தைய தாவல்"
 
 msgid "Previous uncertain"
-msgstr ""
+msgstr "முந்தைய உறுதியற்ற சொல்"
 
 msgid "Previous view"
 msgstr "முந்தைய காட்சி"
@@ -7981,7 +8065,7 @@ msgid "Primary language"
 msgstr "முதன்மை மொழி"
 
 msgid "Primary only"
-msgstr ""
+msgstr "முதன்மை மட்டும்"
 
 msgid "Print ({key})"
 msgstr "அச்சிடு ({key})"
@@ -7990,7 +8074,7 @@ msgid "Print (⌘P)"
 msgstr "அச்சிடு (⌘P)"
 
 msgid "Print area…"
-msgstr ""
+msgstr "பகுதியை அச்சிடு…"
 
 msgid "Print as image"
 msgstr "படமாக அச்சிடு"
@@ -8002,7 +8086,7 @@ msgid "Print page border"
 msgstr "பக்க எல்லையை அச்சிடு"
 
 msgid "Print pages"
-msgstr ""
+msgstr "பக்கங்களை அச்சிடு"
 
 msgid "Print production"
 msgstr "அச்சு உற்பத்தி"
@@ -8029,10 +8113,10 @@ msgid "Printer default"
 msgstr "அச்சுப்பொறி இயல்புநிலை"
 
 msgid "printer marks"
-msgstr ""
+msgstr "அச்சுக் குறிகள்"
 
 msgid "Printer marks added"
-msgstr ""
+msgstr "அச்சுக் குறிகள் சேர்க்கப்பட்டன"
 
 msgid "Printer orientation:"
 msgstr ""
@@ -8117,7 +8201,7 @@ msgid "Pure Black"
 msgstr ""
 
 msgid "pure black stays 100% K or gray 0 instead of a mix"
-msgstr ""
+msgstr "தூய கருப்பு, நிறக் கலவையாக இல்லாமல் 100% K அல்லது சாம்பல் 0 ஆகவே இருக்கும்"
 
 msgid "PushButton"
 msgstr "அழுத்துப் பொத்தான்"
@@ -8138,7 +8222,7 @@ msgid "Quirks"
 msgstr ""
 
 msgid "Quit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Quit PdfCraft"
 msgstr ""
@@ -8162,19 +8246,25 @@ msgid "RAM {gb} GB"
 msgstr ""
 
 msgid "Rating"
-msgstr ""
+msgstr "மதிப்பீடு"
 
 msgid "Raw:"
 msgstr ""
 
 msgid "re-encoded in the target space; JPEGs stay JPEG"
-msgstr ""
+msgstr "இலக்கு வண்ண வெளியில் மீண்டும் குறியாக்கப்படும்; JPEGகள் JPEG ஆகவே இருக்கும்"
 
 msgid "Re-OCR entire page"
-msgstr ""
+msgstr "முழுப் பக்கத்தையும் மீண்டும் OCR செய்"
 
 msgid "Re-OCR this region"
-msgstr ""
+msgstr "இந்தப் பகுதியை மீண்டும் OCR செய்"
+
+msgid "Re-reading the page…"
+msgstr "பக்கத்தை மீண்டும் படிக்கிறது…"
+
+msgid "Re-reading the region…"
+msgstr "பகுதியை மீண்டும் படிக்கிறது…"
 
 msgid "Re-type Password"
 msgstr "கடவுச்சொல்லை மீண்டும் உள்ளிடு"
@@ -8213,7 +8303,7 @@ msgid "Read to end of document"
 msgstr ""
 
 msgid "Read {n} words on {m} of {t} pages"
-msgstr ""
+msgstr "{t} இல் {m} பக்கங்களில் {n} சொற்கள் படிக்கப்பட்டன"
 
 msgid "Reading colours"
 msgstr "வாசிப்பு நிறங்கள்"
@@ -8233,6 +8323,9 @@ msgstr ""
 msgid "Reading preferences…"
 msgstr ""
 
+msgid "Reading the drawing for snapping…"
+msgstr "ஒட்டுதலுக்காக வரைபடத்தைப் படிக்கிறது…"
+
 msgid "Reading the printer's settings…"
 msgstr "அச்சுப்பொறியின் அமைப்புகளைப் படிக்கிறது…"
 
@@ -8243,7 +8336,7 @@ msgid "Reading theme"
 msgstr ""
 
 msgid "Reads pages and files even where the skip options would leave them alone"
-msgstr ""
+msgstr "தவிர்ப்பு விருப்பங்கள் விட்டுவிடும் இடங்களிலும் பக்கங்களையும் கோப்புகளையும் படிக்கும்"
 
 msgid "Reads {names}, which read it back. No order can fix a loop: change one of the formulas."
 msgstr "{names} ஐப் படிக்கிறது; அவையும் இதையே படிக்கின்றன. எந்த வரிசையாலும் சுழற்சியைச் சரிசெய்ய முடியாது: ஒரு சூத்திரத்தை மாற்றவும்."
@@ -8276,7 +8369,7 @@ msgid "Recent files to keep"
 msgstr "வைத்திருக்க வேண்டிய சமீபத்திய கோப்புகள்"
 
 msgid "Recipients"
-msgstr ""
+msgstr "பெறுநர்கள்"
 
 msgid "Recognize scanned text automatically"
 msgstr ""
@@ -8306,10 +8399,10 @@ msgid "Recognized 1 word"
 msgstr "1 சொல் அடையாளம் காணப்பட்டது"
 
 msgid "Recognized text"
-msgstr ""
+msgstr "அடையாளம் காணப்பட்ட உரை"
 
 msgid "Recognized text applied ({n} words, one undoable step)"
-msgstr ""
+msgstr "அடையாளம் காணப்பட்ட உரை பயன்படுத்தப்பட்டது ({n} சொற்கள், செயல்தவிர்க்கக்கூடிய ஒரே படி)"
 
 msgid "Recognized {n} words"
 msgstr "{n} சொற்கள் அடையாளம் காணப்பட்டன"
@@ -8426,7 +8519,7 @@ msgid "Region in inches. Leave the width or the height at zero to scan the whole
 msgstr ""
 
 msgid "Registration marks"
-msgstr ""
+msgstr "பதிவுக் குறிகள்"
 
 msgid "Registration residual"
 msgstr ""
@@ -8435,10 +8528,10 @@ msgid "Regularity"
 msgstr "சீரான தன்மை"
 
 msgid "Reject"
-msgstr ""
+msgstr "நிராகரி"
 
 msgid "Reject entire page"
-msgstr ""
+msgstr "முழுப் பக்கத்தையும் நிராகரி"
 
 msgid "Rejected"
 msgstr "நிராகரிக்கப்பட்டது"
@@ -8498,7 +8591,7 @@ msgid "Remove crop"
 msgstr "வெட்டலை நீக்கு"
 
 msgid "Remove from hotbar"
-msgstr ""
+msgstr "விரைவுப் பட்டையிலிருந்து அகற்று"
 
 msgid "Remove from Recent"
 msgstr "சமீபத்தியவற்றிலிருந்து நீக்கு"
@@ -8528,13 +8621,16 @@ msgid "Remove measurement viewport"
 msgstr ""
 
 msgid "Remove printer marks"
-msgstr ""
+msgstr "அச்சுக் குறிகளை நீக்கு"
 
 msgid "Remove redaction marks"
 msgstr "மறைப்புக் குறிகளை நீக்கு"
 
 msgid "Remove saved {what}"
 msgstr "சேமித்த {what} ஐ நீக்கு"
+
+msgid "Remove scan speckle"
+msgstr "ஸ்கேன் புள்ளிச்சிதறலை நீக்கு"
 
 msgid "Remove security"
 msgstr "பாதுகாப்பை நீக்கு"
@@ -8600,7 +8696,7 @@ msgid "Remove {standard} identification"
 msgstr "{standard} அடையாளத்தை நீக்கு"
 
 msgid "removed"
-msgstr ""
+msgstr "நீக்கப்பட்டது"
 
 msgid "Removed 1 hidden item. Save to remove them from the file."
 msgstr "1 மறைந்த உருப்படி நீக்கப்பட்டது. கோப்பிலிருந்து நீக்க சேமிக்கவும்."
@@ -8624,7 +8720,7 @@ msgid "Removed {n} links"
 msgstr "{n} இணைப்புகள் நீக்கப்பட்டன"
 
 msgid "Removes isolated dark specks such as dust and scanner noise. The only filter black and white scans take."
-msgstr ""
+msgstr "தூசி, ஸ்கேனர் இரைச்சல் போன்ற தனித்த இருண்ட புள்ளிகளை நீக்கும். கருப்பு வெள்ளை ஸ்கேன்களுக்குப் பொருந்தும் ஒரே வடிகட்டி இதுதான்."
 
 msgid "Removing the background puts the page's own backdrop back."
 msgstr "பின்னணியை நீக்கினால் பக்கத்தின் சொந்தப் பின்புலம் மீண்டும் வரும்."
@@ -8678,10 +8774,10 @@ msgid "Repeated navigation links should be skippable. Check links that appear on
 msgstr "திரும்ப வரும் வழிசெலுத்தல் இணைப்புகளைத் தவிர்க்க முடிய வேண்டும். ஒவ்வொரு பக்கத்திலும் தோன்றும் இணைப்புகளைச் சரிபார்க்கவும்."
 
 msgid "Replace ({key})"
-msgstr ""
+msgstr "மாற்று ({key})"
 
 msgid "Replace all"
-msgstr ""
+msgstr "அனைத்தையும் மாற்று"
 
 msgid "Replace document colours"
 msgstr "ஆவண நிறங்களை மாற்று"
@@ -8709,13 +8805,13 @@ msgstr "உரையை மாற்று"
 
 msgctxt "review-suggestion"
 msgid "Replace text"
-msgstr ""
+msgstr "உரையை மாற்று"
 
 msgid "Replace this document's guides with the set's, to move and change them"
 msgstr ""
 
 msgid "Replace with"
-msgstr ""
+msgstr "இதைக் கொண்டு மாற்று"
 
 msgid "Replace XMP metadata"
 msgstr ""
@@ -8724,14 +8820,14 @@ msgid "Replaced"
 msgstr "மாற்றப்பட்டது"
 
 msgid "Replaced {n} on {pages}"
-msgstr ""
+msgstr "மாற்றப்பட்டவை: {n} ({pages})"
 
 msgid "Replacement text"
 msgstr "மாற்று உரை"
 
 msgctxt "review-suggestion"
 msgid "Replacement text"
-msgstr ""
+msgstr "மாற்றீட்டு உரை"
 
 msgid "Replacement: pages of {name}"
 msgstr "மாற்றுவது: {name} இன் பக்கங்கள்"
@@ -8740,7 +8836,7 @@ msgid "Replaces the existing one on those pages."
 msgstr "அந்தப் பக்கங்களில் ஏற்கனவே உள்ளதை மாற்றும்."
 
 msgid "Replace…"
-msgstr ""
+msgstr "மாற்று…"
 
 msgid "Replacing images arrives on the web with image file pickers"
 msgstr "படங்களை மாற்றும் வசதி, படக் கோப்புத் தேர்விகளுடன் இணையத்தில் வரவுள்ளது"
@@ -8785,7 +8881,7 @@ msgid "Reset panel layout"
 msgstr "பலகத் தளவமைப்பை மீட்டமை"
 
 msgid "Reset side panels"
-msgstr ""
+msgstr "பக்கப் பலகங்களை மீட்டமை"
 
 msgid "Reset to Initial Visibility"
 msgstr "தொடக்கக் காட்சிநிலைக்கு மீட்டமை"
@@ -8857,7 +8953,7 @@ msgid "Reverse closed arrow"
 msgstr "தலைகீழ் மூடிய அம்பு"
 
 msgid "Reverse landscape"
-msgstr ""
+msgstr "தலைகீழ் படுக்கைப்பரப்பு"
 
 msgid "Reverse open arrow"
 msgstr "தலைகீழ் திறந்த அம்பு"
@@ -8935,7 +9031,7 @@ msgid "Role map entry {} leads round in a circle"
 msgstr ""
 
 msgid "Room on each side"
-msgstr ""
+msgstr "ஒவ்வொரு புறத்திலும் இடம்"
 
 msgid "Rotate Clockwise"
 msgstr "வலஞ்சுழியாகச் சுழற்று"
@@ -9010,7 +9106,7 @@ msgid "Rounded"
 msgstr ""
 
 msgid "ROVER vote"
-msgstr ""
+msgstr "ROVER வாக்களிப்பு"
 
 msgid "Row spacing"
 msgstr "வரிசை இடைவெளி"
@@ -9043,7 +9139,7 @@ msgid "Run JavaScript"
 msgstr "JavaScript-ஐ இயக்கு"
 
 msgid "Run OCR"
-msgstr ""
+msgstr "OCR-ஐ இயக்கு"
 
 msgid "Running action… file {d} of {t}"
 msgstr "செயலை இயக்குகிறது… {t} இல் கோப்பு {d}"
@@ -9068,7 +9164,7 @@ msgid "Same as interface ({language})"
 msgstr "இடைமுகத்தைப் போலவே ({language})"
 
 msgid "Same as text"
-msgstr ""
+msgstr "உரையின் நிறமே"
 
 msgid "Sanitize"
 msgstr "தூய்மையாக்கு"
@@ -9092,7 +9188,7 @@ msgid "Sanitizing removes hidden information from the document: metadata, file a
 msgstr "தூய்மையாக்குதல் ஆவணத்திலிருந்து மறைந்துள்ள தகவலை நீக்குகிறது: மேனிலைத் தரவு, கோப்பு இணைப்புகள், கருத்துகள், படிவப் புலங்கள் (தட்டையாக்கி), மறைந்த உரை மற்றும் அடுக்குகள், புத்தகக்குறிகள், இணைப்புகள், செயல்கள் மற்றும் ஸ்கிரிப்ட்கள், பயன்பாட்டின் தனிப்பட்ட தரவு."
 
 msgid "Sauvola binarization: ink to black, paper to white"
-msgstr ""
+msgstr "Sauvola இருமமாக்கல்: மை கருப்பாகவும், காகிதம் வெள்ளையாகவும் மாறும்"
 
 msgid "Save & Close"
 msgstr "சேமித்து மூடு"
@@ -9113,10 +9209,10 @@ msgid "Save anyway"
 msgstr "எப்படியும் சேமி"
 
 msgid "Save as image"
-msgstr ""
+msgstr "படமாகச் சேமி"
 
 msgid "Save as image…"
-msgstr ""
+msgstr "படமாகச் சேமி…"
 
 msgid "Save As optimizes for Fast Web View"
 msgstr ""
@@ -9344,13 +9440,13 @@ msgid "Scan the missing reverse sides, then choose Finish."
 msgstr ""
 
 msgid "Scanned pages are already being enhanced"
-msgstr ""
+msgstr "ஸ்கேன் பக்கங்கள் ஏற்கனவே மேம்படுத்தப்பட்டு வருகின்றன"
 
 msgid "Scanned pages need OCR. Reading order follows extracted page text."
 msgstr ""
 
 msgid "scanned text"
-msgstr ""
+msgstr "ஸ்கேன் செய்யப்பட்ட உரை"
 
 msgid "Scanned text detected"
 msgstr ""
@@ -9452,7 +9548,7 @@ msgid "Search a folder…"
 msgstr ""
 
 msgid "Search all tools…"
-msgstr ""
+msgstr "அனைத்துக் கருவிகளையும் தேடு…"
 
 msgid "Search comments"
 msgstr "கருத்துகளைத் தேடு"
@@ -9467,7 +9563,7 @@ msgid "Search results"
 msgstr "தேடல் முடிவுகள்"
 
 msgid "Search settings…"
-msgstr ""
+msgstr "அமைப்புகளைத் தேடு…"
 
 msgid "Search tools and commands"
 msgstr "கருவிகளையும் கட்டளைகளையும் தேடு"
@@ -9545,7 +9641,7 @@ msgid "Select a word"
 msgstr "ஒரு சொல்லைத் தேர்ந்தெடு"
 
 msgid "Select a word on the page to inspect it"
-msgstr ""
+msgstr "ஆய்வு செய்ய, பக்கத்தில் ஒரு சொல்லைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select Action:"
 msgstr "செயலைத் தேர்ந்தெடுக்கவும்:"
@@ -9608,7 +9704,7 @@ msgid "Selected area"
 msgstr ""
 
 msgid "Selected area (page {page}, {size})"
-msgstr ""
+msgstr "தேர்ந்தெடுத்த பகுதி (பக்கம் {page}, {size})"
 
 msgid "Selected image files: {count}"
 msgstr "தேர்ந்தெடுத்த படக் கோப்புகள்: {count}"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr "அச்சுப்பொறி இயக்கியிலிருந்து காகித அளவையும் திசையமைவையும் தேர்ந்தெடுக்கும். காகிதத் தட்டு, அச்சுத் தரம் அல்லது பிற இயக்கி இயல்புநிலைகளுக்கு இதைப் பயன்படுத்தவும்: பண்புகள்…"
+
 msgid "Self-signed"
 msgstr "சுய-கையொப்பம்"
 
@@ -9630,7 +9729,7 @@ msgid "Self-signed"
 msgstr "சுய-கையொப்பம்"
 
 msgid "Send"
-msgstr ""
+msgstr "அனுப்பு"
 
 msgid "Send backward"
 msgstr "ஒரு படி பின்னே அனுப்பு"
@@ -9800,7 +9899,7 @@ msgid "Settings this source offers. Leave a control alone to keep the driver’s
 msgstr ""
 
 msgid "Several files have the same name, so their results would overwrite each other; nothing was written: {list}"
-msgstr ""
+msgstr "பல கோப்புகளுக்கு ஒரே பெயர் உள்ளதால், அவற்றின் முடிவுகள் ஒன்றையொன்று மேலெழுதிவிடும்; எதுவும் எழுதப்படவில்லை: {list}"
 
 msgid "SHA-1 digest"
 msgstr "SHA-1 சுருக்கம்"
@@ -9826,7 +9925,7 @@ msgid "Sheet {s} of {n}"
 msgstr "{n} இல் தாள் {s}"
 
 msgid "Sheets"
-msgstr ""
+msgstr "தாள்கள்"
 
 msgid "Sheets printed: {done} of {total}"
 msgstr ""
@@ -9845,7 +9944,7 @@ msgid "Shift drags freely"
 msgstr ""
 
 msgid "Shift+F8: the previous word to review"
-msgstr ""
+msgstr "Shift+F8: மதிப்பாய்வு செய்ய வேண்டிய முந்தைய சொல்"
 
 msgid "Shift- or Ctrl/Command-click to select several fields."
 msgstr "பல புலங்களைத் தேர்ந்தெடுக்க Shift- அல்லது Ctrl/Command-சொடுக்கு."
@@ -9926,13 +10025,13 @@ msgid "Show on the page which fields each field reads"
 msgstr "ஒவ்வொரு புலமும் எந்தப் புலங்களைப் படிக்கிறது என்பதைப் பக்கத்தில் காட்டு"
 
 msgid "Show or hide the side panel"
-msgstr ""
+msgstr "பக்கப் பலகத்தைக் காட்டு அல்லது மறை"
 
 msgid "Show or hide the Tools panel"
-msgstr ""
+msgstr "கருவிகள் பலகத்தைக் காட்டு அல்லது மறை"
 
 msgid "Show or hide toolbars and panels"
-msgstr ""
+msgstr "கருவிப்பட்டைகளையும் பலகங்களையும் காட்டு அல்லது மறை"
 
 msgid "Show Page Edge Shadows"
 msgstr "பக்க விளிம்பு நிழல்களைக் காட்டு"
@@ -9942,6 +10041,9 @@ msgstr "கடவுச்சொல்லைக் காட்டு"
 
 msgid "Show Report"
 msgstr "அறிக்கையைக் காட்டு"
+
+msgid "Show tab numbers"
+msgstr "தாவல் எண்களைக் காட்டு"
 
 msgid "Show template {name}"
 msgstr ""
@@ -10028,7 +10130,7 @@ msgid "signature"
 msgstr "கையொப்பம்"
 
 msgid "Signature added. Others can move it until it's locked."
-msgstr ""
+msgstr "கையொப்பம் சேர்க்கப்பட்டது. அது பூட்டப்படும் வரை மற்றவர்கள் அதை நகர்த்தலாம்."
 
 msgid "Signature cleanup stopped unexpectedly."
 msgstr ""
@@ -10037,7 +10139,7 @@ msgid "Signature Details"
 msgstr "கையொப்ப விவரங்கள்"
 
 msgid "Signature invalid"
-msgstr ""
+msgstr "கையொப்பம் செல்லாதது"
 
 msgid "Signature is invalid"
 msgstr "கையொப்பம் செல்லாதது"
@@ -10052,13 +10154,13 @@ msgid "Signature is valid:"
 msgstr "கையொப்பம் செல்லுபடியாகும்:"
 
 msgid "Signature locked into the page."
-msgstr ""
+msgstr "கையொப்பம் பக்கத்தில் பூட்டப்பட்டது."
 
 msgid "Signature panel"
 msgstr "கையொப்பப் பலகம்"
 
 msgid "Signature valid"
-msgstr ""
+msgstr "கையொப்பம் செல்லுபடியாகும்"
 
 msgid "Signature validity is unknown"
 msgstr "கையொப்பத்தின் செல்லுபடி அறியப்படவில்லை"
@@ -10175,10 +10277,10 @@ msgid "Single word or phrase"
 msgstr "ஒற்றைச் சொல் அல்லது சொற்றொடர்"
 
 msgid "Skip files that already have text"
-msgstr ""
+msgstr "ஏற்கனவே உரை உள்ள கோப்புகளைத் தவிர்"
 
 msgid "Skip pages that already have text"
-msgstr ""
+msgstr "ஏற்கனவே உரை உள்ள பக்கங்களைத் தவிர்"
 
 msgid "Skip Rule"
 msgstr "விதியைத் தவிர்"
@@ -10187,7 +10289,7 @@ msgid "Skipped"
 msgstr "தவிர்க்கப்பட்டது"
 
 msgid "skipped"
-msgstr ""
+msgstr "தவிர்க்கப்பட்டது"
 
 msgid "Slash"
 msgstr "சாய்கோடு"
@@ -10284,7 +10386,7 @@ msgid "sorted descending"
 msgstr "இறங்குவரிசையில் வரிசைப்படுத்தப்பட்டது"
 
 msgid "Source page"
-msgstr ""
+msgstr "மூலப் பக்கம்"
 
 msgctxt "key"
 msgid "Space"
@@ -10300,7 +10402,7 @@ msgid "Spacing, offset, subdivisions, colour and thickness are in Preferences �
 msgstr ""
 
 msgid "spans two paragraphs"
-msgstr ""
+msgstr "இரண்டு பத்திகளில் பரவியுள்ளது"
 
 msgid "Speed:"
 msgstr ""
@@ -10327,13 +10429,13 @@ msgid "Split document…"
 msgstr "ஆவணத்தைப் பிரி…"
 
 msgid "Split down"
-msgstr ""
+msgstr "கீழ்ப்புறமாகப் பிரி"
 
 msgid "Split into files…"
 msgstr "கோப்புகளாகப் பிரி…"
 
 msgid "Split right"
-msgstr ""
+msgstr "வலப்புறமாகப் பிரி"
 
 msgid "Spot colour {}"
 msgstr ""
@@ -10379,7 +10481,7 @@ msgstr "முத்திரைகள்"
 
 msgctxt "document scrollbar width"
 msgid "Standard"
-msgstr ""
+msgstr "நிலையான"
 
 msgid "Standard (96 ppi)"
 msgstr ""
@@ -10416,13 +10518,13 @@ msgid "Steps"
 msgstr "படிகள்"
 
 msgid "Stick to a side:"
-msgstr ""
+msgstr "ஒரு பக்கத்தில் நிலைநிறுத்து:"
 
 msgid "Sticky note"
 msgstr "ஒட்டுக் குறிப்பு"
 
 msgid "still checking whether the tesseract program can run; try again in a moment"
-msgstr ""
+msgstr "tesseract நிரல் இயங்க முடியுமா என்று இன்னும் சரிபார்க்கப்படுகிறது; சிறிது நேரத்தில் மீண்டும் முயலவும்"
 
 msgid "Still printing; the job continues on the printer"
 msgstr ""
@@ -10451,17 +10553,23 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr "பக்கவாட்டில் அல்லது தலைகீழாக ஸ்கேன் செய்யப்பட்ட பக்கங்களை நேராக்கு"
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr ""
 
+msgid "Straighten skewed text lines"
+msgstr "சாய்ந்த உரை வரிகளை நேராக்கு"
+
 msgid "Straighten the page"
 msgstr ""
 
 msgid "Straightens skewed text lines before reading"
-msgstr ""
+msgstr "படிக்கும் முன் சாய்ந்த உரை வரிகளை நேராக்கும்"
 
 msgid "Strength: {s}"
 msgstr "வலிமை: {s}"
@@ -10517,7 +10625,7 @@ msgid "Suggest edits"
 msgstr ""
 
 msgid "Suggestions"
-msgstr ""
+msgstr "பரிந்துரைகள்"
 
 msgid "sum (+)"
 msgstr "கூட்டுத்தொகை (+)"
@@ -10562,7 +10670,7 @@ msgid "Switch to two-page view first to show the cover page"
 msgstr "அட்டைப் பக்கத்தைக் காட்ட முதலில் இரு-பக்கக் காட்சிக்கு மாறவும்"
 
 msgid "System default"
-msgstr ""
+msgstr "கணினி இயல்புநிலை"
 
 msgid "System font"
 msgstr ""
@@ -10571,7 +10679,7 @@ msgid "System print dialog…"
 msgstr ""
 
 msgid "Tab Order"
-msgstr ""
+msgstr "தாவல் வரிசை"
 
 msgid "Tab order"
 msgstr "தாவல் வரிசை"
@@ -10658,7 +10766,7 @@ msgid "Take a snapshot"
 msgstr "ஸ்னாப்ஷாட் எடு"
 
 msgid "Take this paper size off the list"
-msgstr ""
+msgstr "இந்தக் காகித அளவைப் பட்டியலிலிருந்து அகற்று"
 
 msgid "Task"
 msgstr ""
@@ -10730,7 +10838,7 @@ msgid "Text only, keep images"
 msgstr ""
 
 msgid "Text opacity"
-msgstr ""
+msgstr "உரை ஒளிபுகாமை"
 
 msgid "Text recognition cancelled. {summary}"
 msgstr ""
@@ -10785,7 +10893,7 @@ msgid "That didn't work: an internal error stopped it ({m}). Your documents are 
 msgstr "அது செயல்படவில்லை: ஒரு உள் பிழை அதை நிறுத்தியது ({m}). உங்கள் ஆவணங்கள் மாறவில்லை."
 
 msgid "That is the source file; choose another destination"
-msgstr ""
+msgstr "அது மூலக் கோப்பு; வேறு சேருமிடத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "That isn't a scanner address"
 msgstr ""
@@ -10815,7 +10923,7 @@ msgid "The bookmarks have no language: the document sets none (Lang)"
 msgstr ""
 
 msgid "The built-in engine (pure Rust)"
-msgstr ""
+msgstr "உள்ளமைந்த இயந்திரம் (முழுமையாக Rust-இல் எழுதப்பட்டது)"
 
 msgctxt "@plural"
 msgid "The calculation order has {n} entry that calculates nothing. Fix order removes it."
@@ -10866,16 +10974,19 @@ msgid "The clipboard has no image or text"
 msgstr "கிளிப்போர்டில் படமோ உரையோ இல்லை"
 
 msgid "The clipboard holds no comments"
-msgstr ""
+msgstr "கிளிப்போர்டில் கருத்துகள் எதுவும் இல்லை"
 
 msgid "The comment being edited no longer exists, so its text was not saved."
 msgstr ""
 
 msgid "The copied comments are larger than this page; they were placed as they are"
-msgstr ""
+msgstr "நகலெடுத்த கருத்துகள் இந்தப் பக்கத்தைவிடப் பெரியவை; அவை உள்ளபடியே வைக்கப்பட்டன"
 
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
+
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr "இத்தனை பக்கங்களுக்கு, உள்நகர்வு மிக உள்ளே உள்ள தாளின் பக்கங்களை அளவுக்கு மீறி நகர்த்துகிறது. உள்நகர்வைக் குறைக்கவும்."
 
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
@@ -10909,6 +11020,9 @@ msgstr "நீங்கள் கோப்பைத் தேர்ந்தெ�
 
 msgid "The document changed while you were editing field properties."
 msgstr "புலப் பண்புகளைத் திருத்தும்போது ஆவணம் மாறியது."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr "ஆவணம் மாறிவிட்டது. தற்போதைய பதிப்பைத் திருத்த, ஆவணப் பண்புகளை மீண்டும் திறக்கவும்."
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11109,7 +11223,7 @@ msgid "the first row number can be at most {max}"
 msgstr "முதல் வரிசை எண் அதிகபட்சம் {max} ஆக இருக்கலாம்"
 
 msgid "the font can't draw it"
-msgstr ""
+msgstr "எழுத்துருவால் அதை வரைய முடியாது"
 
 msgid "The font must include Latin letters and numbers for interface controls."
 msgstr ""
@@ -11256,7 +11370,7 @@ msgid "The other signatures ({names}) will report that the document changed afte
 msgstr ""
 
 msgid "The output folder already holds files of these names; nothing was written: {list}"
-msgstr ""
+msgstr "வெளியீட்டுக் கோப்புறையில் இந்தப் பெயர்களில் ஏற்கனவே கோப்புகள் உள்ளன; எதுவும் எழுதப்படவில்லை: {list}"
 
 msgid "The output folder can't be one of the folders being read, or contain one."
 msgstr ""
@@ -11307,13 +11421,13 @@ msgid "The page is a transparency group"
 msgstr ""
 
 msgid "The page was read again; its words were replaced (undo in the panel)"
-msgstr ""
+msgstr "பக்கம் மீண்டும் படிக்கப்பட்டது; அதன் சொற்கள் மாற்றப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)"
 
 msgid "The page's words were applied as one undoable step ({n} words)"
-msgstr ""
+msgstr "பக்கத்தின் சொற்கள் செயல்தவிர்க்கக்கூடிய ஒரே படியாகப் பயன்படுத்தப்பட்டன ({n} சொற்கள்)"
 
 msgid "The page's words were cleared (undo in the panel)"
-msgstr ""
+msgstr "பக்கத்தின் சொற்கள் அழிக்கப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)"
 
 msgid "The pages already scanned were kept in the document."
 msgstr ""
@@ -11325,7 +11439,7 @@ msgid "The pages were extracted but not deleted, because the document changed wh
 msgstr "நீங்கள் கோப்புறையைத் தேர்ந்தெடுக்கும்போது ஆவணம் மாறியதால், பக்கங்கள் பிரித்தெடுக்கப்பட்டன ஆனால் நீக்கப்படவில்லை."
 
 msgid "the paragraph can't be rewritten"
-msgstr ""
+msgstr "பத்தியை மீண்டும் எழுத முடியாது"
 
 msgid "the password is incorrect"
 msgstr "கடவுச்சொல் தவறானது"
@@ -11417,6 +11531,9 @@ msgstr ""
 msgid "The re-read found no text; the existing words are unchanged"
 msgstr ""
 
+msgid "The re-read was cancelled; the words are unchanged"
+msgstr "மீண்டும் படித்தல் ரத்துசெய்யப்பட்டது; சொற்கள் மாறவில்லை"
+
 msgid "The redaction does not fit page {page}; no pages were marked."
 msgstr ""
 
@@ -11424,7 +11541,7 @@ msgid "The redirect URI must be http://127.0.0.1 or http://localhost with a port
 msgstr ""
 
 msgid "The region was read again; its words were replaced (undo in the panel)"
-msgstr ""
+msgstr "பகுதி மீண்டும் படிக்கப்பட்டது; அதன் சொற்கள் மாற்றப்பட்டன (பலகத்தில் செயல்தவிர்க்கலாம்)"
 
 msgid "The release has ambiguous packages. Choose a package on the official release page."
 msgstr ""
@@ -11520,7 +11637,7 @@ msgid "The search stopped unexpectedly."
 msgstr ""
 
 msgid "The searchable copies are written here under the source names"
-msgstr ""
+msgstr "தேடக்கூடிய நகல்கள் மூலக் கோப்புகளின் அதே பெயர்களில் இங்கே எழுதப்படும்"
 
 msgid "The security settings don't allow screen readers to read the text"
 msgstr "திரை வாசிப்பான்கள் உரையைப் படிக்க பாதுகாப்பு அமைப்புகள் அனுமதிக்கவில்லை"
@@ -11529,7 +11646,7 @@ msgid "The selected area has been copied ({w} × {h} pixels)"
 msgstr "தேர்ந்தெடுத்த பகுதி நகலெடுக்கப்பட்டது ({w} × {h} பிக்சல்)"
 
 msgid "The selected area is no longer on a page of this document."
-msgstr ""
+msgstr "தேர்ந்தெடுத்த பகுதி இப்போது இந்த ஆவணத்தின் எந்தப் பக்கத்திலும் இல்லை."
 
 msgid "The selected fields could not be found. Select them again."
 msgstr "தேர்ந்தெடுத்த புலங்கள் கிடைக்கவில்லை. அவற்றை மீண்டும் தேர்ந்தெடுக்கவும்."
@@ -11541,7 +11658,7 @@ msgid "The selected scale could not be read."
 msgstr ""
 
 msgid "The selected word is gone; choose another"
-msgstr ""
+msgstr "தேர்ந்தெடுத்த சொல் இப்போது இல்லை; வேறொன்றைத் தேர்ந்தெடுக்கவும்"
 
 msgid "The selection changed. Select the signature again."
 msgstr ""
@@ -11697,13 +11814,13 @@ msgid "The structure type {} isn't standard and isn't mapped to a standard type"
 msgstr ""
 
 msgid "the tesseract engine is not available in the web build"
-msgstr ""
+msgstr "tesseract இயந்திரம் இணையப் பதிப்பில் கிடைக்காது"
 
 msgid "the tesseract program was not found (install it, or add it to the PATH)"
-msgstr ""
+msgstr "tesseract நிரல் கண்டறியப்படவில்லை (அதை நிறுவவும், அல்லது PATH இல் சேர்க்கவும்)"
 
 msgid "The tesseract program, run as an external process"
-msgstr ""
+msgstr "வெளிப்புறச் செயல்முறையாக இயக்கப்படும் tesseract நிரல்"
 
 msgid "The text is the same"
 msgstr "உரை ஒன்றாகவே உள்ளது"
@@ -11769,7 +11886,7 @@ msgid "The Trapped key and the metadata's pdf:Trapped disagree"
 msgstr ""
 
 msgid "The trim box is kept where it is, so the printed page cuts the same."
-msgstr ""
+msgstr "வெட்டுப் பெட்டி இருக்கும் இடத்திலேயே வைக்கப்படும், எனவே அச்சிடப்பட்ட பக்கம் முன்பு போலவே வெட்டப்படும்."
 
 msgid "The value is shown as typed."
 msgstr "மதிப்பு தட்டச்சிட்டபடியே காட்டப்படும்."
@@ -11811,7 +11928,7 @@ msgid "The {} extends beyond the MediaBox"
 msgstr ""
 
 msgid "their appearances as well as the page"
-msgstr ""
+msgstr "பக்கத்துடன் அவற்றின் தோற்றங்களும்"
 
 msgid "There are no other pages in that range."
 msgstr ""
@@ -11856,7 +11973,7 @@ msgid "Thick"
 msgstr "தடித்த"
 
 msgid "thick"
-msgstr ""
+msgstr "தடித்த"
 
 msgid "Thin"
 msgstr "மெல்லிய"
@@ -11955,7 +12072,7 @@ msgid "This document has no tagged figures."
 msgstr "இந்த ஆவணத்தில் குறியிடப்பட்ட படங்கள் இல்லை."
 
 msgid "This document has no text to make bookmarks from."
-msgstr ""
+msgstr "இந்த ஆவணத்தில் புத்தகக்குறிகளை உருவாக்க உரை எதுவும் இல்லை."
 
 msgid "This document has no XMP metadata."
 msgstr ""
@@ -11976,7 +12093,7 @@ msgid "This document hasn't been checked yet."
 msgstr "இந்த ஆவணம் இன்னும் சரிபார்க்கப்படவில்லை."
 
 msgid "This document hides the toolbars and panels. Press {key} to show them."
-msgstr ""
+msgstr "இந்த ஆவணம் கருவிப்பட்டிகளையும் பலகங்களையும் மறைக்கிறது. அவற்றைக் காட்ட {key}-ஐ அழுத்தவும்."
 
 msgid "This document is digitally signed. Sanitizing rewrites the whole file, which invalidates the signatures, so it can only go ahead without them."
 msgstr ""
@@ -12001,6 +12118,9 @@ msgstr ""
 
 msgid "This document isn't password-protected"
 msgstr "இந்த ஆவணம் கடவுச்சொல்லால் பாதுகாக்கப்படவில்லை"
+
+msgid "This document's script is asking"
+msgstr "இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "இந்த வரைபடம் ஒட்டுதல் வரம்பை மீறுகிறது; முதல் சில பாதைகள் மட்டுமே பயன்படுத்தப்படுகின்றன."
@@ -12045,7 +12165,7 @@ msgid "This form also contains XFA data, which PdfCraft doesn't read yet. You ca
 msgstr "இந்தப் படிவத்தில் XFA தரவும் உள்ளது; அதை PdfCraft இன்னும் படிக்காது. அதன் புலங்களை நிரப்பலாம், ஆனால் Acrobat அதற்குப் பதிலாக XFA மதிப்புகளைக் காட்டலாம்."
 
 msgid "This form has too many fields, or a field name too long, for PdfCraft to read them all. Any signature among the rest is not listed, so the document is treated as signed."
-msgstr ""
+msgstr "இந்தப் படிவத்தில் PdfCraft அனைத்தையும் படிக்க முடியாத அளவுக்கு அதிகமான புலங்கள் அல்லது மிக நீளமான புலப் பெயர் உள்ளது. மீதமுள்ளவற்றில் உள்ள எந்தக் கையொப்பமும் பட்டியலிடப்படவில்லை, எனவே ஆவணம் கையொப்பமிடப்பட்டதாகக் கருதப்படுகிறது."
 
 msgid "This form's scripts are turned off because one ran too long. Reopen the document to run them again."
 msgstr "ஒரு ஸ்கிரிப்ட் மிக நீண்ட நேரம் இயங்கியதால் இந்தப் படிவத்தின் ஸ்கிரிப்ட்கள் அணைக்கப்பட்டன. அவற்றை மீண்டும் இயக்க ஆவணத்தை மீண்டும் திறக்கவும்."
@@ -12142,6 +12262,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "இந்த அச்சுப்பொறியின் இயக்கி பிற நிரல்களிலிருந்து இருபக்க அமைப்புகளை ஏற்காது, எனவே அதன் சொந்த அமைப்பு பொருந்தும். அதைப் பண்புகளில் மாற்றவும்…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "இந்தக் கோரிக்கை PdfCraft-இடமிருந்து அல்ல, ஆவணத்திடமிருந்து வருகிறது. இந்த ஆவணத்தை நீங்கள் நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்."
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr "இந்த ஸ்கிரிப்ட் இங்கே திருத்த முடியாத அளவுக்கு நீளமானது ({kib} KiB); அதன் தொடக்கப் பகுதி காட்டப்படுகிறது. அது உள்ளபடியே வைக்கப்படும்."
 
 msgid "this signature can't be removed on its own"
 msgstr ""
@@ -12252,7 +12378,7 @@ msgid "Took too long to read"
 msgstr ""
 
 msgid "Toolbar size"
-msgstr ""
+msgstr "கருவிப்பட்டி அளவு"
 
 msgid "Tools panel side"
 msgstr "கருவிகள் பலகத்தின் பக்கம்"
@@ -12306,7 +12432,7 @@ msgid "Trapped key"
 msgstr ""
 
 msgid "Trim marks"
-msgstr ""
+msgstr "வெட்டுக் குறிகள்"
 
 msgid "Trim the picture with its handles; Enter or Done applies"
 msgstr "படத்தை அதன் கைப்பிடிகளால் வெட்டவும்; Enter அல்லது முடிந்தது என்பது பயன்படுத்தும்"
@@ -12352,7 +12478,7 @@ msgid "Turned off by your administrator."
 msgstr ""
 
 msgid "Turns pages scanned sideways or upside down upright before reading"
-msgstr ""
+msgstr "படிக்கும் முன், பக்கவாட்டில் அல்லது தலைகீழாக ஸ்கேன் செய்யப்பட்ட பக்கங்களை நேராகத் திருப்பும்"
 
 msgid "two cells would both be named {name}"
 msgstr "இரு கலங்களுக்கு {name} என்று ஒரே பெயர் வரும்"
@@ -12380,7 +12506,7 @@ msgid "Type"
 msgstr "தட்டச்சிடு"
 
 msgid "Type 3 font glyphs"
-msgstr ""
+msgstr "Type 3 எழுத்துரு வரியுருக்கள்"
 
 msgid "Type a password."
 msgstr "கடவுச்சொல்லை உள்ளிடவும்."
@@ -12416,13 +12542,13 @@ msgid "Undo ({key})"
 msgstr ""
 
 msgid "Undo last point"
-msgstr ""
+msgstr "கடைசிப் புள்ளியைச் செயல்தவிர்"
 
 msgid "Undo the last review change (Ctrl+Z)"
-msgstr ""
+msgstr "கடைசி மதிப்பாய்வு மாற்றத்தைச் செயல்தவிர் (Ctrl+Z)"
 
 msgid "Ungroup artwork"
-msgstr ""
+msgstr "வரைகலையின் குழுவைப் பிரி"
 
 msgid "Unit"
 msgstr "அலகு"
@@ -12494,7 +12620,7 @@ msgid "Unplaced"
 msgstr "வைக்கப்படாதவை"
 
 msgid "unreviewed"
-msgstr ""
+msgstr "மதிப்பாய்வு செய்யப்படாதது"
 
 msgid "Unsaved changes to this document are saved in the new file too."
 msgstr ""
@@ -12506,7 +12632,7 @@ msgid "Unsigned signature field: {name}"
 msgstr "கையொப்பமிடப்படாத கையொப்பப் புலம்: {name}"
 
 msgid "Unspecified"
-msgstr ""
+msgstr "குறிப்பிடப்படாதது"
 
 msgid "Unsupported measurements"
 msgstr "ஆதரிக்கப்படாத அளவீடுகள்"
@@ -12578,7 +12704,7 @@ msgid "Use basic detection"
 msgstr ""
 
 msgid "Use Column Order"
-msgstr ""
+msgstr "நெடுவரிசைகள் வாரியான வரிசையைப் பயன்படுத்து"
 
 msgid "Use Current Properties as New Defaults"
 msgstr ""
@@ -12590,7 +12716,7 @@ msgid "Use default font"
 msgstr ""
 
 msgid "Use Document Structure"
-msgstr ""
+msgstr "ஆவண அமைப்பைப் பயன்படுத்து"
 
 msgid "Use each image's embedded DPI; use 72 DPI when it is absent."
 msgstr "ஒவ்வொரு படத்தின் உட்பொதிந்த DPI-ஐப் பயன்படுத்து; அது இல்லையெனில் 72 DPI."
@@ -12623,7 +12749,7 @@ msgid "Use projected coordinate matrix"
 msgstr ""
 
 msgid "Use Row Order"
-msgstr ""
+msgstr "வரிசைகள் வாரியான வரிசையைப் பயன்படுத்து"
 
 msgid "Use system setting"
 msgstr "கணினி அமைப்பைப் பயன்படுத்து"
@@ -12632,7 +12758,7 @@ msgid "Use system title bar"
 msgstr "கணினித் தலைப்புப் பட்டையைப் பயன்படுத்து"
 
 msgid "Use the chosen engine's reading alone"
-msgstr ""
+msgstr "தேர்ந்தெடுத்த இயந்திரத்தின் வாசிப்பை மட்டும் பயன்படுத்தும்"
 
 msgid "Use the default"
 msgstr ""
@@ -12729,7 +12855,7 @@ msgid "Validity starts"
 msgstr "செல்லுபடி தொடங்கும் நாள்"
 
 msgid "Validity unknown"
-msgstr ""
+msgstr "செல்லுபடி அறியப்படவில்லை"
 
 msgid "Value is not calculated"
 msgstr "மதிப்பு கணக்கிடப்படுவதில்லை"
@@ -12738,13 +12864,13 @@ msgid "Value is the"
 msgstr "மதிப்பு என்பது"
 
 msgid "Verified"
-msgstr ""
+msgstr "சரிபார்க்கப்பட்டது"
 
 msgid "verified"
-msgstr ""
+msgstr "சரிபார்க்கப்பட்டது"
 
 msgid "VERIFIED %"
-msgstr ""
+msgstr "சரிபார்க்கப்பட்டவை %"
 
 msgid "Verifies the file against the standard, without changing it"
 msgstr ""
@@ -12778,7 +12904,7 @@ msgid "Vertical coordinates"
 msgstr ""
 
 msgid "Vertical layout"
-msgstr ""
+msgstr "செங்குத்துத் தளவமைப்பு"
 
 msgid "Vertical resolution"
 msgstr ""
@@ -12793,7 +12919,7 @@ msgid "Vertical to horizontal conversion"
 msgstr ""
 
 msgid "Vertices"
-msgstr ""
+msgstr "உச்சிகள்"
 
 msgid "Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations."
 msgstr "காணொளி, ஒலி, செறிவூட்டிய ஊடகம் ஆகியவை அறிவிக்கப்பட குறியிடப்பட வேண்டும். பல்லூடகக் குறிப்புகளைக் குறியிடவும்."
@@ -12912,10 +13038,10 @@ msgstr "முழுச் சொற்கள் மட்டும்"
 
 msgctxt "document scrollbar width"
 msgid "Wide"
-msgstr ""
+msgstr "அகலமான"
 
 msgid "Widen the page to make room"
-msgstr ""
+msgstr "இடம் அளிக்கப் பக்கத்தை அகலமாக்கு"
 
 msgid "Width between lines"
 msgstr ""
@@ -12930,19 +13056,19 @@ msgid "Window Options"
 msgstr "சாளர விருப்பங்கள்"
 
 msgid "Windows store  ·"
-msgstr ""
+msgstr "Windows சேமிப்பகம்  ·"
 
 msgid "Windows store  ·  "
 msgstr "Windows சேமிப்பகம்  ·  "
 
 msgid "With the control channel on, ui.state lists every guide (in the set format, and where it lies on screen) and the sets with their files and errors. ui.set document-guides <set as JSON or TOML> replaces the document's guides, guide-set <name>:on|off|toggle shows a set, guide-set-file <set> saves one, and guides, grid and snap-to-grid take on or off."
-msgstr ""
+msgstr "கட்டுப்பாட்டுச் சேனல் இயக்கத்தில் இருக்கும்போது, ui.state ஒவ்வொரு வழிகாட்டி கோட்டையும் (தொகுப்பு வடிவத்திலும், திரையில் அது இருக்கும் இடத்துடனும்) பட்டியலிடும்; தொகுப்புகளையும் அவற்றின் கோப்புகள் மற்றும் பிழைகளுடன் பட்டியலிடும். ui.set document-guides <JSON அல்லது TOML ஆகத் தொகுப்பு> ஆவணத்தின் வழிகாட்டி கோடுகளை மாற்றீடு செய்யும், guide-set <பெயர்>:on|off|toggle ஒரு தொகுப்பைக் காட்டும், guide-set-file <தொகுப்பு> ஒரு தொகுப்பைச் சேமிக்கும்; guides, grid, snap-to-grid ஆகியவை on அல்லது off ஐ ஏற்கும்."
 
 msgid "WKT definition"
 msgstr ""
 
 msgid "Word"
-msgstr ""
+msgstr "சொல்"
 
 msgid "Word count"
 msgstr "சொல் எண்ணிக்கை"
@@ -12969,7 +13095,7 @@ msgid "Write this email?"
 msgstr "இந்த மின்னஞ்சலை எழுதவா?"
 
 msgid "Writes a new document of visible text; the scan is not changed"
-msgstr ""
+msgstr "தெரியும் உரையாலான ஒரு புதிய ஆவணத்தை எழுதும்; ஸ்கேன் மாற்றப்படாது"
 
 msgid "Wrong password"
 msgstr "தவறான கடவுச்சொல்"
@@ -12978,7 +13104,7 @@ msgid "Wrote 1 file to {dir}"
 msgstr "{dir} இல் 1 கோப்பு எழுதப்பட்டது"
 
 msgid "Wrote {name}"
-msgstr ""
+msgstr "{name} எழுதப்பட்டது"
 
 msgid "Wrote {n} files to {dir}"
 msgstr "{dir} இல் {n} கோப்புகள் எழுதப்பட்டன"
@@ -12993,7 +13119,7 @@ msgid "XML source"
 msgstr ""
 
 msgid "XMP metadata"
-msgstr ""
+msgstr "XMP மேனிலைத் தரவு"
 
 msgid "Yellow on black"
 msgstr "கருப்பில் மஞ்சள்"
@@ -13047,7 +13173,7 @@ msgid "yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day
 msgstr "yyyy அல்லது yy ஆண்டு · m அல்லது mm மாதம் · mmm அல்லது mmmm மாதப் பெயர் · d அல்லது dd நாள் · ddd அல்லது dddd வார நாள். H, h, M, s மற்றும் t நேர எழுத்துகள்; அவற்றைத் தனியாகப் பயன்படுத்த இயலாது: ஓர் எழுத்தை அப்படியே காட்ட அதற்கு முன் {escape} இடவும்."
 
 msgid "Zero-width lines always count as narrower."
-msgstr ""
+msgstr "பூஜ்ஜிய அகலக் கோடுகள் எப்போதும் மெல்லியவையாகவே கணக்கிடப்படும்."
 
 msgid "ZIP"
 msgstr "ZIP"
@@ -13236,7 +13362,7 @@ msgid "{k} of {n}"
 msgstr "{n} இல் {k}"
 
 msgid "{k} skipped: {why}"
-msgstr ""
+msgstr "தவிர்க்கப்பட்டவை {k}: {why}"
 
 msgid "{label} (1 issue)"
 msgstr "{label} (1 சிக்கல்)"
@@ -13293,7 +13419,7 @@ msgid "{name} — unsaved changes"
 msgstr "{name} — சேமிக்கப்படாத மாற்றங்கள்"
 
 msgid "{name}, {date} and {time} become your name, the date and the time."
-msgstr ""
+msgstr "{name}, {date}, {time} ஆகியவை முறையே உங்கள் பெயராகவும், தேதியாகவும், நேரமாகவும் மாறும்."
 
 msgid "{name}: choosing images arrives on the web with file pickers for images"
 msgstr "{name}: படங்களைத் தேர்ந்தெடுக்கும் வசதி, படக் கோப்புத் தேர்விகளுடன் இணையத்தில் வரவுள்ளது"
@@ -13302,7 +13428,7 @@ msgid "{name}: the {other} action isn't supported yet"
 msgstr "{name}: {other} செயல் இன்னும் ஆதரிக்கப்படவில்லை"
 
 msgid "{name}: {n} low-confidence word(s) on pages {pages}"
-msgstr ""
+msgstr "{name}: குறைந்த நம்பக அளவுள்ள {n} சொல்(கள்), பக்கங்கள் {pages}"
 
 msgid "{name}_unsigned.pdf"
 msgstr ""
@@ -13376,8 +13502,8 @@ msgstr[1] "{n} படங்கள் உகந்ததாக்கப்பட�
 msgctxt "@plural"
 msgid "{n} image was left as it was (page {p}: {why})."
 msgid_plural "{n} images were left as they were (page {p}: {why}, …)."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} படம் உள்ளபடியே விடப்பட்டது (பக்கம் {p}: {why})."
+msgstr[1] "{n} படங்கள் உள்ளபடியே விடப்பட்டன (பக்கம் {p}: {why}, …)."
 
 msgid "{n} instances"
 msgstr "{n} நிகழ்வுகள்"
@@ -13392,7 +13518,7 @@ msgstr[0] "{n} உருப்படி நீக்கப்பட்டது"
 msgstr[1] "{n} உருப்படிகள் நீக்கப்பட்டன"
 
 msgid "{n} lines"
-msgstr ""
+msgstr "{n} வரிகள்"
 
 msgid "{n} marks"
 msgstr "{n} குறிகள்"
@@ -13427,8 +13553,8 @@ msgstr ""
 msgctxt "@plural"
 msgid "{n} page is not a scan."
 msgid_plural "{n} pages are not scans."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} பக்கம் ஸ்கேன் அல்ல."
+msgstr[1] "{n} பக்கங்கள் ஸ்கேன்கள் அல்ல."
 
 msgid "{n} pages"
 msgstr "{n} பக்கங்கள்"
@@ -13440,7 +13566,7 @@ msgid "{n} pages could not be searched; results are incomplete."
 msgstr ""
 
 msgid "{n} pages hold more content than PdfCraft can read, page {page} first: parts of them aren't drawn, and only part of their text can be found or copied."
-msgstr ""
+msgstr "{n} பக்கங்களில் (பக்கம் {page} முதல்) PdfCraft படிக்கக்கூடியதை விட அதிகமான உள்ளடக்கம் உள்ளது: அவற்றின் சில பகுதிகள் வரையப்படவில்லை, அவற்றின் உரையில் ஒரு பகுதியை மட்டுமே கண்டறியவோ நகலெடுக்கவோ முடியும்."
 
 msgid "{n} pages scanned"
 msgstr ""
@@ -13488,7 +13614,7 @@ msgid "{n} word(s) or phrase(s)"
 msgstr "{n} சொல்(கள்) அல்லது சொற்றொடர்(கள்)"
 
 msgid "{n} word(s) to review"
-msgstr ""
+msgstr "மதிப்பாய்வு செய்ய வேண்டிய {n} சொல்(கள்)"
 
 msgid "{n} {kind}"
 msgstr "{n} {kind}"
@@ -13596,10 +13722,10 @@ msgid "{} needs the printing condition's ICC profile embedded for RGB or device-
 msgstr ""
 
 msgid "· not fixable here"
-msgstr ""
+msgstr "· இங்கே சரிசெய்ய இயலாது"
 
 msgid "· password-protected"
-msgstr ""
+msgstr "· கடவுச்சொல் பாதுகாக்கப்பட்டது"
 
 msgid "ΔLOC"
 msgstr "ΔLOC"

@@ -343,6 +343,9 @@ msgstr "PrinterMark-merkintä menee TrimBoxin tai ArtBoxin päälle"
 msgid "A script"
 msgstr "Komentosarja"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr "toinen {} taulukossaan"
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr "Bittikarttakuvat"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Musta valkoisella"
 
@@ -1501,6 +1510,9 @@ msgstr "Käytä omaa mallia (oletuksena pois)"
 msgid "Browser's print dialog"
 msgstr "Selaimen tulostusikkuna"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "Bulleted list"
 
@@ -1521,6 +1533,9 @@ msgstr "Painikkeen tyyli:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "Samannimiset ja -arvoiset painikkeet valitaan yhtä aikaa"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr "Laitteiden vakiokaavoilla; profiileja ei käytetä."
@@ -1560,6 +1575,9 @@ msgstr ""
 
 msgid "Cancel drawing"
 msgstr "Peruuta piirtäminen"
+
+msgid "Cancel re-read"
+msgstr ""
 
 msgid "Cancel reverse sides"
 msgstr "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "Tarkista saavutettavuus"
 
 msgid "Check for accessibility…"
 msgstr "Tarkista saavutettavuus…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "Tarkista päivitykset…"
@@ -2206,11 +2227,17 @@ msgstr "Sarakkeiden leveydet"
 msgid "Column {n}"
 msgstr "Sarake {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "Merkkiruutuja"
 
 msgid "Comb of characters"
 msgstr "Merkkiruudukko"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Yhdistä tiedostot"
@@ -2827,6 +2854,9 @@ msgstr "Luontisovellus"
 msgid "Credit Cards"
 msgstr "Luottokortit"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL-allekirjoitus"
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "Havaittiin 1 lomakekenttä"
 msgid "Detected {n} form fields"
 msgstr "Havaittiin {n} lomakekenttää"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "Laiteväriä käytetään, mutta PDF/A-tulosteprofiilia ei ole"
 
@@ -3264,6 +3303,12 @@ msgstr "Hylkää upotetut sivujen pikkukuvat"
 
 msgid "Discard embedded print settings"
 msgstr "Hylkää upotetut tulostusasetukset"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "Hylkää piilotettujen tasojen sisältö"
@@ -3710,6 +3755,9 @@ msgstr "Muokkaa sisältöä"
 msgid "Edit content"
 msgstr "Muokkaa sisältöä"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "Muokkaa asiakirjan JavaScriptiä"
 
@@ -3818,6 +3866,9 @@ msgstr "Loppuyksikkö"
 
 msgid "Endpoints"
 msgstr "Päätepisteet"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "Sisennä"
 msgid "Information"
 msgstr "Tiedot"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "Alkunäkymä"
 
@@ -6319,6 +6373,9 @@ msgstr "Siirrä ylös"
 msgid "Moved page"
 msgstr "Siirretty sivu"
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "Moves only what must move"
 
@@ -7059,6 +7116,9 @@ msgstr "Vain sivujen sisältö muuttuu: alkuperäisten sivujen linkit, kommentit
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr "Vain vastaanottajat voivat avata asiakirjan, kukin oman varmenteensa yksityisellä avaimella."
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "Avaa ensin asiakirja"
 
@@ -7161,6 +7221,9 @@ msgstr "avaa nähdäksesi, mitä se sisältää"
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "Optimoidaan… yhdistetään identtisiä objekteja"
 
 msgid "Optimizing… merging image fragments"
 msgstr "Optimoidaan… yhdistetään kuvan paloja"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "Optimoidaan… poistetaan käyttäjätietoja"
@@ -7397,6 +7466,12 @@ msgstr "Sivualue"
 
 msgid "Page Range Options"
 msgstr "Sivualueen asetukset"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "Sivun koko ja käsittely"
@@ -7611,6 +7686,9 @@ msgstr "Liitä jälkeen"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr "Liitä kommentit"
 
@@ -7724,6 +7802,12 @@ msgstr "PdfCraft {c} on ajan tasalla."
 
 msgid "PdfCraft {v} is available."
 msgstr "PdfCraft {v} on saatavilla."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr "PdfCraftin oma"
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "Kirjoita salasana uudelleen"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "Poista peittomerkinnät"
 
 msgid "Remove saved {what}"
 msgstr "Poista tallennettu {what}"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "Poista suojaus"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "Itse allekirjoitettu"
 
@@ -9942,6 +10041,9 @@ msgstr "Näytä salasana"
 
 msgid "Show Report"
 msgstr "Näytä raportti"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr "Näytä malli {name}"
@@ -10451,11 +10553,17 @@ msgstr "Tallenna JPEG-kuvat JPEG XL -muodossa (pienempiä, peruttavissa; vaatii 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Suorista vinot skannaukset"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr "Kopioidut kommentit ovat tätä sivua suurempia; ne sijoitettiin sellais
 msgid "The copy to attach couldn't be written: {e}"
 msgstr "Liitettävää kopiota ei voitu kirjoittaa: {e}"
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr "Valinnaisen sisällön oletusmäärityksellä (D) ei ole Namea"
 
@@ -10909,6 +11020,9 @@ msgstr "Asiakirja muuttui tiedoston valinnan aikana, joten mitään ei muutettu.
 
 msgid "The document changed while you were editing field properties."
 msgstr "Asiakirja muuttui kenttäominaisuuksien muokkauksen aikana."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr "Asiakirjaa ei voitu valmistella"
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr "Tämä asiakirja ei ole vielä missään kansiossa: tallenna se ensin"
 msgid "This document isn't password-protected"
 msgstr "Tätä asiakirjaa ei ole suojattu salasanalla"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Tämä piirustus ylittää tartunnan rajan; vain ensimmäiset polut käytetään."
 
@@ -12142,6 +12262,12 @@ msgstr "Tämä tulostin tulostaa vain yksipuolisesti."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Tämän tulostimen ohjain ei hyväksy kaksipuolisuusasetuksia muilta ohjelmilta, joten sen oma asetus on voimassa. Muuta sitä kohdassa Ominaisuudet…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr "tätä allekirjoitusta ei voi poistaa yksinään"

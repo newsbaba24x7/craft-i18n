@@ -343,6 +343,9 @@ msgstr ""
 msgid "A script"
 msgstr "სკრიპტი"
 
+msgid "A script edited here can be at most 256 KiB long; that change wasn't made."
+msgstr ""
+
 msgid "a second {} in its table"
 msgstr ""
 
@@ -434,6 +437,9 @@ msgid "Accept"
 msgstr ""
 
 msgid "Accept entire page"
+msgstr ""
+
+msgid "Accept or reject the OCR review of the other document before running OCR here"
 msgstr ""
 
 msgid "Accepted"
@@ -1408,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "შავი თეთრზე"
 
@@ -1501,6 +1510,9 @@ msgstr "საკუთარი მოდელის გამოყენე�
 msgid "Browser's print dialog"
 msgstr "ბრაუზერის ბეჭდვის დიალოგი"
 
+msgid "Built-in"
+msgstr ""
+
 msgid "Bulleted list"
 msgstr "ბურთულებიანი სია"
 
@@ -1521,6 +1533,9 @@ msgstr "ღილაკის სტილი:"
 
 msgid "Buttons with the same name and value are selected in unison"
 msgstr "ერთნაირი სახელისა და მნიშვნელობის ღილაკები ერთად მოინიშნება"
+
+msgid "by"
+msgstr ""
 
 msgid "By the standard device formulas; profiles are not applied."
 msgstr ""
@@ -1559,6 +1574,9 @@ msgid "Cancel caption placement"
 msgstr ""
 
 msgid "Cancel drawing"
+msgstr ""
+
+msgid "Cancel re-read"
 msgstr ""
 
 msgid "Cancel reverse sides"
@@ -1776,6 +1794,9 @@ msgstr "ხელმისაწვდომობის შემოწმე�
 
 msgid "Check for accessibility…"
 msgstr "ხელმისაწვდომობის შემოწმება…"
+
+msgid "Check for updates when PdfCraft starts"
+msgstr ""
 
 msgid "Check for updates…"
 msgstr "განახლებების შემოწმება…"
@@ -2206,11 +2227,17 @@ msgstr "სვეტების სიგანეები"
 msgid "Column {n}"
 msgstr "სვეტი {n}"
 
+msgid "Columns and rows must each be 1 to 99."
+msgstr ""
+
 msgid "Comb of"
 msgstr "უჯრებად დაყოფა:"
 
 msgid "Comb of characters"
 msgstr "სიმბოლოების უჯრებად დაყოფა"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ფაილების გაერთიანება"
@@ -2827,6 +2854,9 @@ msgstr "შემქმნელი აპლიკაცია"
 msgid "Credit Cards"
 msgstr "საკრედიტო ბარათები"
 
+msgid "Creep:"
+msgstr ""
+
 msgid "CRL Signing"
 msgstr "CRL-ების ხელმოწერა"
 
@@ -2871,6 +2901,9 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
+msgstr ""
+
+msgid "Custom calculation script:"
 msgstr ""
 
 msgid "Custom Color"
@@ -3187,6 +3220,12 @@ msgstr "ნაპოვნია 1 ფორმის ველი"
 msgid "Detected {n} form fields"
 msgstr "ნაპოვნია ფორმის ველები: {n}"
 
+msgid "Detecting paper…"
+msgstr ""
+
+msgid "Detecting…"
+msgstr ""
+
 msgid "Device colour is used, but there is no PDF/A output intent"
 msgstr "გამოყენებულია მოწყობილობის ფერი, მაგრამ PDF/A გამოტანის პროფილი არ არის"
 
@@ -3264,6 +3303,12 @@ msgstr "გვერდების ჩაშენებული ესკი�
 
 msgid "Discard embedded print settings"
 msgstr "ჩაშენებული ბეჭდვის პარამეტრების მოშორება"
+
+msgid "Discard embedded search index"
+msgstr ""
+
+msgid "Discard external cross-references"
+msgstr ""
 
 msgid "Discard hidden layer content"
 msgstr "დამალული შრეების შიგთავსის მოშორება"
@@ -3710,6 +3755,9 @@ msgstr ""
 msgid "Edit content"
 msgstr "შიგთავსის რედაქტირება"
 
+msgid "Edit description"
+msgstr ""
+
 msgid "Edit document JavaScript"
 msgstr "დოკუმენტის JavaScript-ის რედაქტირება"
 
@@ -3818,6 +3866,9 @@ msgstr "საბოლოო სუბიექტი"
 
 msgid "Endpoints"
 msgstr "ბოლო წერტილები"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -5240,6 +5291,9 @@ msgstr "შეწევა"
 msgid "Information"
 msgstr "ინფორმაცია"
 
+msgid "Inherit Zoom"
+msgstr ""
+
 msgid "Initial View"
 msgstr "საწყისი ხედი"
 
@@ -6319,6 +6373,9 @@ msgstr "აწევა"
 msgid "Moved page"
 msgstr ""
 
+msgid "Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed."
+msgstr ""
+
 msgid "Moves only what must move"
 msgstr "გადაადგილდება მხოლოდ ის, რაც აუცილებელია"
 
@@ -7059,6 +7116,9 @@ msgstr "იცვლება მხოლოდ გვერდის შიგ
 msgid "Only the recipients can open the document, each with the private key of their own certificate."
 msgstr ""
 
+msgid "Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links."
+msgstr ""
+
 msgid "Open a document first"
 msgstr "ჯერ გახსენით დოკუმენტი"
 
@@ -7161,6 +7221,9 @@ msgstr "გახსენით, რომ ნახოთ, რას მოი
 msgid "Open Units and guides"
 msgstr ""
 
+msgid "Open web and email addresses written in the page text"
+msgstr ""
+
 msgid "Opened from a CAdES signature envelope — read-only."
 msgstr ""
 
@@ -7226,6 +7289,12 @@ msgstr "ოპტიმიზაცია… იდენტური ობი�
 
 msgid "Optimizing… merging image fragments"
 msgstr "ოპტიმიზაცია… გამოსახულების ფრაგმენტების გაერთიანება"
+
+msgid "Optimizing… reading page {d} of {t}"
+msgstr ""
+
+msgid "Optimizing… reading the pages"
+msgstr ""
 
 msgid "Optimizing… removing user data"
 msgstr "ოპტიმიზაცია… მომხმარებლის მონაცემების მოშორება"
@@ -7397,6 +7466,12 @@ msgstr "გვერდების დიაპაზონი"
 
 msgid "Page Range Options"
 msgstr "გვერდების დიაპაზონის პარამეტრები"
+
+msgid "Page setup dialog is not available on this system."
+msgstr ""
+
+msgid "Page Setup…"
+msgstr ""
 
 msgid "Page Sizing & Handling"
 msgstr "გვერდის ზომა და დამუშავება"
@@ -7611,6 +7686,9 @@ msgstr "ჩასმა შემდეგ"
 msgid "Paste an OpenRouter key"
 msgstr ""
 
+msgid "Paste bookmarks"
+msgstr ""
+
 msgid "Paste comments"
 msgstr ""
 
@@ -7724,6 +7802,12 @@ msgstr ""
 
 msgid "PdfCraft {v} is available."
 msgstr "ხელმისაწვდომია PdfCraft {v}."
+
+msgid "PdfCraft's checks found no problems for {level}. This is not a validator result."
+msgstr ""
+
+msgid "PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes."
+msgstr ""
 
 msgid "PdfCraft's own"
 msgstr ""
@@ -8176,6 +8260,12 @@ msgstr ""
 msgid "Re-OCR this region"
 msgstr ""
 
+msgid "Re-reading the page…"
+msgstr ""
+
+msgid "Re-reading the region…"
+msgstr ""
+
 msgid "Re-type Password"
 msgstr "გაიმეორეთ პაროლი"
 
@@ -8231,6 +8321,9 @@ msgid "Reading Preferences"
 msgstr ""
 
 msgid "Reading preferences…"
+msgstr ""
+
+msgid "Reading the drawing for snapping…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
@@ -8535,6 +8628,9 @@ msgstr "დაფარვის ნიშნების მოხსნა"
 
 msgid "Remove saved {what}"
 msgstr "შენახული {what} წაშლა"
+
+msgid "Remove scan speckle"
+msgstr ""
 
 msgid "Remove security"
 msgstr "დაცვის მოხსნა"
@@ -9622,6 +9718,9 @@ msgstr ""
 msgid "Selecting a result applies this query to the destination’s Find."
 msgstr ""
 
+msgid "Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…"
+msgstr ""
+
 msgid "Self-signed"
 msgstr "თვითხელმოწერილი"
 
@@ -9942,6 +10041,9 @@ msgstr "პაროლის ჩვენება"
 
 msgid "Show Report"
 msgstr "ანგარიშის ჩვენება"
+
+msgid "Show tab numbers"
+msgstr ""
 
 msgid "Show template {name}"
 msgstr ""
@@ -10451,10 +10553,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10877,6 +10985,9 @@ msgstr ""
 msgid "The copy to attach couldn't be written: {e}"
 msgstr ""
 
+msgid "The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep."
+msgstr ""
+
 msgid "The default optional content configuration (D) has no Name"
 msgstr ""
 
@@ -10909,6 +11020,9 @@ msgstr "ფაილის არჩევისას დოკუმენტ�
 
 msgid "The document changed while you were editing field properties."
 msgstr "ველის თვისებების რედაქტირებისას დოკუმენტი შეიცვალა."
+
+msgid "The document changed. Reopen Document Properties to edit the current version."
+msgstr ""
 
 msgid "The document couldn't be prepared"
 msgstr ""
@@ -11415,6 +11529,9 @@ msgid "The raw text was truncated to what fits."
 msgstr ""
 
 msgid "The re-read found no text; the existing words are unchanged"
+msgstr ""
+
+msgid "The re-read was cancelled; the words are unchanged"
 msgstr ""
 
 msgid "The redaction does not fit page {page}; no pages were marked."
@@ -12002,6 +12119,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "ეს დოკუმენტი პაროლით დაცული არ არის"
 
+msgid "This document's script is asking"
+msgstr ""
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ეს ნახაზი მიბმის ლიმიტს აღემატება; გამოიყენება მხოლოდ პირველი კონტურები."
 
@@ -12142,6 +12262,12 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "ამ პრინტერის დრაივერი ორმხრივი ბეჭდვის პარამეტრებს სხვა პროგრამებიდან არ იღებს, ამიტომ მისი საკუთარი პარამეტრი მოქმედებს. შეცვალეთ ის აქ: თვისებები…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr ""
+
+msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
+msgstr ""
 
 msgid "this signature can't be removed on its own"
 msgstr ""

@@ -5828,7 +5828,7 @@ msgid "Line width"
 msgstr ""
 
 msgid "Lines drawn inside Type 3 glyphs and tiling patterns; off by default."
-msgstr "Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவங்களுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்."
+msgstr "Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவமாதிரிகளுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்."
 
 msgid "Link Action"
 msgstr "இணைப்புச் செயல்"
@@ -7705,13 +7705,13 @@ msgid "Paste pages"
 msgstr "பக்கங்களை ஒட்டு"
 
 msgid "Pattern strokes"
-msgstr "வடிவத் தீற்றல்கள்"
+msgstr "வடிவமாதிரித் தீற்றல்கள்"
 
 msgid "Patterns"
-msgstr "வடிவங்கள்"
+msgstr "வடிவமாதிரிகள்"
 
 msgid "Patterns (graphics objects)"
-msgstr "வடிவங்கள் (வரைகலைப் பொருட்கள்)"
+msgstr "வடிவமாதிரிகள் (வரைகலைப் பொருட்கள்)"
 
 msgid "Pause / resume reading"
 msgstr ""

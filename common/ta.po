@@ -1571,7 +1571,7 @@ msgid "Guides"
 msgstr "வழிகாட்டி கோடுகள்"
 
 msgid "Halftone Pattern"
-msgstr "அரைவண்ணக் கோலம்"
+msgstr "அரைத்தொனி வடிவமாதிரி"
 
 msgid "Hand"
 msgstr "கை"

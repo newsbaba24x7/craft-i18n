@@ -296,7 +296,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	All Text Objects	அனைத்து உரைப் பொருட்களும்
 	All the art	அனைத்து ஓவியங்களும்
 	All Tools	அனைத்துக் கருவிகளும்
-@msg	already editing a pattern	ஏற்கனவே ஒரு வடிவத்தைத் திருத்துகிறது
+@msg	already editing a pattern	ஏற்கனவே ஒரு வடிவமாதிரியைத் திருத்துகிறது
 	Alt+Click	Alt+சொடுக்கு
 	Alt+Drag	Alt+இழு
 	Alt:	Alt:
@@ -544,7 +544,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 @msg	can't write .{ext} images	.{ext} படங்களை எழுத முடியவில்லை
 	Cancel Export	ஏற்றுமதியை ரத்துசெய்
 	Cancel Key Object	முக்கியப் பொருளை ரத்துசெய்
-	Cancel Pattern Editing	வடிவத் திருத்தத்தை ரத்துசெய்
+	Cancel Pattern Editing	வடிவமாதிரித் திருத்தத்தை ரத்துசெய்
 @msg	cancelled; nothing was changed	ரத்து செய்யப்பட்டது; எதுவும் மாற்றப்படவில்லை
 @msg	cannot distort a zero-size bounding box	பூஜ்ஜிய அளவு எல்லைப்பெட்டியை சிதைக்க முடியாது
 @msg	cannot read PDF: {0}	PDF ஐப் படிக்க முடியவில்லை: {0}
@@ -873,7 +873,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Dark Intensity	கருமை தீவிரம்
 	Dark Strokes…	இருண்ட கோடுகள்…
 	dash	கோடு
-	Dash Pattern	கோட்டு வடிவம்
+	Dash Pattern	கீற்று வடிவமாதிரி
 	Dashed Line	கோடிட்ட வரி
 	Data Recovery	தரவு மீட்பு
 @msg	Data Recovery has nowhere to keep copies: set Preferences → File Handling → Data Recovery → Folder (recoveryFolder)	தரவு மீட்புக்கு நகல்களை வைக்க இடம் இல்லை: விருப்பத்தேர்வுகள் → கோப்பு கையாளுதல் → தரவு மீட்பு → கோப்புறை (recoveryFolder) ஐ அமைக்கவும்
@@ -924,7 +924,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Delete Light	ஒளியை நீக்கு
 	Delete Mesh Point	வலைப் புள்ளியை நீக்கு
 	Delete Paragraph Style	பத்தி பாணியை நீக்கு
-	Delete Pattern	வடிவத்தை நீக்கு
+	Delete Pattern	வடிவமாதிரியை நீக்கு
 	Delete PDF Preset	PDF முன்னமைவை நீக்கு
 	Delete Perspective Grid Preset	முன்னோக்குக் கட்ட முன்னமைவை நீக்கு
 	Delete Point	புள்ளியை நீக்கு
@@ -996,7 +996,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Distort & Transform	சிதைத்து உருமாற்று
 	Distort Appearance	தோற்றத்தைச் சிதைக்கவும்
 	Distort Linear Gradients	நேரியல் சாய்வுகளைச் சிதைக்கவும்
-	Distort Pattern Fills	வடிவ நிரப்புகளைச் சிதைக்கவும்
+	Distort Pattern Fills	வடிவமாதிரி நிரப்புகளைச் சிதைக்கவும்
 	Distribute Objects:	பொருட்களைப் பரப்பு:
 	Distribute Spacing	இடைவெளியைப் பரப்பு
 	Distribute Spacing:	இடைவெளியைப் பரப்பு:
@@ -1033,7 +1033,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Don't include profiles	சுயவிவரங்களைச் சேர்க்க வேண்டாம்
 	Don't Relink	மீண்டும் இணைக்க வேண்டாம்
 	Don't Show Center	மையத்தைக் காட்ட வேண்டாம்
-	Done Editing Pattern	வடிவத் திருத்தம் முடிந்தது
+	Done Editing Pattern	வடிவமாதிரித் திருத்தம் முடிந்தது
 	Dot on Bar	பட்டையின் மீது புள்ளி
 	Double Arrow	இரட்டை அம்புக்குறி
 	Double Bar	இரட்டைப் பட்டை
@@ -1127,7 +1127,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 	Edit or Apply Colors	நிறங்களைத் திருத்து அல்லது பயன்படுத்து
 @msg	Edit Original opens image and document files only; “{name}” is not one	அசலைத் திருத்து படம் மற்றும் ஆவணக் கோப்புகளை மட்டுமே திறக்கும்; “{name}” அவற்றில் ஒன்றல்ல
 	Edit Path	பாதையைத் திருத்து
-	Edit Pattern	வடிவத்தைத் திருத்து
+	Edit Pattern	வடிவமாதிரியைத் திருத்து
 	Edit PDF Preset	PDF முன்னமைவைத் திருத்து
 	Edit Perspective Grid	முன்னோக்குக் கட்டத்தைத் திருத்து
 	Edit Print Preset	அச்சு முன்னமைவைத் திருத்து
@@ -1241,7 +1241,7 @@ file-filter	All readable files	படிக்கக்கூடிய அனை
 @msg	Expand: no brush strokes selected	விரிவாக்கு: தூரிகைக் கோடுகள் எதுவும் தேர்ந்தெடுக்கப்படவில்லை
 @msg	Expand: no gradient fills	விரிவாக்கு: சாய்வு நிரப்புகள் இல்லை
 @msg	Expand: nothing to expand	விரிவாக்கு: விரிவாக்க எதுவும் இல்லை
-	Expanded Patterns	விரிவாக்கப்பட்ட வடிவங்கள்
+	Expanded Patterns	விரிவாக்கப்பட்ட வடிவமாதிரிகள்
 	Expand…	விரிவாக்கு…
 	Export All…	அனைத்தையும் ஏற்றுமதி செய்…
 	Export and Clipboard Transparency Flattener Settings	ஏற்றுமதி மற்றும் கிளிப்போர்டு வெளிப்படைத்தன்மை தட்டையாக்கி அமைப்புகள்
@@ -1518,7 +1518,7 @@ file-filter	Flattener presets	தட்டையாக்கி முன்ன�
 	Half Arrow (left)	அரை அம்புக்குறி (இடது)
 	Half Arrow (right)	அரை அம்புக்குறி (வலது)
 	Half Circle	அரை வட்டம்
-	Halftone Pattern…	அரைத்தொனி வடிவம்…
+	Halftone Pattern…	அரைத்தொனி வடிவமாதிரி…
 	Halo	ஒளிவட்டம்
 	Hand-Drawn	கையால் வரையப்பட்டது
 @msg	handle must be in or out	handle in அல்லது out ஆக இருக்க வேண்டும்
@@ -1875,7 +1875,7 @@ lighting	Light	ஒளி
 	List Folder	கோப்புறையைப் பட்டியலிடு
 	List Graphic Styles	வரைகலை பாணிகளைப் பட்டியலிடு
 	List Keyboard Shortcuts	விசைப்பலகை குறுக்குவழிகளைப் பட்டியலிடு
-	List Patterns	வடிவங்களைப் பட்டியலிடு
+	List Patterns	வடிவமாதிரிகளைப் பட்டியலிடு
 	List Plug-ins	செருகுநிரல்களைப் பட்டியலிடு
 	List Preferences	விருப்பத்தேர்வுகளைப் பட்டியலிடு
 	List Slices	துண்டுகளைப் பட்டியலிடு
@@ -1943,7 +1943,7 @@ lighting	Light	ஒளி
 	Make Live Paint	நேரடி வண்ணத்தை உருவாக்கு
 	Make Mask	முகமூடியை உருவாக்கு
 	Make Opacity Mask	ஒளிபுகாநிலை முகமூடியை உருவாக்கு
-	Make Pattern	வடிவத்தை உருவாக்கு
+	Make Pattern	வடிவமாதிரியை உருவாக்கு
 	Make Pixel Perfect	பிக்சல் துல்லியமாக்கு
 	Make Sides Equal	பக்கங்களை சமமாக்கு
 	Make Slice	துண்டை உருவாக்கு
@@ -2127,7 +2127,7 @@ lighting	Light	ஒளி
 	New Opacity Masks Are Clipping	புதிய ஒளிபுகாநிலை முகமூடிகள் வெட்டி எடுக்கும்
 	New Opacity Masks Are Inverted	புதிய ஒளிபுகாநிலை முகமூடிகள் தலைகீழாக்கப்படும்
 	New Paragraph Style	புதிய பத்தி பாணி
-	New Pattern Brush from Selection	தேர்விலிருந்து புதிய வடிவத் தூரிகை
+	New Pattern Brush from Selection	தேர்விலிருந்து புதிய வடிவமாதிரித் தூரிகை
 	New PDF Preset	புதிய PDF முன்னமைவு
 	New Print Preset	புதிய அச்சு முன்னமைவு
 	New Scatter Brush from Selection	தேர்விலிருந்து புதிய சிதறல் தூரிகை
@@ -2220,7 +2220,7 @@ lighting	Light	ஒளி
 @msg	no native format	சொந்த வடிவம் இல்லை
 	No options	விருப்பங்கள் இல்லை
 @msg	no pages	பக்கங்கள் இல்லை
-@msg	no pattern `{name}`	`{name}` என்ற வடிவம் இல்லை
+@msg	no pattern `{name}`	`{name}` என்ற வடிவமாதிரி இல்லை
 @msg	no perspective grid preset named `{name}`	`{name}` என்ற முன்னோக்குக் கட்ட முன்னமைவு இல்லை
 @msg	no plug-in {0} is installed	செருகுநிரல் {0} நிறுவப்படவில்லை
 @msg	no plug-in {id} is installed	செருகுநிரல் {id} நிறுவப்படவில்லை
@@ -2302,7 +2302,7 @@ lighting	Light	ஒளி
 	Not followed: outside the script's folder	பின்பற்றப்படவில்லை: ஸ்கிரிப்ட் கோப்புறைக்கு வெளியே
 	Not found	கிடைக்கவில்லை
 @msg	not found	கிடைக்கவில்லை
-@msg	not in pattern editing mode	வடிவத் திருத்தப் பயன்முறையில் இல்லை
+@msg	not in pattern editing mode	வடிவமாதிரித் திருத்தப் பயன்முறையில் இல்லை
 	not known yet	இன்னும் தெரியவில்லை
 	Not read	படிக்கப்படவில்லை
 	Not read: a limit was reached	படிக்கப்படவில்லை: ஒரு வரம்பை அடைந்தது
@@ -2394,7 +2394,7 @@ lighting	Light	ஒளி
 	Opacity: Default	ஒளிபுகாநிலை: இயல்புநிலை
 	Opacity: {value}	ஒளிபுகாநிலை: {value}
 	Opaque	ஒளிபுகும்
-	Open a document to edit its patterns.	அதன் வடிவங்களைத் திருத்த ஓர் ஆவணத்தைத் திறக்கவும்.
+	Open a document to edit its patterns.	அதன் வடிவமாதிரிகளைத் திருத்த ஓர் ஆவணத்தைத் திறக்கவும்.
 	Open a document to navigate it.	அதில் வழிசெல்ல ஓர் ஆவணத்தைத் திறக்கவும்.
 	Open a document to preview its flattening.	அதன் தட்டையாக்கலை முன்காட்சி காண ஓர் ஆவணத்தைத் திறக்கவும்.
 	Open a document to preview its pages	அதன் பக்கங்களை முன்காட்சி காண ஓர் ஆவணத்தைத் திறக்கவும்
@@ -2544,13 +2544,13 @@ imageTrace	Outline	வெளிரேகை
 @msg	paths contain invalid coordinates	பாதைகளில் தவறான ஆயத்தொலைவுகள் உள்ளன
 @msg	paths: give at least one file	paths: குறைந்தது ஒரு கோப்பைக் கொடுக்கவும்
 	Paths: {paths}    Anchors: {anchors}    Colors: {colors}	பாதைகள்: {paths}    நங்கூரங்கள்: {anchors}    நிறங்கள்: {colors}
-	Pattern Brush Options	வடிவத் தூரிகை விருப்பங்கள்
-	Pattern Editing	வடிவத் திருத்தம்
-@msg	pattern missing	வடிவம் இல்லை
-	Pattern Options	வடிவ விருப்பங்கள்
-	Pattern options are available in pattern editing mode.	வடிவ விருப்பங்கள் வடிவத் திருத்தப் பயன்முறையில் கிடைக்கும்.
-	Pattern Swatches	வடிவ வண்ண மாதிரிகள்
-@msg	patterns nested too deeply are filled with mid-grey	மிக ஆழமாக உள்ளமைக்கப்பட்ட வடிவங்கள் நடுத்தர சாம்பலால் நிரப்பப்படும்
+	Pattern Brush Options	வடிவமாதிரித் தூரிகை விருப்பங்கள்
+	Pattern Editing	வடிவமாதிரித் திருத்தம்
+@msg	pattern missing	வடிவமாதிரி இல்லை
+	Pattern Options	வடிவமாதிரி விருப்பங்கள்
+	Pattern options are available in pattern editing mode.	வடிவமாதிரி விருப்பங்கள் வடிவமாதிரித் திருத்தப் பயன்முறையில் கிடைக்கும்.
+	Pattern Swatches	வடிவமாதிரி வண்ண மாதிரிகள்
+@msg	patterns nested too deeply are filled with mid-grey	மிக ஆழமாக உள்ளமைக்கப்பட்ட வடிவமாதிரிகள் நடுத்தர சாம்பலால் நிரப்பப்படும்
 	PDF	PDF
 	PDF 1.3 files have no transparency: the preset flattens it.	PDF 1.3 கோப்புகளில் வெளிப்படைத்தன்மை இல்லை: முன்னமைவு அதைத் தட்டையாக்கும்.
 	PDF 1.7	PDF 1.7
@@ -2597,7 +2597,7 @@ file-filter	PDF-compatible .ai	PDF-இணக்கமான .ai
 	Phone 393×852	தொலைபேசி 393×852
 	Phone 412×915	தொலைபேசி 412×915
 	Phone 430×932	தொலைபேசி 430×932
-@msg	pick a colour, gradient or pattern to save as a swatch	வண்ண மாதிரியாகச் சேமிக்க ஒரு நிறம், சாய்வு அல்லது வடிவத்தைத் தேர்ந்தெடுக்கவும்
+@msg	pick a colour, gradient or pattern to save as a swatch	வண்ண மாதிரியாகச் சேமிக்க ஒரு நிறம், சாய்வு அல்லது வடிவமாதிரியைத் தேர்ந்தெடுக்கவும்
 	Pie End Angle:	பை முடிவு கோணம்:
 	Pie Graph Tool	பை வரைபடக் கருவி
 	Pie Start Angle:	பை தொடக்கக் கோணம்:
@@ -3203,7 +3203,7 @@ diagnostics	render	காட்சியாக்கு
 	Select Anchors	நங்கூரங்களைத் தேர்ந்தெடு
 	Select Appearance Item	தோற்ற உருப்படியைத் தேர்ந்தெடு
 	Select Art	ஓவியத்தைத் தேர்ந்தெடு
-	Select art and choose Object › Pattern › Make.	ஓவியத்தைத் தேர்ந்தெடுத்து பொருள் › வடிவம் › உருவாக்கு என்பதைத் தேர்வு செய்யவும்.
+	Select art and choose Object › Pattern › Make.	ஓவியத்தைத் தேர்ந்தெடுத்து பொருள் › வடிவமாதிரி › உருவாக்கு என்பதைத் தேர்வு செய்யவும்.
 	Select art and click New Symbol to make one.	ஓவியத்தைத் தேர்ந்தெடுத்து ஒன்றை உருவாக்க புதிய சின்னம் என்பதைச் சொடுக்கவும்.
 	Select art and use New Brush to make one.	ஓவியத்தைத் தேர்ந்தெடுத்து ஒன்றை உருவாக்க புதிய தூரிகையைப் பயன்படுத்தவும்.
 @msg	select artwork (or a colour group) to recolor	நிறம் மாற்ற ஓவியத்தை (அல்லது ஒரு வண்ணக் குழுவை) தேர்ந்தெடுக்கவும்
@@ -3347,7 +3347,7 @@ diagnostics	render	காட்சியாக்கு
 	Show Original Path	அசல் பாதையைக் காட்டு
 	Show Package	தொகுப்பைக் காட்டு
 	Show Panel	பலகத்தைக் காட்டு
-	Show Pattern Swatches	வடிவ வண்ண மாதிரிகளைக் காட்டு
+	Show Pattern Swatches	வடிவமாதிரி வண்ண மாதிரிகளைக் காட்டு
 	Show Perspective Grid	முன்னோக்குக் கட்டத்தைக் காட்டு
 	Show Pixel Grid (Above 600% Zoom)	பிக்சல் கட்டத்தைக் காட்டு (600% பெரிதாக்கலுக்கு மேல்)
 	Show Print Tiling	அச்சு ஓடு அமைப்பைக் காட்டு
@@ -3646,7 +3646,7 @@ file-filter	Swatch libraries	வண்ண மாதிரி நூலகங்�
 @msg	the document has no artboard	ஆவணத்தில் ஆர்ட்போர்டு இல்லை
 @msg	the document has no artboards	ஆவணத்தில் ஆர்ட்போர்டுகள் இல்லை
 	The document has no colour swatches.	ஆவணத்தில் வண்ண மாதிரிகள் இல்லை.
-@msg	the document has no patterns	ஆவணத்தில் வடிவங்கள் இல்லை
+@msg	the document has no patterns	ஆவணத்தில் வடிவமாதிரிகள் இல்லை
 @msg	the document has no slices	ஆவணத்தில் துண்டுகள் இல்லை
 @msg	the document has no symbols	ஆவணத்தில் சின்னங்கள் இல்லை
 @msg	the document is too large to save compressed ({0}): save it with Use Compression off	ஆவணம் அழுத்தப்பட்டு சேமிக்க மிகப் பெரியது ({0}): அழுத்தம் பயன்படுத்து முடக்கப்பட்ட நிலையில் சேமிக்கவும்
@@ -3823,9 +3823,9 @@ file-filter	Swatch libraries	வண்ண மாதிரி நூலகங்�
 	Transform Objects	பொருட்களை உருமாற்று
 	Transform options	உருமாற்ற விருப்பங்கள்
 	Transform Panel	உருமாற்றப் பலகம்
-	Transform Pattern Only	வடிவத்தை மட்டும் உருமாற்று
-	Transform Pattern Tiles	வடிவ ஓடுகளை உருமாற்று
-	Transform Patterns	வடிவங்களை உருமாற்று
+	Transform Pattern Only	வடிவமாதிரியை மட்டும் உருமாற்று
+	Transform Pattern Tiles	வடிவமாதிரி ஓடுகளை உருமாற்று
+	Transform Patterns	வடிவமாதிரிகளை உருமாற்று
 	Transform Tools	உருமாற்றக் கருவிகள்
 	Transforms	உருமாற்றங்கள்
 	Transform…	உருமாற்று…

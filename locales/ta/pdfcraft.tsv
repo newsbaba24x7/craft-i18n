@@ -1489,9 +1489,8 @@ animation effects	On	இயக்கத்தில்
 	Password-protected	கடவுச்சொல் பாதுகாக்கப்பட்டது
 	Paste after	பின்னால் ஒட்டு
 	Paste pages	பக்கங்களை ஒட்டு
-	Pattern	வடிவம்
-	Patterns	வடிவங்கள்
-	Patterns (graphics objects)	வடிவங்கள் (வரைகலைப் பொருட்கள்)
+	Patterns	வடிவமாதிரிகள்
+	Patterns (graphics objects)	வடிவமாதிரிகள் (வரைகலைப் பொருட்கள்)
 	PDF Optimizer	PDF உகப்பாக்கி
 	PDF or image	PDF அல்லது படம்
 	PDF page: {size}	PDF பக்கம்: {size}
@@ -2688,11 +2687,11 @@ document scrollbar width	Standard	நிலையான
 	their appearances as well as the page	பக்கத்துடன் அவற்றின் தோற்றங்களும்
 	Also	மேலும்
 	Fixed {n} hairlines on {p} pages	{p} பக்கங்களில் {n} மெல்லிய கோடுகள் சரிசெய்யப்பட்டன
-	Lines drawn inside Type 3 glyphs and tiling patterns; off by default.	Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவங்களுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்.
+	Lines drawn inside Type 3 glyphs and tiling patterns; off by default.	Type 3 வரியுருக்களுக்குள்ளும் ஓடு வடிவமாதிரிகளுக்குள்ளும் வரையப்பட்ட கோடுகள்; இயல்பாக முடக்கத்தில் இருக்கும்.
 	Narrower than	இதைவிட மெல்லியவை
 	New width	புதிய அகலம்
 	No hairlines found on those pages	அந்தப் பக்கங்களில் மெல்லிய கோடுகள் எதுவும் கண்டறியப்படவில்லை
-	Pattern strokes	வடிவத் தீற்றல்கள்
+	Pattern strokes	வடிவமாதிரித் தீற்றல்கள்
 	Type 3 font glyphs	Type 3 எழுத்துரு வரியுருக்கள்
 	Zero-width lines always count as narrower.	பூஜ்ஜிய அகலக் கோடுகள் எப்போதும் மெல்லியவையாகவே கணக்கிடப்படும்.
 	Check for updates when PdfCraft starts	PdfCraft தொடங்கும்போது புதுப்பிப்புகளைச் சரிபார்

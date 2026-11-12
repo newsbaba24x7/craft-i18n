@@ -881,7 +881,7 @@ cameraRaw	Color Grading	நிற தரப்படுத்தல்
 	Pixel Grid	பிக்சல் கட்டம்
 	Pixel Art	பிக்சல் கலை
 	Pixel Art Preview	பிக்சல் கலை முன்னோட்டம்
-	Pattern Preview	வடிவமைப்பு முன்னோட்டம்
+	Pattern Preview	வடிவமாதிரி முன்னோட்டம்
 	Mesh	வலை
 	Edit Pins	பின்களைத் திருத்து
 	Document Bounds	ஆவண எல்லைகள்
@@ -934,7 +934,7 @@ cameraRaw	Color Grading	நிற தரப்படுத்தல்
 	Measurement Log	அளவீட்டுப் பதிவு
 	Modifier Keys	மாற்றி விசைகள்
 	Navigator	வழிகாட்டி
-	Patterns	வடிவமைப்புகள்
+	Patterns	வடிவமாதிரிகள்
 	Swatches	நிற மாதிரிகள்
 	Tool Presets	கருவி முன்னமைவுகள்
 	About PhotoCraft	PhotoCraft பற்றி
@@ -1029,7 +1029,7 @@ cameraRaw	Color Grading	நிற தரப்படுத்தல்
 	Create new gradient	புதிய நிறப் படித்திறன் உருவாக்கு
 	Create new group	புதிய குழுவை உருவாக்கு
 	Create new layer comp	புதிய அடுக்கு அமைப்பை உருவாக்கு
-	Create new pattern from the selection	தேர்விலிருந்து புதிய வடிவமைப்பை உருவாக்கு
+	Create new pattern from the selection	தேர்விலிருந்து புதிய வடிவமாதிரியை உருவாக்கு
 	Create new shape from the current path	தற்போதைய பாதையிலிருந்து புதிய வடிவத்தை உருவாக்கு
 	Create new snapshot	புதிய உடனடி காட்சிப்பதிவை உருவாக்கு
 	Create new tool preset	புதிய கருவி முன்னமைவை உருவாக்கு
@@ -1256,8 +1256,7 @@ cameraRaw	Color Grading	நிற தரப்படுத்தல்
 	PSD	PSD
 	Paint Overlay	வண்ண மேலடுக்கு
 	Panel locations are saved in the workspace. Keyboard shortcuts, menus and toolbar are optional.	பலகங்களின் இடங்கள் பணியிடத்தில் சேமிக்கப்படுகின்றன. விசைப்பலகை குறுக்குவழிகள், பட்டிகள், கருவிப்பட்டி விருப்பத்திற்குரியவை.
-	Pattern	வடிவமைப்பு
-	Pattern Size	வடிவமைப்பு அளவு
+	Pattern Size	வடிவமாதிரி அளவு
 	Perceptual	உணர்வுசார்
 	Perspective Warp is not active	கோண வளைப்பு செயலில் இல்லை
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	கோண வளைப்பு: படத்தின் பார்வைக்கோணத்தில் தளங்களை வரைந்து, பின்னர் வளைப்புக்கு மாறவும்
@@ -1792,7 +1791,7 @@ cameraRaw	Orange	ஆரஞ்சு
 	Paints from the document's opening state	ஆவணம் திறந்த நிலையிலிருந்து வண்ணமிடுகிறது
 	Path Selection Tool	பாதைத் தேர்வுக் கருவி
 	Add Anchor Point Tool	நங்கூரப் புள்ளி சேர்க்கும் கருவி
-	Pattern Overlay	வடிவ மேலடுக்கு
+	Pattern Overlay	வடிவமாதிரி மேலடுக்கு
 	Pen Pressure	பேனா அழுத்தம்
 	Pen Tilt	பேனா சாய்வு
 	PhotoCraft website	PhotoCraft இணையதளம்
@@ -1994,7 +1993,6 @@ cameraRaw	Orange	ஆரஞ்சு
 	Grid:	கட்டம்:
 	Adaptive Wide Angle	தகவமைக்கும் அகலக் கோணம்
 	Graphic Pen	வரைகலைப் பேனா
-	Halftone Pattern	அரைத்தொனி வடிவம்
 	Note Paper	குறிப்புத் தாள்
 	Photocopy	ஒளிநகல்
 	Plaster	சாந்து
@@ -2068,7 +2066,7 @@ cameraRaw	Orange	ஆரஞ்சு
 	Reset the crop box, image rotation, and aspect ratio settings	வெட்டு சட்டகம், படச் சுழற்சி மற்றும் விகிதத்தை மீட்டமைக்கவும்
 	Reset to Default	இயல்புநிலைக்கு மீட்டமை
 	Full-resolution preview unavailable	முழுத் தெளிவுத்திறன் முன்னோட்டம் கிடைக்கவில்லை
-	No patterns	வடிவமைப்புகள் இல்லை
+	No patterns	வடிவமாதிரிகள் இல்லை
 	Enable {name}	{name} ஐ இயக்கு
 	Hold Alt while drawing for straight segments	நேரான பகுதிகளுக்கு வரையும்போது Alt ஐ அழுத்திப் பிடிக்கவும்
 	Drag or click polygon points · hold Alt during lasso for straight segments · {add} add · {sub} before drawing subtracts	பலகோணப் புள்ளிகளை இழுக்கவும் அல்லது கிளிக் செய்யவும் · நேரான பகுதிகளுக்கு லாஸ்ஸோவின்போது Alt ஐ அழுத்திப் பிடிக்கவும் · {add} சேர் · வரையும் முன் {sub} கழிக்கும்
@@ -2109,7 +2107,7 @@ cameraRaw	Orange	ஆரஞ்சு
 	Show/Hide Panels	பலகங்களைக் காண்பி/மறை
 	Could not open	திறக்க முடியவில்லை
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: பாதை சரியான யூனிகோட் அல்ல; கோப்பின் பெயரை மாற்றி மீண்டும் திறக்கவும்.
-	Custom Pattern:	தனிப்பயன் வடிவமைப்பு:
+	Custom Pattern:	தனிப்பயன் வடிவமாதிரி:
 	50% Gray	50% சாம்பல்
 	{size} (was {old})	{size} (முன்பு {old})
 	Domed	குவிமாடம்
@@ -2151,8 +2149,8 @@ fontWeight	Medium	நடுத்தரம்
 fontWeight	SemiBold	அரைத் தடித்த
 fontWeight	Black	அடர்
 fontWeight	Italic	சாய்வு
-	Pattern Stamp Tool	வடிவ முத்திரைக் கருவி
-	Pattern Stamp	வடிவ முத்திரை
+	Pattern Stamp Tool	வடிவமாதிரி முத்திரைக் கருவி
+	Pattern Stamp	வடிவமாதிரி முத்திரை
 	Impressionist	இம்ப்ரெஷனிஸ்ட்
 	Rotate View	காட்சியைச் சுழற்று
 	Rotate View Tool	காட்சி சுழற்றும் கருவி
@@ -2217,7 +2215,7 @@ cameraRaw	Roughness	கரடுமுரடு
 	Dash / gap lengths × stroke width	கீற்று / இடைவெளி நீளங்கள் × கோடு அகலம்
 	Remove pair	இணையை நீக்கு
 	Dash offset	கீற்று நகர்வு
-	Use finite lengths and a positive pattern total	வரையறுத்த நீளங்களையும் நேர்மறை வடிவ மொத்தத்தையும் பயன்படுத்தவும்
+	Use finite lengths and a positive pattern total	வரையறுத்த நீளங்களையும் நேர்மறை வடிவமாதிரி மொத்தத்தையும் பயன்படுத்தவும்
 	No subject found — try Object Selection or the Lasso	பொருள் எதுவும் கிடைக்கவில்லை — பொருள் தேர்வு அல்லது லாஸ்ஸோவை முயலவும்
 	Quick Selection found nothing there	விரைவுத் தேர்வு அங்கு எதையும் கண்டறியவில்லை
 	Object Selection found nothing there — try a tighter rectangle	பொருள் தேர்வு அங்கு எதையும் கண்டறியவில்லை — இறுக்கமான செவ்வகத்தை முயலவும்
@@ -2595,7 +2593,7 @@ curves	Smooth	மென்மையாக்கு
 	Add a mask  (from the selection; ⌥ inverts)	மறைப்பை சேர் (தேர்விலிருந்து; ⌥ தலைகீழாக்கும்)
 	Airbrush: keeps painting while the pointer rests.	ஏர்பிரஷ்: சுட்டி நிற்கும் போதும் வண்ணமிடுவதைத் தொடரும்.
 	Create a new layer  (⇧⌘N)	புதிய அடுக்கை உருவாக்கு (⇧⌘N)
-	Custom pattern	தனிப்பயன் வடிவமைப்பு
+	Custom pattern	தனிப்பயன் வடிவமாதிரி
 	General Brushes	பொதுத் தூரிகைகள்
 	Grid  (⌘')	கட்டம் (⌘')
 	Intersect with selection  (⇧⌥)	தேர்வுடன் வெட்டிக்கொள் (⇧⌥)
@@ -2975,7 +2973,7 @@ cameraRaw	Temperature	வெப்பநிலை
 	Data Sets as Files	தரவுத் தொகுப்புகளைக் கோப்புகளாக
 	Define Brush Preset	தூரிகை முன்னமைவை வரையறு
 	Define Custom Shape	தனிப்பயன் வடிவத்தை வரையறு
-	Define Pattern	வடிவமைப்பை வரையறு
+	Define Pattern	வடிவமாதிரியை வரையறு
 	Defringe	விளிம்பு நீக்கு
 	Do you want to save you made to “{name}” before quitting?	வெளியேறும் முன் “{name}” இல் செய்த மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?
 	Dust & Scratches	தூசு & கீறல்கள்
@@ -3149,7 +3147,7 @@ cameraRaw	Temperature	வெப்பநிலை
 	Importing {what} from {file}…	{file} இலிருந்து {what} ஐ இறக்குமதி செய்கிறது…
 @plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	{file} இலிருந்து {n} தூரிகை இறக்குமதி செய்யப்பட்டது|{file} இலிருந்து {n} தூரிகைகள் இறக்குமதி செய்யப்பட்டன
 @plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	{file} இலிருந்து {n} நிறப் படித்திறன் இறக்குமதி செய்யப்பட்டது|{file} இலிருந்து {n} நிறப் படித்திறன்கள் இறக்குமதி செய்யப்பட்டன
-@plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	{file} இலிருந்து {n} வடிவமைப்பு இறக்குமதி செய்யப்பட்டது|{file} இலிருந்து {n} வடிவமைப்புகள் இறக்குமதி செய்யப்பட்டன
+@plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	{file} இலிருந்து {n} வடிவமாதிரி இறக்குமதி செய்யப்பட்டது|{file} இலிருந்து {n} வடிவமாதிரிகள் இறக்குமதி செய்யப்பட்டன
 	Data Set: {name}  ({index}/{total})	தரவுத் தொகுப்பு: {name}  ({index}/{total})
 navigator	Zoom	பெரிதாக்கல்
 	Apply {option}: {state}	{option} ஐப் பயன்படுத்து: {state}
@@ -3219,9 +3217,9 @@ navigator	Zoom	பெரிதாக்கல்
 	{set} (modified)	{set} (மாற்றப்பட்டது)
 	Show file name in title	தலைப்பில் கோப்புப் பெயரைக் காண்பி
 	50% Threshold	50% வாசல் மதிப்பு
-	Pattern Dither	வடிவ நிறக் கலப்பு
+	Pattern Dither	வடிவமாதிரி நிறக் கலப்பு
 	Halftone Screen	அரைத்தொனித் திரை
-	Custom Pattern	தனிப்பயன் வடிவமைப்பு
+	Custom Pattern	தனிப்பயன் வடிவமாதிரி
 	Accept and Go to Conflict	ஏற்று, முரண்பாட்டுக்குச் செல்
 	Put this command's shortcuts back as they were	இந்தக் கட்டளையின் குறுக்குவழிகளை முன்பிருந்தபடி மீட்டமை
 	Undo Changes	மாற்றங்களைச் செயல்தவிர்
@@ -3284,7 +3282,7 @@ navigator	Zoom	பெரிதாக்கல்
 	Puppet Warp	உருவ வளைப்பு
 	Perspective Warp	பார்வைக்கோண வளைப்பு
 	Define Brush Preset…	தூரிகை முன்னமைவை வரையறு…
-	Define Pattern…	வடிவமைப்பை வரையறு…
+	Define Pattern…	வடிவமாதிரியை வரையறு…
 	Define Custom Shape…	தனிப்பயன் வடிவத்தை வரையறு…
 	Purge	தூய்மையாக்கு
 	Histories	வரலாறுகள்
@@ -3361,12 +3359,12 @@ navigator	Zoom	பெரிதாக்கல்
 	Overprint	மேல் அச்சிடு
 	Inner Shadow…	உள் நிழல்…
 	Gradient Overlay…	நிறப் படித்திறன் மேலடுக்கு…
-	Pattern Overlay…	வடிவ மேலடுக்கு…
+	Pattern Overlay…	வடிவமாதிரி மேலடுக்கு…
 	Copy Layer Style	அடுக்கு பாணியை நகலெடு
 	Paste Layer Style	அடுக்கு பாணியை ஒட்டு
 	Solid Color…	திட நிறம்…
 	Gradient…	நிறப் படித்திறன்…
-	Pattern…	வடிவமைப்பு…
+	Pattern…	வடிவமாதிரி…
 	Layer Mask	அடுக்கு மறைப்பு
 	Vector Mask	திசையன் மறைப்பு
 	Reveal Selection	தேர்வை வெளிப்படுத்து
@@ -3926,7 +3924,7 @@ cameraRaw	Amount	அளவு
 	The frame is unavailable	சட்டகம் கிடைக்கவில்லை
 	Center the gradient (offset 0, 0)	நிறப் படித்திறனை மையப்படுத்து (நகர்வு 0, 0)
 	Recently Used Colors	சமீபத்தில் பயன்படுத்திய நிறங்கள்
-	Shapes can't use patterns yet	வடிவங்களில் இன்னும் வடிவமைப்புகளைப் பயன்படுத்த முடியாது
+	Shapes can't use patterns yet	வடிவங்களில் இன்னும் வடிவமாதிரிகளைப் பயன்படுத்த முடியாது
 	Allows rotation and scaling of selection	தேர்வைச் சுழற்றவும் அளவுமாற்றவும் அனுமதிக்கிறது
 	Anti-alias brush application	தூரிகைப் பூச்சின் விளிம்புகளை மென்மையாக்கு
 	Choose a remix mode	மறு கலவை முறையைத் தேர்ந்தெடுக்கவும்

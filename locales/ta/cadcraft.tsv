@@ -257,7 +257,7 @@
 	End Y	முடிவு Y
 	Enter	Enter
 	Enter a fit data option	பொருத்தத் தரவு விருப்பத்தை உள்ளிடவும்
-	Enter a pattern name	மாதிரிப் பெயரை உள்ளிடவும்
+	Enter a pattern name	வடிவமாதிரிப் பெயரை உள்ளிடவும்
 	Enter a vertex editing option	உச்சித் திருத்த விருப்பத்தை உள்ளிடவும்
 	Enter an option	ஒரு விருப்பத்தை உள்ளிடவும்
 	Enter angle of xline	முடிவிலிக் கோட்டின் கோணத்தை உள்ளிடவும்
@@ -359,8 +359,8 @@
 	Group Selection	குழுத் தேர்வு
 	Hatch	கோட்டு நிரப்பு
 	Hatch Edit	கோட்டு நிரப்புத் திருத்தம்
-	Hatch Pattern	கோட்டு நிரப்பு மாதிரி
-	Hatch Patterns	கோட்டு நிரப்பு மாதிரிகள்
+	Hatch Pattern	கோட்டு நிரப்பு வடிவமாதிரி
+	Hatch Patterns	கோட்டு நிரப்பு வடிவமாதிரிகள்
 	Hatch...	கோட்டு நிரப்பு...
 	Height: {height}	உயரம்: {height}
 	Helix	சுருள்
@@ -577,7 +577,6 @@
 	Paste to Command Line	கட்டளை வரியில் ஒட்டு
 	Paste to Original Coordinates	அசல் ஆயத்தொலைவுகளில் ஒட்டு
 	Path Array	பாதை வரிசை அமைப்பு
-	Pattern	மாதிரி
 	Perpendicular	செங்குத்து
 	Pickbox size	தேர்வுப்பெட்டி அளவு
 	Plot	வரைவு அச்சு
@@ -696,7 +695,7 @@
 	Screening	செறிவு
 	Search for layer	அடுக்கைத் தேடு
 	Search for parameter	அளவுருவைத் தேடு
-	Search for pattern	மாதிரியைத் தேடு
+	Search for pattern	வடிவமாதிரியைத் தேடு
 	Searches the current space.	தற்போதைய வெளியில் தேடுகிறது.
 	Second and next points:	இரண்டாவது மற்றும் அடுத்த புள்ளிகள்:
 	Select 2D polyline	2D பல்கோட்டைத் தேர்ந்தெடுக்கவும்
@@ -806,9 +805,9 @@
 	Solid	திண்மம்
 	Solid Editing	திண்மத் திருத்தம்
 	Specify a point	ஒரு புள்ளியைக் குறிப்பிடவும்
-	Specify a scale for the hatch pattern	கோட்டு நிரப்பு மாதிரிக்கான அளவுகோலைக் குறிப்பிடவும்
+	Specify a scale for the hatch pattern	கோட்டு நிரப்பு வடிவமாதிரிக்கான அளவுகோலைக் குறிப்பிடவும்
 	Specify a second extension line origin	இரண்டாவது நீட்டிப்புக் கோட்டின் தொடக்கத்தைக் குறிப்பிடவும்
-	Specify an angle for the hatch pattern	கோட்டு நிரப்பு மாதிரிக்கான கோணத்தைக் குறிப்பிடவும்
+	Specify an angle for the hatch pattern	கோட்டு நிரப்பு வடிவமாதிரிக்கான கோணத்தைக் குறிப்பிடவும்
 	Specify angle end point	கோணத்தின் முடிவுப் புள்ளியைக் குறிப்பிடவும்
 	Specify angle of dimension line	பரிமாணக் கோட்டின் கோணத்தைக் குறிப்பிடவும்
 	Specify angle of dimension text	பரிமாண உரையின் கோணத்தைக் குறிப்பிடவும்

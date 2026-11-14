@@ -225,6 +225,9 @@ msgstr "Přidat tabulku"
 msgid "Add at least one field."
 msgstr "Přidejte alespoň jedno pole."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Přidat prvek grafu"
 
@@ -1550,8 +1553,17 @@ msgstr "Převody"
 msgid "Convert between built-up and linear form"
 msgstr "Převést mezi profesionálním a lineárním tvarem"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Převést poznámky"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Převést text na tabulku"
@@ -1879,6 +1891,12 @@ msgstr "Smazat okolo kurzoru v rovnici"
 
 msgid "Delete Back in Equation"
 msgstr "Smazat zpět v rovnici"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Odstranit záložku"
@@ -3300,6 +3318,9 @@ msgstr "Odsazení"
 msgid "Indent from left:"
 msgstr "Odsazení zleva:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Odsazení"
 
@@ -3311,6 +3332,9 @@ msgstr "Odsazení"
 
 msgid "Indents and Spacing"
 msgstr "Odsazení a mezery"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Rejstřík a seznamy"
@@ -3365,6 +3389,9 @@ msgstr "Vložit nad"
 
 msgid "Insert Below"
 msgstr "Vložit pod"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Vložit titulek"
@@ -3570,6 +3597,9 @@ msgstr "Průnik s dolní mezí"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Průnik s mezemi v dolním a horním indexu"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Arkuskosekans"
 
@@ -3650,6 +3680,9 @@ msgstr "Jeho slovník se nepodařilo přečíst: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamajka"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Připojte se ke komunitě ArtCraft na Discordu"
@@ -4603,6 +4636,9 @@ msgstr "Tato kopie neobsahuje uvedení modelů."
 msgid "No new sources in that file"
 msgstr "V tom souboru nejsou žádné nové prameny"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Bez obrysu"
 
@@ -5147,8 +5183,14 @@ msgstr "Mezery mezi odstavci"
 msgid "Paragraph style"
 msgstr "Styl odstavce"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "O odstavec nahoru"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Odstavce"
@@ -5663,6 +5705,12 @@ msgstr "Odebrat všechny vlastní klávesové zkratky a obnovit výchozí kláve
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Odebrat všechny vlastní karty a skupiny a znovu zobrazit všechny karty?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Odebrat pole"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Odebrat hypertextový odkaz"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Věta"
 msgid "Sentence case."
 msgstr "Velké písmeno na začátku věty."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Oddělit text pomocí"
 
@@ -6289,6 +6349,9 @@ msgstr "Nastavit formátování odstavce"
 
 msgid "Set Proofing Language…"
 msgstr "Nastavit jazyk kontroly pravopisu…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Nastavení:"
@@ -6737,6 +6800,9 @@ msgstr "Sběrač"
 msgid "Split Cells"
 msgstr "Rozdělit buňky"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Rozdělit tabulku"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Švýcarsko"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synonyma"
@@ -7546,6 +7615,9 @@ msgstr "Zadat nový seznam…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Zadejte číslo stránky nebo +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Zadejte velikost v libovolné jednotce, například 5 cm nebo 300 px. Druhá strana se přizpůsobí, takže obrázek zachová své proporce."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Zobrazit mřížku"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Stav zobrazení"

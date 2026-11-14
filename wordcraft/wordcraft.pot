@@ -223,6 +223,9 @@ msgstr ""
 msgid "Add at least one field."
 msgstr ""
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr ""
 
@@ -1548,7 +1551,16 @@ msgstr ""
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
+msgstr ""
+
+msgid "Convert Spaces to Indentation"
 msgstr ""
 
 msgid "Convert Text to Table"
@@ -1876,6 +1888,12 @@ msgid "Delete Around Caret in Equation"
 msgstr ""
 
 msgid "Delete Back in Equation"
+msgstr ""
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
 msgstr ""
 
 msgid "Delete Bookmark"
@@ -3298,6 +3316,9 @@ msgstr ""
 msgid "Indent from left:"
 msgstr ""
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr ""
 
@@ -3308,6 +3329,9 @@ msgid "Indents"
 msgstr ""
 
 msgid "Indents and Spacing"
+msgstr ""
+
+msgid "Indents to Leading Spaces"
 msgstr ""
 
 msgid "Index and Tables"
@@ -3362,6 +3386,9 @@ msgid "Insert Above"
 msgstr ""
 
 msgid "Insert Below"
+msgstr ""
+
+msgid "Insert Blank Paragraphs Between"
 msgstr ""
 
 msgid "Insert Caption"
@@ -3568,6 +3595,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3647,6 +3677,9 @@ msgid "Its dictionary couldn't be read: {reason}"
 msgstr ""
 
 msgid "Jamaica"
+msgstr ""
+
+msgid "Join Lines"
 msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
@@ -4601,6 +4634,9 @@ msgstr ""
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr ""
 
@@ -5145,7 +5181,13 @@ msgstr ""
 msgid "Paragraph style"
 msgstr ""
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
+msgstr ""
+
+msgid "Paragraph\nTools"
 msgstr ""
 
 msgid "Paragraphs"
@@ -5661,6 +5703,12 @@ msgstr ""
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr ""
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr ""
 
@@ -5680,6 +5728,15 @@ msgid "Remove Hyperlink"
 msgstr ""
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6219,6 +6276,9 @@ msgstr ""
 msgid "Sentence case."
 msgstr ""
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr ""
 
@@ -6286,6 +6346,9 @@ msgid "Set Paragraph Formatting"
 msgstr ""
 
 msgid "Set Proofing Language…"
+msgstr ""
+
+msgid "Set the colors in the Text Pane to use custom colors."
 msgstr ""
 
 msgid "Setting:"
@@ -6735,6 +6798,9 @@ msgstr ""
 msgid "Split Cells"
 msgstr ""
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr ""
 
@@ -6952,6 +7018,9 @@ msgid "Switch\nWindows"
 msgstr ""
 
 msgid "Switzerland"
+msgstr ""
+
+msgid "Synchronous Scrolling"
 msgstr ""
 
 msgid "Synonyms"
@@ -7544,6 +7613,9 @@ msgstr ""
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr ""
 
@@ -7781,6 +7853,9 @@ msgid "View and edit the document's custom properties."
 msgstr ""
 
 msgid "View Gridlines"
+msgstr ""
+
+msgid "View Side by Side"
 msgstr ""
 
 msgid "View State"

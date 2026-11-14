@@ -225,6 +225,9 @@ msgstr "அட்டவணையைச் சேர்"
 msgid "Add at least one field."
 msgstr "குறைந்தது ஒரு புலத்தையாவது சேர்க்கவும்."
 
+msgid "Add Blank Paragraphs Between"
+msgstr "இடையே வெற்றுப் பத்திகளைச் சேர்"
+
 msgid "Add Chart Element"
 msgstr "விளக்கப்பட உறுப்பைச் சேர்"
 
@@ -1550,8 +1553,17 @@ msgstr "உருமாற்றங்கள்"
 msgid "Convert between built-up and linear form"
 msgstr "அடுக்கு வடிவத்துக்கும் நேரியல் வடிவத்துக்கும் இடையே மாற்று"
 
+msgid "Convert Indents to Spaces"
+msgstr "உள்தள்ளல்களை இடைவெளிகளாக மாற்று"
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr "வரி முறிவுகளைப் பத்திகளாக மாற்று"
+
 msgid "Convert Notes"
 msgstr "குறிப்புகளை மாற்று"
+
+msgid "Convert Spaces to Indentation"
+msgstr "இடைவெளிகளை உள்தள்ளலாக மாற்று"
 
 msgid "Convert Text to Table"
 msgstr "உரையை அட்டவணையாக மாற்று"
@@ -1879,6 +1891,12 @@ msgstr "சமன்பாட்டில் கர்சரைச் சுற�
 
 msgid "Delete Back in Equation"
 msgstr "சமன்பாட்டில் பின்னோக்கி நீக்கு"
+
+msgid "Delete Blank Paragraphs"
+msgstr "வெற்றுப் பத்திகளை நீக்கு"
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr "முழு ஆவணத்திலும் வெற்றுப் பத்திகளை நீக்கு"
 
 msgid "Delete Bookmark"
 msgstr "புத்தகக்குறியை நீக்கு"
@@ -3300,6 +3318,9 @@ msgstr "உள்தள்ளு"
 msgid "Indent from left:"
 msgstr "இடதுபுறத்திலிருந்து உள்தள்ளல்:"
 
+msgid "Indent Leading Spaces"
+msgstr "தொடக்க இடைவெளிகளை உள்தள்ளலாக்கு"
+
 msgid "Indentation"
 msgstr "உள்தள்ளல்"
 
@@ -3311,6 +3332,9 @@ msgstr "உள்தள்ளல்கள்"
 
 msgid "Indents and Spacing"
 msgstr "உள்தள்ளல்களும் இடைவெளியும்"
+
+msgid "Indents to Leading Spaces"
+msgstr "உள்தள்ளல்களைத் தொடக்க இடைவெளிகளாக்கு"
 
 msgid "Index and Tables"
 msgstr "பொருளடைவும் அட்டவணைகளும்"
@@ -3365,6 +3389,9 @@ msgstr "மேலே செருகு"
 
 msgid "Insert Below"
 msgstr "கீழே செருகு"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr "இடையே வெற்றுப் பத்திகளைச் செருகு"
 
 msgid "Insert Caption"
 msgstr "படவிளக்கத்தைச் செருகு"
@@ -3570,6 +3597,9 @@ msgstr "கீழ் எல்லையுடன் வெட்டு"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "கீழெழுத்து-மேலெழுத்து எல்லைகளுடன் வெட்டு"
 
+msgid "Inverse"
+msgstr "தலைகீழ்"
+
 msgid "Inverse Cosecant Function"
 msgstr "நேர்மாறு கொசெகன்ட் சார்பு"
 
@@ -3650,6 +3680,9 @@ msgstr "இதன் அகராதியைப் படிக்க முட
 
 msgid "Jamaica"
 msgstr "ஜமைக்கா"
+
+msgid "Join Lines"
+msgstr "வரிகளை இணை"
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Discord-இல் ArtCraft சமூகத்தில் இணையுங்கள்"
@@ -4603,6 +4636,9 @@ msgstr "இந்த நகலில் மாதிரி நன்றிகள
 msgid "No new sources in that file"
 msgstr "அந்தக் கோப்பில் புதிய மூலங்கள் இல்லை"
 
+msgid "No other WordCraft windows are open."
+msgstr "வேறு WordCraft சாளரங்கள் எதுவும் திறந்திருக்கவில்லை."
+
 msgid "No Outline"
 msgstr "வெளிக்கோடு இல்லை"
 
@@ -5147,8 +5183,14 @@ msgstr "பத்தி இடைவெளி"
 msgid "Paragraph style"
 msgstr "பத்திப் பாணி"
 
+msgid "Paragraph Tools"
+msgstr "பத்திக் கருவிகள்"
+
 msgid "Paragraph Up"
 msgstr "பத்தி மேலே"
+
+msgid "Paragraph\nTools"
+msgstr "பத்திக்\nகருவிகள்"
 
 msgid "Paragraphs"
 msgstr "பத்திகள்"
@@ -5663,6 +5705,12 @@ msgstr "தனிப்பயன் குறுக்குவழிகள் �
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "எல்லாத் தனிப்பயன் தத்தல்களையும் குழுக்களையும் அகற்றி, எல்லாத் தத்தல்களையும் மீண்டும் காட்டவா?"
 
+msgid "Remove Extra Spaces"
+msgstr "கூடுதல் இடைவெளிகளை அகற்று"
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr "முழு ஆவணத்திலும் கூடுதல் இடைவெளிகளை அகற்று"
+
 msgid "Remove field"
 msgstr "புலத்தை நீக்கு"
 
@@ -5683,6 +5731,15 @@ msgstr "இணைப்பை நீக்கு"
 
 msgid "Remove Language Pack"
 msgstr "மொழித் தொகுப்பை நீக்கு"
+
+msgid "Remove Leading Spaces"
+msgstr "தொடக்க இடைவெளிகளை அகற்று"
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr "முழு ஆவணத்திலும் தொடக்க இடைவெளிகளை அகற்று"
+
+msgid "Remove Line Breaks"
+msgstr "வரி முறிவுகளை அகற்று"
 
 msgid "Remove my name from comments, changes and file properties when saving"
 msgstr "சேமிக்கும்போது கருத்துகள், மாற்றங்கள், கோப்புப் பண்புகளிலிருந்து எனது பெயரை நீக்கு"
@@ -6221,6 +6278,9 @@ msgstr "வாக்கியம்"
 msgid "Sentence case."
 msgstr "வாக்கிய எழுத்து."
 
+msgid "Separate Paragraphs"
+msgstr "பத்திகளைத் தனித்தனியாகப் பிரி"
+
 msgid "Separate text at"
 msgstr "உரையைப் பிரிக்கும் இடம்"
 
@@ -6289,6 +6349,9 @@ msgstr "பத்தி வடிவமைப்பை அமை"
 
 msgid "Set Proofing Language…"
 msgstr "சரிபார்ப்பு மொழியை அமை…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr "தனிப்பயன் நிறங்களைப் பயன்படுத்த, உரைப் பலகத்தில் நிறங்களை அமைக்கவும்."
 
 msgid "Setting:"
 msgstr "அமைப்பு:"
@@ -6612,7 +6675,7 @@ msgid "Smart quotes instead of straight quotes"
 msgstr "நேர் மேற்கோள்குறிகளுக்குப் பதிலாக வளைந்த மேற்கோள்குறிகள்"
 
 msgid "SmartArt"
-msgstr ""
+msgstr "SmartArt"
 
 msgid "SmartArt Design"
 msgstr "SmartArt வடிவமைப்பு"
@@ -6736,6 +6799,9 @@ msgstr "காகிதக் குத்தி"
 
 msgid "Split Cells"
 msgstr "கலங்களைப் பிரி"
+
+msgid "Split Lines into Paragraphs"
+msgstr "வரிகளைப் பத்திகளாகப் பிரி"
 
 msgid "Split Table"
 msgstr "அட்டவணையைப் பிரி"
@@ -6955,6 +7021,9 @@ msgstr "சாளரங்களுக்கு\nஇடையே மாறு"
 
 msgid "Switzerland"
 msgstr "சுவிட்சர்லாந்து"
+
+msgid "Synchronous Scrolling"
+msgstr "ஒத்திசைந்த உருட்டல்"
 
 msgid "Synonyms"
 msgstr "ஒத்த சொற்கள்"
@@ -7546,6 +7615,9 @@ msgstr "புதிய பட்டியலைத் தட்டச்சி�
 msgid "Type a page number, or +2 / -1."
 msgstr "ஒரு பக்க எண்ணை அல்லது +2 / -1 எனத் தட்டச்சு செய்யவும்."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr "3 cm அல்லது 300 px போன்ற எந்த அலகிலும் ஓர் அளவைத் தட்டச்சு செய்யவும்."
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "5 cm அல்லது 300 px போன்று எந்த அலகிலும் அளவைத் தட்டச்சிடவும். மற்றப் பரிமாணமும் அதற்கேற்ப மாறும், எனவே படம் அதன் விகிதங்களைப் பேணும்."
 
@@ -7785,6 +7857,9 @@ msgstr "ஆவணத்தின் தனிப்பயன் பண்பு�
 msgid "View Gridlines"
 msgstr "கட்டக்கோடுகளைக் காண்பி"
 
+msgid "View Side by Side"
+msgstr "பக்கம் பக்கமாகக் காண்"
+
 msgid "View State"
 msgstr "பார்வை நிலை"
 
@@ -7933,7 +8008,7 @@ msgid "Word XML Document (*.xml)"
 msgstr "Word XML ஆவணம் (*.xml)"
 
 msgid "WordArt"
-msgstr ""
+msgstr "WordArt"
 
 msgid "WordArt Styles"
 msgstr "WordArt பாணிகள்"
@@ -8131,7 +8206,7 @@ msgid "{n} pt"
 msgstr "{n} pt"
 
 msgid "{paper}   {width} × {height}"
-msgstr ""
+msgstr "{paper}   {width} × {height}"
 
 msgid "{selected} of {words} words"
 msgstr "{words} சொற்களில் {selected}"

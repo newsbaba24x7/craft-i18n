@@ -225,6 +225,9 @@ msgstr "Lisa tabel"
 msgid "Add at least one field."
 msgstr "Lisa vähemalt üks väli."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Lisa diagrammi element"
 
@@ -1550,8 +1553,17 @@ msgstr "Teisendused"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Teisenda märkused"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Teisenda tekst tabeliks"
@@ -1879,6 +1891,12 @@ msgstr "Kustuta võrrandis tekstikursori ümbrus"
 
 msgid "Delete Back in Equation"
 msgstr "Kustuta võrrandis tagasi"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Kustuta järjehoidja"
@@ -3300,6 +3318,9 @@ msgstr "Taane"
 msgid "Indent from left:"
 msgstr "Taane vasakult:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Taandus"
 
@@ -3311,6 +3332,9 @@ msgstr "Taanded"
 
 msgid "Indents and Spacing"
 msgstr "Taanded ja vahed"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Register ja tabelid"
@@ -3365,6 +3389,9 @@ msgstr "Lisa üles"
 
 msgid "Insert Below"
 msgstr "Lisa alla"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Lisa pealdis"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "Selle sõnastikku ei saanud lugeda: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Liitu ArtCrafti kogukonnaga Discordis"
@@ -4603,6 +4636,9 @@ msgstr "Selles versioonis pole mudelite autoriteavet."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Kontuurita"
 
@@ -5147,8 +5183,14 @@ msgstr "Lõiguvahe"
 msgid "Paragraph style"
 msgstr "Lõigustiil"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Lõigu võrra üles"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Lõigud"
@@ -5663,6 +5705,12 @@ msgstr "Kas eemaldada kõik kohandatud kiirklahvid ja taastada sisseehitatud kla
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Kas eemaldada kõik kohandatud vahekaardid ja rühmad ning kuvada uuesti kõik vahekaardid?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Eemalda väli"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Eemalda hüperlink"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Lause"
 msgid "Sentence case."
 msgstr "Lause alguses suurtäht."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Eralda tekst kohas"
 
@@ -6289,6 +6349,9 @@ msgstr "Määra lõiguvormindus"
 
 msgid "Set Proofing Language…"
 msgstr "Määra õigekeelsuskontrolli keel…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Säte:"
@@ -6737,6 +6800,9 @@ msgstr "Koguja"
 msgid "Split Cells"
 msgstr "Tükelda lahtrid"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Tükelda tabel"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Šveits"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Sünonüümid"
@@ -7546,6 +7615,9 @@ msgstr "Sisesta uus loend…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Sisesta suurus mis tahes ühikus, näiteks 5 cm või 300 px. Teine külg muutub kaasa, nii et pilt säilitab oma proportsioonid."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Kuva ruudujooned"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Vaate olek"

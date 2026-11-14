@@ -225,6 +225,9 @@ msgstr "Een tabel toevoegen"
 msgid "Add at least one field."
 msgstr "Voeg minstens één veld toe."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Grafiekelement toevoegen"
 
@@ -1550,8 +1553,17 @@ msgstr "Conversies"
 msgid "Convert between built-up and linear form"
 msgstr "Schakelen tussen professioneel en lineair"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Notities converteren"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Tekst naar tabel converteren"
@@ -1879,6 +1891,12 @@ msgstr "Rond de invoegcursor in de vergelijking verwijderen"
 
 msgid "Delete Back in Equation"
 msgstr "Terug verwijderen in vergelijking"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Bladwijzer verwijderen"
@@ -3300,6 +3318,9 @@ msgstr "Inspringen"
 msgid "Indent from left:"
 msgstr "Inspringen vanaf links:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Inspringen"
 
@@ -3311,6 +3332,9 @@ msgstr "Inspringen"
 
 msgid "Indents and Spacing"
 msgstr "Inspringen en afstand"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Index en tabellen"
@@ -3365,6 +3389,9 @@ msgstr "Boven invoegen"
 
 msgid "Insert Below"
 msgstr "Onder invoegen"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Bijschrift invoegen"
@@ -3570,6 +3597,9 @@ msgstr "Doorsnede met ondergrens"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Doorsnede met grenzen in subscript en superscript"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Inverse cosecansfunctie"
 
@@ -3650,6 +3680,9 @@ msgstr "Het woordenboek kon niet worden gelezen: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Sluit je aan bij de ArtCraft-community op Discord"
@@ -4603,6 +4636,9 @@ msgstr "Er zijn geen modelvermeldingen opgenomen in deze build."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Geen omtrek"
 
@@ -5147,8 +5183,14 @@ msgstr "Alineaafstand"
 msgid "Paragraph style"
 msgstr "Alineastijl"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Alinea omhoog"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Alinea's"
@@ -5663,6 +5705,12 @@ msgstr "Alle eigen sneltoetsen verwijderen en de standaardtoetsen herstellen?"
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Alle eigen tabbladen en groepen verwijderen en alle tabbladen weer tonen?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Veld verwijderen"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Hyperlink verwijderen"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Zin"
 msgid "Sentence case."
 msgstr "Zoals in een zin."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Tekst scheiden bij"
 
@@ -6289,6 +6349,9 @@ msgstr "Alineaopmaak instellen"
 
 msgid "Set Proofing Language…"
 msgstr "Controleertaal instellen…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Instelling:"
@@ -6737,6 +6800,9 @@ msgstr "Verzamelbak"
 msgid "Split Cells"
 msgstr "Cellen splitsen"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Tabel splitsen"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Zwitserland"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synoniemen"
@@ -7546,6 +7615,9 @@ msgstr "Een nieuwe lijst invoeren…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Typ een grootte in een willekeurige eenheid, zoals 5 cm of 300 px. De andere kant past zich aan, zodat de verhoudingen van de afbeelding gelijk blijven."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Rasterlijnen weergeven"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Weergavestatus"

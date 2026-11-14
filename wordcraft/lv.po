@@ -225,6 +225,9 @@ msgstr "Pievienot tabulu"
 msgid "Add at least one field."
 msgstr "Pievienojiet vismaz vienu lauku."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Pievienot diagrammas elementu"
 
@@ -1550,8 +1553,17 @@ msgstr "Pārvēršanas"
 msgid "Convert between built-up and linear form"
 msgstr "Pārvērst starp izvērsto un lineāro formu"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Pārvērst piezīmes"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Pārvērst tekstu par tabulu"
@@ -1879,6 +1891,12 @@ msgstr "Dzēst ap kursoru vienādojumā"
 
 msgid "Delete Back in Equation"
 msgstr "Dzēst atpakaļ vienādojumā"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Dzēst grāmatzīmi"
@@ -3300,6 +3318,9 @@ msgstr "Atkāpe"
 msgid "Indent from left:"
 msgstr "Atkāpe no kreisās:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Atkāpes"
 
@@ -3311,6 +3332,9 @@ msgstr "Atkāpes"
 
 msgid "Indents and Spacing"
 msgstr "Atkāpes un atstatumi"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Rādītājs un tabulas"
@@ -3365,6 +3389,9 @@ msgstr "Ievietot virs"
 
 msgid "Insert Below"
 msgstr "Ievietot zem"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Ievietot parakstu"
@@ -3570,6 +3597,9 @@ msgstr "Šķēlums ar apakšējo robežu"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Šķēlums ar apakšraksta un augšraksta robežām"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Apgrieztā kosekanta funkcija"
 
@@ -3650,6 +3680,9 @@ msgstr "Tās vārdnīcu neizdevās nolasīt: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaika"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Pievienojieties ArtCraft kopienai Discord"
@@ -4603,6 +4636,9 @@ msgstr "Šajā kopijā nav iekļauta informācija par modeļu autoriem."
 msgid "No new sources in that file"
 msgstr "Šajā failā nav jaunu avotu"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Bez kontūras"
 
@@ -5147,8 +5183,14 @@ msgstr "Rindkopu atstatums"
 msgid "Paragraph style"
 msgstr "Rindkopas stils"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Rindkopa uz augšu"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Rindkopas"
@@ -5663,6 +5705,12 @@ msgstr "Vai noņemt visas pielāgotās saīsnes un atjaunot iebūvētos taustiņ
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Vai noņemt visas pielāgotās cilnes un grupas un atkal rādīt visas cilnes?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Noņemt lauku"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Noņemt hipersaiti"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Teikums"
 msgid "Sentence case."
 msgstr "Kā teikumā."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Atdalīt tekstu pie"
 
@@ -6289,6 +6349,9 @@ msgstr "Iestatīt rindkopas formatējumu"
 
 msgid "Set Proofing Language…"
 msgstr "Iestatīt korektūras valodu…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Iestatījums:"
@@ -6737,6 +6800,9 @@ msgstr "Krājums"
 msgid "Split Cells"
 msgstr "Sadalīt šūnas"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Sadalīt tabulu"
 
@@ -6955,6 +7021,9 @@ msgstr "Pārslēgt\nlogus"
 
 msgid "Switzerland"
 msgstr "Šveice"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Sinonīmi"
@@ -7546,6 +7615,9 @@ msgstr "Ievadīt jaunu sarakstu…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Ierakstiet lapas numuru vai +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Ierakstiet izmēru jebkurā vienībā, piemēram, 5 cm vai 300 px. Otra mala seko, lai attēls saglabātu proporcijas."
 
@@ -7784,6 +7856,9 @@ msgstr "Skatīt un rediģēt dokumenta pielāgotos rekvizītus."
 
 msgid "View Gridlines"
 msgstr "Skatīt režģa līnijas"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Skata stāvoklis"

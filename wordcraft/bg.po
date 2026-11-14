@@ -225,6 +225,9 @@ msgstr "Добавяне на таблица"
 msgid "Add at least one field."
 msgstr "Добавете поне едно поле."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Добавяне на елемент на диаграма"
 
@@ -1550,8 +1553,17 @@ msgstr "Преобразувания"
 msgid "Convert between built-up and linear form"
 msgstr "Превключване между професионален и линеен формат"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Преобразуване на бележки"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Преобразуване на текст в таблица"
@@ -1879,6 +1891,12 @@ msgstr "Изтриване около курсора в уравнението"
 
 msgid "Delete Back in Equation"
 msgstr "Изтриване назад в уравнението"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Изтриване на отметка"
@@ -3300,6 +3318,9 @@ msgstr "Отстъп"
 msgid "Indent from left:"
 msgstr "Отстъп отляво:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Отстъпи"
 
@@ -3311,6 +3332,9 @@ msgstr "Отстъпи"
 
 msgid "Indents and Spacing"
 msgstr "Отстъпи и разстояние"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Индекс и таблици"
@@ -3365,6 +3389,9 @@ msgstr "Вмъкване отгоре"
 
 msgid "Insert Below"
 msgstr "Вмъкване отдолу"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Вмъкване на надпис"
@@ -3570,6 +3597,9 @@ msgstr "Сечение с долна граница"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Сечение с граници като индекси"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Функция аркускосеканс"
 
@@ -3650,6 +3680,9 @@ msgstr "Речникът му не можа да бъде прочетен: {rea
 
 msgid "Jamaica"
 msgstr "Ямайка"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Присъединете се към общността на ArtCraft в Discord"
@@ -4603,6 +4636,9 @@ msgstr "В това копие няма вградени сведения за �
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Без контур"
 
@@ -5147,8 +5183,14 @@ msgstr "Разстояние между абзаците"
 msgid "Paragraph style"
 msgstr "Стил на абзац"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Абзац нагоре"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Абзаци"
@@ -5663,6 +5705,12 @@ msgstr "Да се премахнат ли всички потребителск�
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Да се премахнат ли всички потребителски раздели и групи и да се покажат отново всички раздели?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Премахване на поле"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Премахване на хипервръзката"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Изречение"
 msgid "Sentence case."
 msgstr "Като в изречение."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Разделяне на текста при"
 
@@ -6289,6 +6349,9 @@ msgstr "Задаване на форматиране на абзаца"
 
 msgid "Set Proofing Language…"
 msgstr "Задаване на езика за проверка…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Настройка:"
@@ -6737,6 +6800,9 @@ msgstr "Натрупване"
 msgid "Split Cells"
 msgstr "Разделяне на клетки"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Разделяне на таблица"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Швейцария"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Синоними"
@@ -7546,6 +7615,9 @@ msgstr "Въвеждане на нов списък…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Въведете размер в произволна единица, например 5 cm или 300 px. Другата страна се променя съответно, така че картината запазва пропорциите си."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Показване на линиите на мрежата"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Състояние на изгледа"

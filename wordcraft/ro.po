@@ -225,6 +225,9 @@ msgstr "Adăugare tabel"
 msgid "Add at least one field."
 msgstr "Adăugați cel puțin un câmp."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Adăugare element de grafic"
 
@@ -1550,8 +1553,17 @@ msgstr "Conversii"
 msgid "Convert between built-up and linear form"
 msgstr "Conversie între forma dezvoltată și cea liniară"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Conversie note"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Conversie text în tabel"
@@ -1879,6 +1891,12 @@ msgstr "Ștergere în jurul cursorului în ecuație"
 
 msgid "Delete Back in Equation"
 msgstr "Ștergere înapoi în ecuație"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Ștergere marcaj"
@@ -3300,6 +3318,9 @@ msgstr "Indentare"
 msgid "Indent from left:"
 msgstr "Indent de la stânga:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Indentare"
 
@@ -3311,6 +3332,9 @@ msgstr "Indenturi"
 
 msgid "Indents and Spacing"
 msgstr "Indenturi și spațiere"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Index și tabele"
@@ -3365,6 +3389,9 @@ msgstr "Inserare deasupra"
 
 msgid "Insert Below"
 msgstr "Inserare dedesubt"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Inserare legendă"
@@ -3570,6 +3597,9 @@ msgstr "Intersecție cu limită inferioară"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Intersecție cu limite în indice și exponent"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Funcția cosecantă inversă"
 
@@ -3650,6 +3680,9 @@ msgstr "Dicționarul ei nu a putut fi citit: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Alăturați-vă comunității ArtCraft pe Discord"
@@ -4603,6 +4636,9 @@ msgstr "Această copie nu include mențiuni despre modele."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Fără contur"
 
@@ -5147,8 +5183,14 @@ msgstr "Spațiere paragrafe"
 msgid "Paragraph style"
 msgstr "Stil de paragraf"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Paragraf în sus"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Paragrafe"
@@ -5663,6 +5705,12 @@ msgstr "Eliminați toate scurtăturile personalizate și restaurați tastele în
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Eliminați toate filele și grupurile personalizate și afișați din nou toate filele?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Eliminați câmpul"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Eliminare hyperlink"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Propoziție"
 msgid "Sentence case."
 msgstr "Majusculă la începutul propoziției."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Separă textul la"
 
@@ -6289,6 +6349,9 @@ msgstr "Setare formatare paragraf"
 
 msgid "Set Proofing Language…"
 msgstr "Setare limbă de verificare…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Setare:"
@@ -6737,6 +6800,9 @@ msgstr "Spike"
 msgid "Split Cells"
 msgstr "Împărțire celule"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Împărțire tabel"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Elveția"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Sinonime"
@@ -7546,6 +7615,9 @@ msgstr "Scrieți o listă nouă…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Scrieți un număr de pagină sau +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Scrieți o dimensiune în orice unitate, de exemplu 5 cm sau 300 px. Cealaltă latură urmează, așa că imaginea își păstrează proporțiile."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Vizualizare linii de grilă"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Vizualizare stare"

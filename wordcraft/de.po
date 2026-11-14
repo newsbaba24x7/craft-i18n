@@ -225,6 +225,9 @@ msgstr "Tabelle hinzufügen"
 msgid "Add at least one field."
 msgstr "Fügen Sie mindestens ein Feld hinzu."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Diagrammelement hinzufügen"
 
@@ -1550,8 +1553,17 @@ msgstr "Umwandlungen"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Notizen umwandeln"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Text in Tabelle umwandeln"
@@ -1879,6 +1891,12 @@ msgstr "In der Formel um die Einfügemarke herum löschen"
 
 msgid "Delete Back in Equation"
 msgstr "In der Formel rückwärts löschen"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Textmarke löschen"
@@ -3300,6 +3318,9 @@ msgstr "Einzug"
 msgid "Indent from left:"
 msgstr "Einzug von links:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Einzug"
 
@@ -3311,6 +3332,9 @@ msgstr "Einzüge"
 
 msgid "Indents and Spacing"
 msgstr "Einzüge und Abstände"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Index und Verzeichnisse"
@@ -3365,6 +3389,9 @@ msgstr "Oberhalb einfügen"
 
 msgid "Insert Below"
 msgstr "Unterhalb einfügen"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Beschriftung einfügen"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "Das Wörterbuch konnte nicht gelesen werden: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaika"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Treten Sie der ArtCraft-Community auf Discord bei"
@@ -4603,6 +4636,9 @@ msgstr "In dieser Version wurden keine Modellnachweise eingebaut."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Keine Kontur"
 
@@ -5147,8 +5183,14 @@ msgstr "Absatzabstand"
 msgid "Paragraph style"
 msgstr "Absatzformatvorlage"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Absatz nach oben"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Absätze"
@@ -5663,6 +5705,12 @@ msgstr "Alle eigenen Tastenkombinationen entfernen und die Standardbelegung wied
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Alle eigenen Registerkarten und Gruppen entfernen und wieder alle Registerkarten anzeigen?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Feld entfernen"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Hyperlink entfernen"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Satz"
 msgid "Sentence case."
 msgstr "Nur erstes Wort groß."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Text trennen bei"
 
@@ -6289,6 +6349,9 @@ msgstr "Absatzformatierung festlegen"
 
 msgid "Set Proofing Language…"
 msgstr "Sprache für die Korrekturhilfen festlegen…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Einstellung:"
@@ -6737,6 +6800,9 @@ msgstr "Sammlung"
 msgid "Split Cells"
 msgstr "Zellen teilen"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Tabelle teilen"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Schweiz"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synonyme"
@@ -7546,6 +7615,9 @@ msgstr "Neue Liste eingeben…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Geben Sie eine Größe in einer beliebigen Einheit ein, z. B. 5 cm oder 300 px. Die andere Seite passt sich an, sodass das Bild seine Proportionen behält."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Rasterlinien anzeigen"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Ansichtszustand"

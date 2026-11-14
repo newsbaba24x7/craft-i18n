@@ -225,6 +225,9 @@ msgstr "Lägg till en tabell"
 msgid "Add at least one field."
 msgstr "Lägg till minst ett fält."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Lägg till diagramelement"
 
@@ -1550,8 +1553,17 @@ msgstr "Konverteringar"
 msgid "Convert between built-up and linear form"
 msgstr "Konvertera mellan uppställd och linjär form"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Konvertera fot- och slutnoter"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Konvertera text till tabell"
@@ -1879,6 +1891,12 @@ msgstr "Ta bort runt markören i ekvationen"
 
 msgid "Delete Back in Equation"
 msgstr "Ta bort bakåt i ekvation"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Ta bort bokmärke"
@@ -3300,6 +3318,9 @@ msgstr "Indrag"
 msgid "Indent from left:"
 msgstr "Indrag från vänster:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Indrag"
 
@@ -3311,6 +3332,9 @@ msgstr "Indrag"
 
 msgid "Indents and Spacing"
 msgstr "Indrag och avstånd"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Register och förteckningar"
@@ -3365,6 +3389,9 @@ msgstr "Infoga ovanför"
 
 msgid "Insert Below"
 msgstr "Infoga nedanför"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Infoga bildtext"
@@ -3570,6 +3597,9 @@ msgstr "Snitt med undre gräns"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Snitt med gränser som index och exponent"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Invers cosekantfunktion"
 
@@ -3650,6 +3680,9 @@ msgstr "Ordlistan kunde inte läsas: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Gå med i ArtCrafts community på Discord"
@@ -4603,6 +4636,9 @@ msgstr "Den här kopian innehåller inga uppgifter om medverkande AI-modeller."
 msgid "No new sources in that file"
 msgstr "Inga nya källor i den filen"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Ingen kontur"
 
@@ -5147,8 +5183,14 @@ msgstr "Styckeavstånd"
 msgid "Paragraph style"
 msgstr "Styckestil"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Stycke uppåt"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Stycken"
@@ -5663,6 +5705,12 @@ msgstr "Vill du ta bort alla egna kortkommandon och återställa de inbyggda?"
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Vill du ta bort alla egna flikar och grupper och visa alla flikar igen?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Ta bort fält"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Ta bort hyperlänk"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Mening"
 msgid "Sentence case."
 msgstr "Som i en mening."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Avgränsa text vid"
 
@@ -6289,6 +6349,9 @@ msgstr "Ange styckeformatering"
 
 msgid "Set Proofing Language…"
 msgstr "Ange korrekturspråk…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Inställning:"
@@ -6737,6 +6800,9 @@ msgstr "Samlare"
 msgid "Split Cells"
 msgstr "Dela celler"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Dela tabell"
 
@@ -6955,6 +7021,9 @@ msgstr "Växla\nfönster"
 
 msgid "Switzerland"
 msgstr "Schweiz"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synonymer"
@@ -7546,6 +7615,9 @@ msgstr "Skriv en ny lista…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Skriv ett sidnummer, eller +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Skriv en storlek i valfri enhet, till exempel 5 cm eller 300 px. Den andra sidan följer med, så att bilden behåller sina proportioner."
 
@@ -7784,6 +7856,9 @@ msgstr "Visa och redigera dokumentets anpassade egenskaper."
 
 msgid "View Gridlines"
 msgstr "Visa stödlinjer"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Visningstillstånd"

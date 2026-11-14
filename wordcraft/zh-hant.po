@@ -225,6 +225,9 @@ msgstr "新增表格"
 msgid "Add at least one field."
 msgstr "請至少新增一個欄位。"
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "新增圖表項目"
 
@@ -1550,8 +1553,17 @@ msgstr "轉換"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "轉換附註"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "文字轉換為表格"
@@ -1879,6 +1891,12 @@ msgstr "在方程式中刪除游標周圍內容"
 
 msgid "Delete Back in Equation"
 msgstr "在方程式中向前刪除"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "刪除書籤"
@@ -3300,6 +3318,9 @@ msgstr "縮排"
 msgid "Indent from left:"
 msgstr "左側縮排："
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "縮排"
 
@@ -3311,6 +3332,9 @@ msgstr "縮排"
 
 msgid "Indents and Spacing"
 msgstr "縮排和間距"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "索引和目錄"
@@ -3365,6 +3389,9 @@ msgstr "插入上方列"
 
 msgid "Insert Below"
 msgstr "插入下方列"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "插入標號"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "無法讀取其字典：{reason}"
 
 msgid "Jamaica"
 msgstr "牙買加"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "加入 Discord 上的 ArtCraft 社群"
@@ -4603,6 +4636,9 @@ msgstr "此版本未內建模型致謝資訊。"
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "無外框"
 
@@ -5147,8 +5183,14 @@ msgstr "段落間距"
 msgid "Paragraph style"
 msgstr "段落樣式"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "上移一段"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "段落數"
@@ -5663,6 +5705,12 @@ msgstr "要移除所有自訂快速鍵並還原內建按鍵嗎？"
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "移除所有自訂索引標籤和群組，並重新顯示所有索引標籤？"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "移除欄位"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "移除超連結"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "句"
 msgid "Sentence case."
 msgstr "句首字母大寫。"
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "分隔文字於"
 
@@ -6289,6 +6349,9 @@ msgstr "設定段落格式"
 
 msgid "Set Proofing Language…"
 msgstr "設定校訂語言…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "設定："
@@ -6737,6 +6800,9 @@ msgstr "收集區"
 msgid "Split Cells"
 msgstr "分割儲存格"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "分割表格"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "瑞士"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "同義字"
@@ -7546,6 +7615,9 @@ msgstr "輸入新清單…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "可用任何單位輸入大小，例如 5 cm 或 300 px。另一邊隨之調整，圖片保持原有比例。"
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "檢視格線"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "檢視狀態"

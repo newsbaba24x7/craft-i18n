@@ -225,6 +225,9 @@ msgstr "ცხრილის დამატება"
 msgid "Add at least one field."
 msgstr "დაამატეთ მინიმუმ ერთი ველი."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "დიაგრამის ელემენტის დამატება"
 
@@ -1550,8 +1553,17 @@ msgstr "გარდაქმნები"
 msgid "Convert between built-up and linear form"
 msgstr "პროფესიულ და წრფივ ფორმებს შორის გარდაქმნა"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "სქოლიოების გარდაქმნა"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "ტექსტის ცხრილად გარდაქმნა"
@@ -1879,6 +1891,12 @@ msgstr "განტოლებაში კურსორის გარშ�
 
 msgid "Delete Back in Equation"
 msgstr "უკან წაშლა განტოლებაში"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "სანიშნის წაშლა"
@@ -3300,6 +3318,9 @@ msgstr "შეწევა"
 msgid "Indent from left:"
 msgstr "შეწევა მარცხნიდან:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "შეწევა"
 
@@ -3311,6 +3332,9 @@ msgstr "შეწევები"
 
 msgid "Indents and Spacing"
 msgstr "შეწევა და ინტერვალი"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "ინდექსები და ცხრილები"
@@ -3365,6 +3389,9 @@ msgstr "ზემოთ ჩასმა"
 
 msgid "Insert Below"
 msgstr "ქვემოთ ჩასმა"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "წარწერის ჩასმა"
@@ -3570,6 +3597,9 @@ msgstr "გადაკვეთა ქვედა საზღვრით"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "გადაკვეთა ინდექსური ზღვრებით"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "შებრუნებული კოსეკანსის ფუნქცია"
 
@@ -3650,6 +3680,9 @@ msgstr "მისი ლექსიკონის წაკითხვა ვ
 
 msgid "Jamaica"
 msgstr "იამაიკა"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "შემოუერთდით ArtCraft-ის საზოგადოებას Discord-ზე"
@@ -4603,6 +4636,9 @@ msgstr "ამ ასლში მოდელების მონაცემ
 msgid "No new sources in that file"
 msgstr "იმ ფაილში ახალი წყაროები არ არის"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "კონტურის გარეშე"
 
@@ -5147,8 +5183,14 @@ msgstr "აბზაცთა ინტერვალი"
 msgid "Paragraph style"
 msgstr "აბზაცის სტილი"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "აბზაცით ზემოთ"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "აბზაცები"
@@ -5663,6 +5705,12 @@ msgstr "წაიშალოს ყველა მორგებული კ
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "წაიშალოს ყველა მორგებული ჩანართი და ჯგუფი და ისევ გამოჩნდეს ყველა ჩანართი?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "ველის წაშლა"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "ბმულის მოხსნა"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "წინადადება"
 msgid "Sentence case."
 msgstr "წინადადების რეგისტრი."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "ტექსტის გამყოფი"
 
@@ -6289,6 +6349,9 @@ msgstr "აბზაცის ფორმატირების დაყე�
 
 msgid "Set Proofing Language…"
 msgstr "კორექტურის ენის არჩევა…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "პარამეტრი:"
@@ -6737,6 +6800,9 @@ msgstr "კრებულში ამოჭრა"
 msgid "Split Cells"
 msgstr "უჯრების დაყოფა"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "ცხრილის დაყოფა"
 
@@ -6955,6 +7021,9 @@ msgstr "ფანჯრების\nგადართვა"
 
 msgid "Switzerland"
 msgstr "შვეიცარია"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "სინონიმები"
@@ -7546,6 +7615,9 @@ msgstr "ახალი სიის აკრეფა…"
 msgid "Type a page number, or +2 / -1."
 msgstr "აკრიფეთ გვერდის ნომერი ან +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "შეიყვანეთ ზომა ნებისმიერ ერთეულში, მაგალითად 5 cm ან 300 px. მეორე მხარე თავად შეიცვლება, ასე რომ სურათი პროპორციებს შეინარჩუნებს."
 
@@ -7784,6 +7856,9 @@ msgstr "დოკუმენტის მორგებული თვის�
 
 msgid "View Gridlines"
 msgstr "ბადის ჩვენება"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "ხედის მდგომარეობა"

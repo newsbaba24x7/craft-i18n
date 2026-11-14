@@ -225,6 +225,9 @@ msgstr "إضافة جدول"
 msgid "Add at least one field."
 msgstr "أضف حقلًا واحدًا على الأقل."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "إضافة عنصر مخطط"
 
@@ -1550,8 +1553,17 @@ msgstr "التحويلات"
 msgid "Convert between built-up and linear form"
 msgstr "التحويل بين الصيغة المبنية والصيغة الخطية"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "تحويل الحواشي"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "تحويل النص إلى جدول"
@@ -1879,6 +1891,12 @@ msgstr "حذف حول مؤشر الكتابة في المعادلة"
 
 msgid "Delete Back in Equation"
 msgstr "حذف للخلف في المعادلة"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "حذف الإشارة المرجعية"
@@ -3300,6 +3318,9 @@ msgstr "مسافة بادئة"
 msgid "Indent from left:"
 msgstr "المسافة البادئة من اليسار:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "المسافات البادئة"
 
@@ -3311,6 +3332,9 @@ msgstr "المسافات البادئة"
 
 msgid "Indents and Spacing"
 msgstr "المسافات البادئة والتباعد"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "الفهرس والجداول"
@@ -3365,6 +3389,9 @@ msgstr "إدراج أعلى"
 
 msgid "Insert Below"
 msgstr "إدراج أسفل"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "إدراج تسمية توضيحية"
@@ -3570,6 +3597,9 @@ msgstr "تقاطع بحد سفلي"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "تقاطع بحدود سفلية وعلوية"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "دالة قاطع التمام العكسية"
 
@@ -3650,6 +3680,9 @@ msgstr "تعذّرت قراءة قاموسها: {reason}"
 
 msgid "Jamaica"
 msgstr "جامايكا"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "انضم إلى مجتمع ArtCraft على Discord"
@@ -4603,6 +4636,9 @@ msgstr "لم تُضمَّن بيانات النماذج في هذه النسخة
 msgid "No new sources in that file"
 msgstr "لا توجد مصادر جديدة في ذلك الملف"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "بلا حد خارجي"
 
@@ -5147,8 +5183,14 @@ msgstr "تباعد الفقرات"
 msgid "Paragraph style"
 msgstr "نمط فقرة"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "فقرة للأعلى"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "الفقرات"
@@ -5663,6 +5705,12 @@ msgstr "هل تريد إزالة كل الاختصارات المخصصة واس
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "هل تريد إزالة كل علامات التبويب والمجموعات المخصصة وإظهار كل علامات التبويب مجددًا؟"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "إزالة الحقل"
 
@@ -5683,6 +5731,15 @@ msgstr "إزالة الارتباط التشعبي"
 
 msgid "Remove Language Pack"
 msgstr "إزالة حزمة لغة"
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
+msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
 msgstr "إزالة اسمي من التعليقات والتغييرات وخصائص الملف عند الحفظ"
@@ -6221,6 +6278,9 @@ msgstr "جملة"
 msgid "Sentence case."
 msgstr "حالة الجملة."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "فصل النص عند"
 
@@ -6289,6 +6349,9 @@ msgstr "تعيين تنسيق الفقرة"
 
 msgid "Set Proofing Language…"
 msgstr "تعيين لغة التدقيق…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "الإعداد:"
@@ -6737,6 +6800,9 @@ msgstr "حافظة التجميع"
 msgid "Split Cells"
 msgstr "تقسيم الخلايا"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "تقسيم الجدول"
 
@@ -6955,6 +7021,9 @@ msgstr "تبديل\nالنوافذ"
 
 msgid "Switzerland"
 msgstr "سويسرا"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "المرادفات"
@@ -7546,6 +7615,9 @@ msgstr "كتابة قائمة جديدة…"
 msgid "Type a page number, or +2 / -1."
 msgstr "اكتب رقم صفحة، أو +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "اكتب الحجم بأي وحدة، مثل 5 cm أو 300 px. يتبعه الضلع الآخر، فتحتفظ الصورة بتناسبها."
 
@@ -7784,6 +7856,9 @@ msgstr "عرض الخصائص المخصصة للمستند وتحريرها."
 
 msgid "View Gridlines"
 msgstr "عرض خطوط الشبكة"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "حالة العرض"

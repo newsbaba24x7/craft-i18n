@@ -225,6 +225,9 @@ msgstr "افزودن جدول"
 msgid "Add at least one field."
 msgstr "حداقل یک فیلد اضافه کنید."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "افزودن عنصر نمودار"
 
@@ -1550,8 +1553,17 @@ msgstr "تبدیل‌ها"
 msgid "Convert between built-up and linear form"
 msgstr "تبدیل میان شکل ساخته‌شده و خطی"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "تبدیل یادداشت‌ها"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "تبدیل متن به جدول"
@@ -1879,6 +1891,12 @@ msgstr "حذف پیرامون نشانگر در معادله"
 
 msgid "Delete Back in Equation"
 msgstr "حذف به عقب در معادله"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "حذف نشانک"
@@ -3300,6 +3318,9 @@ msgstr "تورفتگی"
 msgid "Indent from left:"
 msgstr "تورفتگی از چپ:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "تورفتگی"
 
@@ -3311,6 +3332,9 @@ msgstr "تورفتگی‌ها"
 
 msgid "Indents and Spacing"
 msgstr "تورفتگی‌ها و فاصله‌گذاری"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "نمایه و جدول‌ها"
@@ -3365,6 +3389,9 @@ msgstr "درج در بالا"
 
 msgid "Insert Below"
 msgstr "درج در پایین"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "درج عنوان"
@@ -3570,6 +3597,9 @@ msgstr "اشتراک با حد پایین"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "اشتراک با حدود زیرنویس-بالانویس"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "تابع کسکانت معکوس"
 
@@ -3650,6 +3680,9 @@ msgstr "واژه‌نامهٔ آن خوانده نشد: {reason}"
 
 msgid "Jamaica"
 msgstr "جامائیکا"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "به انجمن ArtCraft در Discord بپیوندید"
@@ -4603,6 +4636,9 @@ msgstr "هیچ اعتبار مدلی در این نسخه ساخته نشده ا
 msgid "No new sources in that file"
 msgstr "منبع جدیدی در آن فایل نیست"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "بدون خط دور"
 
@@ -5147,8 +5183,14 @@ msgstr "فاصله‌گذاری پاراگراف"
 msgid "Paragraph style"
 msgstr "سبک پاراگراف"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "پاراگراف بالا"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "پاراگراف‌ها"
@@ -5663,6 +5705,12 @@ msgstr "همهٔ میان‌برهای سفارشی حذف و کلیدهای ت�
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "همهٔ زبانه‌ها و گروه‌های سفارشی حذف و همهٔ زبانه‌ها دوباره نمایش داده شوند؟"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "حذف فیلد"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "حذف پیوند"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "جمله"
 msgid "Sentence case."
 msgstr "حالت جمله."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "جداکردن متن در"
 
@@ -6289,6 +6349,9 @@ msgstr "تعیین قالب‌بندی پاراگراف"
 
 msgid "Set Proofing Language…"
 msgstr "تعیین زبان بررسی…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "تنظیم:"
@@ -6737,6 +6800,9 @@ msgstr "واژه‌بانک"
 msgid "Split Cells"
 msgstr "تقسیم خانه‌ها"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "تقسیم جدول"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "سوئیس"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "مترادف‌ها"
@@ -7546,6 +7615,9 @@ msgstr "تایپ فهرست جدید…"
 msgid "Type a page number, or +2 / -1."
 msgstr "یک شمارهٔ صفحه، یا +2 / -1 تایپ کنید."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "اندازه‌ای با هر واحدی تایپ کنید، مانند ۵ cm یا ۳۰۰ px. ضلع دیگر پیروی می‌کند، بنابراین تصویر تناسب خود را نگه می‌دارد."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "مشاهدهٔ خطوط شبکه"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "وضعیت نما"

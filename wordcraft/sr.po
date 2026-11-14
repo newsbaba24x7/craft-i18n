@@ -225,6 +225,9 @@ msgstr "Додај табелу"
 msgid "Add at least one field."
 msgstr "Додајте бар једно поље."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Додај елемент графикона"
 
@@ -1550,8 +1553,17 @@ msgstr "Конверзије"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Претвори напомене"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Претвори текст у табелу"
@@ -1879,6 +1891,12 @@ msgstr "Обриши око курсора у формули"
 
 msgid "Delete Back in Equation"
 msgstr "Обриши уназад у формули"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Обриши обележивач"
@@ -3300,6 +3318,9 @@ msgstr "Увлачење"
 msgid "Indent from left:"
 msgstr "Увлачење слева:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Увлачење"
 
@@ -3311,6 +3332,9 @@ msgstr "Увлачења"
 
 msgid "Indents and Spacing"
 msgstr "Увлачења и размаци"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Индекси и табеле"
@@ -3365,6 +3389,9 @@ msgstr "Уметни изнад"
 
 msgid "Insert Below"
 msgstr "Уметни испод"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Уметни натпис"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "Његов речник није могао да се прочита: {r
 
 msgid "Jamaica"
 msgstr "Јамајка"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Придружите се ArtCraft заједници на Discord-у"
@@ -4603,6 +4636,9 @@ msgstr "Ова верзија не садржи заслуге за AI моде�
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Без контуре"
 
@@ -5147,8 +5183,14 @@ msgstr "Размак пасуса"
 msgid "Paragraph style"
 msgstr "Стил пасуса"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Пасус нагоре"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Пасуси"
@@ -5663,6 +5705,12 @@ msgstr "Уклонити све прилагођене пречице и вра�
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Уклонити све прилагођене картице и групе и поново приказати све картице?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Уклони поље"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Уклони хипервезу"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Реченица"
 msgid "Sentence case."
 msgstr "Велико слово на почетку реченице."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Раздвоји текст на"
 
@@ -6289,6 +6349,9 @@ msgstr "Постави форматирање пасуса"
 
 msgid "Set Proofing Language…"
 msgstr "Постави језик провере…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Врста:"
@@ -6737,6 +6800,9 @@ msgstr "Сакупљач"
 msgid "Split Cells"
 msgstr "Подели ћелије"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Подели табелу"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Швајцарска"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Синоними"
@@ -7546,6 +7615,9 @@ msgstr "Унеси нову листу…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Унесите величину у било којој јединици, на пример 5 cm или 300 px. Друга страна се прилагођава, па слика задржава своје пропорције."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Прикажи линије мреже"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Стање приказа"

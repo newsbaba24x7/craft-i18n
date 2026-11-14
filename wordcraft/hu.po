@@ -225,6 +225,9 @@ msgstr "Táblázat hozzáadása"
 msgid "Add at least one field."
 msgstr "Adj hozzá legalább egy mezőt."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Diagramelem hozzáadása"
 
@@ -1550,8 +1553,17 @@ msgstr "Átalakítások"
 msgid "Convert between built-up and linear form"
 msgstr "Váltás a kétdimenziós és a lineáris alak között"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Jegyzetek átalakítása"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Szöveg átalakítása táblázattá"
@@ -1879,6 +1891,12 @@ msgstr "Törlés az egyenletben a kurzor körül"
 
 msgid "Delete Back in Equation"
 msgstr "Visszatörlés az egyenletben"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Könyvjelző törlése"
@@ -3300,6 +3318,9 @@ msgstr "Behúzás"
 msgid "Indent from left:"
 msgstr "Behúzás balról:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Behúzás"
 
@@ -3311,6 +3332,9 @@ msgstr "Behúzások"
 
 msgid "Indents and Spacing"
 msgstr "Behúzás és térköz"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Tárgymutató és jegyzékek"
@@ -3365,6 +3389,9 @@ msgstr "Beszúrás fölé"
 
 msgid "Insert Below"
 msgstr "Beszúrás alá"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Felirat beszúrása"
@@ -3570,6 +3597,9 @@ msgstr "Metszet alsó határral"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Metszet indexben írt határokkal"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Arkusz koszekánsfüggvény"
 
@@ -3650,6 +3680,9 @@ msgstr "A szótárát nem sikerült beolvasni: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Csatlakozz az ArtCraft közösséghez a Discordon"
@@ -4603,6 +4636,9 @@ msgstr "Ebbe a példányba nem kerültek modell-közreműködői adatok."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Nincs körvonal"
 
@@ -5147,8 +5183,14 @@ msgstr "Bekezdéstérköz"
 msgid "Paragraph style"
 msgstr "Bekezdésstílus"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Bekezdés fel"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Bekezdések"
@@ -5663,6 +5705,12 @@ msgstr "Törlöd az összes egyéni billentyűparancsot, és visszaállítod a b
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Törlöd az összes egyéni lapot és csoportot, és újra megjelenítesz minden lapot?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Mező eltávolítása"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Link eltávolítása"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Mondat"
 msgid "Sentence case."
 msgstr "Mondatkezdő nagybetű."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Szöveg elválasztása"
 
@@ -6289,6 +6349,9 @@ msgstr "Bekezdésformázás beállítása"
 
 msgid "Set Proofing Language…"
 msgstr "Nyelvi ellenőrzés nyelvének beállítása…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Beállítás:"
@@ -6737,6 +6800,9 @@ msgstr "Gyűjtő"
 msgid "Split Cells"
 msgstr "Cellák felosztása"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Táblázat felosztása"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Svájc"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Szinonimák"
@@ -7546,6 +7615,9 @@ msgstr "Új lista begépelése…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Írj be egy méretet bármilyen mértékegységben, például 5 cm vagy 300 px. A másik oldal követi, így a kép megtartja az arányait."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Rácsvonalak megjelenítése"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Nézet állapota"

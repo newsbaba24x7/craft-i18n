@@ -225,6 +225,9 @@ msgstr "Додати таблицю"
 msgid "Add at least one field."
 msgstr "Додайте принаймні одне поле."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Додати елемент діаграми"
 
@@ -1550,8 +1553,17 @@ msgstr "Перетворення"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Перетворити примітки"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Перетворити текст на таблицю"
@@ -1879,6 +1891,12 @@ msgstr "Видалити навколо каретки в рівнянні"
 
 msgid "Delete Back in Equation"
 msgstr "Видалити назад у рівнянні"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Видалити закладку"
@@ -3300,6 +3318,9 @@ msgstr "Відступ"
 msgid "Indent from left:"
 msgstr "Відступ ліворуч:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Відступи"
 
@@ -3311,6 +3332,9 @@ msgstr "Відступи"
 
 msgid "Indents and Spacing"
 msgstr "Відступи й інтервали"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Покажчики й таблиці"
@@ -3365,6 +3389,9 @@ msgstr "Вставити вище"
 
 msgid "Insert Below"
 msgstr "Вставити нижче"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Вставити підпис"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "Не вдалося прочитати його словник: {reason}
 
 msgid "Jamaica"
 msgstr "Ямайка"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Приєднатися до спільноти ArtCraft у Discord"
@@ -4603,6 +4636,9 @@ msgstr "Ця збірка не містить відомостей про мод
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Без контуру"
 
@@ -5147,8 +5183,14 @@ msgstr "Інтервал між абзацами"
 msgid "Paragraph style"
 msgstr "Стиль абзацу"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "На абзац вгору"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Абзаци"
@@ -5663,6 +5705,12 @@ msgstr "Видалити всі власні сполучення клавіш �
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Видалити всі користувацькі вкладки й групи та знову показати всі вкладки?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Видалити поле"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Видалити гіперпосилання"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Речення"
 msgid "Sentence case."
 msgstr "Як у реченні."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Розділювач тексту"
 
@@ -6289,6 +6349,9 @@ msgstr "Установити форматування абзацу"
 
 msgid "Set Proofing Language…"
 msgstr "Вибрати мову перевірки правопису…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Тип:"
@@ -6737,6 +6800,9 @@ msgstr "Накопичувач"
 msgid "Split Cells"
 msgstr "Розділити клітинки"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Розділити таблицю"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Швейцарія"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Синоніми"
@@ -7546,6 +7615,9 @@ msgstr "Ввести новий список…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Введіть розмір у будь-яких одиницях, наприклад 5 cm або 300 px. Інша сторона зміниться разом із нею, тож зображення збереже пропорції."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Показати лінії сітки"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Стан вигляду"

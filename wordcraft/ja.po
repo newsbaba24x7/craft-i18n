@@ -225,6 +225,9 @@ msgstr "表を追加"
 msgid "Add at least one field."
 msgstr "フィールドを1つ以上追加してください。"
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "グラフ要素の追加"
 
@@ -1550,8 +1553,17 @@ msgstr "変換"
 msgid "Convert between built-up and linear form"
 msgstr ""
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "注の変換"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "文字列を表にする"
@@ -1879,6 +1891,12 @@ msgstr "数式内でカーソル周辺を削除"
 
 msgid "Delete Back in Equation"
 msgstr "数式内で前を削除"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "ブックマークの削除"
@@ -3300,6 +3318,9 @@ msgstr "インデント"
 msgid "Indent from left:"
 msgstr "左インデント:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "インデント"
 
@@ -3311,6 +3332,9 @@ msgstr "インデント"
 
 msgid "Indents and Spacing"
 msgstr "インデントと間隔"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "索引と目次"
@@ -3365,6 +3389,9 @@ msgstr "上に行を挿入"
 
 msgid "Insert Below"
 msgstr "下に行を挿入"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "図表番号の挿入"
@@ -3570,6 +3597,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3650,6 +3680,9 @@ msgstr "辞書を読み込めませんでした: {reason}"
 
 msgid "Jamaica"
 msgstr "ジャマイカ"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Discord の ArtCraft コミュニティに参加"
@@ -4603,6 +4636,9 @@ msgstr "このビルドにはモデルのクレジットが含まれていませ
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "輪郭なし"
 
@@ -5147,8 +5183,14 @@ msgstr "段落の間隔"
 msgid "Paragraph style"
 msgstr "段落スタイル"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "前の段落へ"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "段落数"
@@ -5663,6 +5705,12 @@ msgstr "すべてのカスタム ショートカットを削除し、既定の�
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "すべてのユーザー設定タブとグループを削除し、すべてのタブを再表示しますか?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "フィールドを削除"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "ハイパーリンクの削除"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "文"
 msgid "Sentence case."
 msgstr "文の先頭文字を大文字にする。"
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "文字列の区切り"
 
@@ -6289,6 +6349,9 @@ msgstr "段落書式の設定"
 
 msgid "Set Proofing Language…"
 msgstr "校正言語の設定…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "種類:"
@@ -6737,6 +6800,9 @@ msgstr "スパイク"
 msgid "Split Cells"
 msgstr "セルの分割"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "表の分割"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "スイス"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "類義語"
@@ -7546,6 +7615,9 @@ msgstr "新しいリストを入力…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "5 cm や 300 px など、任意の単位でサイズを入力します。もう一方の辺も合わせて変わるため、図の縦横比は保たれます。"
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "グリッド線の表示"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "表示の状態"

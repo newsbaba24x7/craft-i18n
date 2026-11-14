@@ -225,6 +225,9 @@ msgstr "Tablo Ekle"
 msgid "Add at least one field."
 msgstr "En az bir alan ekleyin."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Grafik Öğesi Ekle"
 
@@ -1550,8 +1553,17 @@ msgstr "Dönüşümler"
 msgid "Convert between built-up and linear form"
 msgstr "Biçimlendirilmiş ve doğrusal biçim arasında dönüştür"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Notları Dönüştür"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Metni Tabloya Dönüştür"
@@ -1879,6 +1891,12 @@ msgstr "Denklemde İmlecin Çevresini Sil"
 
 msgid "Delete Back in Equation"
 msgstr "Denklemde Geri Sil"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Yer İşaretini Sil"
@@ -3300,6 +3318,9 @@ msgstr "Girinti"
 msgid "Indent from left:"
 msgstr "Soldan girinti:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Girintileme"
 
@@ -3311,6 +3332,9 @@ msgstr "Girintiler"
 
 msgid "Indents and Spacing"
 msgstr "Girintiler ve Aralık"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Dizin ve Tablolar"
@@ -3365,6 +3389,9 @@ msgstr "Üste Ekle"
 
 msgid "Insert Below"
 msgstr "Alta Ekle"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Resim Yazısı Ekle"
@@ -3570,6 +3597,9 @@ msgstr "Alt Sınırlı Kesişim"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Alt ve Üst İndis Sınırlı Kesişim"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Ters Kosekant Fonksiyonu"
 
@@ -3650,6 +3680,9 @@ msgstr "Sözlüğü okunamadı: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaika"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Discord'da ArtCraft topluluğuna katılın"
@@ -4603,6 +4636,9 @@ msgstr "Bu kopyaya model katkıları eklenmemiş."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Anahat Yok"
 
@@ -5147,8 +5183,14 @@ msgstr "Paragraf Aralığı"
 msgid "Paragraph style"
 msgstr "Paragraf stili"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Önceki Paragraf"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Paragraflar"
@@ -5663,6 +5705,12 @@ msgstr "Tüm özel kısayollar kaldırılıp yerleşik tuşlar geri yüklensin m
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Tüm özel sekmeler ve gruplar kaldırılıp tüm sekmeler yeniden gösterilsin mi?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Alanı kaldır"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Bağlantıyı Kaldır"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Cümle"
 msgid "Sentence case."
 msgstr "Cümle düzeni."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Metni ayırma yeri"
 
@@ -6289,6 +6349,9 @@ msgstr "Paragraf Biçimlendirmesini Ayarla"
 
 msgid "Set Proofing Language…"
 msgstr "Yazım denetimi dilini ayarla…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Ayar:"
@@ -6737,6 +6800,9 @@ msgstr "Biriktirici"
 msgid "Split Cells"
 msgstr "Hücreleri Böl"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Tabloyu Böl"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "İsviçre"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Eş Anlamlılar"
@@ -7546,6 +7615,9 @@ msgstr "Yeni Liste Yaz…"
 msgid "Type a page number, or +2 / -1."
 msgstr ""
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Herhangi bir birimde bir boyut yazın, örneğin 5 cm veya 300 px. Diğer kenar da buna uyar, böylece resim oranlarını korur."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Kılavuz Çizgilerini Göster"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Görünüm Durumu"

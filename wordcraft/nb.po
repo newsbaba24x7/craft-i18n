@@ -225,6 +225,9 @@ msgstr "Legg til en tabell"
 msgid "Add at least one field."
 msgstr "Legg til minst ett felt."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Legg til diagramelement"
 
@@ -1550,8 +1553,17 @@ msgstr "Konverteringer"
 msgid "Convert between built-up and linear form"
 msgstr "Konverter mellom oppbygd og lineær form"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Konverter noter"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Konverter tekst til tabell"
@@ -1879,6 +1891,12 @@ msgstr "Slett rundt markøren i formelen"
 
 msgid "Delete Back in Equation"
 msgstr "Slett bakover i formelen"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Slett bokmerke"
@@ -3300,6 +3318,9 @@ msgstr "Innrykk"
 msgid "Indent from left:"
 msgstr "Innrykk fra venstre:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Innrykk"
 
@@ -3311,6 +3332,9 @@ msgstr "Innrykk"
 
 msgid "Indents and Spacing"
 msgstr "Innrykk og avstand"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Register og fortegnelser"
@@ -3365,6 +3389,9 @@ msgstr "Sett inn over"
 
 msgid "Insert Below"
 msgstr "Sett inn under"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Sett inn bildetekst"
@@ -3570,6 +3597,9 @@ msgstr "Snitt med nedre grense"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Snitt med senkede og hevede grenser"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Invers cosekansfunksjon"
 
@@ -3650,6 +3680,9 @@ msgstr "Ordboken kunne ikke leses: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Bli med i ArtCraft-fellesskapet på Discord"
@@ -4603,6 +4636,9 @@ msgstr "Denne kopien ble bygget uten modellkreditteringer."
 msgid "No new sources in that file"
 msgstr "Ingen nye kilder i den filen"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Uten omriss"
 
@@ -5147,8 +5183,14 @@ msgstr "Avsnittsavstand"
 msgid "Paragraph style"
 msgstr "Avsnittsstil"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Avsnitt opp"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Avsnitt"
@@ -5663,6 +5705,12 @@ msgstr "Vil du fjerne alle egendefinerte hurtigtaster og gjenopprette de innebyg
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Vil du fjerne alle egendefinerte faner og grupper og vise alle faner igjen?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Fjern felt"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Fjern hyperlenke"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Setning"
 msgid "Sentence case."
 msgstr "Stor forbokstav i setningen."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Del tekst ved"
 
@@ -6289,6 +6349,9 @@ msgstr "Angi avsnittsformatering"
 
 msgid "Set Proofing Language…"
 msgstr "Angi korrekturspråk…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Innstilling:"
@@ -6737,6 +6800,9 @@ msgstr "Samlebunke"
 msgid "Split Cells"
 msgstr "Del celler"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Del tabell"
 
@@ -6955,6 +7021,9 @@ msgstr "Bytt\nvindu"
 
 msgid "Switzerland"
 msgstr "Sveits"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synonymer"
@@ -7546,6 +7615,9 @@ msgstr "Skriv inn en ny liste…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Skriv et sidetall, eller +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Skriv en størrelse i en hvilken som helst enhet, for eksempel 5 cm eller 300 px. Den andre siden følger med, så bildet beholder proporsjonene."
 
@@ -7784,6 +7856,9 @@ msgstr "Vis og rediger dokumentets egendefinerte egenskaper."
 
 msgid "View Gridlines"
 msgstr "Vis rutenettlinjer"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Visningstilstand"

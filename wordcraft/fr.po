@@ -225,6 +225,9 @@ msgstr "Ajouter un tableau"
 msgid "Add at least one field."
 msgstr "Ajoutez au moins un champ."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Ajouter un élément de graphique"
 
@@ -1550,8 +1553,17 @@ msgstr "Conversions"
 msgid "Convert between built-up and linear form"
 msgstr "Basculer entre forme développée et forme linéaire"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Convertir les notes"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Convertir le texte en tableau"
@@ -1879,6 +1891,12 @@ msgstr "Supprimer autour du point d’insertion dans l’équation"
 
 msgid "Delete Back in Equation"
 msgstr "Supprimer en arrière dans l’équation"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Supprimer le signet"
@@ -3300,6 +3318,9 @@ msgstr "Retrait"
 msgid "Indent from left:"
 msgstr "Retrait à gauche :"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Retrait"
 
@@ -3311,6 +3332,9 @@ msgstr "Retraits"
 
 msgid "Indents and Spacing"
 msgstr "Retraits et espacement"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Index et tables"
@@ -3365,6 +3389,9 @@ msgstr "Insérer au-dessus"
 
 msgid "Insert Below"
 msgstr "Insérer en dessous"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Insérer une légende"
@@ -3570,6 +3597,9 @@ msgstr "Intersection avec borne inférieure"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Intersection avec bornes en indice et exposant"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Arc cosécante"
 
@@ -3650,6 +3680,9 @@ msgstr "Son dictionnaire n’a pas pu être lu : {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaïque"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Rejoignez la communauté ArtCraft sur Discord"
@@ -4603,6 +4636,9 @@ msgstr "Aucune mention de modèles n’a été intégrée à cette copie."
 msgid "No new sources in that file"
 msgstr "Aucune nouvelle source dans ce fichier"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Aucun contour"
 
@@ -5147,8 +5183,14 @@ msgstr "Espacement des paragraphes"
 msgid "Paragraph style"
 msgstr "Style de paragraphe"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Un paragraphe vers le haut"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Paragraphes"
@@ -5663,6 +5705,12 @@ msgstr "Supprimer tous les raccourcis personnalisés et rétablir les touches d�
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Supprimer tous les onglets et groupes personnalisés et réafficher tous les onglets ?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Supprimer le champ"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Supprimer le lien hypertexte"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Phrase"
 msgid "Sentence case."
 msgstr "Comme une phrase."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Séparer le texte au niveau des"
 
@@ -6289,6 +6349,9 @@ msgstr "Définir la mise en forme des paragraphes"
 
 msgid "Set Proofing Language…"
 msgstr "Définir la langue de vérification…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Type :"
@@ -6737,6 +6800,9 @@ msgstr "Pique-notes"
 msgid "Split Cells"
 msgstr "Fractionner les cellules"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Fractionner le tableau"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Suisse"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Synonymes"
@@ -7546,6 +7615,9 @@ msgstr "Entrer une nouvelle liste…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Saisissez un numéro de page, ou +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Tapez une taille dans n'importe quelle unité, par exemple 5 cm ou 300 px. L'autre côté suit, et l'image garde ses proportions."
 
@@ -7784,6 +7856,9 @@ msgstr "Afficher et modifier les propriétés personnalisées du document."
 
 msgid "View Gridlines"
 msgstr "Afficher les quadrillages"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "État de l’affichage"

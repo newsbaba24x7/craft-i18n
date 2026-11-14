@@ -225,6 +225,9 @@ msgstr "Thêm bảng"
 msgid "Add at least one field."
 msgstr "Thêm ít nhất một trường."
 
+msgid "Add Blank Paragraphs Between"
+msgstr ""
+
 msgid "Add Chart Element"
 msgstr "Thêm thành phần biểu đồ"
 
@@ -1550,8 +1553,17 @@ msgstr "Chuyển đổi"
 msgid "Convert between built-up and linear form"
 msgstr "Chuyển đổi giữa dạng trình bày và dạng tuyến tính"
 
+msgid "Convert Indents to Spaces"
+msgstr ""
+
+msgid "Convert Line Breaks to Paragraphs"
+msgstr ""
+
 msgid "Convert Notes"
 msgstr "Chuyển đổi chú thích chân trang và cuối tài liệu"
+
+msgid "Convert Spaces to Indentation"
+msgstr ""
 
 msgid "Convert Text to Table"
 msgstr "Chuyển văn bản thành bảng"
@@ -1879,6 +1891,12 @@ msgstr "Xóa xung quanh con trỏ trong phương trình"
 
 msgid "Delete Back in Equation"
 msgstr "Xóa lùi trong phương trình"
+
+msgid "Delete Blank Paragraphs"
+msgstr ""
+
+msgid "Delete Blank Paragraphs in the Whole Document"
+msgstr ""
 
 msgid "Delete Bookmark"
 msgstr "Xóa dấu trang"
@@ -3300,6 +3318,9 @@ msgstr "Thụt lề"
 msgid "Indent from left:"
 msgstr "Thụt lề từ trái:"
 
+msgid "Indent Leading Spaces"
+msgstr ""
+
 msgid "Indentation"
 msgstr "Thụt lề"
 
@@ -3311,6 +3332,9 @@ msgstr "Thụt lề"
 
 msgid "Indents and Spacing"
 msgstr "Thụt lề và giãn cách"
+
+msgid "Indents to Leading Spaces"
+msgstr ""
 
 msgid "Index and Tables"
 msgstr "Chỉ mục và mục lục"
@@ -3365,6 +3389,9 @@ msgstr "Chèn lên trên"
 
 msgid "Insert Below"
 msgstr "Chèn xuống dưới"
+
+msgid "Insert Blank Paragraphs Between"
+msgstr ""
 
 msgid "Insert Caption"
 msgstr "Chèn chú thích"
@@ -3570,6 +3597,9 @@ msgstr "Phép giao có cận dưới"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Phép giao có cận chỉ số dưới-trên"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Hàm côséc ngược"
 
@@ -3650,6 +3680,9 @@ msgstr "Không đọc được từ điển của ngôn ngữ này: {reason}"
 
 msgid "Jamaica"
 msgstr "Jamaica"
+
+msgid "Join Lines"
+msgstr ""
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Tham gia cộng đồng ArtCraft trên Discord"
@@ -4603,6 +4636,9 @@ msgstr "Bản sao này không tích hợp sẵn thông tin ghi công mô hình."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Không viền"
 
@@ -5147,8 +5183,14 @@ msgstr "Khoảng cách đoạn"
 msgid "Paragraph style"
 msgstr "Kiểu đoạn"
 
+msgid "Paragraph Tools"
+msgstr ""
+
 msgid "Paragraph Up"
 msgstr "Đưa con trỏ lên một đoạn"
+
+msgid "Paragraph\nTools"
+msgstr ""
 
 msgid "Paragraphs"
 msgstr "Các đoạn"
@@ -5663,6 +5705,12 @@ msgstr "Xóa mọi phím tắt tự đặt và khôi phục phím mặc định?
 msgid "Remove every custom tab and group and show all tabs again?"
 msgstr "Xóa mọi tab tự tạo và nhóm tự tạo, hiện lại mọi tab?"
 
+msgid "Remove Extra Spaces"
+msgstr ""
+
+msgid "Remove Extra Spaces in the Whole Document"
+msgstr ""
+
 msgid "Remove field"
 msgstr "Gỡ trường"
 
@@ -5682,6 +5730,15 @@ msgid "Remove Hyperlink"
 msgstr "Gỡ siêu liên kết"
 
 msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove Leading Spaces"
+msgstr ""
+
+msgid "Remove Leading Spaces in the Whole Document"
+msgstr ""
+
+msgid "Remove Line Breaks"
 msgstr ""
 
 msgid "Remove my name from comments, changes and file properties when saving"
@@ -6221,6 +6278,9 @@ msgstr "Câu"
 msgid "Sentence case."
 msgstr "Viết hoa đầu câu."
 
+msgid "Separate Paragraphs"
+msgstr ""
+
 msgid "Separate text at"
 msgstr "Tách văn bản tại"
 
@@ -6289,6 +6349,9 @@ msgstr "Đặt định dạng đoạn"
 
 msgid "Set Proofing Language…"
 msgstr "Đặt ngôn ngữ soát lỗi…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
 
 msgid "Setting:"
 msgstr "Thiết lập:"
@@ -6737,6 +6800,9 @@ msgstr "Bộ gom"
 msgid "Split Cells"
 msgstr "Chia ô"
 
+msgid "Split Lines into Paragraphs"
+msgstr ""
+
 msgid "Split Table"
 msgstr "Chia bảng"
 
@@ -6955,6 +7021,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "Thụy Sĩ"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "Từ đồng nghĩa"
@@ -7546,6 +7615,9 @@ msgstr "Nhập danh sách mới…"
 msgid "Type a page number, or +2 / -1."
 msgstr "Nhập số trang, hoặc +2 / -1."
 
+msgid "Type a size in any unit, such as 3 cm or 300 px."
+msgstr ""
+
 msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
 msgstr "Nhập kích thước theo đơn vị bất kỳ, ví dụ 5 cm hoặc 300 px. Cạnh còn lại thay đổi theo, nên ảnh giữ nguyên tỷ lệ."
 
@@ -7784,6 +7856,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Hiện đường lưới bảng"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Trạng thái hiển thị"

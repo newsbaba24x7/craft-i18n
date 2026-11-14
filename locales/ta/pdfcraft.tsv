@@ -2532,6 +2532,9 @@ calendar weekday	We	பு
 	“{name}” is protected. Enter a password to open it.	“{name}” பாதுகாக்கப்பட்டுள்ளது. திறக்க கடவுச்சொல்லை உள்ளிடவும்.
 	… and {n} more	… மேலும் {n}
 	−LOC	−LOC
+	This document's script is asking	இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது
+	Document: {name}	ஆவணம்: {name}
+	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	இந்தக் கோரிக்கை PdfCraft-இலிருந்து அல்ல, ஆவணத்திலிருந்து வருகிறது. இந்த ஆவணத்தை நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்.
 	Accept	ஏற்றுக்கொள்
 	Bleed	வெட்டு விளிம்பு
 	CMYK	CMYK
@@ -2743,9 +2746,6 @@ document scrollbar width	Standard	நிலையான
 	Lock into the page when saving	சேமிக்கும்போது பக்கத்துடன் பூட்டு
 	Show tab numbers	தாவல் எண்களைக் காட்டு
 	The document changed. Reopen Document Properties to edit the current version.	ஆவணம் மாறிவிட்டது. தற்போதைய பதிப்பைத் திருத்த, ஆவணப் பண்புகளை மீண்டும் திறக்கவும்.
-	Document: {name}	ஆவணம்: {name}
-	This document's script is asking	இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது
-	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	இந்தக் கோரிக்கை PdfCraft-இடமிருந்து அல்ல, ஆவணத்திடமிருந்து வருகிறது. இந்த ஆவணத்தை நீங்கள் நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்.
 review-suggestion	Replacement text	மாற்றீட்டு உரை
 	Delete comments	கருத்துகளை நீக்கு
 	Move comments	கருத்துகளை நகர்த்து

@@ -2785,3 +2785,36 @@ preview	Title	தலைப்பு
 	Linux display server	Linux காட்சிச் சேவையகம்
 	Display server:	காட்சிச் சேவையகம்:
 	Applies the next time WordCraft starts.	அடுத்த முறை WordCraft தொடங்கும்போது நடைமுறைக்கு வரும்.
+	Automatically as you type	தட்டச்சு செய்யும்போதே தானாக
+	Booklets: duplex on the short edge. Blank pages are added at the end.	சிறு புத்தகங்கள்: குறுகிய விளிம்பில் இருபக்க அச்சு. இறுதியில் வெற்றுப் பக்கங்கள் சேர்க்கப்படும்.
+	Cancel printing	அச்சிடலை ரத்துசெய்
+	Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there.	ரத்துசெய்தலை இங்கே உறுதிப்படுத்த முடியவில்லை. அச்சுப்பொறி இயக்கி இன்னும் அந்தப் பணியைச் செயலாக்கிக்கொண்டிருக்கலாம். அது கணினியின் அச்சு வரிசையில் தெரிந்தால், அங்கே ரத்துசெய்யவும்.
+	Column Edge	நெடுவரிசை விளிம்பு
+	Could not save the preferences: {error}	விருப்பத்தேர்வுகளைச் சேமிக்க முடியவில்லை: {error}
+	Hidden text is not shown unless you display it.	நீங்கள் காண்பிக்கும் வரை மறைக்கப்பட்ட உரை தெரியாது.
+	Next sheet	அடுத்த தாள்
+	Not installed — shown as	நிறுவப்படவில்லை — காட்டப்படும் எழுத்துரு:
+	Pages per sheet	ஒரு தாளுக்குப் பக்கங்கள்
+	Previous sheet	முந்தைய தாள்
+	Printing cancelled. Nothing was sent to the printer.	அச்சிடல் ரத்துசெய்யப்பட்டது. அச்சுப்பொறிக்கு எதுவும் அனுப்பப்படவில்லை.
+	Removed {count} documents from the recent list	சமீபத்திய பட்டியலிலிருந்து {count} ஆவணங்கள் நீக்கப்பட்டன
+	Removed {name} from the recent list	சமீபத்திய பட்டியலிலிருந்து {name} நீக்கப்பட்டது
+	Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence.	திரைக்கு மட்டும். ஆவணப் பின்னணிகள், அச்சிடல், ஏற்றுமதிகள் ஆகியவை தங்கள் நிறங்களை வைத்திருக்கும். இருண்ட பக்கமும் வெளிப்படையாக அமைத்த வாசிப்புப் பயன்முறை நிறங்களும் முன்னுரிமை பெறும்.
+	Screen paper color:	திரைத் தாள் நிறம்:
+	Shape color	வடிவ நிறம்
+	Sheet {page} of {pages}	தாள் {page} / {pages}
+	Shown in substitute fonts. Click for details.	மாற்று எழுத்துருக்களில் காட்டப்படுகிறது. விவரங்களுக்குச் சொடுக்கவும்.
+	Status bar	நிலைப்பட்டி
+	Status bar count:	நிலைப்பட்டி எண்ணிக்கை:
+	Style Color	பாணி நிறம்
+	Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it.	இந்தச் சாளரத்தில் புதுப்பிப்புகள் முடக்கப்பட்டுள்ளன: WordCraft வேறொரு நிரலின் AppImage அமைப்புகளுடன் தொடங்கப்பட்டது. அதைப் புதுப்பிக்க, WordCraft-ஐ அதன் சொந்த மெனு உருப்படியிலிருந்து தொடங்கவும்.
+	You can also right-click the count in the status bar to change it.	இதை மாற்ற, நிலைப்பட்டியில் உள்ள எண்ணிக்கையை வலது-சொடுக்கவும் செய்யலாம்.
+	{chars} characters	{chars} எழுத்துகள்
+	{chars} characters (no spaces)	{chars} எழுத்துகள் (இடைவெளிகள் இல்லாமல்)
+	{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list.	{font} இந்தக் கணினியில் நிறுவப்படவில்லை, எனவே அதன் உரை {shown} இல் காட்டப்படுகிறது. ஆவணம் உருவாக்கப்பட்ட இடத்திலிருந்து வரி முறிவுகளும் பக்க எண்ணிக்கையும் மாறுபடலாம். எழுத்துருக் கோப்பு உங்களிடம் இருந்தால், இந்தப் பட்டியலின் இறுதியில் உள்ள “எழுத்துருவைச் சேர்…” மூலம் அதைச் சேர்க்கவும்.
+	{language}: {file}	{language}: {file}
+	{name}   {height} × {width} in	{name}   {height} × {width} in
+	{name}   {height} × {width} mm	{name}   {height} × {width} mm
+	{selected} of {chars} characters	{chars} இல் {selected} எழுத்துகள்
+	{selected} of {chars} characters (no spaces)	{chars} இல் {selected} எழுத்துகள் (இடைவெளிகள் இல்லாமல்)
+	{width} × {height} mm	{width} × {height} mm

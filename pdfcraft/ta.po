@@ -4342,7 +4342,7 @@ msgid "Files you open in PdfCraft appear here. Drop a PDF anywhere to open it."
 msgstr "PdfCraft-இல் நீங்கள் திறக்கும் கோப்புகள் இங்கே தோன்றும். PDF-ஐ எங்கேயும் இழுத்துவிட்டால் திறக்கும்."
 
 msgid "Fill & Sign"
-msgstr "Fill & Sign"
+msgstr "பூர்த்தி செய்து கையொப்பமிடு"
 
 msgid "Fill & Sign dates"
 msgstr "Fill & Sign தேதிகள்"
@@ -8173,10 +8173,10 @@ msgid "Protect a PDF"
 msgstr "PDF-ஐப் பாதுகா"
 
 msgid "Protect Using Password"
-msgstr "கடவுச்சொல்லால் பாதுகா"
+msgstr "கடவுச்சொல்லைப் பயன்படுத்திப் பாதுகாக்கவும்"
 
 msgid "Protect using password…"
-msgstr "கடவுச்சொல் மூலம் பாதுகா…"
+msgstr "கடவுச்சொல்லைப் பயன்படுத்திப் பாதுகாக்கவும்…"
 
 msgid "Protect with password"
 msgstr "கடவுச்சொல்லால் பாதுகா"
@@ -9398,10 +9398,10 @@ msgid "Scale relative to target page"
 msgstr "இலக்குப் பக்கத்துடன் ஒப்பிட்ட அளவு"
 
 msgid "Scan"
-msgstr "ஸ்கேன்"
+msgstr "வருடி"
 
 msgid "Scan & OCR"
-msgstr "ஸ்கேன் & OCR"
+msgstr "வருடி & எழுத்துணர்"
 
 msgid "Scan and text recognition"
 msgstr ""

@@ -679,6 +679,9 @@ msgstr ""
 msgid "Automatically add words to list (INitial CAps)"
 msgstr ""
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "문서에 자동 하이픈 넣기"
 
@@ -841,6 +844,9 @@ msgstr "책 제목"
 msgid "Book title"
 msgstr "도서 제목"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "책갈피"
 
@@ -990,6 +996,12 @@ msgstr "첫 줄에서는 나눌 수 없습니다"
 
 msgid "Canada"
 msgstr "캐나다"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "캔버스 구성원"
@@ -1408,6 +1420,9 @@ msgstr "열"
 msgid "Column Break"
 msgstr "단 나누기"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "열 선택"
 
@@ -1638,6 +1653,9 @@ msgid "Cotangent Function"
 msgstr "코탄젠트 함수"
 
 msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Could not save the preferences: {error}"
 msgstr ""
 
 msgid "Couldn't download {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "안녕하세요! 글쓰기 도우미 Nib이에요. 팁, 바로 가기 �
 msgid "Hidden bookmarks"
 msgstr "숨은 책갈피"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "코드 숨기기"
 
@@ -4579,6 +4600,9 @@ msgstr "다음 문장"
 msgid "Next sentence"
 msgstr "다음 문장"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib은 팁과 가끔 한마디를 건네며 창 위에 떠 있습니다."
 
@@ -4754,6 +4778,9 @@ msgid "Not equal to"
 msgstr "같지 않음"
 
 msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not installed — shown as"
 msgstr ""
 
 msgid "Not linked: click a text box"
@@ -5162,6 +5189,9 @@ msgstr "페이지 범위(예: 1-3, 5)"
 msgid "Pages of bookmark:"
 msgstr "책갈피 페이지:"
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "파나마"
 
@@ -5417,6 +5447,9 @@ msgstr "이전 문장"
 msgid "Previous sentence"
 msgstr "이전 문장"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "문서 인쇄"
 
@@ -5461,6 +5494,9 @@ msgstr "프린터 기본값"
 
 msgid "Printer discovery failed."
 msgstr "프린터 검색에 실패했습니다."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "이 문서의 개인 정보"
@@ -5786,6 +5822,12 @@ msgstr "문장 부호 앞의 공백을 제거하세요"
 msgid "Remove Watermark"
 msgstr "워터마크 제거"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "문서 이름 바꾸기"
 
@@ -6086,6 +6128,12 @@ msgstr ""
 msgid "Scatter"
 msgstr "분산형"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "스크립트"
 
@@ -6374,6 +6422,9 @@ msgstr "음영"
 msgid "Shadow, glow and soft edges"
 msgstr "그림자, 광채 및 부드러운 가장자리"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "도형 채우기"
 
@@ -6385,6 +6436,9 @@ msgstr "도형 윤곽선"
 
 msgid "Shape Styles"
 msgstr "도형 스타일"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "메모\n표시"
 
 msgid "Showing the first {count} items."
 msgstr "처음 {count}개 항목 표시 중"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "항목 아래에 해당 항목의 하위 항목을 배치해 트리 구조로 표시합니다."
@@ -6869,6 +6926,12 @@ msgstr "주/도"
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "아직 계세요? 생각하는 소리가 들려요."
 
@@ -6910,6 +6973,9 @@ msgstr "스튜디오 핸드북 (샘플)"
 
 msgid "Style based on:"
 msgstr "기준 스타일:"
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "스타일 검사기"
@@ -7788,6 +7854,9 @@ msgstr "선택 영역에 맞게 업데이트"
 msgid "Update to Match Selection"
 msgstr "선택 영역에 맞게 업데이트"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr "긴급"
 
@@ -8064,6 +8133,9 @@ msgstr "연도"
 msgid "Yields"
 msgstr "결과"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "한동안 저장하지 않으셨고 자동 저장도 꺼져 있어요. 지금 저장할까요?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; 읽을 수 없는 파일 {count}개: {names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; {n}개 건너뜀 (한도 {max})"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "{cols}×{rows} 표"
 
@@ -8119,6 +8197,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "받는 사람 {total} 명 중 {count} 명을 병합합니다."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
@@ -8218,6 +8299,12 @@ msgid "{n} pt"
 msgstr "{n} pt"
 
 msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
 msgstr ""
 
 msgid "{selected} of {words} words"

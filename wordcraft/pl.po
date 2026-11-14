@@ -679,6 +679,9 @@ msgstr "Automatycznie dodawaj wyrazy do listy (Pierwsza litera)"
 msgid "Automatically add words to list (INitial CAps)"
 msgstr "Automatycznie dodawaj wyrazy do listy (DWie POczątkowe WIelkie)"
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "Automatycznie dziel wyrazy w dokumencie"
 
@@ -841,6 +844,9 @@ msgstr "Tytuł książki"
 msgid "Book title"
 msgstr "Tytuł książki"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "Zakładka"
 
@@ -990,6 +996,12 @@ msgstr "nie można podzielić tabeli na pierwszym wierszu"
 
 msgid "Canada"
 msgstr "Kanada"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "Element kanwy"
@@ -1408,6 +1420,9 @@ msgstr "Kolumna"
 msgid "Column Break"
 msgstr "Podział kolumny"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "Zaznaczanie kolumnowe"
 
@@ -1638,6 +1653,9 @@ msgid "Cotangent Function"
 msgstr "Funkcja cotangens"
 
 msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Could not save the preferences: {error}"
 msgstr ""
 
 msgid "Couldn't download {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "Cześć! Jestem Nib, Twój asystent pisania. Podsuwam wskazówki, skrót
 msgid "Hidden bookmarks"
 msgstr "Ukryte zakładki"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "Ukryj kody"
 
@@ -4579,6 +4600,9 @@ msgstr "Następne zdanie"
 msgid "Next sentence"
 msgstr "Następne zdanie"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib unosi się nad oknem z poradami i od czasu do czasu jakąś uwagą."
 
@@ -4754,6 +4778,9 @@ msgid "Not equal to"
 msgstr "Różne od"
 
 msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not installed — shown as"
 msgstr ""
 
 msgid "Not linked: click a text box"
@@ -5162,6 +5189,9 @@ msgstr "Strony, np. 1-3, 5"
 msgid "Pages of bookmark:"
 msgstr "Strony zakładki:"
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "Panama"
 
@@ -5417,6 +5447,9 @@ msgstr "Poprzednie zdanie"
 msgid "Previous sentence"
 msgstr "Poprzednie zdanie"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "Drukuj dokumenty"
 
@@ -5461,6 +5494,9 @@ msgstr "Domyślne drukarki"
 
 msgid "Printer discovery failed."
 msgstr "Nie udało się znaleźć drukarek."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "Prywatność tego dokumentu"
@@ -5786,6 +5822,12 @@ msgstr "Usuń spację przed znakiem interpunkcyjnym"
 msgid "Remove Watermark"
 msgstr "Usuń znak wodny"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "Zmień nazwę dokumentu"
 
@@ -6086,6 +6128,12 @@ msgstr "Skaluj do rozmiaru papieru"
 msgid "Scatter"
 msgstr "Punktowy"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "Indeks"
 
@@ -6374,6 +6422,9 @@ msgstr "Cieniowanie"
 msgid "Shadow, glow and soft edges"
 msgstr "Cień, poświata i zmiękczone krawędzie"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "Wypełnienie kształtu"
 
@@ -6385,6 +6436,9 @@ msgstr "Kontur kształtu"
 
 msgid "Shape Styles"
 msgstr "Style kształtu"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "Pokaż\nkomentarze"
 
 msgid "Showing the first {count} items."
 msgstr "Pokazano pierwsze elementy: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Pokazuje drzewo: każdy element pod elementem, do którego należy."
@@ -6869,6 +6926,12 @@ msgstr "Województwo/stan"
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "Jesteś tam jeszcze? Słyszę, jak myślisz."
 
@@ -6910,6 +6973,9 @@ msgstr "Podręcznik Studio (przykład)"
 
 msgid "Style based on:"
 msgstr "Styl bazuje na:"
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "Inspektor stylów"
@@ -7788,6 +7854,9 @@ msgstr "Aktualizuj, aby pasował"
 msgid "Update to Match Selection"
 msgstr "Aktualizuj, aby pasował do zaznaczenia"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr "PILNE"
 
@@ -8064,6 +8133,9 @@ msgstr "Rok"
 msgid "Yields"
 msgstr "Daje w wyniku"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Od dawna nic nie zapisano, a Autozapis jest wyłączony. Zapisać teraz?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; nie udało się odczytać ({count}): {names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; pominięto: {n} (limit {max})"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "Tabela {cols}×{rows}"
 
@@ -8119,6 +8197,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Adresaci do scalenia: {count} z {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
@@ -8219,6 +8300,12 @@ msgstr "{n} pt"
 
 msgid "{paper}   {width} × {height}"
 msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
+msgstr ""
 
 msgid "{selected} of {words} words"
 msgstr "Słowa: {selected} z {words}"

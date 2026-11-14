@@ -679,6 +679,9 @@ msgstr "Lägg automatiskt till ord i listan (Första bokstaven)"
 msgid "Automatically add words to list (INitial CAps)"
 msgstr "Lägg automatiskt till ord i listan (INledande VErsaler)"
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "Avstava dokumentet automatiskt"
 
@@ -841,6 +844,9 @@ msgstr "Boktitel"
 msgid "Book title"
 msgstr "Boktitel"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "Bokmärke"
 
@@ -990,6 +996,12 @@ msgstr "kan inte dela vid första raden"
 
 msgid "Canada"
 msgstr "Kanada"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "Del av ritytan"
@@ -1408,6 +1420,9 @@ msgstr "Kolumn"
 msgid "Column Break"
 msgstr "Kolumnbrytning"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "Kolumnmarkering"
 
@@ -1639,6 +1654,9 @@ msgstr "Cotangensfunktion"
 
 msgid "Could not check for updates:\n{error}"
 msgstr "Det gick inte att söka efter uppdateringar:\n{error}"
+
+msgid "Could not save the preferences: {error}"
+msgstr ""
 
 msgid "Couldn't download {name}: {error}"
 msgstr "Det gick inte att ladda ner {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "Hej! Jag är Nib, din skrivassistent. Jag bjuder på tips, kortkommandon
 msgid "Hidden bookmarks"
 msgstr "Dolda bokmärken"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "Dölj koder"
 
@@ -4579,6 +4600,9 @@ msgstr "Nästa mening"
 msgid "Next sentence"
 msgstr "Nästa mening"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib svävar över fönstret med tips och en och annan kommentar."
 
@@ -4755,6 +4779,9 @@ msgstr "Inte lika med"
 
 msgid "Not in Dictionary"
 msgstr "Finns inte i ordlistan"
+
+msgid "Not installed — shown as"
+msgstr ""
 
 msgid "Not linked: click a text box"
 msgstr "Inte länkad: klicka på en textruta"
@@ -5162,6 +5189,9 @@ msgstr "Sidor som 1-3, 5"
 msgid "Pages of bookmark:"
 msgstr "Bokmärkets sidor:"
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "Panama"
 
@@ -5417,6 +5447,9 @@ msgstr "Föregående mening"
 msgid "Previous sentence"
 msgstr "Föregående mening"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "Skriv ut dokument"
 
@@ -5461,6 +5494,9 @@ msgstr "Skrivarens standard"
 
 msgid "Printer discovery failed."
 msgstr "Det gick inte att söka efter skrivare."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "Sekretess för det här dokumentet"
@@ -5786,6 +5822,12 @@ msgstr "Ta bort blanksteget före skiljetecknet"
 msgid "Remove Watermark"
 msgstr "Ta bort vattenstämpel"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "Byt namn på dokument"
 
@@ -6086,6 +6128,12 @@ msgstr "Anpassa till pappersstorlek"
 msgid "Scatter"
 msgstr "Punktdiagram"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "Index"
 
@@ -6374,6 +6422,9 @@ msgstr "Skuggning"
 msgid "Shadow, glow and soft edges"
 msgstr "Skugga, glöd och mjuka kanter"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "Figurfyllning"
 
@@ -6385,6 +6436,9 @@ msgstr "Figurkontur"
 
 msgid "Shape Styles"
 msgstr "Figurstilar"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "Visa\nkommentarer"
 
 msgid "Showing the first {count} items."
 msgstr "Visar de första {count} objekten."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Visar ett träd: varje objekt under det objekt det hör till."
@@ -6869,6 +6926,12 @@ msgstr "Region"
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5,50\" × 8,50\""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "Är du kvar? Jag hör dig tänka."
 
@@ -6910,6 +6973,9 @@ msgstr "Studiohandbok (exempel)"
 
 msgid "Style based on:"
 msgstr "Stil baserad på:"
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "Stilinspektör"
@@ -7788,6 +7854,9 @@ msgstr "Uppdatera så att den matchar"
 msgid "Update to Match Selection"
 msgstr "Uppdatera så att den matchar markeringen"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr "BRÅDSKANDE"
 
@@ -8064,6 +8133,9 @@ msgstr "År"
 msgid "Yields"
 msgstr "Ger"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Du har inte sparat på ett tag, och Autospara är av. Spara nu?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; {count} kunde inte läsas: {names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; {n} hoppades över (gräns {max})"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "Tabell {cols}×{rows}"
 
@@ -8120,6 +8198,9 @@ msgstr "{count} av {total} mottagare kopplas."
 
 msgid "{field}, record {n}"
 msgstr "{field}, post {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
 
 msgid "{group} settings"
 msgstr "Inställningar för {group}"
@@ -8219,6 +8300,12 @@ msgstr "{n} pt"
 
 msgid "{paper}   {width} × {height}"
 msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
+msgstr ""
 
 msgid "{selected} of {words} words"
 msgstr "{selected} av {words} ord"

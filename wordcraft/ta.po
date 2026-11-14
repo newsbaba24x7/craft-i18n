@@ -679,6 +679,9 @@ msgstr "பட்டியலில் சொற்களைத் தானா�
 msgid "Automatically add words to list (INitial CAps)"
 msgstr "பட்டியலில் சொற்களைத் தானாகச் சேர் (தொடக்க இரு பெரிய எழுத்துகள்)"
 
+msgid "Automatically as you type"
+msgstr "தட்டச்சு செய்யும்போதே தானாக"
+
 msgid "Automatically hyphenate document"
 msgstr "ஆவணத்தைத் தானாகச் சொற்பிரிப்பு செய்"
 
@@ -841,6 +844,9 @@ msgstr "நூல் தலைப்பு"
 msgid "Book title"
 msgstr "நூலின் தலைப்பு"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr "சிறு புத்தகங்கள்: குறுகிய விளிம்பில் இருபக்க அச்சு. இறுதியில் வெற்றுப் பக்கங்கள் சேர்க்கப்படும்."
+
 msgid "Bookmark"
 msgstr "புத்தகக்குறி"
 
@@ -990,6 +996,12 @@ msgstr "முதல் வரிசையில் பிரிக்க மு
 
 msgid "Canada"
 msgstr "கனடா"
+
+msgid "Cancel printing"
+msgstr "அச்சிடலை ரத்துசெய்"
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr "ரத்துசெய்தலை இங்கே உறுதிப்படுத்த முடியவில்லை. அச்சுப்பொறி இயக்கி இன்னும் அந்தப் பணியைச் செயலாக்கிக்கொண்டிருக்கலாம். அது கணினியின் அச்சு வரிசையில் தெரிந்தால், அங்கே ரத்துசெய்யவும்."
 
 msgid "Canvas Member"
 msgstr "வரைதல் தள உறுப்பு"
@@ -1408,6 +1420,9 @@ msgstr "நெடுவரிசை"
 msgid "Column Break"
 msgstr "நெடுவரிசை முறிவு"
 
+msgid "Column Edge"
+msgstr "நெடுவரிசை விளிம்பு"
+
 msgid "Column Selection"
 msgstr "நெடுவரிசைத் தேர்வு"
 
@@ -1639,6 +1654,9 @@ msgstr "கொடேன்ஜென்ட் சார்பு"
 
 msgid "Could not check for updates:\n{error}"
 msgstr "புதுப்பிப்புகளைச் சரிபார்க்க முடியவில்லை:\n{error}"
+
+msgid "Could not save the preferences: {error}"
+msgstr "விருப்பத்தேர்வுகளைச் சேமிக்க முடியவில்லை: {error}"
 
 msgid "Couldn't download {name}: {error}"
 msgstr "{name} ஐப் பதிவிறக்க முடியவில்லை: {error}"
@@ -3113,6 +3131,9 @@ msgstr "வணக்கம்! நான் Nib, உங்கள் எழுத
 msgid "Hidden bookmarks"
 msgstr "மறைக்கப்பட்ட புத்தகக்குறிகள்"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr "நீங்கள் காண்பிக்கும் வரை மறைக்கப்பட்ட உரை தெரியாது."
+
 msgid "Hide Codes"
 msgstr "குறியீடுகளை மறை"
 
@@ -4579,6 +4600,9 @@ msgstr "அடுத்த வாக்கியம்"
 msgid "Next sentence"
 msgstr "அடுத்த வாக்கியம்"
 
+msgid "Next sheet"
+msgstr "அடுத்த தாள்"
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib உதவிக்குறிப்புகளுடனும் அவ்வப்போது சில கருத்துகளுடனும் சாளரத்தின் மேல் மிதக்கும்."
 
@@ -4755,6 +4779,9 @@ msgstr "இதற்குச் சமமில்லை"
 
 msgid "Not in Dictionary"
 msgstr "அகராதியில் இல்லை"
+
+msgid "Not installed — shown as"
+msgstr "நிறுவப்படவில்லை — காட்டப்படும் எழுத்துரு:"
 
 msgid "Not linked: click a text box"
 msgstr "இணைக்கப்படவில்லை: ஒரு உரைப் பெட்டியைக் கிளிக் செய்யவும்"
@@ -5162,6 +5189,9 @@ msgstr "1-3, 5 போன்ற பக்கங்கள்"
 msgid "Pages of bookmark:"
 msgstr "புத்தகக்குறியின் பக்கங்கள்:"
 
+msgid "Pages per sheet"
+msgstr "ஒரு தாளுக்குப் பக்கங்கள்"
+
 msgid "Panama"
 msgstr "பனாமா"
 
@@ -5417,6 +5447,9 @@ msgstr "முந்தைய வாக்கியம்"
 msgid "Previous sentence"
 msgstr "முந்தைய வாக்கியம்"
 
+msgid "Previous sheet"
+msgstr "முந்தைய தாள்"
+
 msgid "Print Documents"
 msgstr "ஆவணங்களை அச்சிடு"
 
@@ -5461,6 +5494,9 @@ msgstr "அச்சுப்பொறி இயல்புநிலை"
 
 msgid "Printer discovery failed."
 msgstr "அச்சுப்பொறிகளைக் கண்டறிவது தோல்வியடைந்தது."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr "அச்சிடல் ரத்துசெய்யப்பட்டது. அச்சுப்பொறிக்கு எதுவும் அனுப்பப்படவில்லை."
 
 msgid "Privacy for this document"
 msgstr "இந்த ஆவணத்திற்கான தனியுரிமை"
@@ -5786,6 +5822,12 @@ msgstr "நிறுத்தற்குறிக்கு முன் உள�
 msgid "Remove Watermark"
 msgstr "நீர்க்குறியை நீக்கு"
 
+msgid "Removed {count} documents from the recent list"
+msgstr "சமீபத்திய பட்டியலிலிருந்து {count} ஆவணங்கள் நீக்கப்பட்டன"
+
+msgid "Removed {name} from the recent list"
+msgstr "சமீபத்திய பட்டியலிலிருந்து {name} நீக்கப்பட்டது"
+
 msgid "Rename Document"
 msgstr "ஆவணத்தின் பெயரை மாற்று"
 
@@ -6086,6 +6128,12 @@ msgstr "காகித அளவுக்கு அளவிடு"
 msgid "Scatter"
 msgstr "சிதறல்"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr "திரைக்கு மட்டும். ஆவணப் பின்னணிகள், அச்சிடல், ஏற்றுமதிகள் ஆகியவை தங்கள் நிறங்களை வைத்திருக்கும். இருண்ட பக்கமும் வெளிப்படையாக அமைத்த வாசிப்புப் பயன்முறை நிறங்களும் முன்னுரிமை பெறும்."
+
+msgid "Screen paper color:"
+msgstr "திரைத் தாள் நிறம்:"
+
 msgid "Script"
 msgstr "ஸ்கிரிப்ட்"
 
@@ -6374,6 +6422,9 @@ msgstr "நிழலிடல்"
 msgid "Shadow, glow and soft edges"
 msgstr "நிழல், ஒளிர்வு மற்றும் மென் விளிம்புகள்"
 
+msgid "Shape color"
+msgstr "வடிவ நிறம்"
+
 msgid "Shape Fill"
 msgstr "வடிவ நிரப்பு"
 
@@ -6385,6 +6436,9 @@ msgstr "வடிவ வெளிக்கோடு"
 
 msgid "Shape Styles"
 msgstr "வடிவப் பாணிகள்"
+
+msgid "Sheet {page} of {pages}"
+msgstr "தாள் {page} / {pages}"
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr "Shift+Enter புதிய பத்தியைத் தொடங்காமல் புதிய வரியைத் தொடங்கும்."
@@ -6535,6 +6589,9 @@ msgstr "கருத்துகளைக்\nகாட்டு"
 
 msgid "Showing the first {count} items."
 msgstr "முதல் {count} உருப்படிகள் காண்பிக்கப்படுகின்றன."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr "மாற்று எழுத்துருக்களில் காட்டப்படுகிறது. விவரங்களுக்குச் சொடுக்கவும்."
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "ஒரு மர அமைப்பைக் காட்டும்: ஒவ்வொரு உருப்படியும் அது சேர்ந்த உருப்படிக்குக் கீழே இருக்கும்."
@@ -6869,6 +6926,12 @@ msgstr "மாநிலம்"
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr "நிலைப்பட்டி"
+
+msgid "Status bar count:"
+msgstr "நிலைப்பட்டி எண்ணிக்கை:"
+
 msgid "Still there? I can hear you thinking."
 msgstr "இன்னும் இருக்கிறீர்களா? நீங்கள் யோசிப்பது எனக்குக் கேட்கிறது."
 
@@ -6910,6 +6973,9 @@ msgstr "கலைக்கூடக் கையேடு (மாதிரி)"
 
 msgid "Style based on:"
 msgstr "அடிப்படைப் பாணி:"
+
+msgid "Style Color"
+msgstr "பாணி நிறம்"
 
 msgid "Style Inspector"
 msgstr "பாணி ஆய்வி"
@@ -7788,6 +7854,9 @@ msgstr "பொருந்தும்படி புதுப்பி"
 msgid "Update to Match Selection"
 msgstr "தேர்வுக்குப் பொருந்தும்படி புதுப்பி"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr "இந்தச் சாளரத்தில் புதுப்பிப்புகள் முடக்கப்பட்டுள்ளன: WordCraft வேறொரு நிரலின் AppImage அமைப்புகளுடன் தொடங்கப்பட்டது. அதைப் புதுப்பிக்க, WordCraft-ஐ அதன் சொந்த மெனு உருப்படியிலிருந்து தொடங்கவும்."
+
 msgid "URGENT"
 msgstr "அவசரம்"
 
@@ -8064,6 +8133,9 @@ msgstr "ஆண்டு"
 msgid "Yields"
 msgstr "தருகிறது"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr "இதை மாற்ற, நிலைப்பட்டியில் உள்ள எண்ணிக்கையை வலது-சொடுக்கவும் செய்யலாம்."
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "நீங்கள் சிறிது நேரமாகச் சேமிக்கவில்லை, தானியங்கிச் சேமிப்பும் முடக்கத்தில் உள்ளது. இப்போது சேமிக்கவா?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; {count} கோப்புகளைப் படிக்க �
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; {n} தவிர்க்கப்பட்டன (வரம்பு {max})"
 
+msgid "{chars} characters"
+msgstr "{chars} எழுத்துகள்"
+
+msgid "{chars} characters (no spaces)"
+msgstr "{chars} எழுத்துகள் (இடைவெளிகள் இல்லாமல்)"
+
 msgid "{cols}×{rows} Table"
 msgstr "{cols}×{rows} அட்டவணை"
 
@@ -8120,6 +8198,9 @@ msgstr "{total} பெறுநர்களில் {count} ஒன்றிண�
 
 msgid "{field}, record {n}"
 msgstr "{field}, பதிவு {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr "{font} இந்தக் கணினியில் நிறுவப்படவில்லை, எனவே அதன் உரை {shown} இல் காட்டப்படுகிறது. ஆவணம் உருவாக்கப்பட்ட இடத்திலிருந்து வரி முறிவுகளும் பக்க எண்ணிக்கையும் மாறுபடலாம். எழுத்துருக் கோப்பு உங்களிடம் இருந்தால், இந்தப் பட்டியலின் இறுதியில் உள்ள “எழுத்துருவைச் சேர்…” மூலம் அதைச் சேர்க்கவும்."
 
 msgid "{group} settings"
 msgstr "{group} அமைப்புகள்"
@@ -8176,7 +8257,7 @@ msgid "{language}: WordCraft doesn't check spelling or grammar in this language 
 msgstr "{language}: WordCraft இந்த மொழியில் இன்னும் எழுத்துக்கூட்டலையோ இலக்கணத்தையோ சரிபார்ப்பதில்லை."
 
 msgid "{language}: {file}"
-msgstr ""
+msgstr "{language}: {file}"
 
 msgid "{language}: {file} (unreadable: {reason})"
 msgstr "{language}: {file} (படிக்க முடியவில்லை: {reason})"
@@ -8185,10 +8266,10 @@ msgid "{names} and {n} more"
 msgstr "{names} மற்றும் மேலும் {n}"
 
 msgid "{name}   {height} × {width} in"
-msgstr ""
+msgstr "{name}   {height} × {width} in"
 
 msgid "{name}   {height} × {width} mm"
-msgstr ""
+msgstr "{name}   {height} × {width} mm"
 
 msgid "{name} already exists. Choose Save again to replace it."
 msgstr "{name} ஏற்கனவே உள்ளது. அதை மேலெழுத மீண்டும் சேமி என்பதைத் தேர்ந்தெடுக்கவும்."
@@ -8220,6 +8301,12 @@ msgstr "{n} pt"
 msgid "{paper}   {width} × {height}"
 msgstr "{paper}   {width} × {height}"
 
+msgid "{selected} of {chars} characters"
+msgstr "{chars} இல் {selected} எழுத்துகள்"
+
+msgid "{selected} of {chars} characters (no spaces)"
+msgstr "{chars} இல் {selected} எழுத்துகள் (இடைவெளிகள் இல்லாமல்)"
+
 msgid "{selected} of {words} words"
 msgstr "{words} சொற்களில் {selected}"
 
@@ -8227,7 +8314,7 @@ msgid "{size} pt"
 msgstr "{size} pt"
 
 msgid "{width} × {height} mm"
-msgstr ""
+msgstr "{width} × {height} mm"
 
 msgid "{width} × {height} pixels"
 msgstr "{width} × {height} பிக்சல்கள்"

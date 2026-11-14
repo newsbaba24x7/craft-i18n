@@ -679,6 +679,9 @@ msgstr "הוספה אוטומטית של מילים לרשימה (אות ראש�
 msgid "Automatically add words to list (INitial CAps)"
 msgstr "הוספה אוטומטית של מילים לרשימה (שתי אותיות רישיות)"
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "מיקוף אוטומטי של המסמך"
 
@@ -841,6 +844,9 @@ msgstr "כותר ספר"
 msgid "Book title"
 msgstr "כותר הספר"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "סימנייה"
 
@@ -990,6 +996,12 @@ msgstr "אי אפשר לפצל בשורה הראשונה"
 
 msgid "Canada"
 msgstr "קנדה"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "רכיב בקנבס"
@@ -1408,6 +1420,9 @@ msgstr "עמודה"
 msgid "Column Break"
 msgstr "מעבר עמודה"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "בחירת עמודה"
 
@@ -1638,6 +1653,9 @@ msgid "Cotangent Function"
 msgstr "פונקציית קוטנגנס"
 
 msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Could not save the preferences: {error}"
 msgstr ""
 
 msgid "Couldn't download {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "היי! אני Nib, עוזר הכתיבה שלך. אני מציע עצו
 msgid "Hidden bookmarks"
 msgstr "סימניות מוסתרות"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "הסתרת קודים"
 
@@ -4579,6 +4600,9 @@ msgstr "המשפט הבא"
 msgid "Next sentence"
 msgstr "המשפט הבא"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib מרחף מעל החלון עם עצות והערה פה ושם."
 
@@ -4754,6 +4778,9 @@ msgid "Not equal to"
 msgstr "שונה מ"
 
 msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not installed — shown as"
 msgstr ""
 
 msgid "Not linked: click a text box"
@@ -5162,6 +5189,9 @@ msgstr "עמודים כגון 1-3, 5"
 msgid "Pages of bookmark:"
 msgstr "עמודים של סימנייה:"
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "פנמה"
 
@@ -5417,6 +5447,9 @@ msgstr "המשפט הקודם"
 msgid "Previous sentence"
 msgstr "המשפט הקודם"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "הדפסת מסמכים"
 
@@ -5461,6 +5494,9 @@ msgstr "ברירת המחדל של המדפסת"
 
 msgid "Printer discovery failed."
 msgstr "חיפוש המדפסות נכשל."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "פרטיות עבור מסמך זה"
@@ -5786,6 +5822,12 @@ msgstr "הסרת הרווח שלפני סימן הפיסוק"
 msgid "Remove Watermark"
 msgstr "הסרת סימן מים"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "שינוי שם המסמך"
 
@@ -6086,6 +6128,12 @@ msgstr "התאמה לגודל הנייר"
 msgid "Scatter"
 msgstr "פיזור"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "כתב"
 
@@ -6374,6 +6422,9 @@ msgstr "הצללה"
 msgid "Shadow, glow and soft edges"
 msgstr "צל, זוהר וקצוות רכים"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "מילוי צורה"
 
@@ -6385,6 +6436,9 @@ msgstr "קו מתאר של צורה"
 
 msgid "Shape Styles"
 msgstr "סגנונות צורה"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "הצגת\nהערות"
 
 msgid "Showing the first {count} items."
 msgstr "מוצגים {count} הפריטים הראשונים."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "מציג עץ: כל פריט מתחת לפריט שאליו הוא שייך."
@@ -6869,6 +6926,12 @@ msgstr "מדינה"
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "עדיין שם? אני שומע אותך חושב."
 
@@ -6910,6 +6973,9 @@ msgstr "מדריך הסטודיו (דוגמה)"
 
 msgid "Style based on:"
 msgstr "סגנון מבוסס על:"
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "בודק הסגנונות"
@@ -7788,6 +7854,9 @@ msgstr "עדכון להתאמה"
 msgid "Update to Match Selection"
 msgstr "עדכון בהתאם לבחירה"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr "דחוף"
 
@@ -8064,6 +8133,9 @@ msgstr "שנה"
 msgid "Yields"
 msgstr "מניב"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "עבר זמן מאז השמירה האחרונה, והשמירה האוטומטית כבויה. לשמור עכשיו?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; לא ניתן היה לקרוא {count}: {names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; דולגו {n} (המגבלה היא {max})"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "טבלה {cols}×{rows}"
 
@@ -8119,6 +8197,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "ימוזגו {count} מתוך {total} נמענים."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
@@ -8218,6 +8299,12 @@ msgid "{n} pt"
 msgstr "{n} נק'"
 
 msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
 msgstr ""
 
 msgid "{selected} of {words} words"

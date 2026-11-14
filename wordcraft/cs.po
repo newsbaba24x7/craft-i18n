@@ -679,6 +679,9 @@ msgstr "Automaticky přidávat slova do seznamu (velké první písmeno)"
 msgid "Automatically add words to list (INitial CAps)"
 msgstr "Automaticky přidávat slova do seznamu (DVě POčáteční VElká písmena)"
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "Automaticky dělit slova v dokumentu"
 
@@ -841,6 +844,9 @@ msgstr "Název knihy"
 msgid "Book title"
 msgstr "Název knihy"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "Záložka"
 
@@ -990,6 +996,12 @@ msgstr "tabulku nelze rozdělit na prvním řádku"
 
 msgid "Canada"
 msgstr "Kanada"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "Prvek plátna"
@@ -1408,6 +1420,9 @@ msgstr "Sloupec"
 msgid "Column Break"
 msgstr "Konec sloupce"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "Sloupcový výběr"
 
@@ -1638,6 +1653,9 @@ msgid "Cotangent Function"
 msgstr "Kotangens"
 
 msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Could not save the preferences: {error}"
 msgstr ""
 
 msgid "Couldn't download {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "Ahoj! Jsem Nib, váš pomocník při psaní. Nabízím tipy, zkratky a o
 msgid "Hidden bookmarks"
 msgstr "Skryté záložky"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "Skrýt kódy"
 
@@ -4579,6 +4600,9 @@ msgstr "Další věta"
 msgid "Next sentence"
 msgstr "Další věta"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib se vznáší nad oknem s tipy a občasnou poznámkou."
 
@@ -4754,6 +4778,9 @@ msgid "Not equal to"
 msgstr "Nerovná se"
 
 msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not installed — shown as"
 msgstr ""
 
 msgid "Not linked: click a text box"
@@ -5162,6 +5189,9 @@ msgstr "Stránky, např. 1-3, 5"
 msgid "Pages of bookmark:"
 msgstr "Stránky záložky:"
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "Panama"
 
@@ -5417,6 +5447,9 @@ msgstr "Předchozí věta"
 msgid "Previous sentence"
 msgstr "Předchozí věta"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "Tisk dokumentů"
 
@@ -5461,6 +5494,9 @@ msgstr "Výchozí tiskárny"
 
 msgid "Printer discovery failed."
 msgstr "Hledání tiskáren se nezdařilo."
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "Soukromí tohoto dokumentu"
@@ -5786,6 +5822,12 @@ msgstr "Odstranit mezeru před interpunkcí"
 msgid "Remove Watermark"
 msgstr "Odebrat vodoznak"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "Přejmenovat dokument"
 
@@ -6086,6 +6128,12 @@ msgstr ""
 msgid "Scatter"
 msgstr "Bodový"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "Index"
 
@@ -6374,6 +6422,9 @@ msgstr "Stínování"
 msgid "Shadow, glow and soft edges"
 msgstr "Stín, záře a měkké okraje"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "Výplň tvaru"
 
@@ -6385,6 +6436,9 @@ msgstr "Obrys tvaru"
 
 msgid "Shape Styles"
 msgstr "Styly tvarů"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "Zobrazit\nkomentáře"
 
 msgid "Showing the first {count} items."
 msgstr "Zobrazuje se prvních {count} položek."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Zobrazí strom: každá položka je pod položkou, ke které patří."
@@ -6869,6 +6926,12 @@ msgstr "Stát/kraj"
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "Jste tam ještě? Slyším vás přemýšlet."
 
@@ -6910,6 +6973,9 @@ msgstr "Příručka studia (ukázka)"
 
 msgid "Style based on:"
 msgstr "Styl založený na:"
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "Inspektor stylů"
@@ -7788,6 +7854,9 @@ msgstr "Aktualizovat podle výběru"
 msgid "Update to Match Selection"
 msgstr "Aktualizovat podle výběru"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr "NALÉHAVÉ"
 
@@ -8064,6 +8133,9 @@ msgstr "Rok"
 msgid "Yields"
 msgstr "Dává"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Dlouho jste neukládali a Automatické ukládání je vypnuté. Uložit teď?"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}; nelze přečíst ({count}): {names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}; přeskočeno: {n} (limit {max})"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "Tabulka {cols}×{rows}"
 
@@ -8119,6 +8197,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Příjemci ke sloučení: {count} z {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
@@ -8219,6 +8300,12 @@ msgstr "{n} b."
 
 msgid "{paper}   {width} × {height}"
 msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
+msgstr ""
 
 msgid "{selected} of {words} words"
 msgstr "Počet slov: {words}; vybráno: {selected}"

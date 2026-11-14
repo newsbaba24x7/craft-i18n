@@ -679,6 +679,9 @@ msgstr ""
 msgid "Automatically add words to list (INitial CAps)"
 msgstr ""
 
+msgid "Automatically as you type"
+msgstr ""
+
 msgid "Automatically hyphenate document"
 msgstr "自动断字"
 
@@ -841,6 +844,9 @@ msgstr ""
 msgid "Book title"
 msgstr "书名"
 
+msgid "Booklets: duplex on the short edge. Blank pages are added at the end."
+msgstr ""
+
 msgid "Bookmark"
 msgstr "书签"
 
@@ -990,6 +996,12 @@ msgstr "无法在第一行处拆分表格"
 
 msgid "Canada"
 msgstr "加拿大"
+
+msgid "Cancel printing"
+msgstr ""
+
+msgid "Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there."
+msgstr ""
 
 msgid "Canvas Member"
 msgstr "画布成员"
@@ -1408,6 +1420,9 @@ msgstr "栏"
 msgid "Column Break"
 msgstr "分栏符"
 
+msgid "Column Edge"
+msgstr ""
+
 msgid "Column Selection"
 msgstr "矩形选择"
 
@@ -1638,6 +1653,9 @@ msgid "Cotangent Function"
 msgstr ""
 
 msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Could not save the preferences: {error}"
 msgstr ""
 
 msgid "Couldn't download {name}: {error}"
@@ -3113,6 +3131,9 @@ msgstr "你好！我是 Nib，你的写作助手。我会提供提示、快捷�
 msgid "Hidden bookmarks"
 msgstr "隐藏书签"
 
+msgid "Hidden text is not shown unless you display it."
+msgstr ""
+
 msgid "Hide Codes"
 msgstr "隐藏代码"
 
@@ -4579,6 +4600,9 @@ msgstr "下一句"
 msgid "Next sentence"
 msgstr "下一句"
 
+msgid "Next sheet"
+msgstr ""
+
 msgid "Nib floats over the window with tips and the occasional remark."
 msgstr "Nib 悬浮在窗口上方，提供提示，偶尔也发表点意见。"
 
@@ -4754,6 +4778,9 @@ msgid "Not equal to"
 msgstr "不等于"
 
 msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not installed — shown as"
 msgstr ""
 
 msgid "Not linked: click a text box"
@@ -5162,6 +5189,9 @@ msgstr "页码,如 1-3, 5"
 msgid "Pages of bookmark:"
 msgstr "书签所在页："
 
+msgid "Pages per sheet"
+msgstr ""
+
 msgid "Panama"
 msgstr "巴拿马"
 
@@ -5417,6 +5447,9 @@ msgstr "上一句"
 msgid "Previous sentence"
 msgstr "上一句"
 
+msgid "Previous sheet"
+msgstr ""
+
 msgid "Print Documents"
 msgstr "打印文档"
 
@@ -5461,6 +5494,9 @@ msgstr "打印机默认值"
 
 msgid "Printer discovery failed."
 msgstr "查找打印机失败。"
+
+msgid "Printing cancelled. Nothing was sent to the printer."
+msgstr ""
 
 msgid "Privacy for this document"
 msgstr "此文档的隐私"
@@ -5786,6 +5822,12 @@ msgstr ""
 msgid "Remove Watermark"
 msgstr "删除水印"
 
+msgid "Removed {count} documents from the recent list"
+msgstr ""
+
+msgid "Removed {name} from the recent list"
+msgstr ""
+
 msgid "Rename Document"
 msgstr "重命名文档"
 
@@ -6086,6 +6128,12 @@ msgstr ""
 msgid "Scatter"
 msgstr "散点图"
 
+msgid "Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence."
+msgstr ""
+
+msgid "Screen paper color:"
+msgstr ""
+
 msgid "Script"
 msgstr "上下标"
 
@@ -6374,6 +6422,9 @@ msgstr "底纹"
 msgid "Shadow, glow and soft edges"
 msgstr "阴影、发光和柔化边缘"
 
+msgid "Shape color"
+msgstr ""
+
 msgid "Shape Fill"
 msgstr "形状填充"
 
@@ -6385,6 +6436,9 @@ msgstr "形状轮廓"
 
 msgid "Shape Styles"
 msgstr "形状样式"
+
+msgid "Sheet {page} of {pages}"
+msgstr ""
 
 msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr ""
@@ -6535,6 +6589,9 @@ msgstr "显示批注"
 
 msgid "Showing the first {count} items."
 msgstr "仅显示前 {count} 项。"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "显示树形结构：每个项目位于其所属项目的下方。"
@@ -6869,6 +6926,12 @@ msgstr "省/州"
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "还在吗？我都能听到你在思考。"
 
@@ -6910,6 +6973,9 @@ msgstr "工作室手册（示例）"
 
 msgid "Style based on:"
 msgstr "样式基于："
+
+msgid "Style Color"
+msgstr ""
 
 msgid "Style Inspector"
 msgstr "样式检查器"
@@ -7788,6 +7854,9 @@ msgstr "更新以匹配"
 msgid "Update to Match Selection"
 msgstr "更新以匹配所选内容"
 
+msgid "Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it."
+msgstr ""
+
 msgid "URGENT"
 msgstr ""
 
@@ -8064,6 +8133,9 @@ msgstr "年份"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "你已经有一阵子没保存了，而且自动保存已关闭。现在保存吗？"
 
@@ -8103,6 +8175,12 @@ msgstr "{added}；{count} 个无法读取：{names}"
 msgid "{added}; {n} skipped (limit {max})"
 msgstr "{added}；已跳过 {n} 个（上限 {max}）"
 
+msgid "{chars} characters"
+msgstr ""
+
+msgid "{chars} characters (no spaces)"
+msgstr ""
+
 msgid "{cols}×{rows} Table"
 msgstr "{cols}×{rows} 表格"
 
@@ -8119,6 +8197,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "将合并 {total} 位收件人中的 {count} 位。"
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
@@ -8218,6 +8299,12 @@ msgid "{n} pt"
 msgstr "{n} 磅"
 
 msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {chars} characters"
+msgstr ""
+
+msgid "{selected} of {chars} characters (no spaces)"
 msgstr ""
 
 msgid "{selected} of {words} words"

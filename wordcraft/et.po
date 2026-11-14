@@ -103,6 +103,11 @@ msgstr "<< Vähem"
 msgid "<< Remove"
 msgstr "<< Eemalda"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "joonistuslõuendi rühmitust ei saa tühistada"
 
@@ -1833,6 +1838,12 @@ msgstr "Kümnendkoht"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekoratiivsed objektid lisavad ainult visuaalset huvi: ekraanilugerid jätavad need vahele."
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "Vähenda taanet"
 
@@ -1954,6 +1965,12 @@ msgid "development build"
 msgstr "Arendusversioon"
 
 msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
 msgstr ""
 
 msgid "Dictate"
@@ -3369,6 +3386,9 @@ msgstr "Lisa veerud paremale"
 
 msgid "Insert Date Field"
 msgstr "Lisa kuupäevaväli"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "Lisa lõpumärkus"
@@ -6063,6 +6083,9 @@ msgstr "valige esmalt diagramm"
 msgid "select a connector first"
 msgstr "valige esmalt ühendusjoon"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "valige esmalt joonistuslõuend"
 
@@ -6095,6 +6118,9 @@ msgstr ""
 
 msgid "select a shape first"
 msgstr "valige esmalt kujund"
+
+msgid "select a shape or decorative text first"
+msgstr ""
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Valige kujund, tekstiväli või joonistuslõuend, et selle täidet vormindada."
@@ -7288,6 +7314,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "see diagramm on loodud teises programmis: WordCraft kuvab seda, kuid ei saa seda redigeerida"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "See dokument"
 
@@ -7621,6 +7653,11 @@ msgstr "Ühendkuningriik"
 
 msgid "United States"
 msgstr "Ameerika Ühendriigid"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
 
 msgid "Unlink Fields"
 msgstr "Eemalda väljade link"

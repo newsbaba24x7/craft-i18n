@@ -103,6 +103,11 @@ msgstr "<< Minder"
 msgid "<< Remove"
 msgstr "<< Verwijderen"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "de groepering van een tekenvlak kan niet worden opgeheven"
 
@@ -1833,6 +1838,12 @@ msgstr "Decimaal"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Decoratieve objecten voegen alleen visuele aantrekking toe: schermlezers slaan ze over."
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "Inspringen verkleinen"
 
@@ -1955,6 +1966,12 @@ msgstr "ontwikkelbuild"
 
 msgid "Diagonal Dots"
 msgstr "Diagonale punten"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
 
 msgid "Dictate"
 msgstr "Dicteren"
@@ -3369,6 +3386,9 @@ msgstr "Kolommen rechts invoegen"
 
 msgid "Insert Date Field"
 msgstr "Datumveld invoegen"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "Eindnoot invoegen"
@@ -6063,6 +6083,9 @@ msgstr "selecteer eerst een grafiek"
 msgid "select a connector first"
 msgstr "selecteer eerst een verbindingslijn"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "selecteer eerst een tekenvlak"
 
@@ -6095,6 +6118,9 @@ msgstr ""
 
 msgid "select a shape first"
 msgstr "selecteer eerst een vorm"
+
+msgid "select a shape or decorative text first"
+msgstr ""
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr ""
@@ -7288,6 +7314,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "deze grafiek is gemaakt in een ander programma: WordCraft toont hem, maar kan hem niet bewerken"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "Dit document"
 
@@ -7621,6 +7653,11 @@ msgstr "Verenigd Koninkrijk"
 
 msgid "United States"
 msgstr "Verenigde Staten"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
 
 msgid "Unlink Fields"
 msgstr "Velden loskoppelen"

@@ -103,6 +103,11 @@ msgstr "<< Mindre"
 msgid "<< Remove"
 msgstr "<< Fjern"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "grupperingen af et tegnelærred kan ikke ophæves"
 
@@ -1833,6 +1838,12 @@ msgstr "Decimal"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekorative objekter giver kun visuel interesse: skærmlæsere springer dem over."
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "Formindr indrykning"
 
@@ -1955,6 +1966,12 @@ msgstr "udviklingsversion"
 
 msgid "Diagonal Dots"
 msgstr "Diagonale prikker"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
 
 msgid "Dictate"
 msgstr "Diktér"
@@ -3369,6 +3386,9 @@ msgstr "Indsæt kolonner til højre"
 
 msgid "Insert Date Field"
 msgstr "Indsæt datofelt"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "Indsæt slutnote"
@@ -6063,6 +6083,9 @@ msgstr "markér først et diagram"
 msgid "select a connector first"
 msgstr "markér først en forbindelse"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "markér først et tegnelærred"
 
@@ -6095,6 +6118,9 @@ msgstr ""
 
 msgid "select a shape first"
 msgstr "markér først en figur"
+
+msgid "select a shape or decorative text first"
+msgstr ""
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr ""
@@ -7288,6 +7314,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "dette diagram er lavet i et andet program: WordCraft viser det, men kan ikke redigere det"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "Dette dokument"
 
@@ -7621,6 +7653,11 @@ msgstr "Storbritannien"
 
 msgid "United States"
 msgstr "USA"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
 
 msgid "Unlink Fields"
 msgstr "Fjern feltforbindelse"

@@ -103,6 +103,11 @@ msgstr "<< Manje"
 msgid "<< Remove"
 msgstr "<< Ukloni"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "platno za crtanje ne može da se razgrupiše"
 
@@ -1833,6 +1838,12 @@ msgstr "Decimalni"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekorativni objekti samo doprinose izgledu: čitači ekrana ih preskaču."
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "Smanji uvlačenje"
 
@@ -1954,6 +1965,12 @@ msgid "development build"
 msgstr "razvojna verzija"
 
 msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
 msgstr ""
 
 msgid "Dictate"
@@ -3369,6 +3386,9 @@ msgstr "Umetni kolone desno"
 
 msgid "Insert Date Field"
 msgstr "Umetni polje datuma"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "Umetni endnotu"
@@ -6063,6 +6083,9 @@ msgstr "prvo izaberite grafikon"
 msgid "select a connector first"
 msgstr "prvo izaberite liniju za povezivanje"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "prvo izaberite platno za crtanje"
 
@@ -6095,6 +6118,9 @@ msgstr ""
 
 msgid "select a shape first"
 msgstr "prvo izaberite oblik"
+
+msgid "select a shape or decorative text first"
+msgstr ""
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Izaberite oblik, okvir za tekst ili platno za crtanje da biste formatirali popunu."
@@ -7288,6 +7314,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "ovaj grafikon je napravljen u drugom programu: WordCraft ga prikazuje, ali ne može da ga uređuje"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "Ovaj dokument"
 
@@ -7621,6 +7653,11 @@ msgstr "Ujedinjeno Kraljevstvo"
 
 msgid "United States"
 msgstr "Sjedinjene Američke Države"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
 
 msgid "Unlink Fields"
 msgstr "Raskini vezu polja"

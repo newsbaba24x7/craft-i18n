@@ -103,6 +103,11 @@ msgstr "<< குறைவாக"
 msgid "<< Remove"
 msgstr "<< அகற்று"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "ஒரு வரைபடத்தில் அதிகபட்சம் {MAX_ITEMS} உருப்படிகள் இருக்கலாம்"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "வரைதல் தளத்தின் குழுவைப் பிரிக்க முடியாது"
 
@@ -134,10 +139,10 @@ msgid "A xor B"
 msgstr ""
 
 msgid "A, B, C, …"
-msgstr ""
+msgstr "A, B, C, …"
 
 msgid "a, b, c, …"
-msgstr ""
+msgstr "a, b, c, …"
 
 msgid "AaBbCcDd"
 msgstr "அஆஇஈஉஊ"
@@ -515,7 +520,7 @@ msgid "Anyone who opens the document will need this password."
 msgstr "ஆவணத்தைத் திறக்கும் எவருக்கும் இந்தக் கடவுச்சொல் தேவைப்படும்."
 
 msgid "APA"
-msgstr ""
+msgstr "APA"
 
 msgid "Apply as you type"
 msgstr "தட்டச்சு செய்யும்போதே பயன்படுத்து"
@@ -1248,7 +1253,7 @@ msgid "Chevron Up"
 msgstr "மேல்நோக்கிய அம்புக்குறி வடிவம்"
 
 msgid "Chicago"
-msgstr ""
+msgstr "Chicago"
 
 msgid "Chile"
 msgstr "சிலி"
@@ -1356,7 +1361,7 @@ msgid "Clustered Column"
 msgstr "குழுவாக்கப்பட்ட நெடுவரிசை"
 
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 msgid "Col #:"
 msgstr "நெடுவரிசை எண்:"
@@ -1654,7 +1659,7 @@ msgid "Cover Page"
 msgstr "அட்டைப் பக்கம்"
 
 msgid "Craft"
-msgstr ""
+msgstr "Craft"
 
 msgid "Create a Style"
 msgstr "ஒரு பாணியை உருவாக்கு"
@@ -1833,6 +1838,12 @@ msgstr "தசமம்"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "அலங்காரப் பொருட்கள் காட்சி அழகை மட்டுமே சேர்க்கின்றன: திரை வாசிப்பான்கள் அவற்றைத் தவிர்த்துவிடும்."
 
+msgid "Decorative Text"
+msgstr "அலங்கார உரை"
+
+msgid "Decorative Text Styles"
+msgstr "அலங்கார உரைப் பாணிகள்"
+
 msgid "Decrease Indent"
 msgstr "உள்தள்ளலைக் குறை"
 
@@ -1955,6 +1966,12 @@ msgstr "மேம்பாட்டு உருவாக்கம்"
 
 msgid "Diagonal Dots"
 msgstr "மூலைவிட்டப் புள்ளிகள்"
+
+msgid "Diagram"
+msgstr "வரைபடம்"
+
+msgid "Diagram Design"
+msgstr "வரைபட வடிவமைப்பு"
 
 msgid "Dictate"
 msgstr "பேசித் தட்டச்சு செய்"
@@ -2866,7 +2883,7 @@ msgid "Gallery"
 msgstr "காட்சியகம்"
 
 msgid "GB/T 7714"
-msgstr ""
+msgstr "GB/T 7714"
 
 msgid "Georgian"
 msgstr "ஜார்ஜியன்"
@@ -2881,7 +2898,7 @@ msgid "Get the list of languages again"
 msgstr "மொழிகளின் பட்டியலை மீண்டும் பெறு"
 
 msgid "getartcraft.com/apps/wordcraft"
-msgstr ""
+msgstr "getartcraft.com/apps/wordcraft"
 
 msgid "Gets the list of Language packs, then this language's pack if there is one."
 msgstr "மொழித் தொகுப்புகளின் பட்டியலைப் பெறும், பின்னர் இந்த மொழிக்கான தொகுப்பு இருந்தால் அதைப் பெறும்."
@@ -3013,7 +3030,7 @@ msgid "Hanging Indent"
 msgstr "தொங்கும் உள்தள்ளல்"
 
 msgid "Harvard (Anglia)"
-msgstr ""
+msgstr "Harvard (Anglia)"
 
 msgid "Hat"
 msgstr "தொப்பிக்குறி"
@@ -3188,10 +3205,10 @@ msgid "I'd write something myself, but I'm all nib and no ink."
 msgstr "நானே ஏதாவது எழுதியிருப்பேன், ஆனால் என்னிடம் முனை மட்டும்தான், மை இல்லை."
 
 msgid "I, II, III, …"
-msgstr ""
+msgstr "I, II, III, …"
 
 msgid "i, ii, iii, …"
-msgstr ""
+msgstr "i, ii, iii, …"
 
 msgid "Icelandic"
 msgstr "ஐஸ்லாந்திக்"
@@ -3206,7 +3223,7 @@ msgid "Identity Matrices"
 msgstr "அலகு அணிகள்"
 
 msgid "IEEE"
-msgstr ""
+msgstr "IEEE"
 
 msgid "If…Then…Else"
 msgstr "என்றால்…அப்படியானால்…இல்லையெனில்"
@@ -3369,6 +3386,9 @@ msgstr "வலதுபுறம் நெடுவரிசைகளைச் �
 
 msgid "Insert Date Field"
 msgstr "தேதிப் புலத்தைச் செருகு"
+
+msgid "Insert Diagram"
+msgstr "வரைபடத்தைச் செருகு"
 
 msgid "Insert Endnote"
 msgstr "இறுதிக்குறிப்பைச் செருகு"
@@ -4188,7 +4208,7 @@ msgid "Mark\nEntry"
 msgstr "உள்ளீட்டைக்\nகுறி"
 
 msgid "Markdown (*.md)"
-msgstr ""
+msgstr "Markdown (*.md)"
 
 msgid "Match case"
 msgstr "பெரிய/சிறிய எழுத்துப் பொருத்தம்"
@@ -4257,10 +4277,10 @@ msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft con
 msgstr "MIT OR Apache-2.0. பதிப்புரிமை (c) 2026 ArtCraft குழு மற்றும் WordCraft பங்களிப்பாளர்கள்."
 
 msgid "MLA"
-msgstr ""
+msgstr "MLA"
 
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 msgid "Moderate"
 msgstr "மிதமான"
@@ -5218,7 +5238,7 @@ msgid "Phonetic Guide"
 msgstr "ஒலிப்பு வழிகாட்டி"
 
 msgid "pi"
-msgstr ""
+msgstr "pi"
 
 msgid "Pi Over 2"
 msgstr "பை வகுத்தல் 2"
@@ -5446,7 +5466,7 @@ msgid "Protect Document"
 msgstr "ஆவணத்தைப் பாதுகா"
 
 msgid "pt"
-msgstr ""
+msgstr "pt"
 
 msgid "Publisher"
 msgstr "பதிப்பகம்"
@@ -6063,6 +6083,9 @@ msgstr "முதலில் ஒரு விளக்கப்படத்த�
 msgid "select a connector first"
 msgstr "முதலில் ஓர் இணைப்பானைத் தேர்ந்தெடுக்கவும்"
 
+msgid "select a diagram first"
+msgstr "முதலில் ஒரு வரைபடத்தைத் தேர்ந்தெடுக்கவும்"
+
 msgid "select a drawing canvas first"
 msgstr "முதலில் ஒரு வரைதல் தளத்தைத் தேர்ந்தெடுக்கவும்"
 
@@ -6095,6 +6118,9 @@ msgstr "மாற்றுவதற்கு ஒரு பண்பைத் த
 
 msgid "select a shape first"
 msgstr "முதலில் ஒரு வடிவத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "select a shape or decorative text first"
+msgstr "முதலில் ஒரு வடிவத்தை அல்லது அலங்கார உரையைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "ஒரு வடிவம், உரைப் பெட்டி அல்லது வரைதல் தளத்தின் நிரப்பை வடிவமைக்க அதைத் தேர்ந்தெடுக்கவும்."
@@ -6289,7 +6315,7 @@ msgid "Shift+Enter starts a new line without starting a new paragraph."
 msgstr "Shift+Enter புதிய பத்தியைத் தொடங்காமல் புதிய வரியைத் தொடங்கும்."
 
 msgid "Shift+Tab"
-msgstr ""
+msgstr "Shift+Tab"
 
 msgid "Shipping labels"
 msgstr "சரக்கு அனுப்புதல் சீட்டுகள்"
@@ -6535,7 +6561,7 @@ msgid "Single Spacing"
 msgstr "ஒற்றை வரி இடைவெளி"
 
 msgid "SIST02"
-msgstr ""
+msgstr "SIST02"
 
 msgid "Site name"
 msgstr "தளப் பெயர்"
@@ -7288,6 +7314,12 @@ msgstr "இதைச் செயல்தவிர்க்க முடிய�
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "இந்த விளக்கப்படம் வேறொரு நிரலில் உருவாக்கப்பட்டது: WordCraft அதைக் காட்டும், ஆனால் திருத்த முடியாது"
 
+msgid "this diagram can't be edited"
+msgstr "இந்த வரைபடத்தைத் திருத்த முடியாது"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "இந்த வரைபடம் வேறொரு நிரலில் உருவாக்கப்பட்டது: WordCraft அதைக் காட்டும், ஆனால் திருத்த முடியாது"
+
 msgid "This document"
 msgstr "இந்த ஆவணம்"
 
@@ -7482,7 +7514,7 @@ msgid "Tue"
 msgstr "செவ்"
 
 msgid "Turabian"
-msgstr ""
+msgstr "Turabian"
 
 msgid "Turkish"
 msgstr "துருக்கியம்"
@@ -7621,6 +7653,11 @@ msgstr "ஐக்கிய இராச்சியம்"
 
 msgid "United States"
 msgstr "அமெரிக்க ஐக்கிய நாடுகள்"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "அறியப்படாத அலங்கார உரைப் பாணி `{id}`"
 
 msgid "Unlink Fields"
 msgstr "புலங்களின் இணைப்பை நீக்கு"
@@ -7902,7 +7939,7 @@ msgid "WordArt Styles"
 msgstr "WordArt பாணிகள்"
 
 msgid "WordCraft"
-msgstr ""
+msgstr "WordCraft"
 
 msgid "WordCraft is now the default app for Word documents."
 msgstr "Word ஆவணங்களுக்கான இயல்புநிலைப் பயன்பாடு இப்போது WordCraft."
@@ -8025,7 +8062,7 @@ msgid "{key}+Click to follow link"
 msgstr "இணைப்பைப் பின்தொடர {key}+சொடுக்கு"
 
 msgid "{kind}, {columns} × {rows}, {size} ({paper})"
-msgstr ""
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
 
 msgid "{language} (default)"
 msgstr "{language} (இயல்புநிலை)"
@@ -8091,7 +8128,7 @@ msgid "{n} MB"
 msgstr ""
 
 msgid "{n} pt"
-msgstr ""
+msgstr "{n} pt"
 
 msgid "{paper}   {width} × {height}"
 msgstr ""
@@ -8100,7 +8137,7 @@ msgid "{selected} of {words} words"
 msgstr "{words} சொற்களில் {selected}"
 
 msgid "{size} pt"
-msgstr ""
+msgstr "{size} pt"
 
 msgid "{width} × {height} mm"
 msgstr ""

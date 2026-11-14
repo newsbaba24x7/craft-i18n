@@ -103,6 +103,11 @@ msgstr "<< 較少"
 msgid "<< Remove"
 msgstr "<< 移除"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "繪圖畫布無法取消群組"
 
@@ -1833,6 +1838,12 @@ msgstr "小數點對齊"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "裝飾用物件只增添視覺效果：螢幕助讀程式會略過它們。"
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "減少縮排"
 
@@ -1954,6 +1965,12 @@ msgid "development build"
 msgstr "開發版本"
 
 msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
 msgstr ""
 
 msgid "Dictate"
@@ -3369,6 +3386,9 @@ msgstr "插入右方欄"
 
 msgid "Insert Date Field"
 msgstr "插入日期欄位"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "插入章節附註"
@@ -6063,6 +6083,9 @@ msgstr "請先選取圖表"
 msgid "select a connector first"
 msgstr "請先選取連接線"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "請先選取繪圖畫布"
 
@@ -6095,6 +6118,9 @@ msgstr ""
 
 msgid "select a shape first"
 msgstr "請先選取圖案"
+
+msgid "select a shape or decorative text first"
+msgstr ""
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "請選取圖形、文字方塊或繪圖畫布以設定其填滿格式。"
@@ -7288,6 +7314,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "此圖表由其他程式建立: WordCraft 可以顯示但無法編輯"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "此文件"
 
@@ -7621,6 +7653,11 @@ msgstr "英國"
 
 msgid "United States"
 msgstr "美國"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
 
 msgid "Unlink Fields"
 msgstr "取消功能變數連結"

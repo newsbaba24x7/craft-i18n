@@ -2753,3 +2753,31 @@ preview	Title	தலைப்பு
 	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
 	{n} pt	{n} pt
 	{size} pt	{size} pt
+	Paragraph Tools	பத்திக் கருவிகள்
+	Paragraph\nTools	பத்திக்\nகருவிகள்
+	Split Lines into Paragraphs	வரிகளைப் பத்திகளாகப் பிரி
+	Add Blank Paragraphs Between	இடையே வெற்றுப் பத்திகளைச் சேர்
+	Separate Paragraphs	பத்திகளைத் தனித்தனியாகப் பிரி
+	Delete Blank Paragraphs	வெற்றுப் பத்திகளை நீக்கு
+	Remove Leading Spaces	தொடக்க இடைவெளிகளை அகற்று
+	Remove Extra Spaces	கூடுதல் இடைவெளிகளை அகற்று
+	Indent Leading Spaces	தொடக்க இடைவெளிகளை உள்தள்ளலாக்கு
+	Indents to Leading Spaces	உள்தள்ளல்களைத் தொடக்க இடைவெளிகளாக்கு
+	Join Lines	வரிகளை இணை
+	Delete Blank Paragraphs in the Whole Document	முழு ஆவணத்திலும் வெற்றுப் பத்திகளை நீக்கு
+	Remove Leading Spaces in the Whole Document	முழு ஆவணத்திலும் தொடக்க இடைவெளிகளை அகற்று
+	Remove Extra Spaces in the Whole Document	முழு ஆவணத்திலும் கூடுதல் இடைவெளிகளை அகற்று
+	Convert Line Breaks to Paragraphs	வரி முறிவுகளைப் பத்திகளாக மாற்று
+	Insert Blank Paragraphs Between	இடையே வெற்றுப் பத்திகளைச் செருகு
+	Convert Spaces to Indentation	இடைவெளிகளை உள்தள்ளலாக மாற்று
+	Convert Indents to Spaces	உள்தள்ளல்களை இடைவெளிகளாக மாற்று
+	Remove Line Breaks	வரி முறிவுகளை அகற்று
+	Inverse	தலைகீழ்
+	No other WordCraft windows are open.	வேறு WordCraft சாளரங்கள் எதுவும் திறந்திருக்கவில்லை.
+	Set the colors in the Text Pane to use custom colors.	தனிப்பயன் நிறங்களைப் பயன்படுத்த, உரைப் பலகத்தில் நிறங்களை அமைக்கவும்.
+	SmartArt	SmartArt
+	Synchronous Scrolling	ஒத்திசைந்த உருட்டல்
+	Type a size in any unit, such as 3 cm or 300 px.	3 cm அல்லது 300 px போன்ற எந்த அலகிலும் ஓர் அளவைத் தட்டச்சு செய்யவும்.
+	View Side by Side	பக்கம் பக்கமாகக் காண்
+	WordArt	WordArt
+	{paper}   {width} × {height}	{paper}   {width} × {height}

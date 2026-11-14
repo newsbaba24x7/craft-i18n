@@ -525,6 +525,9 @@ msgstr "ஆவணத்தைத் திறக்கும் எவருக�
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr "அடுத்த முறை WordCraft தொடங்கும்போது நடைமுறைக்கு வரும்."
+
 msgid "Apply as you type"
 msgstr "தட்டச்சு செய்யும்போதே பயன்படுத்து"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord சமூகம்"
 
 msgid "Display for Review"
 msgstr "மதிப்பாய்வுக்கான காட்சி"
+
+msgid "Display server:"
+msgstr "காட்சிச் சேவையகம்:"
 
 msgid "Display text"
 msgstr "காட்சி உரை"
@@ -4062,6 +4068,9 @@ msgstr "இணைப்புகளும் குறிப்புகளு�
 
 msgid "Link…"
 msgstr "இணைப்பு…"
+
+msgid "Linux display server"
+msgstr "Linux காட்சிச் சேவையகம்"
 
 msgid "List Definition"
 msgstr "பட்டியல் வரையறை"

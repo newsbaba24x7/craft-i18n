@@ -525,6 +525,9 @@ msgstr "Alle som åpner dokumentet, trenger dette passordet."
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Bruk mens du skriver"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord-fellesskapet"
 
 msgid "Display for Review"
 msgstr "Visning for gjennomgang"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Visningstekst"
@@ -4062,6 +4068,9 @@ msgstr "Lenker og referanser"
 
 msgid "Link…"
 msgstr "Lenke…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Listedefinisjon"

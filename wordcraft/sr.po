@@ -525,6 +525,9 @@ msgstr "Свакоме ко отвори документ биће потреб�
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Примени док куцаш"
 
@@ -2044,6 +2047,9 @@ msgstr "Заједница на Discord-у"
 
 msgid "Display for Review"
 msgstr "Приказ за преглед"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Приказани текст"
@@ -4062,6 +4068,9 @@ msgstr "Везе и референце"
 
 msgid "Link…"
 msgstr "Веза…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Дефиниција листе"

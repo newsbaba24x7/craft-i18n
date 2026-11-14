@@ -525,6 +525,9 @@ msgstr "Svakome ko otvori dokument biće potrebna ova lozinka."
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Primeni dok kucaš"
 
@@ -2044,6 +2047,9 @@ msgstr "Zajednica na Discord-u"
 
 msgid "Display for Review"
 msgstr "Prikaz za pregled"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Prikazani tekst"
@@ -4062,6 +4068,9 @@ msgstr "Veze i reference"
 
 msgid "Link…"
 msgstr "Veza…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Definicija liste"

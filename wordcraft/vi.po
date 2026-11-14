@@ -525,6 +525,9 @@ msgstr "Ai mở tài liệu này cũng cần dùng mật khẩu này."
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Áp dụng khi nhập"
 
@@ -2044,6 +2047,9 @@ msgstr "Cộng đồng Discord"
 
 msgid "Display for Review"
 msgstr "Hiển thị để xem lại"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Văn bản hiển thị"
@@ -4062,6 +4068,9 @@ msgstr "Liên kết và tham chiếu"
 
 msgid "Link…"
 msgstr "Liên kết…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Định nghĩa danh sách"

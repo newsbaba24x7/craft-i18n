@@ -525,6 +525,9 @@ msgstr "この文書を開くすべての人にこのパスワードが必要に
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "入力中に適用"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord コミュニティ"
 
 msgid "Display for Review"
 msgstr "変更内容の表示"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "表示テキスト"
@@ -4062,6 +4068,9 @@ msgstr "リンクと参照"
 
 msgid "Link…"
 msgstr "リンク…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "リストの定義"

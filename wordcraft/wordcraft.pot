@@ -523,6 +523,9 @@ msgstr ""
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr ""
 
@@ -2041,6 +2044,9 @@ msgid "Discord community"
 msgstr ""
 
 msgid "Display for Review"
+msgstr ""
+
+msgid "Display server:"
 msgstr ""
 
 msgid "Display text"
@@ -4059,6 +4065,9 @@ msgid "Links and References"
 msgstr ""
 
 msgid "Link…"
+msgstr ""
+
+msgid "Linux display server"
 msgstr ""
 
 msgid "List Definition"

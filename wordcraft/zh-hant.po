@@ -525,6 +525,9 @@ msgstr "開啟文件的任何人都需要此密碼。"
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "輸入時套用"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord 社群"
 
 msgid "Display for Review"
 msgstr "顯示以供檢閱"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "顯示文字"
@@ -4062,6 +4068,9 @@ msgstr "連結和參照"
 
 msgid "Link…"
 msgstr "連結…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "清單定義"

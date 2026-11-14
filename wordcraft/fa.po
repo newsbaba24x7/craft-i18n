@@ -525,6 +525,9 @@ msgstr "هر کسی که سند را باز کند به این گذرواژه ن
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "اعمال هم‌زمان با تایپ"
 
@@ -2044,6 +2047,9 @@ msgstr "انجمن Discord"
 
 msgid "Display for Review"
 msgstr "نمایش برای مرور"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "متن نمایش"
@@ -4062,6 +4068,9 @@ msgstr "پیوندها و ارجاع‌ها"
 
 msgid "Link…"
 msgstr "پیوند…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "تعریف فهرست"

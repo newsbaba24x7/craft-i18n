@@ -525,6 +525,9 @@ msgstr "Quien abra el documento necesitará esta contraseña."
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Aplicar mientras escribe"
 
@@ -2044,6 +2047,9 @@ msgstr "Comunidad de Discord"
 
 msgid "Display for Review"
 msgstr "Mostrar para revisión"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Texto mostrado"
@@ -4062,6 +4068,9 @@ msgstr "Vínculos y referencias"
 
 msgid "Link…"
 msgstr "Vínculo…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Definición de lista"

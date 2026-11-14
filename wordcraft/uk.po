@@ -525,6 +525,9 @@ msgstr "Кожному, хто відкриватиме документ, зна
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Застосовувати під час введення"
 
@@ -2044,6 +2047,9 @@ msgstr "Спільнота Discord"
 
 msgid "Display for Review"
 msgstr "Відображення для рецензування"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Текст для показу"
@@ -4062,6 +4068,9 @@ msgstr "Зв'язки й посилання"
 
 msgid "Link…"
 msgstr "Посилання…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Визначення списку"

@@ -525,6 +525,9 @@ msgstr "Ikvienam, kas atver dokumentu, būs vajadzīga šī parole."
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Lietot rakstīšanas laikā"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord kopiena"
 
 msgid "Display for Review"
 msgstr "Rādījums pārskatīšanai"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Parādāmais teksts"
@@ -4062,6 +4068,9 @@ msgstr "Saites un atsauces"
 
 msgid "Link…"
 msgstr "Saite…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Saraksta definīcija"

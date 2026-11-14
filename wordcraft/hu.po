@@ -525,6 +525,9 @@ msgstr "Aki megnyitja a dokumentumot, annak szüksége lesz erre a jelszóra."
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Alkalmazás gépelés közben"
 
@@ -2044,6 +2047,9 @@ msgstr "Discord-közösség"
 
 msgid "Display for Review"
 msgstr "Megjelenítés véleményezéshez"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Megjelenített szöveg"
@@ -4062,6 +4068,9 @@ msgstr "Linkek és hivatkozások"
 
 msgid "Link…"
 msgstr "Link…"
+
+msgid "Linux display server"
+msgstr ""
 
 msgid "List Definition"
 msgstr "Listadefiníció"

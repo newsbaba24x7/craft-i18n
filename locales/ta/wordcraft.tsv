@@ -2782,3 +2782,6 @@ preview	Title	தலைப்பு
 	WordArt	WordArt
 	{paper}   {width} × {height}	{paper}   {width} × {height}
 	Check Again	மீண்டும் சரிபார்
+	Linux display server	Linux காட்சிச் சேவையகம்
+	Display server:	காட்சிச் சேவையகம்:
+	Applies the next time WordCraft starts.	அடுத்த முறை WordCraft தொடங்கும்போது நடைமுறைக்கு வரும்.

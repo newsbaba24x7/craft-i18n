@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "Tätä asiakirjaa ei ole suojattu salasanalla"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Tämän asiakirjan skripti kysyy"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Tämä piirustus ylittää tartunnan rajan; vain ensimmäiset polut käytetään."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Tämän tulostimen ohjain ei hyväksy kaksipuolisuusasetuksia muilta ohjelmilta, joten sen oma asetus on voimassa. Muuta sitä kohdassa Ominaisuudet…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Tämä pyyntö tulee asiakirjasta, ei PdfCraftista. Kirjoita salasana vain, jos luotat tähän asiakirjaan."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

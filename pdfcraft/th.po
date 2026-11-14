@@ -3440,7 +3440,7 @@ msgid "Document title is showing in title bar"
 msgstr "ชื่อเรื่องเอกสารแสดงในแถบชื่อเรื่อง"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "เอกสาร: {name}"
 
 msgid "Documents and view"
 msgstr "เอกสารและมุมมอง"
@@ -12115,7 +12115,7 @@ msgid "This document isn't password-protected"
 msgstr "เอกสารนี้ไม่ได้ป้องกันด้วยรหัสผ่าน"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "สคริปต์ของเอกสารนี้กำลังถาม"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ภาพวาดนี้เกินขีดจำกัดของการยึด จะใช้เฉพาะเส้นทางชุดแรก"
@@ -12259,7 +12259,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "ไดรเวอร์ของเครื่องพิมพ์นี้ไม่รับการตั้งค่าพิมพ์สองด้านจากโปรแกรมอื่น จึงใช้การตั้งค่าของไดรเวอร์เอง เปลี่ยนได้ในคุณสมบัติ…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "คำขอนี้มาจากเอกสาร ไม่ใช่จาก PdfCraft ป้อนรหัสผ่านเฉพาะเมื่อคุณเชื่อถือเอกสารนี้เท่านั้น"
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

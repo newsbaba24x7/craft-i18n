@@ -12125,7 +12125,7 @@ msgid "This document isn't password-protected"
 msgstr "Šis dokumentas neapsaugotas slaptažodžiu"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Šio dokumento scenarijus klausia"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Brėžinys viršija pritraukimo ribą; naudojami tik pirmieji keliai."
@@ -12269,7 +12269,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Šio spausdintuvo tvarkyklė neperima dvipusio spausdinimo nuostatų iš kitų programų, todėl taikoma jos nuostata. Pakeiskite ją skiltyje „Savybės“…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Ši užklausa gauta iš dokumento, o ne iš PdfCraft. Slaptažodį įveskite tik tada, jei pasitikite šiuo dokumentu."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

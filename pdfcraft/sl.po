@@ -3449,7 +3449,7 @@ msgid "Document title is showing in title bar"
 msgstr "Naslov dokumenta je prikazan v naslovni vrstici"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenti in pogled"
@@ -12130,7 +12130,7 @@ msgid "This document isn't password-protected"
 msgstr "Ta dokument ni zaščiten z geslom"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Skript tega dokumenta sprašuje"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ta risba presega mejo pripenjanja; uporabljene so samo prve poti."
@@ -12274,7 +12274,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Gonilnik tega tiskalnika ne sprejema nastavitev obojestranskega tiskanja iz drugih programov, zato velja njegova lastna nastavitev. Spremenite jo v Lastnosti…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Ta zahteva prihaja iz dokumenta, ne iz programa PdfCraft. Geslo vnesite le, če temu dokumentu zaupate."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

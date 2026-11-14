@@ -3440,7 +3440,7 @@ msgid "Document title is showing in title bar"
 msgstr "ຊື່ເອກະສານກຳລັງສະແດງຢູ່ແຖບຫົວຂໍ້"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "ເອກະສານ: {name}"
 
 msgid "Documents and view"
 msgstr "ເອກະສານ ແລະ ການເບິ່ງ"
@@ -12115,7 +12115,7 @@ msgid "This document isn't password-protected"
 msgstr "ເອກະສານນີ້ບໍ່ໄດ້ຖືກປົກປ້ອງດ້ວຍລະຫັດຜ່ານ"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "ສະຄຣິບຂອງເອກະສານນີ້ກຳລັງຖາມ"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ຮູບແຕ້ມນີ້ເກີນຂີດຈຳກັດການດູດຈັບ; ຈະໃຊ້ສະເພາະເສັ້ນທາງເດີນຊຸດທຳອິດເທົ່ານັ້ນ."
@@ -12259,7 +12259,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "ໄດຣເວີຂອງເຄື່ອງພິມນີ້ບໍ່ຮັບການຕັ້ງຄ່າການພິມສອງໜ້າຈາກໂປຣແກຣມອື່ນ, ດັ່ງນັ້ນຈຶ່ງໃຊ້ການຕັ້ງຄ່າຂອງມັນເອງ. ປ່ຽນແປງໄດ້ທີ່ ຄຸນສົມບັດ…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "ຄຳຂໍນີ້ມາຈາກເອກະສານ, ບໍ່ແມ່ນຈາກ PdfCraft. ໃສ່ລະຫັດຜ່ານສະເພາະເມື່ອທ່ານໄວ້ວາງໃຈເອກະສານນີ້ເທົ່ານັ້ນ."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

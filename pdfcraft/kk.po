@@ -3443,7 +3443,7 @@ msgid "Document title is showing in title bar"
 msgstr "Құжат тақырыбы атау жолағында көрсетіледі"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Құжат: {name}"
 
 msgid "Documents and view"
 msgstr "Құжаттар және көрініс"
@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "Бұл құжат құпиясөзбен қорғалмаған"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Осы құжаттың скрипті сұрап тұр"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Бұл сызба түйістіру шегінен асады; тек алғашқы контурлар қолданылады."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Бұл принтердің драйвері басқа бағдарламалардан екі жақты басып шығару баптауларын қабылдамайды, сондықтан өз баптауы қолданылады. Оны мына жерден өзгертіңіз: Сипаттар…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Бұл сұрау PdfCraft-тан емес, құжаттан келді. Құпиясөзді осы құжатқа сенсеңіз ғана енгізіңіз."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

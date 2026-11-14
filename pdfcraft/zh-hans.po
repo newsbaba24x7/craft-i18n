@@ -3440,7 +3440,7 @@ msgid "Document title is showing in title bar"
 msgstr "标题栏中显示文档标题"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "文档：{name}"
 
 msgid "Documents and view"
 msgstr "文档与视图"
@@ -12115,7 +12115,7 @@ msgid "This document isn't password-protected"
 msgstr "本文档未受密码保护"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "此文档的脚本正在询问"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "此图面超过吸附上限；仅使用最前面的路径。"
@@ -12259,7 +12259,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "此打印机的驱动程序不接受其他程序的双面打印设置，因此使用其自身设置。更改位置：属性…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "此请求来自文档，而非 PdfCraft。仅在您信任此文档时才输入密码。"
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

@@ -12125,7 +12125,7 @@ msgid "This document isn't password-protected"
 msgstr "Tento dokument není chráněný heslem"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Skript tohoto dokumentu se ptá"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Tato kresba překračuje limit přichytávání; použijí se jen první cesty."
@@ -12269,7 +12269,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Ovladač této tiskárny nepřijímá nastavení oboustranného tisku z jiných programů, proto platí jeho vlastní nastavení. Změňte ho ve Vlastnosti…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Tento požadavek pochází z dokumentu, ne z PdfCraftu. Heslo zadejte, jen pokud tomuto dokumentu důvěřujete."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

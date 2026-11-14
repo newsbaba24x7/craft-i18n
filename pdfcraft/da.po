@@ -3443,7 +3443,7 @@ msgid "Document title is showing in title bar"
 msgstr "Dokumenttitel vises i titellinjen"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenter og visning"
@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "Dette dokument er ikke beskyttet med adgangskode"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Dette dokuments script spørger"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Denne tegning overstiger fastgørelsesgrænsen; kun de første stier bruges."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Denne printers driver accepterer ikke tosidte indstillinger fra andre programmer, så dens egen indstilling gælder. Ændr den under Egenskaber…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Denne anmodning kommer fra dokumentet, ikke fra PdfCraft. Indtast kun en adgangskode, hvis du har tillid til dette dokument."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

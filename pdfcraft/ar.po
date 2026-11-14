@@ -3455,7 +3455,7 @@ msgid "Document title is showing in title bar"
 msgstr "عنوان المستند يظهر في شريط العنوان"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "المستند: {name}"
 
 msgid "Documents and view"
 msgstr "المستندات والعرض"
@@ -12140,7 +12140,7 @@ msgid "This document isn't password-protected"
 msgstr "هذا المستند غير محمي بكلمة مرور"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "نص هذا المستند البرمجي يطلب"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "هذا الرسم يتجاوز حد الانجذاب؛ تُستخدم المسارات الأولى فقط."
@@ -12284,7 +12284,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "لا يقبل برنامج تشغيل هذه الطابعة إعدادات الطباعة على الوجهين من البرامج الأخرى، لذا يُطبَّق إعداده الخاص. غيّره من خصائص…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "هذا الطلب صادر عن المستند، لا عن PdfCraft. لا تُدخل كلمة مرور إلا إذا كنت تثق بهذا المستند."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

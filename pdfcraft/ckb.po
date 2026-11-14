@@ -3443,7 +3443,7 @@ msgid "Document title is showing in title bar"
 msgstr "ناونیشانی بەڵگەنامەکە لە شریتی ناونیشاندا پیشان دەدرێت"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "بەڵگەنامە: {name}"
 
 msgid "Documents and view"
 msgstr "بەڵگەنامەکان و بینین"
@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "ئەم بەڵگەنامەیە بە وشەی نهێنی پارێزراو نییە"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "سکریپتی ئەم بەڵگەنامەیە دەپرسێت"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ئەم وێنەکێشانە لە سنووری لکاندن تێدەپەڕێت؛ تەنها ڕێڕەوە سەرەتاییەکان بەکاردەهێنرێن."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "درایڤەری ئەم چاپکەرە ڕێکخستنە دوولایەکان لە بەرنامەکانی ترەوە وەرناگرێت، بۆیە ڕێکخستنی خۆی جێبەجێ دەکرێت. لە «تایبەتمەندییەکان» بیگۆڕە…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "ئەم داواکارییە لە بەڵگەنامەکەوە هاتووە، نەک لە PdfCraft. تەنها ئەگەر متمانەت بەم بەڵگەنامەیە هەیە وشەی نهێنی بنووسە."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

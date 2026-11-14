@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "Este documento no está protegido con contraseña"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "El script de este documento pregunta"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Este dibujo supera el límite de ajuste; solo se usan los primeros trazados."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "El controlador de esta impresora no acepta los ajustes de doble cara de otros programas, así que se aplica su propio ajuste. Cámbialo en Propiedades…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Esta solicitud procede del documento, no de PdfCraft. Introduzca una contraseña solo si confía en este documento."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

@@ -3443,7 +3443,7 @@ msgid "Document title is showing in title bar"
 msgstr "Titulli i dokumentit shfaqet në shiritin e titullit"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokumenti: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumentet dhe pamja"
@@ -12120,7 +12120,7 @@ msgid "This document isn't password-protected"
 msgstr "Ky dokument nuk është i mbrojtur me fjalëkalim"
 
 msgid "This document's script is asking"
-msgstr ""
+msgstr "Skripti i këtij dokumenti po pyet"
 
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ky vizatim e tejkalon kufirin e ngjitjes; përdoren vetëm shtigjet e para."
@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "Drajveri i këtij printeri nuk i merr cilësimet dyanshe nga programet e tjera, ndaj zbatohet cilësimi i tij. Ndryshojeni te Vetitë…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr ""
+msgstr "Kjo kërkesë vjen nga dokumenti, jo nga PdfCraft. Futni një fjalëkalim vetëm nëse i besoni këtij dokumenti."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr ""

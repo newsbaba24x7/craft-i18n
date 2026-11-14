@@ -12264,7 +12264,7 @@ msgid "This printer's driver doesn't take two-sided settings from other programs
 msgstr "இந்த அச்சுப்பொறியின் இயக்கி பிற நிரல்களிலிருந்து இருபக்க அமைப்புகளை ஏற்காது, எனவே அதன் சொந்த அமைப்பு பொருந்தும். அதைப் பண்புகளில் மாற்றவும்…"
 
 msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
-msgstr "இந்தக் கோரிக்கை PdfCraft-இடமிருந்து அல்ல, ஆவணத்திடமிருந்து வருகிறது. இந்த ஆவணத்தை நீங்கள் நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்."
+msgstr "இந்தக் கோரிக்கை PdfCraft-இலிருந்து அல்ல, ஆவணத்திலிருந்து வருகிறது. இந்த ஆவணத்தை நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்."
 
 msgid "This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is."
 msgstr "இந்த ஸ்கிரிப்ட் இங்கே திருத்த முடியாத அளவுக்கு நீளமானது ({kib} KiB); அதன் தொடக்கப் பகுதி காட்டப்படுகிறது. அது உள்ளபடியே வைக்கப்படும்."

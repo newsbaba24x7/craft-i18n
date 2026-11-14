@@ -1219,6 +1219,9 @@ msgstr ""
 msgid "Check Accessibility"
 msgstr "檢查協助工具"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "核取方塊內容控制項"
 

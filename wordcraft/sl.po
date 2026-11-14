@@ -1219,6 +1219,9 @@ msgstr "Preveri"
 msgid "Check Accessibility"
 msgstr "Preveri dostopnost"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Kontrolnik vsebine potrditvenega polja"
 

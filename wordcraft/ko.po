@@ -1219,6 +1219,9 @@ msgstr "카론(ˇ)"
 msgid "Check Accessibility"
 msgstr "접근성 검사"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "확인란 콘텐츠 컨트롤"
 

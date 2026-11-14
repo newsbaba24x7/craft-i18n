@@ -1219,6 +1219,9 @@ msgstr "Skontrolovať"
 msgid "Check Accessibility"
 msgstr "Skontrolovať prístupnosť"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Ovládací prvok obsahu začiarkavacieho políčka"
 

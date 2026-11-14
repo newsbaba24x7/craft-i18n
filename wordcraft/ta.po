@@ -1219,6 +1219,9 @@ msgstr "சரிக்குறி"
 msgid "Check Accessibility"
 msgstr "அணுகல்தன்மையைச் சரிபார்"
 
+msgid "Check Again"
+msgstr "மீண்டும் சரிபார்"
+
 msgid "Check Box Content Control"
 msgstr "தேர்வுப்பெட்டி உள்ளடக்கக் கட்டுப்பாடு"
 

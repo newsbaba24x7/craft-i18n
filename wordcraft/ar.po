@@ -1219,6 +1219,9 @@ msgstr "تحديد"
 msgid "Check Accessibility"
 msgstr "فحص إمكانية الوصول"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "عنصر تحكم في المحتوى (خانة اختيار)"
 

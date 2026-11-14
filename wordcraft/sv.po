@@ -1219,6 +1219,9 @@ msgstr "Hake"
 msgid "Check Accessibility"
 msgstr "Kontrollera tillgänglighet"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Innehållskontroll för kryssruta"
 

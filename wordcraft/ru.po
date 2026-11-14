@@ -1219,6 +1219,9 @@ msgstr "Галка"
 msgid "Check Accessibility"
 msgstr "Проверить доступность"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Элемент управления содержимым: флажок"
 

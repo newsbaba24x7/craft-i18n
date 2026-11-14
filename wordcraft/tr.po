@@ -1219,6 +1219,9 @@ msgstr "İşaret"
 msgid "Check Accessibility"
 msgstr "Erişilebilirliği Denetle"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Onay Kutusu İçerik Denetimi"
 

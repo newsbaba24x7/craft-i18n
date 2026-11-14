@@ -1219,6 +1219,9 @@ msgstr "בדיקה"
 msgid "Check Accessibility"
 msgstr "בדיקת נגישות"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "פקד תוכן של תיבת סימון"
 

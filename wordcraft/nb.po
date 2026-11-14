@@ -1219,6 +1219,9 @@ msgstr "Hake"
 msgid "Check Accessibility"
 msgstr "Kontroller tilgjengelighet"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Innholdskontroll for avmerkingsboks"
 

@@ -1219,6 +1219,9 @@ msgstr "Daszek odwrócony"
 msgid "Check Accessibility"
 msgstr "Sprawdź ułatwienia dostępu"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Formant zawartości pola wyboru"
 

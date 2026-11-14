@@ -1219,6 +1219,9 @@ msgstr ""
 msgid "Check Accessibility"
 msgstr "检查辅助功能"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "复选框内容控件"
 

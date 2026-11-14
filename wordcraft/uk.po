@@ -1219,6 +1219,9 @@ msgstr ""
 msgid "Check Accessibility"
 msgstr "Перевірити доступність"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Елемент керування вмістом «Прапорець»"
 

@@ -1219,6 +1219,9 @@ msgstr "Хачек"
 msgid "Check Accessibility"
 msgstr "Проверка на достъпността"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Контрола за съдържание с отметка"
 

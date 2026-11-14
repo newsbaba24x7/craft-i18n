@@ -1219,6 +1219,9 @@ msgstr "Dấu mũ ngược"
 msgid "Check Accessibility"
 msgstr "Kiểm tra khả năng tiếp cận"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Điều khiển nội dung hộp kiểm"
 

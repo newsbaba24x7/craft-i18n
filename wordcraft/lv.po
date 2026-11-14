@@ -1219,6 +1219,9 @@ msgstr "Pārbaudīt"
 msgid "Check Accessibility"
 msgstr "Pārbaudīt pieejamību"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Izvēles rūtiņas satura vadīkla"
 

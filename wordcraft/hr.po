@@ -1219,6 +1219,9 @@ msgstr "Kvačica"
 msgid "Check Accessibility"
 msgstr "Provjeri pristupačnost"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Kontrola sadržaja s potvrdnim okvirom"
 

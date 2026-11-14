@@ -1219,6 +1219,9 @@ msgstr "Karon"
 msgid "Check Accessibility"
 msgstr "Periksa Aksesibilitas"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Kontrol Konten Kotak Centang"
 

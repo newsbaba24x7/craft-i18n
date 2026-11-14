@@ -1219,6 +1219,9 @@ msgstr "Háček"
 msgid "Check Accessibility"
 msgstr "Kontrola přístupnosti"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Ovládací prvek obsahu zaškrtávacího políčka"
 

@@ -1219,6 +1219,9 @@ msgstr ""
 msgid "Check Accessibility"
 msgstr "Verificar acessibilidade"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Controle de conteúdo de caixa de seleção"
 

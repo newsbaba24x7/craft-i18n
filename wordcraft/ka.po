@@ -1219,6 +1219,9 @@ msgstr "თოლია"
 msgid "Check Accessibility"
 msgstr "ხელმისაწვდომობის შემოწმება"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "მოსანიშნი ველის შიგთავსის მართვის ელემენტი"
 

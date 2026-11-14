@@ -1219,6 +1219,9 @@ msgstr "Omgekeerd dakje"
 msgid "Check Accessibility"
 msgstr "Toegankelijkheid controleren"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Inhoudsbesturingselement selectievakje"
 

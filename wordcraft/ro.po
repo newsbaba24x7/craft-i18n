@@ -1219,6 +1219,9 @@ msgstr "Bifă"
 msgid "Check Accessibility"
 msgstr "Verificare accesibilitate"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Control de conținut casetă de selectare"
 

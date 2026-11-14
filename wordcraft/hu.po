@@ -1219,6 +1219,9 @@ msgstr "Pipa"
 msgid "Check Accessibility"
 msgstr "Akadálymentesség ellenőrzése"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Jelölőnégyzet-tartalomvezérlő"
 

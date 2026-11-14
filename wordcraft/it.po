@@ -1219,6 +1219,9 @@ msgstr "Pipa"
 msgid "Check Accessibility"
 msgstr "Verifica accessibilità"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Controllo contenuto casella di controllo"
 

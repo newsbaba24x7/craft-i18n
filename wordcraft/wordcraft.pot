@@ -1217,6 +1217,9 @@ msgstr ""
 msgid "Check Accessibility"
 msgstr ""
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr ""
 

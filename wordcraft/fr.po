@@ -1219,6 +1219,9 @@ msgstr "Caron"
 msgid "Check Accessibility"
 msgstr "Vérifier l’accessibilité"
 
+msgid "Check Again"
+msgstr ""
+
 msgid "Check Box Content Control"
 msgstr "Contrôle de contenu Case à cocher"
 

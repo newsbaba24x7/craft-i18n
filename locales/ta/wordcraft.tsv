@@ -53,6 +53,7 @@
 	A password is required to open this document.	இந்த ஆவணத்தைத் திறக்கக் கடவுச்சொல் தேவை.
 	A table of contents	உள்ளடக்க அட்டவணை
 #	A xor B	
+	A xor B	A தனித்த அல்லது B
 #	A, B, C, …	
 #	a, b, c, …	
 	AaBbCcDd	அஆஇஈஉஊ
@@ -660,6 +661,7 @@ numerals	Context	சூழல்
 	Developer	உருவாக்குநர்
 	development build	மேம்பாட்டு உருவாக்கம்
 	Diagonal Dots	மூலைவிட்டப் புள்ளிகள்
+	Diagram Styles	வரைபடப் பாணிகள்
 	Dictate	பேசித் தட்டச்சு செய்
 	Dictionaries	அகராதிகள்
 	Dictionaries folder:	அகராதிகள் கோப்புறை:
@@ -706,6 +708,7 @@ numerals	Context	சூழல்
 	Documents you open will show up here.	நீங்கள் திறக்கும் ஆவணங்கள் இங்கே தோன்றும்.
 	Does not contain	கொண்டிருக்காது
 #	DOI	
+	DOI	DOI
 	Dominican Republic	டொமினிகன் குடியரசு
 	Don't add space between paragraphs of the same style	ஒரே பாணியிலான பத்திகளுக்கு இடையே இடைவெளி சேர்க்க வேண்டாம்
 	Don't capitalize after:	இவற்றுக்குப் பிறகு பெரிய எழுத்தாக்க வேண்டாம்:
@@ -2564,6 +2567,7 @@ preview	Title	தலைப்பு
 	Update to Match Selection	தேர்வுக்குப் பொருந்தும்படி புதுப்பி
 	URGENT	அவசரம்
 #	URL	
+	URL	URL
 	Uruguay	உருகுவே
 	Use "a" before a consonant sound	மெய்யொலிக்கு முன் "a" ஐப் பயன்படுத்து
 	Use "an" before a vowel sound	உயிரொலிக்கு முன் "an" ஐப் பயன்படுத்து
@@ -2662,6 +2666,7 @@ preview	Title	தலைப்பு
 	Your system has animation effects turned off.	உங்கள் கணினியில் அசைவூட்ட விளைவுகள் முடக்கப்பட்டுள்ளன.
 	Your system has animation effects turned on.	உங்கள் கணினியில் அசைவூட்ட விளைவுகள் இயக்கப்பட்டுள்ளன.
 #	Zotero	
+	Zotero	Zotero
 	Zotero: cancelled	Zotero: ரத்துசெய்யப்பட்டது
 	Zotero: done	Zotero: முடிந்தது
 	{added}; {count} couldn't be read: {names}	{added}; {count} கோப்புகளைப் படிக்க முடியவில்லை: {names}
